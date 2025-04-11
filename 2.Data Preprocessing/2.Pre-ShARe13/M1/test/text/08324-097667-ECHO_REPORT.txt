@@ -1,0 +1,42 @@
+97667	||||	8324	||||	10702	||||	ECHO_REPORT	||||	2018-07-27 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Atrial fibrillation/flutter. Congestive heart failure. Coronary artery disease. Mitral regurgitation. Left ventricular function. Height: (in) 73
+Weight (lb): 126
+BSA (m2): 1.77 m2
+BP (mm Hg): 118/64
+HR (bpm): 70
+Status: Inpatient
+Date/Time: [**2018-07-27**] at 15:09
+Test: TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: Moderate LA enlargement. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Moderately dilated RA. A catheter or pacing wire is seen in the RA and extending into the RV. 
+
+LEFT VENTRICLE: Normal LV wall thickness. Moderately dilated LV cavity. Severe global LV hypokinesis. No resting LVOT gradient. No LV mass/thrombus. No VSD. 
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS. No AR. 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP. Mild mitral annular calcification. Mild thickening of mitral valve chordae. Calcified tips of papillary muscles. No MS. Moderate to severe (3+) MR. 
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets with physiologic PR. Normal main PA. No Doppler evidence for PDA 
+
+PERICARDIUM: No pericardial effusion. 
+
+Conclusions: 
+The left atrium is moderately dilated. The right atrium is moderately dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity is moderately dilated. There is severe global left ventricular hypokinesis (ejection fraction 20-30 percent). No masses or thrombi are seen in the left ventricle. There is no ventricular septal defect. Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Moderate to severe (3+) mitral regurgitation is seen. There is no pericardial effusion. 
+
+Compared with the findings of the prior study (images reviewed) of [**35-06-12**], no major change is evident. 
+

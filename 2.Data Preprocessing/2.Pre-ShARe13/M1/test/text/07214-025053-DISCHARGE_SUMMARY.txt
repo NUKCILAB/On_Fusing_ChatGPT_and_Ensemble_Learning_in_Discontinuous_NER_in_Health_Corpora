@@ -1,0 +1,110 @@
+25053	||||	7214	||||	28581	||||	DISCHARGE_SUMMARY	||||	2016-03-02 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2016-02-26**]     Discharge Date:  [**2016-03-01**]
+
+Date of Birth:   [**1935-06-04**]     Sex:  F
+
+Service:  BLUMGART M
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 80 year old female with a history of chronic obstructive pulmonary disease on home O2 and a cerebrovascular accident in [**2015-11-21**], with a residual right sided weakness, who presents to an outside hospital on [**2016-02-23**], because of a runny nose for six days.  The patient complained of mild shortness of breath and hoarseness at that time.  A chest x-ray at the outside hospital showed left lower lobe infiltrate, then Levaquin was started.
+
+A CT angiogram was done for increasing shortness of breath and showed no evidence of pulmonary embolism; however, CT scan of the chest did show a right hilar mass 1.3 cm nodule in the superior segment of the right lower lobe.  On two occasions, was found to have an increasing troponin of 4.0 with a CK of around 100.  Cardiac echocardiogram showed a very impaired left ventricular ejection fraction.  She was then transferred to [**Hospital 137**] for
+cardiac catheterization.
+
+The cardiac catheterization showed patent coronary arteries with an increased left ventricular end diastolic pressure of 28.
+
+After the procedure, the patient became tachypneic and hypoxemic due to acute heart failure with fluid overload and thus she was transferred to the Intensive Care Unit for further management.
+
+She was diuresed over two liters and oxygen demands decreased significantly.  Cardiology considered the poor left ventricular function to be caused by viral myocarditis.  They suggested no steroid or biopsy of the myocardium because of no benefits or no change in further management.  They recommended low dose beta blockers, continuing ACE inhibitor and digoxin.  After her condition was stable she was transferred to the Medical Floor for further treatment.
+
+PAST MEDICAL HISTORY:
+1.  Cerebrovascular accident in [**2015-11-21**], with residual right sided weakness and residual word finding difficulties.
+2.  Chronic obstructive pulmonary disease with home O2.
+3.  Glaucoma.
+4.  Status post cholecystectomy.
+5.  Status post appendectomy.
+6.  Status post tonsillectomy.
+7.  Status post cataract surgery.
+
+MEDICATIONS AS OUTPATIENT:
+1.  Protonix 40 q. day.
+2.  Remeron 30 q. day.
+3.  Timolol 0.25% twice a day.
+4.  Trusopt 2%, one drop twice a day.
+5.  Alphagan 0.15%, one drop left [**Hospital Unit Name **] three times a day.
+6.  Pilocarpine 4%, one drop left [**Hospital Unit Name **] four times a day.
+7.  Trazodone 25 mg p.o. four times a day.
+8.  Combivent MDI, two puffs twice a day.
+
+FAMILY HISTORY:   One sister, one brother and two sons.  One brother and father with asthma.
+
+SOCIAL HISTORY:  The patient is a widow. Husband died of chronic renal failure and was on dialysis.  The patient is an ex-smoker that quit greater than 15 years ago.  The patient started smoking at age 18. The patient currently lives in an assisted living facility.  The patient has no history or exposure to asbestos or chemicals.  The patient denies any alcohol use.
+
+PHYSICAL EXAMINATION:  On admission to the Intensive Care
+Unit per notes, in general, the patient is an anxious appearing female in respiratory distress.  Vital signs with temperature of 95.2 F.; blood pressure 121/71; heart rate 127; respiratory rate 29; O2 sats were 94% on 100% non-rebreather.  HEENT with surgical pupils.  Mucous membranes were moist.  Oropharynx clear.  Neck supple with jugular venous pressure approximately 8 to 9 cm.  No lymphadenopathy.  Cardiovascular:  The patient is tachycardic with a II/VI systolic ejection murmur at the apex.   Chest: The patient had rhonchi at the left base, crackles at the right base.  Abdomen is soft, nontender, nondistended, positive bowel sounds.  Extremities with no cyanosis, clubbing or edema.  Warm with plus two pulses.  Dorsalis pedis bilaterally.  Left groin sheath was in place at that time.  Neurologic:  The patient was alert and oriented times three, moving all extremities.  The patient had some word finding difficulties.
+
+LABORATORY:  Pertinent labs on admission were the patient's troponin of 0.47.  BMP was 367.  CK was 92, CK MB was 7.5.
+
+The patient's EKG showed normal sinus rhythm.
+
+The patient's chest x-ray showed bilateral short pattern with a right lower lobe opacity.
+
+SUMMARY OF HOSPITALIZATION COURSE:
+1.  CONGESTIVE HEART FAILURE:  As stated in the HPI, when arriving to the medical floor, the patient's troponin was elevated to 4 with flat CKs.  Cardiac echocardiogram showed an impaired left ventricular ejection fraction of 25 to 30%. Cardiology was consulted in the Intensive Care Unit at which time the patient's poor left ventricular function was seen to be caused by viral myocarditis.  Iron studies and thyroid studies were unrevealing.
+
+Cardiology suggested that no steroids or biopsy of the myocardium was warranted because of no change in further management.  She was started on a low dose beta blocker, ACE inhibitor, digoxin and Lasix upon discharge.
+
+She remained stable on her home O2, however, she required this throughout the day and night.  The patient is to follow-up with either Dr. [**First Name (STitle) 688**] or Dr. [**Last Name (STitle) 91**] in Congestive heart failure Clinic as this is a new onset congestive heart failure for this patient.
+
+2.  HISTORY OF PNEUMONIA:  The patient was diagnosed with community-acquired pneumonia at the outside hospital.  She was continued on a ten day course of Levaquin and was discharged with two more days of Levaquin left.  The patient had no productive cough while on the medical floor.
+
+3.  PULMONARY:  The patient has a right hilar mass as seen on outpatient chest CT scan.  The patient will need repeat chest CT scan to follow this mass.  The patient's family was not interested in further work-up of the mass during this hospitalization.
+
+4.  CHRONIC OBSTRUCTIVE PULMONARY DISEASE:  The patient was continued on Albuterol, ipratropium and fluticasone nebulizer treatments during this hospitalization.  Again, the patient required oxygen for both congestive heart failure and chronic obstructive pulmonary disease.
+
+5.  GLAUCOMA:  The patient was continued on her outpatient glaucoma medication.
+
+6.  PSYCHIATRIC:  The patient was continued on trazodone and mirtazapine.
+
+7.  CORONARY ARTERY DISEASE:  Again, the patient was not found to have any coronary artery disease on catheterization during this admission.  The patient had no episodes of chest pain during this admission.
+
+CONDITION AT DISCHARGE:   The patient was discharged on home oxygen in stable condition to her assisted living facility.
+
+DISCHARGE DIAGNOSES:
+1.  Congestive heart failure with an ejection fraction of 15 to 30%.
+2.  Viral myocarditis.
+3.  Glaucoma.
+4.  Community-acquired pneumonia.
+5.  Chronic obstructive pulmonary disease on home oxygen.
+6.  History of cerebrovascular accident with residual right sided weakness and word finding difficulties.
+
+DISCHARGE MEDICATIONS:
+1.  Pantoprazole 40 mg p.o. q. day.
+2.  Mirtazapine one tablet p.o. q. h.s.
+3.  Timolol 0.25% drops, one drop twice a day.
+4.  Dorzolamide 2% drops, one drop ophthalmologic twice a day.
+5.  Pilocarpine 4% drops, one drop ophthalmic q. six hours.
+6.  Brimonidine tartrate 0.2% drops, one drop ophthalmic q. eight hours.
+7.  Levofloxacin 250 mg p.o. q. day times three days.
+8.  Ipratropium two puffs four times a day.
+9.  Digoxin 125 micrograms, one tablet p.o. q. day.
+10. Fluticasone two puffs inhaled twice a day.
+11. Albuterol one to two puffs inhaled twice a day.
+12. Lisinopril 2.5 mg p.o. q. h.s.
+13. Carvedilol 3.125 mg p.o. twice a day.
+14. Lasix 10 mg p.o. q. day.
+
+DISCHARGE INSTRUCTIONS:
+1.  The patient is to follow-up with either Dr. [**Last Name (STitle) 91**] or Dr. [**First Name (STitle) 688**] in one to two weeks.   The Congestive heart failure Clinic is to contact her with an appointment.
+
+[**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 4816**]
+
+Dictated By:[**Dictator Info 4801**]
+
+MEDQUIST36
+
+D:  [**2016-02-29**]  17:36
+T:  [**2016-02-29**]  17:48
+JOB#:  [**Job Number 6401**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on: WED [**2016-03-23**] 10:36 AM
+(End of Report)
+

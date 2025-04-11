@@ -1,0 +1,140 @@
+4020	||||	12530	||||	19614	||||	DISCHARGE_SUMMARY	||||	2019-12-06 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2019-12-03**]              Discharge Date:   [**2019-12-06**]
+
+Date of Birth:  [**1947-11-04**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 4153**] 
+Chief Complaint:
+Loss of consciousness
+
+Major Surgical or Invasive Procedure:
+Hemodialysis.
+Intubation. 
+
+History of Present Illness:
+72 year old man with stage 4 CKD on HD, CAD, HTN, asthma who presented with multiple falls and was found by EMS to be in a wide complex brady to 20 bpm with BP of 50 systolic. Per wife and friend, pt was in USOH until day prior to admission, when he started to feel shaky & tremulous hands.  Gait somewhat unsteady w/ generalized weakness. Has not had any fevers/chills/sweats, no diarrhea, no CP/palpitations/SOB.  On morning of admission, pt went shopping w/friend, upon leaving store pt was very nauseated, +emesis, friend took pt home. At home, pt became unresponsive, & wife [**Name (NI) 5219**] EMS.  [**Doctor First Name 3**] Course: Pt found to be bradycardic HR 20s, SBP 50s-received atropine x1 which precipitated to wide complex tachycardia HR 100s, SBP 200s. Immediately thereafter SBP back down to 50s, started Levophed. Initial K 8.9, Transcutaneous pacing at 60Amp attempted was unsuccessful. Continued w/Calcium Chloride,  Atropine x2, Epi x2, Bicarb x1amp, Insulin, D50, kayexalate x1. Renal to intiate HD when arrives to [**Hospital Unit Name 221**]. EP consulted which concluded significant Hyperkalemia resulted in bradycardia, followed by wide complex tachycardia and hypotension.  
+
+Past Medical History:
+-CAD  
+-Asthma  
+-CKD on HD (Polycystic kidney disease), HD-T,Th,Sat at [**Hospital 5220**]  -HTN  
+-Prostate CA  
+
+Social History:
+Pt lives w/wife, retired. [**Name2 (NI) 1741**] speaking only. 
+
+Family History:
+Noncontributory
+
+Physical Exam:
+VS 95.7 BP 149/73 HR 107  
+GEN: Intubated, sedated  
+HEENT: ETT in place, PERRL  
+RESP: CTA BL  
+CV: reg, Nml S1,S2, no M/R/G  
+ABD:Soft ND/NT, +BS  
+EXT: No C/C/E, warm, 1+DP pulses b/l  
+NEURO: Hyporeflexia, sedated, responds to painful stimuli  
+
+Pertinent Results:
+[**2019-12-03**] 12:30PM   GLUCOSE-180* UREA N-90* CREAT-9.8*#  SODIUM-144 POTASSIUM-7.3* CHLORIDE-104 TOTAL CO2-21* ANION  GAP-26*
+[**2019-12-03**] 12:30PM   CALCIUM-11.9* PHOSPHATE-5.6* MAGNESIUM-1.7
+[**2019-12-03**] 12:30PM   WBC-16.7*# RBC-3.56* HGB-11.9* HCT-35.9*  MCV-101*# MCH-33.4*# MCHC-33.1 RDW-16.0*
+[**2019-12-03**] 12:23PM   GLUCOSE-160* NA+-143 K+-8.4* CL--107 TCO2-19*
+
+Brief Hospital Course:
+AP: 72 yo w/ ESRD on HD, CAD, HTN, asthma p/w significant hyperkalemia & associated arrythmias.  
+
+# Hyperkalemia:  Pt arrived in the [**Doctor First Name 3**] with potassium of 8.4 (arterial).  Pt admitted to the [**Hospital Unit Name 221**], underwent HD with resolution of hyperkalemia.  The cause of the hyperkalemia was most likely due to inadequate/incomplete HD two days PTA.  Pt reportedly received abbreviated HD session two days PTA--his regularly scheduled HD day.  He reported no increased ingestion of K, nor any changes in his medications.  No clear evidence of hyperaldo.  The pt's K level remained stable after admission.  
+
+# Dysrythmias: Pt has baseline conduction disease (RBB +/- fascicular blocks). On admission, he reportedly had bradycardic (junctional rhythm) to 20's.  Became hypotensive to SBP of 50/pulse.  He received atropine & epi.  Found to be hyperkalemic (8.4), which was likely the cause of his dysrythmias.  In [**Doctor First Name 3**], transcutaneous pacing attempted, but unsuccessful.  Went into wide-complex tachycardia w/ possible sine wave on EKG.  Pt intubated & put on pressors. Received emergent HD.  Pt extubated & weaned off pressors after 1 day.  No further dysrythmias (aside from pt's baseline) after his hyperkalemia was treated.
+
+# CAD: not active at present.  Continued ASA and statin.  
+
+# ESRD: History of polycystic kidney disease.  On HD on T,TH,Sat @ [**Hospital 5221**].  Renal consulted.  Pt to resume outpatient dialysis.
+
+# Hypoxia: Patient was hypoxic on admission.  Patient was intubated while in the [**Hospital Unit Name 221**].  Cause of hypoxia unclear: possibly asthma exacerbation, question of COPD exacerbation (however, the pt does not have documented COPD, though he does have long smoking history).  No evidence of PNA.  Prior to discharge, pt was tolerating room air, and was discharged on inhalers. 
+
+# HTN: not an active issue during hospitalization
+
+# Anemia: Chronic anemia. Baseline thought to be in low 30's.  Mildly macrocytic. Hct in low 30's during stay.  Likely component of both anemia of chronic kidney disease & anemia of chronic disease.  Iron slightly low, ferritin elevated, TIBC low.  Vitamin B12 & folate normal.  
+
+# Thrombocytopenia: pt's plts nearly [**01-07**] of that on admission. 
+HIT antibody negative.  Possible component of splenic sequestration w/ enlarged liver.  
+
+# Elevated CK: may have been due to falls prior to admission.  
+
+# Elevated Aminotransferases: trending down. Likely due to polycystic liver disease.  
+
+# FEN: Cardiac diet  
+
+#. PPX: Pneumoboots 
+
+#. CODE: FULL  
+
+Medications on Admission:
+-Lotpel  
+-ASA 81mg  
+-Phoslo  
+-Nephrocaps  
+-Doxazosin  
+-Calcium +Vitamin D 500/20  
+-Urosit 10mg  
+-Nexium 40mg  
+-Simvastatin 10mg  
+-Ambien 10mg  
+-Lasix 80mg  
+-Singulair 10mg  
+-Catapres  
+-Lyrica 75mg  
+-Bisacodyl  
+-Megestrol 40mg  
+
+Discharge Medications:
+1. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Six (6) Puff Inhalation QID (4 times a day).  
+2. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+3. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.  4. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: [**01-07**]  Puffs Inhalation Q6H (every 6 hours) as needed.  
+5. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+6. PhosLo 667 mg Tablet Sig: One (1) Tablet PO three times a day. Disp:*90 Tablet(s)* Refills:*0*
+7. Nephrocaps 1 mg Capsule Sig: One (1) Capsule PO once a day.  
+8. Norvasc 5 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+9. Doxazosin 4 mg Tablet Sig: One (1) Tablet PO at bedtime.  
+10. Lyrica 75 mg Capsule Sig: One (1) Capsule PO once a day.  
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Hyperkalemia
+
+Discharge Condition:
+Stable.
+
+Discharge Instructions:
+You were admitted to the hospital with a change in your heart functioning related to your electrolytes. The elevated potassium was treated with several medications and your heart rhythm abnormality resolved. We stopped one medication that you were taking- Catapres. Please do not continue taking this medication.
+
+It is essential that you take all of your medications as prescribed. 
+
+Call Dr. [**Last Name (STitle) 5222**] or 911 if you experience any chest pains, palpitations, dizziness, lightheadedness, shortness of breath, fevers, nausea or vomiting, severe muscle pain or any other concerning symptoms.
+
+Followup Instructions:
+Continue with your regularly scheduled dialysis treatments and follow up with your kidney doctors. You will need HD tomorrow. 
+
+Provider: [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D. Phone:[**Telephone/Fax (2) 445**] Date/Time:[**2020-01-23**] 1:00
+
+Please call your PCP for [**Name Initial (PRE) **] follow up appt next week. [**Telephone/Fax (2) 5223**]. 
+
+Please call your cardiologist Dr [**Last Name (STitle) 5224**], ([**Telephone/Fax (2) 5225**] for a f/u in 1-2 weeks. You will need an echocardiogram. 
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) 4157**] MD, MPH 12-AOQ
+
+Completed by: [**First Name8 (NamePattern2) 1953**] [**Male First Name (un) **] MD [**MD Number 1954**] [**2020-01-20**] @ 2000
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1737**] on: TUE [**2020-02-18**] 9:24 AM
+(End of Report)
+

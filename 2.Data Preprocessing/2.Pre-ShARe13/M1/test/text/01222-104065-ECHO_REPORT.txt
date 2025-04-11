@@ -1,0 +1,34 @@
+104065	||||	1222	||||	3771	||||	ECHO_REPORT	||||	2011-08-29 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Endocarditis. History of rheumatic fever
+Height: (in) 68
+Weight (lb): 234
+BSA (m2): 2.19 m2
+BP (mm Hg): 83/47
+HR (bpm): 110
+Status: Inpatient
+Date/Time: [**2011-08-29**] at 11:36
+Test: Portable TTE(Complete)
+Doppler: Complete pulse and color flow
+Contrast: None
+Technical Quality: Suboptimal
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT VENTRICLE: Left ventricular wall thicknesses and cavity size are normal. Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. Overall left ventricular systolic function cannot be reliably assessed. There is no resting left ventricular outflow tract obstruction. 
+
+AORTIC VALVE: The aortic valve leaflets are mildly thickened. Mild (1+) aortic regurgitation is seen. 
+
+MITRAL VALVE: The mitral valve is not well seen. There is moderate thickening of the mitral valve chordae. There is no significant mitral stenosis. Mitral regurgitation is present but cannot be quantified. 
+
+GENERAL COMMENTS: Suboptimal image quality due to poor echo windows. The echocardiographic results were reviewed by telephone with the houseofficer caring for the patient. 
+
+Conclusions: 
+Technically suboptimal study. 
+Left ventricular wall thicknesses and cavity size are normal. Global and regional systolic function could not be adequately assessed. The aortic valve leaflets are mildly thickened. Mild (1+) aortic regurgitation is seen. The mitral valve is not well seen. There is moderate thickening of the mitral valve chordae. Mitral regurgitation is present but cannot be quantified - ?mild. There is no obvious pericardial effusion. 
+
+If the clinical suspicion for endocarditis is high, a TEE is suggested. 
+

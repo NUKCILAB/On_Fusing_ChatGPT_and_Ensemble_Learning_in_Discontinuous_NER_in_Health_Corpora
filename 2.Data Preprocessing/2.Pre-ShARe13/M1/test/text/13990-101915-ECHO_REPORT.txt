@@ -1,0 +1,40 @@
+101915	||||	13990	||||	25542	||||	ECHO_REPORT	||||	2019-12-12 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Left ventricular function. 
+BP (mm Hg): 117/67
+HR (bpm): 72
+Status: Inpatient
+Date/Time: [**2019-12-12**] at 09:50
+Test: Portable TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: Elongated LA. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Moderately dilated RA. 
+
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size. Mild global LV hypokinesis. No resting LVOT gradient. 
+
+RIGHT VENTRICLE: Dilated RV cavity. Borderline normal RV systolic function. [Intrinsic RV systolic function likely more depressed given the severity of TR]. Abnormal septal motion/position consistent with RV pressure/volume overload. 
+
+AORTA: Normal aortic root diameter. Normal ascending aorta diameter. Mildly dilated aortic arch. 
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS. Mild (1+) AR. 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild (1+) MR. LV inflow pattern c/w impaired relaxation. 
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets. Moderate [2+] TR. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Significant PR. 
+
+PERICARDIUM: No pericardial effusion. 
+
+Conclusions: 
+The left atrium is elongated. The right atrium is moderately dilated. There is mild symmetric left ventricular hypertrophy. The left ventricular cavity size is normal. There is mild global left ventricular hypokinesis. The right ventricular cavity is dilated. Right ventricular systolic function is borderline normal. [Intrinsic right ventricular systolic function is likely more depressed given the severity of tricuspid regurgitation.] There is abnormal septal motion/position consistent with right ventricular pressure/volume overload. The aortic arch is mildly dilated. The aortic valve leaflets (3) are mildly thickened. There is no aortic valve stenosis. Mild (1+) aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Mild (1+) mitral regurgitation is seen. The left ventricular inflow pattern suggests impaired relaxation. The tricuspid valve leaflets are mildly thickened. Moderate [2+] tricuspid regurgitation is seen. Significant pulmonic regurgitation is seen. There is no pericardial effusion. 
+

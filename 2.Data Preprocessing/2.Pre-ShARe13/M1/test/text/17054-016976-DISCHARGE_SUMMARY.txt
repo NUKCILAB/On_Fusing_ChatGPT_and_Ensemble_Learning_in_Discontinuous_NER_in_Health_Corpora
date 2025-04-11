@@ -1,0 +1,89 @@
+16976	||||	17054	||||	13966	||||	DISCHARGE_SUMMARY	||||	2012-03-29 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2012-03-24**]     Discharge Date:  [**2012-03-29**]
+
+Date of Birth:   [**1939-01-22**]     Sex:  F
+
+Service:  [**Hospital1 1**]
+
+CHIEF COMPLAINT:  One week abdominal distention, weakness and shortness of breath.
+
+Of note, the patient was initially admitted to the Coronary
+Care Unit and then transferred to the Medical Floor.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 73 year-old woman with a history of type B aortic dissection, abdominal aortic aneurysm, RCIA and [**Female First Name (un) **], aneurysm, renal artery stenosis and hepatitis B, cirrhosis who presents to [**Hospital 20**] from an Emergency Room in [**Hospital1 18**].  The patient initially presented with a history of increasing shortness of breath, abdominal distention and fatigue at [**Hospital1 18**].  The patient had a CT angio and her systolic blood pressure was in the 200s. The patient was transferred to [**Hospital 9**] whose CT
+was read as not being appreciably different from the last CT performed on [**2012-03-14**].  The patient was seen by Dr. [**Last Name (STitle) 3666**] last year.  The patient was placed on nitroprusside drip, po Labetalol 200 mg a day and was seen by the liver service who performed an esophagogastroduodenoscopy to evaluate for guaiac positive stools and hematocrit of 22.8 on presentation. The esophagogastroduodenoscopy showed varices in the lower third of the esophagus with the middle grade one.  The esophagogastroduodenoscopy also showed erosions consistent with portal hypertension.  A sigmoidoscopy was performed, which showed spotting from the hemorrhoids.  The patient status post esophagogastroduodenoscopy required 2.5 mcg per minute of nitroprusside and Norvasc 5 mg po q.d. was started with a goal blood pressure of decreased blood pressure given the dissection.
+
+PAST MEDICAL HISTORY:
+1.  Type B aortic dissection.
+2.  Cirrhosis.
+3.  Hepatitis B.
+4.  Abdominal aortic aneurysm 5.5 cm.
+5.  History of varices.
+6.  History of ascites.
+7.  RC one aneurysm, [**Female First Name (un) **] aneurysm.
+8.  Severe left renal stenosis.
+10.  Question CRI.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS:  Triamterene/HCTZ 37.5/25.
+
+SOCIAL HISTORY:  The patient has no current alcohol or tobacco use.  She is [**Ethnicity 3667**] and does not speak English.
+
+PHYSICAL EXAMINATION ON PRESENTATION:  Her vital signs were temperature 97.  Heart rate of 56 to 60.  Blood pressure 139/60.  Is and Os 840 in and 280 out.  She was 100% on nasal cannula.  In general, no acute distress, lying in bed.  HEENT pupils are equal, round and reactive to light.  Lungs clear to auscultation anteriorly.  Cardiovascular no JVD, regular rate and rhythm.  S1 and S2.  +S4 2 out of 6 systolic ejection murmur at the right upper sternal border.  Abdomen shifting dullness, small liver, guaiac positive, positive bowel sounds, positive distention.  Extremities 1+ pedal edema, 2+ sacral edema.
+
+IMAGING:  Chest x-ray showed no infiltrate or congestive heart failure.  Right upper lobe opacity.  CT of the pelvis from [**03-14**] showed dissection of lower thoracic abdominal aorta and right common iliac, infrarenal abdominal aortic aneurysm maximum diameter 5.5 by 5 cm.  Right common iliac aneurysm, left internal iliac aneurysm, severe left renal artery cirrhosis, cirrhosis of the liver, portal hypertension, varices.
+
+LABORATORIES AT [**Hospital **]:  White
+blood cell count 5.2, hematocrit 22.8, platelets 63.  Diff
+72.6, lymphocytes 11.1, 106, 2.8.  Electrolytes sodium 135, K
+3.3, chloride 103, bicarb 25, BUN 40, creatinine 1.5, glucose 143, INR 1.3, albumin 2.1.  White blood cell 250, red blood cell 500, polys 6, lymphocytes 28, monocytes 46, eosinophils 1, mesothelial cells 14, macro 15.  Chest x-ray of [**2012-03-24**] showed a 1.1 cm pulmonary nodule right upper lobe, prominent tortuous aorta.
+
+Medications from transfer from CCC included Tylenol,
+Trazodone, Docusate sodium, Pantoprazole, Lactulose, ferrous, Amlodipine 10 mg po q.d., Labetalol500 mg po b.i.d.,
+Albuterol nebulizers.
+
+HOSPITAL COURSE:  1.  Patient with a history of aortic dissection initially placed on nitroprusside drip for blood pressure control.  The patient's blood pressure medications were weaned during the course of her hospitalization.  It was necessary to maintain a blood pressure so that her aortic dissection would not progress.  Vascular Surgery was consulted and no intervention was considered an option during the hospitalization.
+
+2.  Shortness of breath:  Patient with no pneumonia on x-ray. It was possible that her shortness of breath might be consistent to volume overload.  On [**2012-03-26**] a repeat chest x-ray was performed.  The impression was a right upper lobe lung nodule.  Further evaluation with a CT was suggested.
+There was also an increase in patchy opacity at the right lung base.  The differential included atelectasis versus an evolving pneumonia.  There was also a small persistent, small right pleural effusion.  As a result the patient was discharged on Levofloxacin for possible pneumonia, which attributed to her hypoxia.
+
+3.  Hematology:  Patient with iron deficiency anemia, decreased iron.  Patient was transfused 2 units of packed red blood cells.  The patient's hematocrit was felt to require an outpatient colonoscopy.  Of note, the patient was status post an esophagogastroduodenoscopy with bleeding varices, status post sigmoidoscopy with bleeding source hemorrhoids.
+
+4.  Gastrointestinal:  Patient with a history of hepatitis B cirrhosis and increasing abdominal girth.  The patient had an ultrasound guided abdominal paracentesis to evaluate for SBP. These showed transudative.  The etiology of cirrhosis with
+VNA/IGGA were sent.  On [**2012-03-25**] an abdominal ultrasound and diagnostic paracentesis was performed, which showed a small 3 cm pocket of ascites located within the right lower quadrant the patient in the sitting position.  An abdominal ultrasound on [**03-26**] was performed.  The impression was a nodular liver consistent with the patient's known cirrhosis, patent flow to the liver, borderline enlarged spleen, mild ascites and abdominal portion of the aortic dissection seen in the dissection consistent with both CT and MR recently with correlation of the studies was suggested.
+
+5.  Kidney:  The patient developed acute renal dysfunction during her hospitalization.  The differential included drug induced ATN versus hypotension versus secondary to aortic dissection.  It was felt that it was likely due to hypotension.  The patient was rehydrated in house.  A renal ultrasound was performed on [**04-26**].  The ultrasound showed color flow seen to both kidneys, but the wave form is parvus sitarist suggesting more proximal stenosis in both renal arteries.  There was no evidence of echogenic kidney seen with medical renal disease.  The patient's creatinine on presentation was 1.5.  The patient, however, was not felt to be a hemodialysis candidate at this time.
+
+6.  Prophylaxis:  The patient was placed on pneumoboots.
+
+7.  Nutrition:  Nutrition was provided with Boost and a cardiac healthy low protein diet.
+
+FINAL DIAGNOSES:
+1.  Liver cirrhosis
+2.  Renal failure.
+3.  Aortic aneurysm.
+
+The patient was recommended to follow up with her primary care physician within one week.  Major surgical invasive procedures were none.
+
+DISCHARGE CONDITION:  Fair.
+
+DISCHARGE MEDICATIONS:
+1.  Pantoprazole 40 mg po q.d.
+2.  Amlodipine 5 mg tablets two tabs po q.d.
+3.  Levofloxacin 250 mg po q.d.
+4.  Labetalol HCL 100 mg po b.i.d.
+5.  Lactulose 15 ml oral t.i.d.
+
+[**Doctor First Name 1040**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 1041**]
+
+Dictated By:[**Dictator Info 300**]
+
+MEDQUIST36
+
+D:  [**2012-04-25**]  09:37
+T:  [**2012-04-25**]  13:10
+JOB#:  [**Job Number 3668**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 1040**] [**Name (STitle) **] on: SAT [**2012-06-16**] 10:37 AM
+(End of Report)
+

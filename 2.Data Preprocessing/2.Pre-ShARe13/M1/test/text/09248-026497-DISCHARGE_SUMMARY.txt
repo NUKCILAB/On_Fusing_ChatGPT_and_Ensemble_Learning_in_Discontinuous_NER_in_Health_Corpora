@@ -1,0 +1,131 @@
+26497	||||	9248	||||	23239	||||	DISCHARGE_SUMMARY	||||	2012-07-05 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2012-06-22**]              Discharge Date:   [**2012-07-05**]
+
+Date of Birth:  [**1931-05-11**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 1461**] 
+Chief Complaint:
+Hypoxic respiratory failure
+
+Major Surgical or Invasive Procedure:
+Intubation.
+
+History of Present Illness:
+81 yo man w/ho CAD, COP, PVD, AAA xfered from OSH for mngmt resp failure.  Pt was found @ home by EMS followign c/o [**05-29**] "crushing", nonradiating SSCP.  Pt diaphoretic during transport. Sat 84-->94% on NRB.  Given ASA, NT, nebs en route to OSH where started on BIPAP and eventually intubated.  BP on arrival 240/140 so started on NTG drip titrated up until BP fell to 90/58 resulting in IVF, dopamine.  Given 80 IV lasix.  First set enzymes negative and BNP 1700.  Pt xferred for further management.
+
+On arrival, pt intubated but responsive to y/n questions.  
+Indicated CP similar to what he had in past when he was cathed.  Started on hep gtt in [**Doctor First Name 45**].
+
+Past Medical History:
+PVD, AAA- 5 x 5 cm, PAF, CVA, COPD, depression, symptomatic bradycardia (dig and B-B held during [**01-25**] admit w/ resolution of brady)
+
+Social History:
+TOB: quit, reports 2ppd x 52 years 
+EtOH: "quite a bit" in past but denies any use x several mos  Lives alone. 2 children in area.  
+
+Family History:
+M died when he was a child
+
+Physical Exam:
+[**2012-06-28**]
+96.8  126/72 (117-153/60-78)  18  94RA  1700/2300 & 100/950
+MMM
+JVD @9cm, nl s1/s2
+ctab; cont dtp bil bases, R higher than L
+abd soft, nt, nd
+ext warm X 4
+A&O X 3
+cont bipedal pitting edema to knees
+
+Pertinent Results:
+[**06-22**] Echo:
+1. There is symmetric left ventricular hypertrophy. The left ventricular cavity size is normal. Overall left ventricular systolic function is difficult to assess but is probably normal (LVEF>55%). 
+2. The aortic valve leaflets are moderately thickened. There is mild aortic valve stenosis. 
+3. The mitral valve leaflets are mildly thickened. 
+4. There is a small pericardial effusion.  
+...
+[**06-27**] PA/Lat CXR
+Cardiomegaly, tortuous aorta, and improving CHF and atelectasis, 
+
+with persistent bilateral pleural effusion. Discrete nodular opacities in 
+bilateral lungs, which are probably unchanged and represent granulomas,  however, please repeat the PA and LAT study after CHF has been resolved. 
+...
+Renal artery US with doppler: No findings to suggest renal artery stenosis. Echogenic kidneys consistent with the known chronic parenchymal disease. If clinically [**Last Name (LF) 1462**], [**First Name3 (LF) **] MR could be performed. 
+...
+[**01-22**] sputum Cx + for Hafnia Alvei; no other growth
+
+Brief Hospital Course:
+This 81 yo man w/ho CAD, COP, PVD, AAA was xfered from MVH for mngmt resp failure.
+
+Resp failure- Etiology likely volume overload [**02-22**] diastolic chf, renal failure.  Pt was diuresed in the CCU then extubated and subsequently oxygenated well and was called out to the stepdown unit.  The patient initially failed diuresis with lasix alone, then with lasix 100 IV / diuril 500.  Thus, despite lack of systolic HF, nesiritide was used in the urgent situation of hypoxic respiratory failure w/good diuresisi, allowing extubation.  Following this, the patient did respond to lasix 100 IV w/500 diuril.  Following recommendation of renal consultation, 60 PO lasix with 5 metolazone was attempted with good results. No diuretics given after [**06-30**] and patient continued to autodiurese about 1 L/day. Will d/c patient on PO lasix, 20 mg /day. He was instructed to call his cariologist or PCP if he gains >3 pounds to adjust doses of this medication.
+
+Pt reports dry weight is about 200lbs (91kg).
+
+CHF: The likely contributors to decompensated acute pulmonary edema was acute HTN, diastolic HTN and renal dysfunction. BNP at MVH was 7000 and pro-BNP was 17,700 here.  Stat echocardiography performed on admission demonstrated no wall motion abnormalities and good LV function.  The patient was diuresed as above.
+
+HTN- CCB changed to clonidine.  Hydral/nitro were added for afterload reduction.  Final regimen as listed under DC meds. Pt developed chest pain while in the MRI suite when getting study for transient aphasia. Recieved 2 SL nitro and SBP remained 145. Pt was briefly transfered to neurology service on [**06-30**] for further work up/evaluation of aphasia at which time all BP meds were stopped. ON transfer back to cardiology service on [**07-02**] patient was restarted on metoprolol 24mg BID which was increased to 50mg BID on [**07-03**]. He was d/c'ed on this dose. Imdur (30mg daily) was added back on [**07-03**].
+
+Neuro - ?CVA/TIA: Pt appreared to have TIA. Had acute episode of confusion and aphasia. Completely resolved with no further episodes. Neuro followed pt during admission, and he was transfered to neurology service briefly for further eval and treatment of transient aphasia. MRA with unchanged evidence of small vessel dz but no acute infarct; evidence of TO of ICA but there is reconstitution of the right anterior cerebral artery and right middle cerebral artery branches from the left side via anterior communicating artery - unchanged from prior exam. It was thought that his transient aphagia was likely TIA [**02-22**] cardioembolic event. He was restarted on coumadin and plavix was discontinued. 
+Keep SBP 130-160. pt has been on coumadin in the past for h/o Afib. wil lrestart coumadin [**07-02**] 10mg X2 nights followed by 5mg  QHS. cont heparin ggt until therapeutic at INR of 2-3. His INR was 2.6 on [**07-04**] and he was discharged on 5mg coumadin QHS. He is to follow up with his PCP on [**Location (un) 1463**] for INR and coumadin adjustments.
+
+Ischemia- ?ACS, but no sig EKG changes and enzymes flat, no wall motion abnormalities.  There was thus no ischemia.
+
+ARF: On admission, creatinine bumped from baseline 1.5-2.0 to 4. FENa of .06 indicates effect intravascular depletion or renal inability to excrete Na.  May be poor renal perfusion from being off Starling Curve but this is less like as it did not improve with diuresis.  24 hour urine demonstrated protein of 14896 and creatinine of 1444 demonstrated nephrotic range proteinuria.  Dopplers OK.  OP renal bx strongly suggested to patient, but he refused as he does not wish this intense of a level of care.
+
+The patient was full code throughout his stay.
+
+Dispo: PT was consulted but reported that the patient has no PT needs. He was dischareged with VNA services for BP control and INR follow ups.
+
+Medications on Admission:
+vit E 400 [**Last Name (LF) 1464**], [**First Name3 (LF) **] 325 qd, Sertraline 50 QD, Plavix 75 qd, folic acid 1 qd, lipitor 40 qd, buspirone 15 mg tid, amlodopine 10 mg qd
+
+Discharge Medications:
+1. Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*
+2. Atorvastatin Calcium 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+3. Lansoprazole 30 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO DAILY (Daily). Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+4. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).  
+5. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*2*
+6. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24HR Sig: One (1) Tablet Sustained Release 24HR PO DAILY (Daily). Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*
+7. Warfarin Sodium 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime): Please have your PCP follow your coumadin levels and adjust dose of this medications as recommended. Disp:*30 Tablet(s)* Refills:*2*
+
+Discharge Disposition:
+Home with Service
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Congestive Heart Failure
+Secondary Diagnosis:
+1. PVD
+2. AAA- 5 x 5 cm
+3. PAF
+4. CVA
+5. COPD
+6. depression
+
+Discharge Condition:
+Fair
+
+Discharge Instructions:
+Weigh yourself every morning, call MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction: 1.5L
+Please take all medications as directed.
+
+Followup Instructions:
+Provider [**Name9 (PRE) 1465**] WEST INTERVENTIONAL/PROSTATE US RADIOLOGY Where: [**Hospital 1466**] RADIOLOGY Phone:[**Telephone/Fax (2) 1141**] Date/Time:[**2012-07-05**] 9:30
+
+Please call your cardiologist for a followup appointment within one week of your discharge.
+
+You have an appointment with your primary care physician, [**Name10 (NameIs) 1467**],[**First Name3 (LF) 1468**] [**Telephone/Fax (2) 1469**] to follow up on your CHF, blood pressure, to arrange neuropsych evaluation, to check your INR and to further evaluate nodular opacities visualized during this hospitalization.
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) 1470**] MD [**MD Number 1471**]
+
+Completed by: [**First Name11 (Name Pattern1) 311**] [**Name7 (MD) 728**] MD [**MD Number 729**] [**2012-07-05**] @ 1003
+Signed electronically by: DR. [**First Name (STitle) **] DOW on: MON [**2012-07-30**] 1:09 PM
+(End of Report)
+

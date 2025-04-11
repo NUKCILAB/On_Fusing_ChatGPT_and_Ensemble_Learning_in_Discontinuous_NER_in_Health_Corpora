@@ -1,0 +1,48 @@
+110055	||||	10689	||||	436	||||	ECHO_REPORT	||||	2013-10-04 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Aortic valve disease. Left ventricular function. Murmur. History of CABG [**2008**].
+Height: (in) 61
+Weight (lb): 180
+BSA (m2): 1.81 m2
+BP (mm Hg): 168/44
+HR (bpm): 62
+Status: Inpatient
+Date/Time: [**2013-10-04**] at 09:40
+Test: Portable TTE (Complete)
+Doppler: Complete pulse and color flow
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: The left atrium is moderately dilated. The left atrium is elongated. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: The right atrium is mildly dilated. 
+
+LEFT VENTRICLE: Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is normal (LVEF>55%). 
+
+RIGHT VENTRICLE: The right ventricular wall thickness is normal. Right ventricular chamber size is normal. Right ventricular systolic function is normal. 
+
+AORTA: The aortic root is normal in diameter. 
+
+AORTIC VALVE: The aortic valve leaflets are mildly thickened. There is mild aortic valve stenosis. 
+
+MITRAL VALVE: The mitral valve leaflets are mildly thickened. There is moderate mitral annular calcification. Trivial mitral regurgitation is seen. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) pulmonic regurgitation is seen. 
+
+PERICARDIUM: There is no pericardial effusion. There is an anterior space which most likely represents a fat pad, though a loculated anterior pericardial effusion cannot be excluded. 
+
+GENERAL COMMENTS: Image quality was suboptimal. 
+
+Conclusions: 
+1. The left atrium is moderately dilated. The left atrium is elongated. 
+2.Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is normal (LVEF>55%). 
+3. Right ventricular chamber size is normal. Right ventricular systolic function is normal. 
+4.The aortic valve leaflets are mildly thickened. There is mild aortic valve stenosis. 
+5.The mitral valve leaflets are mildly thickened. Trivial mitral regurgitation is seen. 
+6.There is no pericardial effusion. There is an anterior space which most likely represents a fat pad, though a loculated anterior pericardial effusion cannot be excluded. 
+

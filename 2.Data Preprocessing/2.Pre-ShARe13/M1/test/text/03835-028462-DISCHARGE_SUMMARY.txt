@@ -1,0 +1,43 @@
+28462	||||	3835	||||	13568	||||	DISCHARGE_SUMMARY	||||	2013-03-08 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2013-03-03**]              Discharge Date:   [**2013-03-08**]
+
+Date of Birth:  [**1938-10-13**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 885**] 
+Addendum:
+Pt was started on Norvasc 5 mg daily for better blood pressure control. ACEI was initially added however d/c'ed secondary to increase in creatinine. 
+
+Given his CAD and CVA history, consider placing him on a statin. It is unclear at this point why he had a CVA. Etiology may be PAfib in which case he would benefit from anti-coagulation. A neurology follow-up for workup of his recent CVA may be beneficial. If he had a lacunar infarct he would benefit from plavix or aggrenox.  
+
+Discharge Medications:
+1. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 9 days: Please take until all pills are gone. . Disp:*9 Tablet(s)* Refills:*0*
+2. Metoprolol Tartrate 50 mg Tablet Sig: 1.5 Tablets PO BID (2 times a day). Disp:*90 Tablet(s)* Refills:*2*
+3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily). Disp:*30 Tablet, Chewable(s)* Refills:*2*
+4. Tamsulosin HCl 0.4 mg Capsule, Sust. Release 24HR Sig: One (1) Capsule, Sust. Release 24HR PO HS (at bedtime). Disp:*30 Capsule, Sust. Release 24HR(s)* Refills:*2*
+5. Dorzolamide-Timolol 2-0.5 % Drops Sig: One (1) Drop 
+Ophthalmic  BID (2 times a day).  
+6. Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).  
+7. Epoetin Alfa 20,000 unit/mL Solution Sig: One (1)  Injection once a week.  
+8. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO once a day.  
+9. Norvasc 5 mg Tablet Sig: One (1) Tablet PO once a day.  
+10. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO daily ().  
+11. Insulin NPH Human Recomb 100 unit/mL Syringe Sig: One (1)  Subcutaneous twice a day: INSULIN NPH HUMAN 100 U/ML INJ NOVOLIN N INJECT 6 UNITS UNDER THE SKIN AT BEDTIME AND INJECT 24 UNITS EVERY MORNING .  
+12. Travoprost 0.004 % Drops Sig: One (1) drop each [**Hospital Unit Name 82**] Ophthalmic  once a day.  
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital 978**]- [**Location (un) 981**]
+
+[**First Name11 (Name Pattern1) 31**] [**Name7 (MD) 892**] MD [**MD Number 893**]
+
+Completed by: [**First Name11 (Name Pattern1) **] [**Name7 (MD) 143**] MD [**MD Number 144**] [**2013-03-08**] @ 1700
+Signed electronically by: DR. [**First Name4 (NamePattern1) 31**] [**Last Name (NamePattern1) **] on: TUE [**2013-04-30**] 6:40 PM
+(End of Report)
+

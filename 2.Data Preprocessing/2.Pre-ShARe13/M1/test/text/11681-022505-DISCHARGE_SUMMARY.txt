@@ -1,0 +1,144 @@
+22505	||||	11681	||||	5595	||||	DISCHARGE_SUMMARY	||||	2016-10-11 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2016-10-07**]              Discharge Date:   [**2016-10-11**]
+
+Date of Birth:  [**1929-08-25**]             Sex:   F
+
+Service: [**Hospital Unit Name 1962**]
+
+Allergies: 
+Percocet
+
+Attending:[**Attending Info 3030**] 
+Chief Complaint:
+Right hemiparesis, dysarthria
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Patient is an 87 year old right-handed female with past medical history of hypertension who presented as a transfer to our hospital for right-sided weakness after left pontine stroke.
+
+Patient was in her usual state of health until Tuesday [**2016-10-04**]. 
+She awoke that morning and found that her right side was weak when she was attempting to walk to the bathroom. She fell onto the bathroom floor and laid there for ~1 hour. No head injury or loss of consciousness status post fall. She made it back to her bed and went back to sleep. Later that morning, she called her daughter, who noted that her speech was slurred. At that point, she was taken to [**Hospital 4647**] in [**Location (un) 8190**].
+
+While at [**Hospital 4647**], MRI reportedly showed a left pontine infarct and 2 small occipital lesions. She was started on 
+Plavix. Carotid ultrasound showed no stenosis. Echocardiogram showed an ejection fraction of 55%, trace mitral regurgitation and trace pulmonic insufficiency. As MRA showed a tight mid-portion basilar stenosis, she was transferred to [**Hospital1 189**] on [**2016-10-07**] for further
+care.
+
+She denies recent fevers, chills, headaches, visual changes like blurry or double vision, chest pain, palpitations, shortness of breath, nausea, vomiting, urinary frequency or incontinence. She denies parasthesias, incoordination, dizziness or vertigo. 
+
+Past Medical History:
+1. Hypertension since [**1985**]
+2. Left-sided hip surgery X 2 in [**1950**] and 1948 after fracture
+3. Osteoarthritis
+4. Status post cholecystectomy
+5. Right cataract surgery
+
+Social History:
+Widowed. Has 11 children. Was a homemaker. Was living alone and independent in activities of daily living prior to this admission. Walks with a walker. 
+
+Family History:
+Father and sister with strokes, at age 60s and 47 respectively. Oldest son died of MI at age 70. One son deceased from muscular dystrophy.
+
+Physical Exam:
+ON ADMISSION:
+Tc: 98.1   Tm: 100.1      BP:  160/76     HR: 70 (59-70)
+RR: 18     O2Sat.:  98%/2.5-3L            FSBG: 95, 82
+Gen:  WD/WN, female, comfortable, pleasant, NAD.
+HEENT:   NC/AT. Anicteric. MMM.
+Neck:  Supple. No masses or LAD. No JVD. No thyromegaly. No carotid bruits.
+Lungs: CTA bilaterally. No R/R/W.
+Cardiac:  RRR. S1/S2. No M/R/G.
+Abd:  Soft, NT, ND, +NABS. No rebound or guarding. No HSM.
+Extrem: Warm and well-perfused. No C/C/E.
+
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal affect. Oriented to person, place, and date. Able to recite [**Doctor Last Name **] forwards and backwards. Registration intact. Recalled [**03-16**] objects at 5 minutes. Speech fluent with good comprehension and repetition. Naming intact. Moderate dysarthria. No  paraphasic errors. No apraxia, no neglect. No right/left confusion.
+
+Cranial Nerves:
+I: Not tested
+II: Right pupil surgical Left pupils round and reactive to light, 3 to 2 mm bilaterally. Visual fields are full to confrontation. Unable to assess optic disks. III, IV, VI: Extraocular movements intact bilaterally without nystagmus. V, VII: Right facial droop. Left facial strength within normal limits. Facial sensation intact and symmetric.
+VIII: Hearing intact to finger rub bilaterally.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk. Tone decreased right upper and lower extremities. No abnormal movements, tremors. +right drift.
+
+Strength:
+D  T  B  WrF WrE FiF [**Last Name (un) **] IO IP Q  H TA Gas [**Last Name (un) 1722**] R 3  4- 4- 4-  4-  3   1   1  3  5- 4 4+ 4+  4+
+L 5- 5- 5  5   5   5   5-  5- 5  5  5 5  5   5-
+
+Sensation: Intact to light touch, propioception, pinprick and vibration bilaterally.
+
+Reflexes: B T Br Pa Ac
+Right     2 2 2  2  1
+Left      2 2 2  2  1
+With upper extremity brisker than lower bilaterally. Grasp reflex absent. Toes upgoing bilaterally.
+
+Coordination: Normal on finger-nose-finger, rapid alternatingmovements on left. Right side limited by motor weakness.
+
+Gait: Did not assess.
+
+Pertinent Results:
+[**2016-10-07**] 06:05AM   %HbA1c-6.1*
+[**2016-10-07**] 04:37AM   GLUCOSE-137* UREA N-15 CREAT-0.7 SODIUM-143  POTASSIUM-3.1* CHLORIDE-108 TOTAL CO2-25 ANION GAP-13
+[**2016-10-07**] 04:37AM   ALT(SGPT)-18 AST(SGOT)-21 CK(CPK)-118 ALK  PHOS-75 TOT BILI-0.7
+[**2016-10-07**] 04:37AM   CK-MB-4 cTropnT-<0.01
+[**2016-10-07**] 04:37AM   CALCIUM-8.5 PHOSPHATE-2.7 MAGNESIUM-1.9  CHOLEST-162
+[**2016-10-07**] 04:37AM   TRIGLYCER-125 HDL CHOL-39 CHOL/HDL-4.2  LDL(CALC)-98
+[**2016-10-07**] 04:37AM   WBC-11.5* RBC-3.67* HGB-12.2 HCT-34.1* MCV-93  MCH-33.2* MCHC-35.7* RDW-12.7
+[**2016-10-07**] 04:37AM   PLT COUNT-189
+[**2016-10-07**] 04:37AM   PT-13.3 PTT-25.4 INR(PT)-1.1
+
+Brief Hospital Course:
+Ms. [**lastname 8191**] was admitted to the Neurology service with right hemiparesis and dysarthria. MRI/MRA revealed acute left pontine infarct, nonvisualization of right vertebral artery indicating occlusion, and high grade stenosis in the mid basilar artery. Echocardiogram provided no evidence for patent foramen ovale or a source of embolus. As her stroke was likely embolic in origin, she was started on coumadin and IV heparin. She continued to receive treatment for hypercholesterolemia. Her blood pressue during hospitalization was usually in the range of 140-160 systolic, 60-70 diastolic. Goal SBP as an putpatient was to be SBP: 120-130s, given her intracranial stenosis. She was seen by physical therapy, occupational therapy, and the speech consult services who all felt she would benefit from acute inpatient rehabilitation.
+
+Clinically, Ms. [**lastname 8191**] improved during hospitalization. She regained some strength in her right upper extremity and her speech improved. She was determined to to be at high risk for aspiration and was started on a soft solid diet with nectar thick liquids. In the future, stroke Neurology clearance will be necessary to optimize care, in the event that she ever needs to undergo surgery or stop anticoagulation. 
+
+Medications on Admission:
+Home Medications Prior to Admission to [**Hospital 4647**]:
+1. Prinvil 20 mg po qd
+2. Atenolol 100 mg po qd
+3. Norvasc 10 mg po qd
+
+Medications at [**Hospital 4647**] Prior to transfer to [**Hospital1 189**]: 1. Heparin SC
+2. Plavix 75 mg po qd
+3. Protonix 40 mg po qd
+
+Discharge Medications:
+1. Atorvastatin Calcium 10 mg Tablet Sig: One (1) Tablet PO QD (once a day). Disp:*30 Tablet(s)* Refills:*2*
+2. Warfarin Sodium 2.5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime). Disp:*30 Tablet(s)* Refills:*2*
+3. Insulin Regular Human 100 unit/mL Solution Sig: variable units Injection ASDIR (AS DIRECTED): Dispense qid per regular insulin sliding scale.  
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital 3406**] - [**Location (un) 3248**]
+
+Discharge Diagnosis:
+1. Stroke
+2. Hypertension
+3. Left sided hip surgery x 2
+4. Osteoarthritis
+5. Status post cholecystectomy
+6. Right cataract surgery
+
+Discharge Condition:
+Fair; Residual dysarthira, right upper and lower extremity weakness.
+
+Discharge Instructions:
+Please seek medical attention if you experience weakness, numbness, difficulty speaking, chest pain or any other concerning symptoms.
+
+Followup Instructions:
+Follow up with Drs. [**Last Name (STitle) 6278**] and [**Name5 (PTitle) **] in the Stroke Clinic in 3 months. Please call [**Telephone/Fax (2) 8192**] for an appointment.  
+
+Follow up with Dr. [**Last Name (STitle) 8193**] (PCP) in 2 weeks. Please call [**Telephone/Fax (2) 8194**] for appt.  Dr. [**Last Name (STitle) 8193**] may want to restart therapy for hypertension. Additionally, Dr. [**Last Name (STitle) 8193**] will be responsible for following your Coumadin level via blood testing after your discharge from rehab. Goal INR is 2.0-3.0.
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) **] MD [**MD Number 65**]
+
+Completed by: [**First Name11 (Name Pattern1) **] [**Name7 (MD) 7184**] MD [**MD Number 7185**] [**2016-10-11**] @ 1116
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on: MON [**2016-10-17**] 7:16 AM
+(End of Report)
+

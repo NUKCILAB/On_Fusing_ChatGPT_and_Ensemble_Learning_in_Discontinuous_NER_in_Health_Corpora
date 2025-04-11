@@ -1,0 +1,40 @@
+945	||||	1160	||||	20323	||||	DISCHARGE_SUMMARY	||||	2010-02-02 00:00:00.0	||||		||||		||||		||||	
+Admission Date:                 Discharge Date:  [**2010-02-02**]
+
+Date of Birth:                  Sex:  F
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  Ms. [**lastname 2880**] is a 41 year-old female who was a bicyclist on [**2009-09-30**] when she was hit by an automobile that resulted in a sucking chest wall wound, which was repaired in a severe peroneal injury.  The injury required anal sphincter repair and diverting colostomy.  She was admitted for repair of her bowel diversion.
+
+PAST MEDICAL HISTORY:  Notable for being overall healthy with no history of hypertension, diabetes, asthma, bleeding disorder, shortness of breath or palpitations.
+
+PAST SURGICAL HISTORY:  Notable for colostomy in [**2009-09-30**].
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS:  None.
+
+SOCIAL HISTORY:  No smoking and occasional ethanol and no recreational drugs.
+
+PHYSICAL EXAMINATION ON ADMISSION:  The patient was regular rate and rhythm.  Nontender, nondistended.  Lungs clear to auscultation bilaterally.  Stoma intact and pink.
+
+HOSPITAL COURSE:  On [**2010-01-29**] the patient underwent an elective take down colostomy by Dr. [**Last Name (STitle) **] with 1650 of intravenous fluids and 100 of estimated blood loss with no untoward events during the operation.  This operation was performed at 8:00 a.m.  At 2:00 p.m. the patient underwent postoperative check, which demonstrated vital signs at 98.7, 122/67, 73, 13 and 94% on room air.  The patient was being maintained on a morphine sulfate PCA at 1 mg q 6 minutes with a 10 mg hourly maximum.  She also received 100 mg of Fentanyl in the Operating Room and received 7 mg of morphine sulfate in the PACU before having her PCA begun.  In the PACU it was noted that the patient's respiratory rate ranged around the 20s and diminished to the 15s and then 10 while the patient maintained excellent oxygen saturations from 100% down to 92% by 3:00 p.m.  The patient was transferred to the floor, but at 7:38 p.m. a respiratory arrest was called.  The patient was found unresponsive and not breathing with patent airway. The patient was bag ventilated to raise her saturations to 89 to 100% on room air with a blood pressure of 116/77 and the patient was given Narcan .4 mg intravenous and began breathing on her own with improved oxygen saturations.  The patient had serial arterial blood gases performed.  The first one was 7.00, 103, 335, 27 and negative 7.  The second blood gas when the patient was transferred to the unit was 7.32, 43, 326, 23, negative 3.
+
+The patient was started on a Narcan drip and transferred to the Surgical Intensive Care Unit and began on neurological checks and given Toradol to help control her pain.  That following morning the patient improved.  Her vital signs the following day, she had heart rate of 66, blood pressure 120/63, respiratory rate 14, 100% on 5 liters nasal cannula. Her lungs were clear to auscultation bilaterally and heart was regular rate and rhythm.  S1 and S2.  The patient also had one set of enzymes, which were negative for cardiac event.  The patient did well the following day and was transferred to the floor postoperative day one.
+Postoperative day two the patient did well.  She remained stable on the floor with no events.  She began passing flatus on postoperative day four.  Her diet was advanced.  She continued to be stable respiratory wise and she remained afebrile.  She tolerated a regular diet and diuresed her fluids well.  She was mentating well by report.  She was discharged home on [**2011-02-02**] after being seen and evaluated by Dr. [**Last Name (STitle) **] for a final time and with follow up with Dr. [**Last Name (STitle) **] on the Thursday of the week for staple removal.  She was instructed not to drive or lift greater then 15 pounds and the patient was discharged also because she lived in very close proximity to the hospital and had adequate home assistance.
+
+The patient tolerated a regular diet and remained afebrile throughout the remainder of her course.
+
+[**First Name11 (Name Pattern1) 581**] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) 697**], M.D.  [**MD Number 698**]
+
+Dictated By:[**Dictator Info 544**]
+
+MEDQUIST36
+
+D:  [**2010-06-25**]  16:29
+T:  [**2010-06-28**]  07:32
+JOB#:  [**Job Number 2881**]
+Signed electronically by: DR. [**First Name (STitle) 581**] MOORMAN on: TUE [**2010-06-29**] 3:14 PM
+(End of Report)
+

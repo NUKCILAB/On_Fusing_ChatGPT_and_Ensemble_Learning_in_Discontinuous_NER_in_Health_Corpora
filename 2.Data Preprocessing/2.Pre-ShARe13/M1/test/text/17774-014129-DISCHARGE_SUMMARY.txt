@@ -1,0 +1,88 @@
+14129	||||	17774	||||	512	||||	DISCHARGE_SUMMARY	||||	2015-07-29 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2015-07-17**]       Discharge Date:  [**2015-07-29**]
+
+Date of Birth:   [**1936-10-22**]       Sex:  F
+
+Service:  CARDIAC
+
+CHIEF COMPLAINT:  Coronary artery disease.
+
+HISTORY OF THE PRESENT ILLNESS:  Mrs. [**lastname 6236**] is a 78-year-old female who is transferred here from an outside hospital following an positive exercise treadmill test and positive catheterization.  She is to be evaluated for coronary artery bypass graft.  She has had three admissions at [**Hospital **] Hospital in the past two months for what appears to be ischemic pulmonary edema.  She now appears to be failing outpatient medical management.  This included increasing her beta blockers, increasing Lasix, instituting Aldactone, and increasing her Norvasc.  The recent echocardiogram was on
+[**2015-06-09**], demonstrated apical dyskinesis with an ejection fraction of 45% to 50%.
+
+PAST MEDICAL HISTORY:  History is notable for the following: 1.  Coronary artery disease with early cardiomegaly.
+2.  Severe arthritis.
+3.  Lung cancer status post right lower lobe excision in
+[**2006**].
+4.  Hyperlipidemia.
+5.  Non-Insulin-dependent diabetes mellitus.
+6.  Decreased hearing.
+7.  Chronic low back pain.
+8.  Gastritis.
+9.  Obesity.
+
+ALLERGIES:  The patient is not allergic to any medicines.
+
+MEDICATIONS:
+1.  Norvasc 5 mg p.o.q.d.
+2.  Lasix 80 mg p.o.q.d.
+3.  Lopressor 100 mg p.o.b.i.d.
+4.  Protonix 40 mg p.o.q.d.
+5.  Diovan 80 mg p.o.q.d.
+6.  Ecotrin 81 mg p.o.q.d.
+7.  Plavix 75 mg p.o.q.d.
+8.  Imdur 90 mg p.o.q.d.
+9.  Glyburide 2.5 mg p.o.q.a.m.
+10. Nystatin powder to the right groin b.i.d.
+
+SOCIAL HISTORY:  The patient does not drink alcohol or use tobacco.
+
+PHYSICAL EXAMINATION:  On physical examination, she is noted to be a pleasant female who is hard of hearing, but otherwise, in no acute distress.  Head, eyes, ears, nose, throat and neck:  she is without JVD.  CHEST:  Lungs were clear to auscultation bilaterally:  HEART:  Regular rate and rhythm.  ABDOMEN:  Soft, obese, nontender.  The right groin catheterization site on arrival had no hematoma and peripherally the extremities are without clubbing, cyanosis or edema.
+
+HOSPITAL COURSE:  The patient was admitted to Cardiac Surgery Service and appropriate preoperative workup was obtained.
+Pulmonary consultation was obtained for this patient's underlying pulmonary hypertension.  They believe that this was in fact due to left ventricular failure and they recommended treating her failure including continued diuresis.  They also noted that she had no pulmonary contraindication to undergoing cardiac surgery.  Therefore, on [**2015-07-21**], the patient underwent coronary artery bypass grafting times three.  She had saphenous vein graft to LAD, saphenous vein graft to OM, and saphenous vein graft to RCA.  Total cardiopulmonary bypass time was 75 minutes. Cross clamp time was 41 minutes.  Postoperatively, the patient was taken intubated to the Cardiac Surgery Intensive Care Unit.  In the Cardiac Surgery Intensive Care Unit she was extubated on the evening of her operation and some of her pressors including Milrinone were weaned off.  The chest tubes were discontinued on the first postoperative day, as was the J-P drain left in her leg.  However, this ultimately required a total of six postoperative days in the Intensive Care Unit.  This was primarily for aggressive pulmonary toilet and for delirious mental status changes that responded well to Haldol p.r.n.  During this time she was continued on her normal perioperative course of Vancomycin in addition, possible sources of her delirium were aggressively sought and non appeared to have been found.  During all of the time the white count remained stable in the 10 to 12 region and the
+BUN and creatinine were also stable.
+
+By the 7th postoperative day, the patient was transferred our of Intensive Care onto the hospital floor.  On the floor, the Lopressor was sequentially increased to a final dose of 75 b.i.d.  In addition, the Lasix was converted from IV to a p.o. form as she continued to diurese and approached her preoperative weight.  In addition, the physical therapy team assessed her and noted her severe impairment and mobility.
+They recommended rehabilitation upon discharge and felt that she had good potential for return to her prior level of functioning.
+
+The patient had no other acute events during her hospitalization.  It should be noted that the white blood cell count on the day prior to her transfer did climb from 11 to 15.  However, on the day of her transfer it went back down to 12.  During all this time, she remained afebrile.
+
+On [**2015-07-29**], the patient was transferred to [**Hospital1 **]
+TCU for further care.  It should be noted that her care originated at [**Hospital **].  She is asked to followup with her primary care physician in approximately two weeks and to see Dr. [**First Name4 (NamePattern1) **] [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] in approximately four weeks.
+
+The patient is transferred on the following medications:
+1.  Lasix 20 mg p.o.b.i.d.
+2.  Potassium chloride 20 mEq p.o.b.i.d.
+3.  Heparin 5000 subcutaneously b.i.d.
+4.  Colace 100 mg p.o.b.i.d.
+5.  Enteric coated aspirin 325 mg p.o.q.d.
+6.  Protonix 40 mg p.o.q.d.
+7.  Glyburide 2.5 mg p.o.q.d.
+8.  Lopressor 75 mg p.o.b.i.d.
+9.  Ibuprofen 400 mg p.o.q.4h.to 6h.p.r.n.
+10. Tylenol 650 mg p.o.q.4h.to 6h.p.r.n.
+11. Sliding scale regular insulin.
+
+Of note:  Regarding the preoperative medications, we could not find a definitive indication for Plavix and have not yet restarted that, in addition to a likely need to have her
+Norvasc, Diovan, and Lipitor restarted in the future, it is unclear whether or not she will continue to need the higher does of Lopressor or the higher dose of Lasix following her operation.  It is recommended that she be followed clinically.
+
+DISCHARGE DIAGNOSES:
+1.  Coronary artery disease, status post coronary artery bypass grafting times three.
+2.  Pulmonary hypertension.
+3.  Hypertension, treated.
+4.  Non-Insulin-dependent diabetes mellitus treated.
+5.  Hyperlipidemia, treated.
+6.  Severe arthritis and chronic low back pain.
+
+[**Doctor Last Name **] [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **], M.D.  [**MD Number 473**]
+
+Dictated By:[**Dictator Info 6176**]
+MEDQUIST36
+
+D:  [**2015-07-29**]  13:22
+T:  [**2015-07-29**]  13:42
+JOB#:  [**Job Number 6237**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] on: MON [**2015-08-03**] 5:18 PM
+(End of Report)
+

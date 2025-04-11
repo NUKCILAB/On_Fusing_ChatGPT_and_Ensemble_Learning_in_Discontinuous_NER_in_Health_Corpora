@@ -1,0 +1,24 @@
+152402	||||	16055	||||	1984	||||	RADIOLOGY_REPORT	||||	2016-04-02 05:35:00.0	||||	C12 CHEST (PORTABLE AP)	||||		||||	Clip # 335-8675  Actual report	||||	
+DATE: [**2016-04-02**] 5:35 AM
+CHEST (PORTABLE AP)                                             [**Clip Number (Radiology) 104**] Reason: CHEST TUBE
+Admitting Diagnosis: WOUND INFECTION
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+83 year old woman s/p bronchoscopy to clear out secretions. R Chest tube  placed  this morning for large R pleural effusion, lung noted to be collapsed  on f/u  CXR, ? plugged with secretions. 
+REASON FOR THIS EXAMINATION:
+compare to prior                                                                ______________________________________________________________________________
+
+FINAL REPORT
+Compared to previous study of one day earlier.
+
+CLINICAL INDICATION: Chest tube placement for large pleural effusion. Pre- evaluate lung collapse.
+
+An endotracheal tube remains in place. The tip is in a relatively low position, within 1.5 cm of the carina, but this is likely accenuated by the flexed position of the patient's neck. A left sided chest tube remains in place, with no evidence of pneumothorax, and right internal jugular vascular catheter remains in satisfactory position. Cardiac and mediastinal contours are within normal limits. There has been interval improved aeration in the left retrocardiac region. There remains a small left pleural effusion and a moderate layering right pleural effusion.
+
+IMPRESSION: Improving left retrocardiac opacity, likely due to atelectasis.
+
+Persistent small left and moderate right pleural effusions.
+
+Relatively low position of the endotracheal tube.
+

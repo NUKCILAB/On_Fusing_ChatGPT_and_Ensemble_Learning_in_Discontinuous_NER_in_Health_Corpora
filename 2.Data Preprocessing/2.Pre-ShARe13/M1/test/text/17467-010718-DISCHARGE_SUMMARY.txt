@@ -1,0 +1,118 @@
+10718	||||	17467	||||	28030	||||	DISCHARGE_SUMMARY	||||	2016-07-07 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2016-07-04**]              Discharge Date:   [**2016-07-07**]
+
+Date of Birth:  [**1955-07-15**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 247**] 
+Chief Complaint:
+Elective evaluation of hypoglycemia
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+60 year-old female with past medical history of diabetes mellitus type II previously on insulin, hypertension, and s/p right hip arthroplasty recently admitted to [**Hospital 3800**] s/p mechanical fall, diagnosed with hairline fracture of the right hip and eventually discharged home after insulin regimen changed from baseline of NPH 20 units each morning to lantus 10 units at night after she had a BG of 12 with loss of consiousness in the hospital. Subsequently, she had episode of malaise and confusion at home in the setting of poor POs. Called EMS, who measured FBS 39, treated with glucagon. She was then admitted to [**Hospital1 16**] ([**2016-05-01**] - [**2016-05-04**]) for hypoglycemia. During that hospitalization, a 4x5cm anterior LLQ mass was found. During that hospitalization, insulin was stopped and pt started on metformin 500 bid and prandin 0.5 qac. Pt states that when her glucose was low, she felt nausea and then passed out; does not recall feeling diaphoretic.  
+
+She was seen by [**Last Name (un) 519**], who is concerned that this tumor is IGF-2 secreting based on her lack of need for insulin now (when she had required insulin in the past) and morning hypoglycemia.  
+
+The pt states that since her last admission she has only been on metformin, and her fingersticks have been ranging in the 100s-200s without any episodes of hypoglycemia 
+
+ROS: The pt denies diarrhea, constipation, abdominal pain, dysuria, hematuria, BRBPR, HA, f/c/s, weight changes, diaphoresis, dizziness, CP, SOB, palpitations. She admits to occasional emesis post-prandial, with last episode over 2 weeks ago. She also admits to chronic ankle swelling. 
+
+Past Medical History:
+Type 2 diabetes mellitus since [**2001**]  
+LLQ mass undiagnosed  
+s/p R hip fracture with repair  
+Hypertension  
+Mild LV diastolic dysfunction  
+
+Social History:
+Lives alone. Son recently deceased in [**Country 3801**] war. Smokes cigarettes for 15-20 yrs, but quit 5 yrs ago. Drinks 1 beer a day. No illicit drug use. On disability, but had been a home visiting nurse [**Last Name (Titles) 3802**]. 
+
+Family History:
+no FH of DM or malignancy. Both parents died of MI
+
+Physical Exam:
+Vitals: 97.3 162/100 69 14 100% RA  
+GEN: well appearing woman, NAD  
+HEENT: PERRL, NCAT, muddy sclerae, poor dentition, MMM  
+Neck: supple, no JVD, no thyromegaly or nodules  
+CV: RRR, no m/r/g, nl s1/s2  
+Lungs: CTAB  
+Ab: soft, NT/ND, fullness in LLQ, NABS  
+Extrem: 1+ pitting edema in BL LE up to the knees, warm, good pulses, no c/c/e  
+Skin: flushed, warm  
+Neuro: A and Ox3  
+
+Pertinent Results:
+[**2016-07-04**] 03:00PM   GLUCOSE-232* UREA N-6 CREAT-0.7 SODIUM-135  POTASSIUM-5.2* CHLORIDE-101 TOTAL CO2-25 ANION GAP-14
+[**2016-07-04**] 03:00PM   WBC-9.7 RBC-3.66* HGB-12.5 HCT-36.9 MCV-101*  MCH-34.2* MCHC-33.9 RDW-15.2
+
+Prior imaging studies:  
+MRI ABDOMEN [**2016-05-02**]:  
+IMPRESSION:  
+Anteriorly within the left pelvis is a mass measuring 4.7 x 4.5 x 5.0 cm, which is hypointense on T2 weighted images. No internal fat is identified. No arterial-phase enhancement is noted; mild peripheral enhancement surrounds a central nonenhancing core. The mass is well circumscribed and adjacent to the sigmoid colon. There is no parasitization of vessels or relationship to pelvic arterial vasculature. IMPRESSION: 1. Signal characteristics and morphology are suggestive of a tumor of mesenchymal origin or, perhaps, a broad ligament fibroid. Similarly, the morphology and enhancement pattern, as well as the lack of regionally enlarged lymph nodes, favors a non aggressive process.  
+
+Brief Hospital Course:
+This is a 60 yo with a history of DMII, intermittent hypoglycemia, and a LLQ mass who presents for evaluation of her hypoglycemia.  
+
+# Intermittent Hypoglycemia: It is unclear if the patient has an IGF-2 secreting tumor in her LLQ to account for her symptoms. Patient admitted for a fasting study for formal diagnosis.  The patient had fingersticks q2h while glucose > 150, then q1 hour when glucose < 150.  The plan was when her glucose was < 45, or < 55 with symptoms, she would have blood drawn and sent for glucose, insulin, pro-insulin, IGF-1, IGF-2, C-peptide, b-hydroxyacetate, and sulfonylurea screen; and also send another tube to the lab with the indication "Store the serum". The patient never had hypoglycemia during her course and she refused to finish the study.  Endocrine was aware and advised to draw the labs before the patient left (as she had completed the majority of the fast, ~ 68 hours).  All of the above labs need to be followed as an outpatient by her endocrinologist and the patient needs close follow-up with her endocrinologist as an outpatient.  She was advised to resume her metformin and return for recurrence of symptoms.  
+
+# LLQ mass: This mass appears benign on MRI, but there is concern for it being IGF-2 secreting.  The patient was seen by anesthesia and surgery and she will have pre-op testing on [**07-18**] and her mass will be removed by Dr. [**Last Name (STitle) **] on [**07-25**]. 
+
+# DM2: The patient had her metformin held while performing fasting study.  She remained asymptomatic and without the need for any intervention during her course.  She will need close follow-up of her sugars as an outpatient.  
+
+# HTN: The patient had poorly controlled blood pressure as an inpatient.  Her enalapril was increased and amlodopine was added.  She was sent home on the increased dose of enalapril, and it was decided to hold the amlodopine and have her follow-up with her primary doctor [**First Name (Titles) **] [**Last Name (Titles) 3803**] of her medications. 
+
+Medications on Admission:
+Potassium Chloride  
+Enalapril Maleate 20 mg daily  
+Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO  Q6H (every 6 hours) as needed.  
+Metformin 500 mg bid  
+
+Discharge Medications:
+1. Percocet 5-325 mg Tablet Sig: 1-2 Tablets PO every six (6) hours as needed for pain.  
+2. Metformin 500 mg Tablet Sig: One (1) Tablet PO twice a day.  
+3. Enalapril Maleate 10 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily). Disp:*90 Tablet(s)* Refills:*0*
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+Hypoglycemia
+
+Secondary:
+Left Lower quadrant mass
+diabetes
+hypertension
+
+Discharge Condition:
+stable, tolerating medications
+
+Discharge Instructions:
+You were hospitalized for a fast to determine the cause of your hypoglycemia. You should follow-up with endocrinology.
+
+Please contact a physician if you experience fevers, sweating, chills, chest pain, shortness of breath, dizziness, nausea, fatigue, or any other concerning symptoms.
+
+Please take your medications as prescribed.
+- Your enalapril dose was increased for your blood pressure, and otherwise you will continue all home medications.
+
+Please keep your follow-up appointments as below.  You are scheduled for removal of your mass on [**07-25**] and will have testing on [**07-18**] before surgery.
+
+Followup Instructions:
+1. Follow-up with surgery: Provider: [**Name10 (NameIs) **] RM 4 PAT-PREADMISSION TESTING Date/Time:[**2016-07-18**] 2:00.  They are on the 3rd floor of the clinical center building west campus
+2. Surgery [**07-25**] at 7:30 am with Dr. [**Last Name (STitle) **], call ([**Telephone/Fax (2) 3804**] for more information.
+3. Call your endocrinologist or the [**Hospital **] clinic at ([**Telephone/Fax (2) 3805**] for the results of your blood work and adjustment of your medications.  Make an appointment within 1 week.
+4. Please follow-up with Dr. [**Last Name (STitle) 3806**],JERALYN C call [**Telephone/Fax (2) 3807**] for a follow-up in 1 week.  You should have your blood pressure checked and medications adjusted.
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) 259**] MD [**MD Number 260**]
+
+Completed by: [**First Name11 (Name Pattern1) 1462**] [**Name7 (MD) 3576**] MD [**MD Number 3577**] [**2016-07-07**] @ 1441
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on: [**Doctor First Name 75**] [**2016-07-07**] 3:44 PM (End of Report)
+

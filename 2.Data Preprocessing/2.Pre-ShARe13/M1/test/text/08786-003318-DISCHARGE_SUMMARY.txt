@@ -1,0 +1,149 @@
+3318	||||	8786	||||	9155	||||	DISCHARGE_SUMMARY	||||	2019-10-31 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2019-10-29**]              Discharge Date:   [**2019-10-31**]
+
+Date of Birth:  [**1973-11-12**]               Sex:   M
+
+Service: MEDICINE
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 1655**] 
+Chief Complaint:
+"I'm having withdrawal"
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+CC:[**CC Contact Info 3114**].
+HPI:  45 yo M with h/o polysubstance abuse and ? h/o alcohol withdrawal seizures who was found in his hotel room drunk and naked sitting in stool after calling 911.  He stated he was using heroin.  Initial blood sugar 123, BP 140/P, HR 106, 97% NRB.  Per report he had a Sz in the [**Doctor First Name 3**] lobby.  In the [**Doctor First Name 3**] he received Ativan 2 mg x2.  Head CT and CXR unremarkable. 
+
+Currently he is sedated but arousable to sternal rub.  O2 sat decreased to 87% on 2L NC while asleep, increased to 95% on 4L NC.  He reports he is uncomfortable secondary to withdrawel symptoms.  He admits to drinking 2 liters of Vodka today and using morphine and dilaudid.  Urine and serum tox screen in [**Doctor First Name 3**] revealed EtOH level of 317, otherwise negative.  He reports being sober for 3 yrs [**lastname 3115**] to recent binge.  Pt was last seen at [**Hospital1 2**] in [**2016-10-12**].  At that time he was evaluated by neuro and [**Hospital Unit Name 44**]; he had several episodes of arm and leg shaking which were not thought to be seizures.    
+
+He reports he started drinking again secondary to depression.  He admits to suicidal ideation with a plan to "drink himself to death".
+
+Past Medical History:
+1. EtOH abuse
+2. Cocaine abuse
+3. Heroin abuse
+4. ?h/o Hepatitis C (negative HCV Ab in 5/03)
+5. + ppd s/p INH x6 months
+6. Depression treated at [**First Name9 (NamePattern2) 85**] [**Location (un) 304**] VA
+
+Social History:
+Reports drinking 2 liters of vodka today.  He was incarcerated for vehicular homicide (DUI) in [**2007**]-2002.  Started drinking age 
+13. Enlisted in army age 17.  Joined army rangers.  6 children in his family.  Living with mother at home; in and out of most [**Location (un) 304**] Hospitals.  Recently admitted in [**07-18**] to ICU at [**Hospital1 569**] VA for multiple seizures.  Then inpt [**Hospital Unit Name 44**] stay, completed 6 wk [**Hospital Unit Name 85**] detox program at [**Location (un) 304**] VA (completed Labor Day).  In [**2016**] committed to [**Hospital 3116**] for 30 days.   Family reports he was missing since 5 days [**lastname 3115**] to admission.  Was living with his mother since completed VA program.  
+
+Family History:
+unknown
+
+Physical Exam:
+Upon arrival to ICU:
+Tc 98.7   BP 130/69  HR 101  RR 9-18  Sat 89-96% 4L NC 
+Gen:  initially sleeping, then awakes with arm shaking, refusing to open eyes or mouth
+HENNT:  anicteric
+CV:  RRR, nl S1S2,  No M/R/G
+Lungs: anteriorly CTAB
+Abd:  soft, NT/ND, +BS, No HSM
+Ext:  no edema, strong DP/PT pulses bilaterally
+Neuro:  spontaneously moving UE's x 10 seconds while awake
+Skin:  no rash
+
+Pertinent Results:
+Labs on admission:
+[**2019-10-29**] 09:13PM GLUCOSE-86 UREA N-20 CREAT-0.9 SODIUM-136  POTASSIUM-3.6 CHLORIDE-96 TOTAL CO2-20* ANION GAP-24*  CALCIUM-8.5 PHOSPHATE-1.9*# MAGNESIUM-2.5 ALT(SGPT)-100*  AST(SGOT)-67* LD(LDH)-184 ALK PHOS-66 AMYLASE-72 TOT BILI-0.6 [**2019-10-29**]: serum tox: ASA-NEG ETHANOL-317* ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2019-10-29**]: urine tox: URINE bnzodzpn-NEG barbitrt-NEG opiates-NEG cocaine-NEG amphetmn-NEG mthdone-NEG
+
+10/18-19/06: cardiac enzymes TnT < 0.01 x 3 sets
+
+Studies:
+CXR [**10-29**]:  No evidence for acute cardiopulmonary abnormality.
+
+Head CT [**10-29**]: No evidence of intracranial hemorrhage, injury or other acute process. 
+
+[**2019-10-29**] 09:13PM   GLUCOSE-86 UREA N-20 CREAT-0.9 SODIUM-136 
+POTASSIUM-3.6 CHLORIDE-96 TOTAL CO2-20* ANION GAP-24*
+[**2019-10-29**] 09:13PM   CALCIUM-8.5 PHOSPHATE-1.9*# MAGNESIUM-2.5
+[**2019-10-29**] 02:56PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG cocaine-NEG amphetmn-NEG mthdone-NEG
+[**2019-10-29**] 02:40PM   ASA-NEG ETHANOL-317* ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2019-10-29**] 09:13PM   GLUCOSE-86 UREA N-20 CREAT-0.9 SODIUM-136  POTASSIUM-3.6 CHLORIDE-96 TOTAL CO2-20* ANION GAP-24*
+[**2019-10-29**] 09:13PM   GLUCOSE-86 UREA N-20 CREAT-0.9 SODIUM-136  POTASSIUM-3.6 CHLORIDE-96 TOTAL CO2-20* ANION GAP-24*
+[**2019-10-29**] 02:40PM   ALT(SGPT)-100* AST(SGOT)-67* LD(LDH)-184 ALK  PHOS-66 AMYLASE-72 TOT BILI-0.6
+
+Brief Hospital Course:
+A/P: 45 yo M with h/o polysubstance abuse admitted with EtOH intoxication.  
+
+1.)  EtOH Intoxication with EtOH level of 317: The patient presented acutely intoxicated and was showing early evidence of tremulousness suspicious for alcohol withdrawal.  As the patient has a history consistent with very high risk for severe delerium tremens, he received a benzodiazepine load with valium and ativan.  He received a total of 350 mg of valium and 24 mg of ativan while in the ICU.  His vital signs remained stable without evidence of autonomic instability.  He received IVF with folate/thiamin/multivitamins. In collaboration with the psychiatry consult service, he was started on a low dose methadone taper to manage symptoms of opiate withdrawal as his dilated pupils were more consistent with this withdrawal syndrome as well.  He was recommended to be transferred directly to an inpatient detox program at the [**Hospital1 569**] VA.  However, he decided that he would leave against medical advice and pursue a detox program on his own.  It was explained to him multiple times by ICU staff, psychiatry staff, and social work staff that this was not in keeping with sound medical care as the health care staff was concerned that he would simply resume drinking upon leaving the hospital.  Furthermore, he was reminded that if he left, he would be homeless as there was no time to arrange housing.  He proceeded with leaving AMA.
+
+2.) Depression with SI. He initially stated that he was trying to kill himself.  He was placed on a 1:1 supervision while he was intoxicated.  Upon becoming sober, he denied suicidal ideation.  The psychiatry consult evaluated him and confirmed that the patient was not actively suicidal.  He continued to receive lexapro at low dose.
+
+3.) Atypical muscular skeletal movements:  The patient had periodic episodes of arm and leg moving.  These were evaluated by the neurology consult and thought to be not consistent with seizure and a low probability for a positive EEG.  No anti-convulsants were indicated.
+
+4.) Chest pain:  The patient had a brief episode of chest pain in the left side of his chest.  This was not associated with diaphoresis or shortness of breath.  An EKG showed no evidence of myocardial ischemia and he had 3 sets of negative cardiac enzymes.  Upon discharge, it was recommended that he take a baby aspirin daily for primary cardiac prevention.
+
+5.) Leukocytosis (WBC 14) likely stress response. No evidence of infection. The white count resolved on follow-up.
+
+6.) Anemia: The patient had a normocytic anemia.  This developed after fluid resusistation.  There was no evidence of acute blood loss.  Iron studies were consistent with anemia of chronic disease.  The anemia could not be completely evaluated as the patient left AMA.  The anemia should be further evaluated as an outpatient.
+
+7.) FEN. The patient received IVF with Thiamine, Folate, MVI in 1L of normal saline daily for 2 days. Replete lytes prn. Once he was sober, he tolerated a regular diet. 
+
+8.) Heme positive stool. Iron studies were not consistent with iron deficiency. Will need [**Hospital1 85**] workup for occult blood loss.
+
+9.) PPX. SC heparin, H2 blocker while not taking po's  
+
+10.) Code: Full  
+
+11.) Access: PIV  
+
+12.) Dispo: patient left against medical advice. psychiatry consult confirmed that patient had capacity to make medical decisions once he was sober.
+
+13.) Communication: Sister - [**First Name4 (NamePattern1) **] [**lastname **] is health care proxy. [**Telephone/Fax (2) 3117**] (h); [**Telephone/Fax (2) 3118**] (c)  
+
+Medications on Admission:
+Lexapro (unknown dose)
+
+Discharge Medications:
+1. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Veterans Hospital
+
+Discharge Diagnosis:
+Primary:
+Ethanol Intoxication and withdrawal
+
+Secondary:
+Polysubstance abuse
+Atypical musculoskeletal jerking
+Non-cardiac chest pain
+
+Discharge Condition:
+stable vital signs. no evidence of alcohol withdrawal. ambulating. tolerating oral nutrition and medication.
+
+You are leaving against medical advice.  You were evaluated by psychiatry and and felt to have the capacity to make medical decisions.  
+
+Discharge Instructions:
+You have been evaluated and treated for your alcohol intoxication and withdrawal symptoms.  The episodes of shaking were not related to seizure activity.  The brief episode of chest pain was evaluated as well and there was no evidence of heart damage.
+
+It is essential that you attend the recommended alcohol detox program.  Your drinking is very detrimental to your health and persistant drinking will very likely ultimately kill you.
+
+You were given medications to manage the alcohol withdrawal symptoms and a short course of methadone to manage opiate withdrawal.  These medications were not continued once you left the hospital. 
+
+If you experience any concerning symptoms, particularly chest pain, persistant nausea/vomiting or worsening withdrawal symptoms contact your primary doctor.
+
+Followup Instructions:
+Please call your primary [**Hospital **] clinic at [**Telephone/Fax (2) 3119**] to set up a detox program.
+
+Contact your primary doctor [**First Name (Titles) **] [**Last Name (Titles) 2585**] a follow-up appointment for as soon as possible.  (Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3120**] [**Telephone/Fax (2) 3119**])
+
+[**First Name11 (Name Pattern1) 618**] [**Name7 (MD) 1659**] MD [**MD Number 1660**]
+
+Completed by: [**Name6 (MD) **] BLACK MD [**MD Number 2356**] [**2019-10-31**] @ 1437
+Signed electronically by: DR. [**First Name8 (NamePattern2) 618**] [**Last Name (NamePattern1) **] on: MON [**2019-11-04**] 9:40 AM
+(End of Report)
+

@@ -1,0 +1,42 @@
+16743	||||	7683	||||	4543	||||	DISCHARGE_SUMMARY	||||	2012-07-19 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2012-06-26**]     Discharge Date:  [**2012-07-19**]
+
+Date of Birth:   [**1936-09-11**]     Sex:  M
+
+Service:  NEUROLOGY
+
+HISTORY OF PRESENT ILLNESS:  This is a 75 year-old man with a past medical history of cerebrovascular accident with residual right hemiparesis in [**1998**] as well as diabetes type 2, coronary artery disease, status post catheterization in
+[**2011**] with three vessel disease as well as cataracts, hyperlipidemia and bipolar disorder who is admitted to [**Hospital 20**] on [**2012-06-26**] after he was found down in his home.  He was diagnosed with a left basal ganglia intracranial hemorrhage likely arising from the caudate with large intraventricular extension on the left.  He had subsequent hydrocephalus as well as an acute myocardial infarction with troponins going greater then 50 as well as rhabdomyolysis with a CK in the 10,000s.  He was admitted to the Neurological Intensive Care Unit for closer blood pressure and neurologic monitoring.  It was felt early on as his decreased level of consciousness was profound he would need neurosurgical intervention with a right ventricular catheter.  This was placed on [**06-27**] the day after admission.  After insertion the catheter continued to have 200 to 300 cc output a day of blood tinged fluid and his mental status seemed to improve.  On admission he had low grade fevers 100 to 101 range with an increased white blood cell count of 90.5.  Initial workup showed pneumonia with right upper lobe infiltrate and also a question of left lower lobe infiltrate.  He was given Ancef initially for his drain on the first day, however, it was then changed to Levaquin as well as Flagyl in light of his cultures came back.  He required intubation on [**06-30**].  He was later started on Vancomycin with cultures coming back as heavy growth MRSA.
+
+He was followed closely in the Neurosurgical Intensive Care
+Unit, the Neurology, Neurosurgery and the CICU medical team. He continued to recover from his myocardial infarction and his enzymes trended down.  His neurological deficits remained significantly unchanged.  He was in the Intensive Care Unit with cerebral spinal fluid samples taken on [**06-30**], [**07-02**] and
+[**07-06**], which were all no growth and the patient continued to have fevers even on broad spectrum antibiotics with a white blood cell count of 12 to 16.  He was briefly extubated, but then needed to be reintubated the same night.  His sputum continued to grow large amounts of MRSA on repeat cultures. His blood and urine culture were negative as well as cerebral spinal fluid.  Vancomycin was held briefly from [**07-09**] to [**07-10**], however, the patient's temperature again increased to 102 and repeat cerebral spinal fluid from ventricular drain at this point showed 3+ polys, 3+ gram positive cocci in pairs and clusters within the fluid with 4000 white blood cells and 110 polys and a glucose of 1.  Ceftazidime was added.  Infectious disease was consulted at that time.  His neurological examination continued to wax and wane.  His vent drain was raised and lowered depending on his arousal.  He was noted to have also right [**Hospital Unit Name 78**] deviation and right twitching of his mouth on two separate occasions, which is suspicious for seizure.  We ordered an electroencephalogram which was abnormal due to low voltage slow background with bursts of polymorphic data and delta frequency slowing.  This indicated a wide spread cortical dysfunction as well as dysfunction of the deep midline structures as can be seen with severe encephalopathy.  There were no focal epileptiform seizures seen.  At that point we decided to watch him.
+
+Later on in his course he had another episode where his eyes were strongly deviated to the right and we could not doll him pass the midline.  At that point it was felt by the neuro team that we should treat him for seizures.  We loaded him on phenytoin and gave him Ativan with good relief of his seizures.  There was no need at that time to repeat an electroencephalogram as his clinical suspicion was high enough for epileptiform events.  We decided to continue with our management and watch his blood pressure, heart rate and temperature.  He continued to spike.  We involved infectious disease who felt that this was fever meningismus and he was not following commands.  There was concern for meningitis and this should be treated with Vancomycin.  We continued that per their recommendations as well and continued Rifampin per their recommendations also.  He continued to not improve clinically and his neurological examination was somewhat limited.  He could follow simple commands intermittently, but could not move his right side to command.  He could occasionally squeeze hand, but not consistently.  He could not also consistently follow commands, but he would open his eyes to voice.  He was intubated and sedated.  His respiratory coarse breath sounds bilaterally, decreased breath sounds.  His cardiac examination was regular rate and rhythm.
+
+We continued to watch him and watch his laboratories, however, he was unable to improve much.  Pulmonary critical care team felt he would benefit from a tracheostomy and this was planned until other issues medically kept him from this procedure.  It was felt he was on a downhill course and meningitis, which was being treated intrathecal Vancomycin by the neurosurgical service and that his hope for a meaningful recovery was somewhat less then originally due to many additional medical issues that worsened during his hospital admission.  It was felt by the team and by his responsible family that he would be best made CMO.  He was then made CMO and kept in the Intensive Care Unit for two days before being transferred to the floor.  He was given morphine for comfort as well as Ativan for respiratory distress.  On [**07-19**], he was found to be pulseless and not breathing and on examination he was pronounced expired at 7:00 p.m. on [**07-19**].
+His nephew [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] was called at his home and arrangements were to be made by him to the funeral home.
+
+DISCHARGE DIAGNOSES:
+1.  Intraventricular hemorrhage secondary to likely hypertensive bleed of the basal ganglia/caudate.
+2.  Meningitis.
+3.  Respiratory failure.
+4.  Coronary artery disease status post myocardial infarction.
+5.  Hyperlipidemia.
+6.  Diabetes.
+7.  Status post old cerebrovascular accident with right hemiparesis. 8.  Bipolar disorder.
+
+DISCHARGE STATUS:  To funeral home.
+
+[**First Name11 (Name Pattern1) 3166**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D. [**MD Number 3167**]
+
+Dictated By:[**Dictator Info **]
+
+MEDQUIST36
+
+D:  [**2012-07-25**]  02:46
+T:  [**2012-07-25**]  09:05
+JOB#:  [**Job Number 3168**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 3169**] [**Last Name (NamePattern1) **] on: WED [**2012-07-25**] 12:10 PM
+(End of Report)
+

@@ -1,0 +1,126 @@
+6281	||||	381	||||	17672	||||	DISCHARGE_SUMMARY	||||	2018-05-22 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2018-05-16**]              Discharge Date:   [**2018-05-22**]
+
+Date of Birth:  [**1973-02-21**]               Sex:   F
+
+Service: SURGERY
+
+Allergies: 
+Penicillins / Flagyl
+
+Attending:[**Attending Info 311**] 
+Chief Complaint:
+Abdominal pain/abcess
+
+Major Surgical or Invasive Procedure:
+Ultrasound guided abdominal drain [**2018-05-17**]
+
+History of Present Illness:
+44 yo female transfer here from [**Hospital 369**] complaining of mid abdominal pain and redness. Over the last 2 weeks, she noticed night sweats and subjective fever at home. She was transfered to [**Hospital1 27**] per recommendation of her GI specialist Dr. [**Last Name (STitle) 5060**]. The CT showed mainly anechoic (cystic) collection in the deep subcutaneous tissues of the lower midline abdominal wall, which measures up to 3.4 cm sagittal x 3 cm AP x 3.8 cm transverse. Some heterogenous hyperechoic material is noted within this mainly cystic collectionan abdominal abcess was noted.
+
+Past Medical History:
+Crohns s/p 17 surgeries
+Ileostomy 1993; Left abdominal stoma
+ventral Hernia repain  x 2
+peripheral neuropathy
+anxiety
+depression
+
+Social History:
+Disabled
+No ETOh, no smoking (quit 3 months ago; 30 pack year history)
+
+Family History:
+non-contributory
+
+Physical Exam:
+VS: 97.8, 88, 104/70, 20
+Gen: NAD
+Head: no oral lesions
+Chest: CTA bilat.
+CV: RRR, no M/R/G
+GI/Abd: 10 cm epigastric mass with mild erythema [**Hospital Unit Name **]: tender to palpation, ostomy in place, no signs of infection Musc: multiple abdominla scars
+Skin: no jaundice
+Neuro A+O x 3
+[**Hospital Unit Name **]: not depressed
+
+Pertinent Results:
+US ABD LIMIT, SINGLE ORGAN  [**2018-05-17**] 2:48 PM
+
+US ABD LIMIT, SINGLE ORGAN; GUIDANCE FOR ABSCESS (75989)
+
+Reason: please drain abdominal wall fluid collects (x 2) with ultras
+
+UNDERLYING MEDICAL CONDITION:
+45 year old woman with crohn's & Abdominal wall fluid collections on CT. 
+REASON FOR THIS EXAMINATION:
+please drain abdominal wall fluid collects (x 2) with ultrasound guidance 
+ULTRASOUND DRAINAGE OF ANTERIOR ABDOMINAL WALL COLLECTION.
+
+CLINICAL DETAILS: Background history of Crohn's disease. 
+Collection in the deep subcutaneous tissues of the lower midline abdominal wall on outside CT.
+
+PROCEDURE:
+
+The patient's outside CT was reviewed for comparison. 
+Preprocedure ultrasound images show a mainly anechoic (cystic) collection in the deep subcutaneous tissues of the lower midline abdominal wall, which measures up to 3.4 cm sagittal x 3 cm AP x 3.8 cm transverse. Some heterogenous hyperechoic material is noted within this mainly cystic collection.
+
+Preprocedure written consent and confirmation of patient identity and nature of procedure was performed.
+
+Following usual aseptic technique and local and intravenous analgesia, an 8- [**Ethnicity 665**] [**Last Name (un) 1981**] multipurpose pigtail catheter was advanced under realtime ultrasound guidance into this collection via a right paramedian approach. Aspiration yielded purulent material, a sample of which has been sent for microbiological analysis. The pigtail catheter was formed within this collection, which was then aspirated until empty yielding in total 24 cc of purulent material. No residual collection on the post-aspiration images. Catheter is held in place with a pigtail devise and stat-lock dressing.
+
+No immediate complications. Dr. [**Last Name (STitle) **] (attending radiologist) was present.
+
+[**2018-05-15**] 09:45PM   GLUCOSE-82 UREA N-7 CREAT-0.8 SODIUM-139 
+POTASSIUM-3.7 CHLORIDE-103 TOTAL CO2-22 ANION GAP-18
+
+Brief Hospital Course:
+Upon arrival at [**Hospital1 27**] on [**2018-05-16**], the patient recieved Dilaudid  IV to help control pain and NS bolus to treat her hypotension 80/45mm Hg. The patient reported that her normal blood pressure tends to be on the low side. She was transfered to the ICU. She was made NPO, started on IVF and Ceftriaxone 1 gm IV q24h, empirically. She was then transfered to the floor. 
+
+On [**2018-05-17**] she was advanced to a regular diet, her Dilaudid was changed to 1-2mg subcutaneous q4-6 prn, her abdomen remained red, warm and tender. An ultra sound guided pigtail catheter was placed. Aspiration yielded purulent material, a sample of which was for microbiological analysis. 
+
+She remained stable with improved pain control. Her diet was advanced which she tolerated. Cultures from her abdominal wound returned Staph species sensitive to vancomycin. A PICC line was placed for iv antibiotics. Her drain put out scant amounts of reddish fluid and it was removed prior to her discharge without complication. She was out of bed, tolerating a regular diet and with adequate pain control. She was discharged to home with services and instructed to continue a 10 day course of vancomycin. She will follow up in clinic with Dr. [**Last Name (STitle) **].
+
+Medications on Admission:
+Neurontin 800 tid, Mercaptopurine 75 daily, Klonopin 0.5 tid, Cymbalta 120 bid, Remicade q6weeks
+
+Discharge Medications:
+1. Gabapentin 400 mg Capsule Sig: Two (2) Capsule PO TID (3 times a day). Disp:*180 Capsule(s)* Refills:*2*
+2. Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO TID (3 times a day) as needed. Disp:*qs Tablet(s)* Refills:*0*
+3. Mercaptopurine 50 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily). Disp:*qs Tablet(s)* Refills:*2*
+4. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Two (2) Capsule, Delayed Release(E.C.) PO BID (2 times a day). Disp:*120 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+5. Trazodone 100 mg Tablet Sig: Four (4) Tablet PO HS (at bedtime) as needed. Disp:*qs Tablet(s)* Refills:*0*
+6. Oxycodone 40 mg Tablet Sustained Release 12HR Sig: Two (2) Tablet Sustained Release 12HR PO Q12H (every 12 hours). Disp:*30 Tablet Sustained Release 12HR(s)* Refills:*0*
+7. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q3-4H (Every 3 to 4 Hours) as needed. Disp:*50 Tablet(s)* Refills:*0*
+8. Vancomycin in Dextrose 1 g/200 mL Piggyback Sig: One (1) gram Intravenous  Q 12H (Every 12 Hours) for 10 days. Disp:*20 doses* Refills:*0*
+9. Heparin Flush 100 unit/mL Kit Sig: Two (2) mL Intravenous  once a day: 10cc NS followed by 2cc heparing flush qday and prn. Disp:*15 kits* Refills:*1*
+
+Discharge Disposition:
+Home with Service
+
+Discharge Diagnosis:
+Abdominal wall abscess
+Crohn's disease
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+Monitor your drain and drainage site for redness, pain, swelling, and discharge.  Do not drive while taking pain medications. Take a stool softener while taking pain medications.
+
+You should contact your MD if you experience: * Increasing pain
+* Fever (>101.5 F) or Vomiting
+* Inability to eat or drink
+* Inability to pass gas or stool 
+* Redness/swelling/drainage from wounds
+* Other symptoms concerning to you
+
+Followup Instructions:
+Please follow-up with Dr. [**Last Name (STitle) **] on [**06-04**]. Call [**Telephone/Fax (2) 1259**] for an appointment.
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) 323**] MD, PHD 02-239
+
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number 4147**] [**2018-05-22**] @ 1158
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] on: WED [**2018-05-23**] 6:45 AM
+(End of Report)
+

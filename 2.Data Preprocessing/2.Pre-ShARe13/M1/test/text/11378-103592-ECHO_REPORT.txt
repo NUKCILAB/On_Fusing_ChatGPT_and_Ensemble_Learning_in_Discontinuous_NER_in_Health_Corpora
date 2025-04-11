@@ -1,0 +1,44 @@
+103592	||||	11378	||||	27913	||||	ECHO_REPORT	||||	2014-12-31 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Left ventricular function. 
+Weight (lb): 144
+BP (mm Hg): 111/74
+HR (bpm): 91
+Status: Inpatient
+Date/Time: [**2014-12-31**] at 15:09
+Test: Portable TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: Normal LA size. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. 
+
+LEFT VENTRICLE: Normal LV wall thickness. Normal LV cavity size. Moderate-severe global left ventricular hypokinesis. Moderately depressed LVEF. TVI E/e' < 8, suggesting normal PCWP (<12mmHg). 
+
+LV WALL MOTION: Regional LV wall motion abnormalities include: basal inferoseptal - hypo; mid inferoseptal - hypo; basal inferior - hypo; mid inferior - hypo; basal inferolateral - hypo; mid inferolateral - hypo; inferior apex - hypo; lateral apex - hypo; 
+
+RIGHT VENTRICLE: Normal RV wall thickness. Normal RV chamber size. RV function depressed. 
+
+AORTA: Normal aortic root diameter. Normal ascending aorta diameter. 
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild mitral annular calcification. No MR. 
+
+PERICARDIUM: No pericardial effusion. 
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows. Suboptimal image quality. 
+
+Conclusions: 
+1.The left atrium is normal in size. 
+2. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. While the LV function is hard to assess because of the technical difficulty of the study, it does appear that there is mild to moderate global left ventricular hypokinesis with more marked hypokinesis of the inferior, inferolateral and septal walls. Overall left ventricular systolic function is mildly depressed. Tissue velocity imaging demonstrates an E/e' <8 suggesting a normal left ventricular filling pressure (PCWP<12mmHg). 3. Right ventricular chamber size is normal. Right ventricular systolic function appears depressed. 
+4.The aortic valve leaflets (3) are mildly thickened. No aortic regurgitation seen. 
+5.The mitral valve leaflets are mildly thickened. No mitral regurgitation is seen.  6.There is no pericardial effusion. 
+

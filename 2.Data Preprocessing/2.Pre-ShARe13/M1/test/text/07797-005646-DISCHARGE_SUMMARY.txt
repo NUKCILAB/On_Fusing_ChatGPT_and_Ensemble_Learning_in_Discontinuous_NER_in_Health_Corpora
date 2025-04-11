@@ -1,0 +1,157 @@
+5646	||||	7797	||||	26151	||||	DISCHARGE_SUMMARY	||||	2019-09-10 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2019-09-05**]              Discharge Date:   [**2019-09-10**]
+
+Date of Birth:  [**1959-01-26**]             Sex:   F
+
+Service: NEUROSURGERY
+
+Allergies: 
+Iodine
+
+Attending:[**Attending Info 834**] 
+Chief Complaint:
+Aphasia
+
+Major Surgical or Invasive Procedure:
+Left sided craniotomy
+
+History of Present Illness:
+Pt was admitted from Dr.[**Last Name (STitle) 2891**] office on [**09-05**] with difficulty speaking. Patient has a known high grade large B-cell 
+
+lymphoma s/p RCHOP. In 6/06 pt had a PET scan for staging prior to bone marrow transplant and additional chemo when she was found 
+to have incidental temporal lesion. As of 7/7 (patient last seen 
+
+in clinic) she was at baseline. Pt missed her appointment on [**09-04**] and after multiple phone calls was seen today. Pt unable to 
+
+say when speech difficulty began. 
+
+Past Medical History:
+Large B-cell lymphoma, high grade dx [**10-29**] s/p RCHOP 
+NIDDM 
+HTN 
+Hiatal Hernia 
+s/p gastric bypass 
+s/p cholecystectomy 
+?B12 deficiency 
+
+Social History:
+Lives Alone 
+Works as secretary 
+(+)Tob 4ppd x20yrs (quit many years ago) 
+Not married; no children 
+
+Family History:
+Her mother died of heart problems, her father died of suicide. Her brother is alive at 55 and has heart problems 
+
+Physical Exam:
+VITALS: 98.1, 152/80, 67, 18, 96% RA 
+GEN: obese woman in NAD 
+HEENT: NC/AT with allopecia, anicteric sclera, mmm 
+NECK: supple, no carotid bruits 
+CHEST: normal respiratory pattern, CTA bilat 
+CV: regular rate and rhythm without murmurs 
+ABD: soft, nontender, nondistended, +BS 
+EXTREM: gross nonpitting edema to the knees bilaterally 
+
+NEURO: 
+Mental status: 
+Patient is alert, awake, pleasant affect but frustrated at her language dysfunction.  Oriented to person, place "Hospital" "Meth [**Country **]", time ("[**2019-02-24**]").  Attention appears to be good - spells WORLD forwards and backwards well, DSF of 2 (poor, but states, "I'm always bad with 
+
+numbers." Does MOYB to [**Female First Name (un) 439**], then can't remember the month prior, "OH, what's it called, I know what it's called." 
+Language is fluent technically but with great word finding problems, stopping mid sentence becoming very frustrated, with frequent paraphasic errors (mostly phenomic but some semantic like "hear" for "feel"). She follows 2 step commands (good comprehension), and repitition, able to read but has difficulty writing. She means to write "I love cats", and instead writes "I 
+
+love spacturs." Very bad anomia - names ONLY chair on the NIHSS card. No dysarthria. 
+No apraxia (brushes teeth, waves goodbye, draws a decent 3 d cube), no neglect. Able to calculate, no left/right mismatch.  Draws a clock well, and places hands appropriately but the clock 
+
+is not perfect (hands don't meet in the middle). 
+
+Cranial Nerves: 
+I: deferred 
+II: Visual fields: full to left/right/upper/lower fields.  
+Fundoscopic exam: discs flat, fundi clear, no hemorrhages or exudates. Pupils: 3->2 mm, consenual constriction to light.  III, IV, VI: EOMS full, gaze conjugate. No nystagmus or ptosis. V: facial sensation intact over V1/2/3 to light touch and pin prick.  
+VII: asymmetric face (mild) but good equal strength. 
+VIII: hearing decreased on the right 
+IX, X: Symmetric elevation of palate. 
+XI: SCM and trapezius [**06-28**] bilaterally 
+XII: tongue is just to the right of midline but with good quick motions. 
+
+Sensory: 
+Decreased touch right> left legs, decreased vibration (intact at 
+
+ankles), decreased pinprick in a patchy distribution on the right 
+arm and leg. No extinction to double simultaneous stimulation. 
+
+Motor: 
+Normal bulk, tone. No fasciculations or drift. No adventitious movements. No asterixis. 
+Strength: 
+Delt Tri [**Hospital1 **] WE WF FE FF IP QD Ham DF PF Toe 
+RT: 5 4+ 5 5 5 5 5 5 5 5 5 5 4 
+LEFT: 5 4+ 5 5 5 4+ 5 5 5 5 5 5 4  
+
+Reflexes: absent DTRS, toes mute 
+
+Coordination: 
+Normal finger-to-nose, heel-to-shin, but somewhat clumbsy RAMs on 
+the left. 
+
+Gait: 
+Normal narrow based gait. Patient was frustrated, did not push further. 
+
+Pertinent Results:
+[**2019-09-05**] 06:40PM   PLT COUNT-134*
+[**2019-09-05**] 06:40PM   HYPOCHROM-1+ ANISOCYT-1+ POIKILOCY-2+  MICROCYT-2+
+[**2019-09-05**] 06:40PM   NEUTS-54.3 LYMPHS-25.3 MONOS-14.2* EOS-4.4*  BASOS-1.7
+[**2019-09-05**] 06:40PM   WBC-2.9* RBC-4.47 HGB-11.8* HCT-34.6* MCV-77*  MCH-26.5* MCHC-34.2 RDW-17.7*
+[**2019-09-05**] 06:40PM   VIT B12-784
+[**2019-09-05**] 06:40PM   ALBUMIN-4.2 CALCIUM-8.9 PHOSPHATE-3.7  MAGNESIUM-2.0
+[**2019-09-05**] 06:40PM   CK-MB-NotDone cTropnT-<0.01
+[**2019-09-05**] 06:40PM   LIPASE-21
+[**2019-09-05**] 06:40PM   ALT(SGPT)-13 AST(SGOT)-27 LD(LDH)-510*  CK(CPK)-36 ALK PHOS-94 AMYLASE-30 TOT BILI-0.5
+[**2019-09-05**] 06:40PM   GLUCOSE-121* UREA N-10 CREAT-0.6 SODIUM-142  POTASSIUM-3.8 CHLORIDE-109* TOTAL CO2-22 ANION GAP-15
+[**2019-09-05**] 11:10PM URINE  MUCOUS-RARE
+[**2019-09-05**] 11:10PM URINE  RBC-0 WBC-12* BACTERIA-OCC YEAST-NONE  EPI-<1 RENAL EPI-<1
+[**2019-09-05**] 11:10PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG  GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0  LEUK-TR
+
+Brief Hospital Course:
+Ms [**lastname 2892**] was admitted to the ICU with Q1 hour neurochecks, started on Mannitol for extreme edema.  She was also started on Dilantin for seizure prophlaxis.   She underwent resection early am of 7/14 for diagnosis and prevention of uncal herniation.   Preliminary biopsy was consistent with b-cell lymphoma. The case went without complication the posteromedial resection, it was quite difficult to distinguish between brain and tumor, and it was believed that some small residual amount of tumor was left behind.
+
+Post operatively she returned to the ICU was awake, alert and orientated X3.  Her speech was improving slowly she was neurologically intact.  Her BP was kept less than 120 overnight. Mannitol was not restarted post operatively.  Her decadron was weaned down slowly.
+
+On POD#2 she was tolerating a regular diet, voiding without difficulty.  She was transferred out of the unit to the regular floor on post operative day 3.  She was seen by physical therapy and felt safe to go home with speech therapy. Occupational therapy also felt she was safe to go home.
+
+She will need her staples out on arrival to [**Location (un) 2893**] 7 on [**09-16**]
+
+Medications on Admission:
+Allopurinol, Bupripion, propanolol, dilantin
+
+Discharge Medications:
+1. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. Bupropion 75 mg Tablet Sig: Two (2) Tablet PO AM ().  
+3. Bupropion 100 mg Tablet Sig: One (1) Tablet PO PM ().  
+4. Propranolol 80 mg Capsule, Sustained Action 24HR Sig: One (1) Capsule, Sustained Action 24HR PO DAILY (Daily).  
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed: use while taking pain medication.  
+7. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed. Disp:*60 Tablet(s)* Refills:*0*
+8. Dexamethasone 1.5 mg Tablet Sig: Two (2) Tablet PO Q8H (every 8 hours). Disp:*42 Tablet(s)* Refills:*2*
+9. Dilantin 100 mg Capsule Sig: Take 2 bid and 1 at lunch time Capsule PO see above. Disp:*30 Capsule(s)* Refills:*0*
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+B-Cell Lymphoma with brain involvement
+
+Discharge Condition:
+Neurologically stable
+
+Discharge Instructions:
+Go to 7 [**Last Name (un) 2894**] on East Campus at 1000 for Methotrexate therapy on [**09-16**] Dr [**Last Name (STitle) 1497**] will be your admitting physician [**Name9 (PRE) 2895**] incision clean and dry watch incision for redness, drainage, bleeding, swelling, fever greater than 101.5 call Dr [**Last Name (STitle) 2896**] office No driving  Have staples removed on [**Last Name (un) 2894**] 7 on arrival
+
+Followup Instructions:
+Follow up with Dr [**Last Name (STitle) 2897**] and brain tumor clinic
+
+[**First Name11 (Name Pattern1) 423**] [**Name7 (MD) 835**] MD [**MD Number 836**]
+
+Completed by: [**First Name11 (Name Pattern1) **] [**Name7 (MD) 2223**] NP 80-AKY [**2019-09-10**] @ 1324
+Signed electronically by: DR. [**First Name8 (NamePattern2) 423**] [**Last Name (NamePattern1) **] on: FRI [**2019-10-18**] 2:19 PM
+(End of Report)
+

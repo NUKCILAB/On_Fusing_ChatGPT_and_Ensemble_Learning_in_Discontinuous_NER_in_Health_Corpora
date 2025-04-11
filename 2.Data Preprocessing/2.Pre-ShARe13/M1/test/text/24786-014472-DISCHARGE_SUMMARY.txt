@@ -1,0 +1,65 @@
+14472	||||	24786	||||	293	||||	DISCHARGE_SUMMARY	||||	2015-08-08 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2015-08-06**]     Discharge Date:  [**2015-08-08**]
+
+Date of Birth:   [**1959-07-02**]     Sex:  F
+
+Service:
+
+This is a 55-year-old woman mostly [**Ethnicity **] speaking with a past medical history of schizophrenia, osteoporosis, deep vein thrombosis and seizure disorder who presented with two days of dizziness, nausea and vomiting prior to admission.
+She fell to the floor and has no history of trauma, no loss of consciousness or seizure and called EMS and the patient was referred to the emergency department.  In the emergency department the patient's vital signs were stable.  She was given one liter of normal saline for possible hypovolemia. Her sodium was noted to be 117 with urine os of 396 and after the fluid bolus there was no change in her sodium just an increase to 118.
+
+At that point the patient was admitted to [**Hospital Unit Name 154**] for hyponatremia and monitoring of seizure risk.
+
+PAST MEDICAL HISTORY:  She has chronic schizophrenia, she has DVTs with pulmonary embolus, status post an IVC filter.  She has been off Coumadin for three years.  She has a seizure disorder and osteoporosis, status post hip fracture, chronic dizziness of unknown cause, chronic abdominal pain with a negative workup thus far and anxiety.
+
+MEDICATIONS:
+1.  Depakote 750 mg Monday, Wednesday and Friday, 500 mg
+Tuesday, Thursday, Saturday, Sunday.
+2.  Dilantin 300 mg Monday, Wednesday and Friday, 200 mg
+Tuesday, Thursday, Saturday, Sunday.
+3.  Meclizine p.r.n.
+4.  Celebrex p.r.n.
+5.  Aciphix 20 mg one time a day.
+6.  Risperdal 2 mg one time a day.
+7.  Zoloft 100 mg one time a day.
+8.  Ativan 4 mg at bedtime.
+9.  Caltrate.
+
+ALLERGIES:  Tegretol.
+
+PRIMARY CARE PHYSICIAN:  [**Initials (NamePattern4) 55**]. [**Last Name (STitle) **].
+
+She lives with her husband who is currently in the hospital. She has a visiting nurse [**First Name (Titles) 521**] [**Last Name (Titles) 6944**]'s Corner, named [**First Name4 (NamePattern1) 3268**] [**Last Name (NamePattern1) 6945**].
+
+PHYSICAL EXAMINATION:  The patient was noted to have a temperature of 98.2, blood pressure 106/72, heart rate 90, respiratory rate 11 and 98% saturation on room air.  Well appearing woman interactive, no acute distress.  Oriented to hospital, oriented to month [**Female First Name (un) 714**], date 28th, years 2002. Pupils are equal, round and reactive to light.  Mucous membranes moist.  No lymphadenopathy.  Regular rate and rhythm on cardiac exam.  Chest is clear to auscultation.
+Abdomen is soft, nontender, nondistended, positive bowel sounds.  Extremities are warm, distal pulses are 2+ and pneumo boots are in place.
+
+ADMISSION LABS:  White blood count is 5.2, hemoglobin 10.2, hematocrit 29.2.  White blood cell differential 81 neutrophils, 3 bands, 12 lymphs, 4 monos.  Her platelet count was 244.  Her INR was 1.2.  A urinalysis was negative.  Her sodium was 117, potassium 3.2, chloride 83, bicarbonate 22,
+BUN 3, creatinine 0.3, glucose 137.  Her calcium was 8.2, potassium 2.0, magnesium 1.3.  Her urine osmolality was 396. Her urine sodium 133.  Her Dilantin level was 13.9, Depakote 29.
+
+X-ray done on the abdomen showed no evidence of obstruction.
+
+The patient was put on fluid restriction of less than 1.5 liters per day for stress induced possibly psychogenic polydipsia, Syndrome of inappropriate diuretic hormone which was causing her hyponatremia.  Her sodium was found to recover quickly with fluid restriction going from 117 to 130 in less than 24 hours.  She was at this point considered stable for transfer to the medicine floor and on [**2015-08-07**] was transferred.  She was continued on a fluid restriction of 1.5 liters and monitored neurologically given her fairly rapid sodium correction.  She was continued on her seizure medications with no change in outpatient regimen.  Her
+Depakote level was subtherapeutic however, alterations of these medications was deferred to her primary care physician who is also the attending for alteration as an outpatient. Her Dilantin level was however therapeutic.  She continued on her psychiatric medications with no change from her outpatient regimen.
+
+She was anemic with a hematocrit decreased to 29 from 36.4 which was several days prior to admission.  She was guaiac negative and iron study follow-up was recommended.  The patient a was put on pneumatic boots given her pulmonary embolism and deep vein thrombosis history.
+
+During the remainder of her stay her white blood count decreased to 4.6, her hemoglobin was 10.8, platelets 266.
+Her sodium increased to 137, potassium 4.1, chloride 103, bicarbonate 24.  Her BUN was 9, creatinine 0.4, glucose 73.
+Calcium was 8.6, potassium 3.0.  Magnesium 2.0.
+
+At this point patient considered to be stable for discharge to home with follow-up with VNA.  The patient's VNA nurse [**First Name (Titles) **] [**Last Name (Titles) 6946**] and agreed the meet the patient at home to go over her medications and the necessity for fluid restriction to less than six cups of liquid per day.  VNA also agreed to follow-up with the patient the next day after discharge.  The patient was given one prescription for Ativan 4 mg q h.s. and states that the rest of her supply of medications is adequate.
+
+The patient transferred home with instructions to follow-up with her primary care physician.
+
+[**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 3173**]
+
+Dictated By:[**Dictator Info 6809**]
+
+MEDQUIST36
+
+D:  [**2015-08-09**]  13:20
+T:  [**2015-08-10**]  19:45
+JOB#:  [**Job Number 6947**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] on: [**Doctor First Name 19**] [**2015-08-20**] 2:03 PM (End of Report)
+

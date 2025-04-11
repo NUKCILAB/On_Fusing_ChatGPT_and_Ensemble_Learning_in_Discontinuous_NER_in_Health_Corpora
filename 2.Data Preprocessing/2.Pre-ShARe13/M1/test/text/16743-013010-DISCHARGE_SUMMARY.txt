@@ -1,0 +1,21 @@
+13010	||||	16743	||||	17174	||||	DISCHARGE_SUMMARY	||||	2013-09-02 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2013-08-28**]       Discharge Date: [**2013-08-30**]
+
+Date of Birth:   [**1959-03-05**]       Sex:  M
+
+Service:
+
+Th[**Last Name (STitle) 3796**]a 54-year-old male with a known mitral valve prolapse since adolescence who developed significant regurgitation.
+He was taken to the Operating Room on [**2013-08-28**] where a mitral valve repair was done.  The patient did well postoperatively and was transferred to the CSRU.  He was fully weaned from his ventilator and extubated.  He continued to improve. Physical therapy was consulted for ambulation and he did well postoperatively.  The chest tube was removed.  His Foley was pulled and he was kept on A-pacing due to slow return of sinus rhythm.  He was transferred to the floor on postoperative day #2.  He continued to improve.  His chest tube was pulled.  His Foley had been removed at midnight.  He improved and physical therapy came to see him.  They suggested for him to go home with full ambulation.  His wires were removed on postoperative day #2 and on postoperative day #3, the patient was discharged home on stable condition.  He was given prescriptions for Percocet 1 to 2 tablets po q4h, Zantac 150 po bid, Colace 100 po bid, KCL 20 milliequivalents po bid, Lasix 20 mg po bid, Motrin 400 po q6h prn.  The patient is instructed to follow up in one to two weeks with is primary care physician and four to six weeks with Dr. [**Name Prefix (Prefixes) 3797**] [**Last Name (Prefixes) **].  The patient is discharged in stable condition.
+
+[**Doctor Last Name **] [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **], M.D.  [**MD Number 473**]
+
+Dictated By:[**Dictator Info 3798**]
+MEDQUIST36
+
+D:  [**2013-08-30**]  10:36
+T:  [**2013-08-30**]  10:45
+JOB#:  [**Job Number 3799**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] on: TUE [**2013-09-24**] 1:58 PM
+(End of Report)
+

@@ -1,0 +1,198 @@
+7416	||||	25775	||||	16234	||||	DISCHARGE_SUMMARY	||||	2017-02-22 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2017-01-31**]              Discharge Date:   [**2017-02-22**]
+
+Date of Birth:  [**1937-06-16**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies: 
+Penicillins / Cephalosporins
+
+Attending:[**Attending Info 474**] 
+Chief Complaint:
+knee pain, fever
+
+Major Surgical or Invasive Procedure:
+Incision and drainage of left septic knee on [**2017-02-01**].
+
+History of Present Illness:
+Ms. [**lastname 475**] is a 79 yo female with a history of CAD and CHF with EF of 20%, CKD who presents wtih left knee pain. 
+
+Patient was recently admitted [**Date range (1) 476**] with MSSA sepsis with unknown source. TEE was negative for vegetations, but since she has a pacemaker she was treated with 6 weeks of oxacillin. She was discharged to Epoch rehab but readmitted [**12-26**] with fevers. 
+Blood cultures were negative. PICC line was changed and did not grow any bacteria. TEE showed fibrinous material on the pacer lead, but this was not felt to be the cause of the fevers. CT showed pleural effusion but this was thought to be due to CHF and not infection. There was some thought that the fevers were due to beta lactam allergy. The patient was treated with vancomycin for two weeks.
+
+Patient reports that four days prior to admission she began to participate in physical therapy and two days prior to admission she began to note left knee pain. This has been progressing over the past day. On the day of admission she developed a temperature of 99.2 and shaking chills. ESR was 79 and a portable X ray showed mild arthritis. She was sent to the [**Doctor First Name 77**] for evaluation.
+
+In the [**Doctor First Name 77**] she was afebrile. Knee was visibly swollen, erythematous and warm. Arthrocentesis was performed which yielded 10 cc of yellow fluid. LDH 1167, glucose 63, wbc 42900 rbc 1250, 78 PMN. Gram stain: 4+ pmn, 1+ Gram positive cocci. culture pending.
+
+She received tylenol, vancomycin one gram, ceftriaxone one gram and 3 [**Location 477**]. 
+
+Upon admission to the floor patient was without any localizing symptoms.
+
+Past Medical History:
+1. Coronary artery disease; s/p CABG X4 2001; s/p PCA with stent 
+
+to D1  
+- [**03-17**] ETT: 8.75 min [**Doctor Last Name 478**] protocol (~5.5 METS). LV  dysfunction in the absence of angina or ischemic EKG  
+2. CHF- EF 20%  
+[**2016-11-28**] Echo : [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 479**] dilated, RA moderately dilated, severe 
+
+global LV hypoK, RV sys fxn borderline normal, trace AR, 3+ MR,  
+
+3+ TR, no mass/vegetation visualized.  
+3. HTN  
+4. Hypercholesterolemia -- 5. DM2- c/b nephropathy and retinopathy - [**2016-11-25**] HgbA1C 6.1%  
+6. H/o AF w/ RVR in post-op period; s/p cardioversion  
+7. Anemia: HCT 28-31  
+- iron studies [**04-14**] low iron, TIBC/ferritin nl  - [**11-16**] vit B12/folate wnl  
+8. Chronic renal insufficiency: baseline Cr 1.4-1.6  
+9. GERD  
+10. s/p CCY  
+11. s/p hernia repair.  
+12. History of E alloantibody with hemolytic reaction to blood  transfusions requiring E negative blood.  
+13. s/p AICD  
+14. Afib
+
+Social History:
+Lives at Epoch [**Location (un) 480**]  
+Quit smoking 40 years ago  
+EtOH: occasional  
+Daughter is involved with pt's care  
+
+Family History:
+Noncontributory
+
+Physical Exam:
+VS- 99.4 68 130/60 23 93% ra 
+GEN- Pt. lying supine with eyes closed at 30 degrees HOB, NAD HEENT- PERRL, EOMI, anicteric, MMM, OP clear, white film on tongue removable by patient with teeth   NECK- no [**Female First Name (un) **], supple, non tender, JVP 12cm. CV- Irregular, +s1/s2, no s3/s4, II/VII late diastolic murmur at RUSB and III/VI SEM at LLSB. 
+LUNGS- Decreased BS at left base, otherwise clear.  
+ABD- Soft,+BS, NT/ND/NR, mild bruising over abd with hyperpigementation over lower abdomen, no flank tenderness, no mass, no pulsation EXT- Left knee with swelling, mild erythema, significnat warmth, pain with active and passive ROM, evidence of effusion.  Sensation intact. 2+ DP pulses bilaterlly. 1+ pitting edema left leg, trace edema right leg
+NEURO- A&Ox2 (not date)  
+
+Pertinent Results:
+
+HEME
+
+[**2017-01-31**] 03:30PM BLOOD WBC-7.1 RBC-2.59* Hgb-9.0* Hct-26.6* 
+MCV-103* MCH-34.6* MCHC-33.7 RDW-18.5* Plt Ct-113*
+[**2017-02-01**] 06:05AM BLOOD WBC-8.8 RBC-2.48* Hgb-8.4* Hct-25.4*  MCV-103* MCH-33.8* MCHC-32.9 RDW-18.2* Plt Ct-100*
+[**2017-02-03**] 06:45AM BLOOD WBC-7.2 RBC-3.44*# Hgb-11.1*# Hct-33.7*  MCV-98 MCH-32.3* MCHC-33.0 RDW-20.8* Plt Ct-83*
+[**2017-02-03**] 06:45AM BLOOD Neuts-64.6 Bands-0 Lymphs-27.1 Monos-3.9  Eos-3.8 Baso-0.6
+[**2017-02-03**] 06:45AM BLOOD Hypochr-1+ Anisocy-1+ Poiklo-1+  Macrocy-2+ Microcy-NORMAL Polychr-NORMAL Ovalocy-OCCASIONAL Target-OCCASIONAL Burr-OCCASIONAL
+
+CHEM
+
+[**2017-01-31**] 03:30PM BLOOD Glucose-144* UreaN-40* Creat-1.7* Na-135 
+K-5.2* Cl-102 HCO3-23 AnGap-15
+[**2017-02-01**] 06:05AM BLOOD Glucose-190* UreaN-41* Creat-1.8* Na-134  K-5.2* Cl-103 HCO3-22 AnGap-14
+[**2017-02-03**] 06:45AM BLOOD Glucose-117* UreaN-40* Creat-1.7* Na-136  K-5.3* Cl-104 HCO3-19* AnGap-18
+
+LFT
+
+[**2017-02-02**] 05:35AM BLOOD ALT-14 AST-18 LD(LDH)-382* AlkPhos-127* 
+TotBili-0.7
+
+LYTES / IRON / CRP / TSH
+
+[**2017-02-03**] 06:45AM BLOOD Calcium-8.6 Phos-3.1 Mg-2.1
+[**2017-02-02**] 05:35AM BLOOD calTIBC-156* VitB12-607 Folate-12.8  Hapto-205* Ferritn-1702* TRF-120*
+[**2017-02-02**] 05:35AM BLOOD TSH-7.5*
+[**2017-02-01**] 06:05AM BLOOD CRP-230.1*
+
+CXR
+
+UPRIGHT AP CHEST: A pacemaker ICD device overlies the left chest, with leads overlying the right atrium and right ventricle. The patient is post-median sternotomy. There is unchanged cardiomegaly. Mediastinal and hilar contours are normal. Since the prior exam, there is no significant change in the amount of interstitial pulmonary edema. The right pleural effusion may be slightly enlarged. There is a small left effusion, unchanged.
+
+IMPRESSION: Unchanged degree of congestive failure.
+
+KNEE XRAY
+
+LEFT KNEE, TWO VIEWS: There is normal mineralization of the depicted osseous structures. Osteophytes are seen along the medial tibial plateau as well as the superior aspect of the patella. There are no definite cortical erosions. Surgical clips are seen in the medial aspects of the calf.
+
+IMPRESSION: No definite evidence for osteomyelitis. Please note that bone scan or MRI is more sensitive for this diagnosis.
+
+TTE
+
+Conclusions:  
+1. The left atrium is moderately dilated. The right atrium is markedly   dilated.  
+2. The left ventricular cavity size is normal. There is severe global left   ventricular hypokinesis. Overall left ventricular systolic function is   severely depressed.  
+3. The right ventricular cavity is dilated. Right ventricular systolic   function appears depressed.  
+4. The aortic valve leaflets (3) are mildly thickened. No aortic regurgitation   is seen.  
+
+the rest is per OMR...
+
+Brief Hospital Course:
+79 year old woman with history of CAD and CHF, recent MSSA sepsis s/p 6 weeks IV antibiotics presents with septic arthritis, anemia, thrombocytopenia.  She was treated with IV vancomycin, had I&D of left knee and washout.  During the [**Hospital Unit Name **] course, patient was grossly volume overloaded to her resuscitation for sepsis.  Volume management ws attempted with natrecor drip and other means of diuresis as it was primarily due to CHF.  No HD was offered as patient as there was no clinical indication.  Patient was DNR/DNI and she was not intubated.  As her respiratory status worsened, family meeting was held and it was decided to make the patient CMO.  She expired on [**2017-02-22**].
+
+RESPIRATORY:  
+Distress: Most likely due to fluid overload for CHF EF 15-20% with 2+MR, she had minimal diuresis on floor and was given IVF for her worsening renal failure. Patient on CXR also had evidence of conolidation/atelctasis on RLL and possible RUL septic emboli which could be source of resp symptoms. Pacer rate adjusted by EP and increased to 70. Patient intially improved with afterload reduction with hydralazine along with improved diuresis. Patient continued to be in worsening respiratory dispress requiring prn BiPap despite natrecor drip started with cardiology consulting service. On [**02-19**] after family meeting it was agreed to move towards DNR/DNI care.  Patient was subsequently made CMO and expired on [**2017-02-22**].
+
+ID: She had a recent bacteremia of unknown source, for which she completed 6 weeks of appropriate antibiotic therapy.  She presented to the [**Doctor First Name 77**] with knee pain, redness, warmth, and was found to have a septic arthritis with significant leukocytosis in the aspirated synovial joint.  SHe was intially given ceftriaxone in the [**Doctor First Name 77**] with vancomycin.  On admission to the floor, the ceftriaxone was stopped and the vancomycin was continued (renally dosed).  Orthopaedics was consulted and took the patient to the OR on [**2017-02-01**] for incision and drainage of the left knee.  Significant pus was drained from the knee.  Cultures showed methicillin sensitive staphylococcus aureus. Infectious disease was consulted, who agreed with initial choice of antibiotics.  The only source of recurrent bacteremia identified was her pacemaker wires, which on TEE in October had fibrinous material noted. She had no other obvious source.  A repeat TTE was done on [**2017-02-02**], which did not show evidence of endocarditis.  
+
+Despite continued vancomycin therapy (goal trough 15-20), pt continued to have low grade fevers to 100.5 daily, and chest xray revealed a possible consolidation in the lower lobe.  
+Therefore, pt was started on levofloxacin in addition to vancomycin.
+
+Pt was taken to OR on [**2017-02-09**] for pacer extraction by the electrophysiology service.  All anticoagulants except aspirin were discontinued prior to this date.
+
+# Basilic vein thrombosis: On hospital day 7, pt was noted to have upper extremity swelling in left>right, and vascular ultrasound revealed a thrombosis of the basilic vein.  Despite this, anticoagulation was discontinued given the severe risks of anticoagulation in the setting of pacer extraction.
+
+# CHF: EF 15-20%  Initially diuretics held given renal insufficiency, however, as renal function stabilized, home dose furosemide was restarted, then increased as needed for gentle diuresis.  Pt did develop pleural effusions as a result of mild-moderate volume overload.  She was not a hemodialysis candidate after discussion with the family, with respect to patient's wishes and her prognosis.  Patient's diuresis was attempted with standing diuretics and natrecor drip.  Cardiology service was consulted to help manage her CHF.  Patient despite the natrecor drip continue to remain volume overloaded with a progressively compromised pulmonary status.
+
+# AFIB: NSR. On amiodarone with ICD / pacer.  Continue amiodarone.  TSH was checked as monitor on drug, and was found to be elevated at 7.  She is clinically euthyroid, and decision to treat this will be made as outpatient. EP was consulted regarding pacer wires, and the pacer was interrogated.  Pacer was removed on [**2017-02-09**] due to bactermia.
+
+CAD / HTN: Continued beta blocker, aspirin, plavix, imdur, lipitor.  She did not have any chest pain or difficulty breathing during hospitalization.
+
+CKD: Creatinine at baseline. Clearance 19 on admission.
+
+ANEMIA: thought to be due to CKD with decreased epogen, and iron studies revealed an anemia of chronic disease. We continued procrit, and she was transfused on [**2017-02-02**].  She responded well to the transfusion. 
+
+THROMBOCYTOPENIA: She has a chronically low level of platelets.  They usually are around low 100s.  On [**2017-02-03**] her platelets were measured as 80s.  The platelets were remeasured in a yellow top tube to verify a true drop in platelets, and the repeat was 105.  
+
+COAGULOPATHY: Chronically elevated INR or unclear etiology.  This was felt to likely be due to either nutritional deficiencies or to a factor deficiency.  There was no evidence of bleeding, so nothing was done.
+
+DM 2: Continued lantus and humalog sliding scale.
+
+PREOPERATIVE RISK: In terms of the patient's preoperative risk, she has had recent revascularization in the last 5 years with a stress test in [**2014**] that showed no ischemic changes with exercise. She is currently unable to exercise, but based on these previous tests she does not require further testing prior to surgery. The surgery is an intermediate risk. However, she does have severe CHF with EF of 20%, CKD and diabetes which put her at risk for perioperative complications such as hypoxia, elevated blood sugars and further kidney dysfunction. 
+
+Medications on Admission:
+colace 100 mg bid
+Amiodarone 200 mg daily
+Imdur 30 mg daily
+Procrit 4000 U MWF
+ASA 81 mg daily
+MVI with minerals daily
+Lsix 40 mg daily, hold Wt < 175
+KCL 20 mEq with lasix
+lipitor 10 mg daily
+Prilosec 20 mg daily
+Plavix 75 mg daily
+tylenol 650 mg bid
+lopressor 50 mg tid
+hydralazine 10 mg qid
+calcium 600 mg bid
+lantus 20 U sc qhs
+
+Discharge Medications:
+expired
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+expired
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+expired
+
+Followup Instructions:
+expired
+
+[**Doctor First Name **] [**First Name8 (NamePattern2) **] [**Name8 (MD) **] MD [**MD Number 481**]
+
+Completed by: [**Name6 (MD) 482**] [**Name8 (MD) 483**] MD [**MD Number 484**] [**2017-05-24**] @ 0945
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on: SUN [**2017-06-11**] 7:23 PM
+(End of Report)
+

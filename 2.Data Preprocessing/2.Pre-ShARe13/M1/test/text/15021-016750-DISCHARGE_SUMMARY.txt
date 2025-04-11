@@ -1,0 +1,83 @@
+16750	||||	15021	||||	15806	||||	DISCHARGE_SUMMARY	||||	2011-05-26 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2011-05-19**]       Discharge Date:  [**2011-05-26**]
+
+Date of Birth:   [**1937-10-04**]       Sex:  F
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  This is a 73-year-old female who has been experiencing exertional chest discomfort since last Fall.  She has chest discomfort after climbing one flight of stairs or walking up an incline.  She denies any rest symptoms.  She deferred medical treatment until January because her husband was terminally ill and passed away this
+Fall.
+
+She went to her primary care physician in [**Name9 (PRE) 3181**] and was sent for a routine stress test which revealed 1-mm to 1.5-mm ST depressions in the inferior and anterolateral leads at peak exercise.  She was subsequently referred for a stress echocardiogram and had 3-mm ST depressions in leads II, III, aVF, and in V4, V5, and V6; that normalized by 10 minutes of recovery.  The pre-stress echocardiogram showed basilar inferior hypokinesis and an ejection fraction of 60%.  The post stress echocardiogram showed appropriate augmentation with a question of inferobasilar hypokinesis.
+
+She underwent cardiac catheterization at [**Hospital 22**] on [**2011-05-11**] which revealed severe aortic stenosis.  No mitral regurgitation.  An ejection fraction of 66%.  Clean coronary arteries except for less than 20% ostial left main stenosis.
+
+PAST MEDICAL HISTORY:  (Her past medical history is significant for)
+1.  History of hypertension.
+2.  History of hyperlipidemia.
+3.  History of osteoporosis.
+4.  History of basal cell carcinoma of the face.
+5.  Status post left oophorectomy.
+
+MEDICATIONS ON ADMISSION:  (Her medications on admission were)
+1.  Fosamax 70 mg p.o. ever week.
+2.  Evista 60 mg p.o. once per day.
+3.  Cholestyramine two scoops once per day.
+4.  Gemfibrozil 600 mg p.o. twice per day.
+5.  Spironolactone 25 mg p.o. once per day.
+6.  Aspirin 81 mg p.o. once per day.
+
+ALLERGIES:  She has no known drug allergies.
+
+SOCIAL HISTORY:  Her social history is significant in that she does not smoke cigarettes.
+
+FAMILY HISTORY:  Family history is significant for cerebrovascular accident.
+
+PHYSICAL EXAMINATION ON PRESENTATION:  On physical examination, she was a well-developed elderly white female in no apparent distress.  Vital signs were stable.  The patient was afebrile.  Head, eyes, ears, nose, and throat examination revealed normocephalic and atraumatic.  Extraocular movements were intact.  The oropharynx was benign.  The neck was supple with full range of motion.  No lymphadenopathy or thyromegaly.  Carotids were 2+ and equal bilaterally and without bruits.  The lungs were clear to auscultation bilaterally.  Cardiovascular examination revealed a regular rate and rhythm.  Normal first heart sounds and second heart sounds.  A [**03-31**] murmur was heard best at the second intercostal space, left sternal border, and right sternal border.  She had no rubs.  Her murmur radiated to both carotids.  Her abdomen was soft and nontender with positive bowel sounds.  No masses or hepatosplenomegaly.  Extremity examination revealed no clubbing, cyanosis, or edema.  Pulses were 2+ and equal bilaterally throughout except for the posterior tibialis which was 1+ and equal bilaterally.
+Neurologic examination was nonfocal.
+
+HOSPITAL COURSE:  On [**05-19**], the patient underwent an aortic valve replacement with a 21-mm Mosaic porcine valve.
+Cross-clamp times 65 minutes.  Total bypass times was 91 minutes.
+
+She tolerated the procedure well and was transferred to the
+Cardiothoracic Surgery Recovery Unit in stable condition.
+She was extubated postoperative night and was on some
+Neo-Synephrine on postoperative day one.
+
+On postoperative day two, she was off her drips.  On postoperative day three, she was transferred to the floor in stable condition.  Her wires were discontinued.  Her chest tube were discontinued on postoperative day two.  She continued to progress.  She did go into postoperative atrial fibrillation and was treated with Lopressor, and she converted to a sinus rhythm but did have intermittent runs atrial fibrillation and was anticoagulated.
+
+DISCHARGE STATUS:  On postoperative day seven, she was discharged to home.
+
+CONDITION AT DISCHARGE:  Condition on discharge was stable.
+
+MEDICATIONS ON DISCHARGE:
+1.  Colace 100 mg p.o. twice per day.
+2.  Percocet one to two tablets p.o. q.4-6h. as needed (for pain).
+3.  Potassium 20 mEq p.o. twice per day (times seven days).
+4.  Lasix 20 mg p.o. twice per day (times seven days).
+5.  Aspirin 81 mg p.o. once per day.
+6.  Lopressor 75 mg p.o. twice per day.
+7.  Coumadin 1 mg p.o. q.h.s.
+8.  Evista 60 mg p.o. once per day.
+9.  Fosamax 70 mg p.o. every week.
+10.  Gemfibrozil 600 mg p.o. twice per day.
+11.  Cholestyramine two scoops once per day.
+
+PERTINENT LABORATORY DATA ON DISCHARGE:  Her laboratories on discharge revealed hematocrit was 30.6, white blood cell count was 9,400, and platelets were 500,000.  Sodium was 131, potassium was 4.1, chloride was 103, bicarbonate was 25, blood urea nitrogen was 9, creatinine was 0.7, and blood glucose was 87.  Prothrombin time was 16.8 with an INR of
+1.9.
+
+DISCHARGE INSTRUCTIONS/FOLLOWUP:
+1.  She was to be followed by Dr. [**Last Name (STitle) 3182**] for an appointment in one to two weeks and by Dr. [**Last Name (STitle) 339**] for an appointment in six weeks.
+2.  She was to have her coagulations drawn and called in to
+Dr.[**Last Name (STitle) 3183**] office.
+
+[**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 340**]
+
+Dictated By:[**Dictator Info 1046**]
+MEDQUIST36
+
+D:  [**2011-05-26**]  14:59
+T:  [**2011-05-26**]  17:21
+JOB#:  [**Job Number 3184**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on: [**Doctor First Name 32**] [**2011-06-02**] 12:44 PM (End of Report)
+

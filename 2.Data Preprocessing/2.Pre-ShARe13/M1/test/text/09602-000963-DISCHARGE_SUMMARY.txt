@@ -1,0 +1,70 @@
+963	||||	9602	||||	20303	||||	DISCHARGE_SUMMARY	||||	2013-12-21 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2013-12-18**]     Discharge Date:  [**2013-12-21**]
+
+Date of Birth:   [**1959-05-23**]     Sex:  M
+
+CHIEF COMPLAINT:  Chest pain.
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**lastname 2915**] is 54-year-old gentleman with a history of hypertension, coronary artery in [**2012-05-08**].  He is status post percutaneous transluminal coronary angioplasty and stent of his middle left anterior descending artery and diagonal who presents from an outside hospital with 45 minutes of crushing chest pain at rest which began in his left arm then to his right arm associated with diaphoresis.  An electrocardiogram revealed 2-mm to 3-mm ST elevations in V1 through V3 with which was improved with aspirin and sublingual nitroglycerin. The patient was given morphine, Lopressor, and started on heparin in the Emergency Room at the outside hospital.  He was sent to [**Hospital 43**] for cardiac
+catheterization.
+
+Cardiac catheterization revealed the patient had 2-vessel coronary artery disease, right-dominant system, left anterior descending artery occluded distal to the origin, proximal left anterior descending artery underwent percutaneous transluminal coronary angioplasty with stent placement, left main coronary artery was patent, his left circumflex showed minimal luminal irregularities, 80% stenosis of distal vessel, right coronary artery showed minimal luminal irregularities throughout with 60% proximal stenosis.
+
+PAST MEDICAL HISTORY:
+1.  Hypertension.
+2.  Coronary artery disease, status post catheterization on
+[**2012-05-08**], where he received percutaneous transluminal coronary angioplasty with stent placement to his middle left anterior descending artery and second diagonal.
+
+SOCIAL HISTORY:  He does not smoke.  No history of intravenous drug use.  Occasional alcohol use.  He is a computer programmer.  He is married with three children.
+
+FAMILY HISTORY:  Family history is negative for coronary artery disease.
+
+MEDICATIONS ON ADMISSION:  He is on Lipitor 10 mg p.o. q.h.s. and aspirin 325 mg p.o. q.d.
+
+ALLERGIES:  No known drug allergies.
+
+PHYSICAL EXAMINATION ON PRESENTATION:  Vital signs on admission were temperature of 98.5, pulse 80 to 82, blood pressure 127/73, satting 95% on 2 liters.  He was a well-developed white male in no apparent distress.  HEENT revealed he had no jugular venous distention.  Sclerae were anicteric.  Cardiovascular had a regular rate and rhythm.
+Fourth heart sound was present.  No murmurs, rubs or gallops. Respiratory revealed lungs were clear to auscultation bilaterally.  Abdomen revealed good bowel sounds, nontender, and nondistended.  Extremities revealed right groin area revealed no hematoma.  Pulses were 2+.  No femoral bruits auscultated.  No lower extremity edema.
+
+LABORATORY DATA ON PRESENTATION:  Hematocrit 36.4, white blood cell count 12.7, platelets of 119.  Creatine kinases were 5928.  INR 1.1, PT 12.4, PTT 23.2.  BUN 12, creatinine 0.8, potassium 4.1.
+
+HOSPITAL COURSE:   The patient had no post catheterization complications.  The patient's right groin area was stable post catheterization.  There was no hematoma palpated or femoral bruit auscultated.  His femoral, dorsalis pedis and posterior tibialis pulses were 2+.  His hematocrit and creatinine remained stable throughout his hospital stay.  He denied any chest pain, flank, or leg pain.
+
+After catheterization, his creatine kinases were 5928 and fell to 638 at the time of discharge.  An echocardiogram showed the left atrium was mildly dilated.  He had mild symmetric left ventricular hypertrophy.  His left ventricle was mildly dilated.  His left ventricular systolic function was mildly depressed with middle, distal, septal, and anterior akinesis with apical dyskinesis.  His left ventricular systolic function was within normal limits.  He had 1+ mitral regurgitation and 1+ aortic regurgitation.
+
+As a result of the echocardiogram findings, he was started on Coumadin 5 mg p.o. q.h.s. and will need to have his INR checked by his cardiologist, Dr. [**First Name (STitle) **], in five days.  He was started on Zocor for an LDL of 140.
+
+CONDITION AT DISCHARGE:  Condition on discharge at the time of discharge was stable.
+
+DISCHARGE STATUS:  Discharged to home.
+
+DISCHARGE INSTRUCTIONS:  Return to the Emergency Room if he developed chest pain, flank pain, back pain, or leg pain.
+
+DISCHARGE FOLLOWUP:   Follow up with his cardiologist,
+Dr. [**First Name (STitle) **], to have your INR checked in five days.
+
+MEDICATIONS ON DISCHARGE:
+1.  Aspirin 325 mg p.o. q.d.
+2.  Captopril 12.5 mg p.o. t.i.d.
+3.  Plavix 75 mg p.o. q.d. for a total of 30 days.
+4.  Toprol-XL 25 mg p.o. q.d.
+5.  Zocor 20 mg p.o. q.d.
+6.  Coumadin 5 mg p.o. q.h.s.
+7.  Sublingual nitroglycerin 0.4 mg q.5min. p.r.n. for chest pain.
+
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2758**], M.D.  [**MD Number 2759**]
+
+Dictated By:[**Dictator Info 1087**]
+
+MEDQUIST36
+
+D:  [**2013-12-23**]  13:55
+T:  [**2013-12-26**]  14:38
+JOB#:  [**Job Number 2916**]
+
+(cclist)
+Dr. [**First Name (STitle) **]
+
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2758**] on: FRI [**2013-12-27**] 8:38 PM
+(End of Report)
+

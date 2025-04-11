@@ -1,0 +1,150 @@
+11060	||||	12582	||||	29587	||||	DISCHARGE_SUMMARY	||||	2020-06-02 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2020-05-30**]              Discharge Date:   [**2020-06-02**]
+
+Date of Birth:  [**1934-03-03**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 4744**] 
+Chief Complaint:
+food impaction
+
+Major Surgical or Invasive Procedure:
+EGD
+manommetry
+
+History of Present Illness:
+86 yo M with PMHx signifiacnt for achalasia, hiatal hernia and history of food impaction x 2 p/w initially yesterday to [**Hospital Unit Name 154**] for another episode of food impaction after having some cornmeal.  Per pt, shortly afterwards takin the cornmeal, he felt that food got stuck in his throat to the point where he was unable to keep food down or even saliva.  No other compalints at the time.
+
+In the [**Doctor First Name **], afebrile, VSS, pt reported some CP w/ associated SOB. EKG which showed RBBB (old) and CXR done which was unremarkable. He was transferred to the ICU from the [**Doctor First Name **] so EGD could be performed.  
+
+In the [**Hospital Unit Name 154**], EGD showed food compaction in the lower third of the esophagus and gastroesophageal junction, which was pushed through and removed. Pale and friable mucosa at the GE junction and large paraesophageal hernia with possible torsion. Otherwise normal EGD to second part of the duodenum.  He was successfuly extubated this am and VS remained stable.  He was called out to the floor for further evaluation of his paraesophageal hernia. 
+
+Past Medical History:
+(1) Hypertension.  
+(2) Hypercholesterolemia.  
+(3) Kidney stone.  
+(4) Right hydrocele.  
+(5) Spinal stenosis.  
+(6) Right inguinal hernia status post repair.  (7) Hiatal hernia.  
+(8) Food impaction x 2.  
+
+Social History:
+He does not smoke or drink. He is retired.  
+
+Family History:
+A cousin has gastric cancer.
+
+Physical Exam:
+T 96.5 HR 64 BP 173/81 RR 18 O2Sat 99%RA
+Gen: NAD  
+Heent: Perrla, EOMI  
+Lungs: CTA b/l  
+Heart: RRR S1/S2 no murmurs  
+Abdomen: soft, NT  
+Ext: no edema  
+Neuro: AAOx3  
+
+Pertinent Results:
+Admission labs:
+
+[**2020-05-31**] 04:28AM BLOOD WBC-6.4 RBC-4.48* Hgb-13.2* Hct-37.8* 
+MCV-85 MCH-29.5 MCHC-34.9 RDW-13.8 Plt Ct-137*
+[**2020-05-31**] 04:28AM BLOOD PT-12.9 PTT-31.8 INR(PT)-1.1
+[**2020-05-31**] 04:28AM BLOOD Glucose-92 UreaN-14 Creat-1.1 Na-143  K-3.8 Cl-107 HCO3-30 AnGap-10
+
+Discharge labs:
+
+[**2020-06-02**] 04:20AM BLOOD WBC-4.4 RBC-4.79 Hgb-13.9* Hct-39.6* 
+MCV-83 MCH-29.0 MCHC-35.0 RDW-13.7 Plt Ct-141*
+[**2020-06-02**] 04:20AM BLOOD PT-12.7 PTT-30.9 INR(PT)-1.1
+[**2020-06-02**] 04:20AM BLOOD Glucose-112* UreaN-8 Creat-1.1 Na-142  K-3.6 Cl-105 HCO3-32 AnGap-9
+[**2020-06-02**] 04:20AM BLOOD Calcium-8.6 Phos-3.8 Mg-2.2
+
+CXR ([**2020-05-30**])
+IMPRESSION:  Stable appearance of chest with no evidence of radiopaque foreign body or pneumomediastinum. 
+
+EGD ([**2020-05-30**])
+Findings: Esophagus:  
+Contents: Solid food mixed with fluid was seen impacted in the lower third of the esophagus and gastroesophageal junction. Due to risk of aspiration the endoscope was withdrawn and patient was intubated for airway protection. Repeat endoscopy showed large pieces of solid food in the distal esophagus. Several pieces of food material were successfully removed using a snare and [**Doctor Last Name **] net. Subsequently the GE junction was clearly visualized. The remiander of the food particles were gently pushed into the stomach lumen under direct endoscopic visualization. The stomach and duodenum appeared normal.  Retroflexion in the antrum showed a large paraesophageal hernia with food material in the hernia sac. Some of this material was suctioned successfully. The mucosa in the distal esophagus appeared pale and friable suggestive of possible ischemic changes. Additionally a torsion of the hernia sac could not be ruled out.  
+Stomach: Normal stomach.  
+Duodenum: Normal duodenum.  
+Impression: Food in the lower third of the esophagus and gastroesophageal junction. (foreign body removal)   Pale and friable mucosa at the GE junction.Large paraesophageal hernia with possible torsion. Otherwise normal EGD to second part of the duodenum  
+
+CXR ([**2020-05-31**])
+IMPRESSION: Scarring versus atelectasis in right lung base. No acute process.
+
+Barium swallow ([**2020-06-01**])
+BARIUM ESOPHAGRAM: Esophagus demonstrates nonpropulsive tertiary contraction. A moderate axial hiatal hernia is present. Lower esophageal sphincter opens normally without evidence of achalasia. A 13-mm barium tablet passes freely through the esophagus without holdup. Small amount of gastroesophageal reflux was demonstrated during the exam.
+
+IMPRESSION: Findings consistent with presbyesophagus. Moderate axial hiatal hernia.
+
+Esophageal manometry ([**2020-06-02**]) [**Location (un) 478**] pending
+
+Brief Hospital Course:
+The patient is a 86 y/o male with PMHx of achalasia, hiatal hernia food impaction p/w other episode of food impacted in esophagus after eating a meal s/p EGD evacuation.  His hopsital course during this admission is as follow:
+
+1 Food Impaction s/p EGD evacuation: his typical presentation of food impaction symptoms.  risk factors ?achalasia (or other GI motility disorder) and HH hernia.  EGD yesterday again revealed food impaction and was pushed through into the stomachand evacuated, also with type III paraesophageal hernia with ? torsion.  Pt tolerated the procedure very well, and remained asymtomatic post procedure. He was started on PPI post EGD.  Surgery was consulted given concerns of infarction vs tortion of hernia, he underwent a UGI series and esophageal manometry test prior to discharge in preparation for potential surgery and will be evaluated this Thursday after discharge by Dr. [**Last Name (STitle) **] for possible surgery late this week.  He was started on clear liquid diet which he tolerated well, and he was to continue soft diet post discharge until he sees Dr. [**Last Name (STitle) **] this Thursday for surgical evaluation.
+
+2 HTN: No current issues, continued bb, aceI, and [**Last Name (un) **] (home meds); hold lasix while given IVFs or on clear liquid diet.
+
+3 hypercholesterolemia: continued statin  
+
+4 ppx: ppi, sc hep, bowel regimen  
+
+5 fen: initially npo with ivf, then started clear/soft diet which he tolerated well; replete lytes prn
+
+6 Full code
+
+7 communication: HCP [**Telephone/Fax (2) 4745**] ([**Last Name (un) 4746**] shillinford)
+
+Medications on Admission:
+1. Asa 81 mg daily
+2. Atorvastatin 5 mg PO DAILY Start: In am 
+3. Avapro *NF* 300 mg ORAL DAILY Start: [**2020-05-31**] 
+4. Lasix 20mg daily
+5. Lisinopril 10 mg PO BID hold for sbp <  100 
+6. Metoprolol XL (Toprol XL) 25 mg PO DAILY Start: In am hold for sbp < 100 and hr < 55 
+
+Discharge Medications:
+1. Atorvastatin 10 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).  
+2. Irbesartan 300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+3. Docusate Sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2 times a day).  
+4. Lisinopril 5 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).  
+5. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).  6. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed.  
+7. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO once a day.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+food impaction
+paraesophageal hernia
+
+Discharge Condition:
+stable, tolerating clears, ambulating
+
+Discharge Instructions:
+You were admitted for food impaction and you underwent endoscopy which was removed.  You need to follow up with Dr. [**Last Name (STitle) **] this Thursday regarding potentially scheduling for outpatient surgery for your hiatal hernia. You also had a manommetry study of your esophagus prior to discharge inpreparatoin for potential surgery this week, and you need to follow up the results with Dr. [**Last Name (STitle) **] (see appointment time below).  You need to continue a soft diet (no solid food) until you see Dr. [**Last Name (STitle) 4747**], and you should hold off aspirin until you see Dr. [**Last Name (STitle) 4747**] as well in case of surgery later this week.
+
+Please take all of your medications (please crush them). We held you Aspirin in preparation for surgery, and your lasix while you are only on clear liquid diet.
+
+Please follow up all of your appointments.
+
+Please call 911 or go to the neareast Emergency room if you have fever>101, chills, chest pain, shortness of breath, nausea, vomiting, diarrhea, pain or difficulty w/ swallowing or any other symptoms that are concerning to you.
+
+Followup Instructions:
+Please follow up w/ Provider: [**First Name11 (Name Pattern1) 977**] [**Name7 (MD) 2220**], MD Phone:[**Telephone/Fax (2) 2323**] Date/Time:[**2020-06-04**] 11:15 (call ([**Telephone/Fax (2) 1487**] for directions 
+
+Please also follow up with your PCP [**Initials (NamePattern4) **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] [**Telephone/Fax (2) 112**] within 2 weeks after discharge.
+
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 888**] MD [**MD Number 889**]
+
+Completed by: [**First Name8 (NamePattern2) 2948**] [**Name8 (MD) **] MD [**MD Number 2949**] [**2020-06-02**] @ 1541
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 888**] on: MON [**2020-08-17**] 8:39 AM
+(End of Report)
+

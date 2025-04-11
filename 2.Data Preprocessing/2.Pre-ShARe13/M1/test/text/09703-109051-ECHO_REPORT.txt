@@ -1,0 +1,43 @@
+109051	||||	9703	||||	6078	||||	ECHO_REPORT	||||	2012-02-16 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Cerebrovascular event/TIA. Source of embolism. 
+Height: (in) 69
+BP (mm Hg): 138/57
+HR (bpm): 60
+Status: Inpatient
+Date/Time: [**2012-02-16**] at 10:20
+Test: Portable TTE (Complete)
+Doppler: Full doppler and color doppler
+Contrast: Saline
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: Normal LA size. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. No ASD or PFO by 2D, color Doppler or saline contrast with maneuvers. 
+
+LEFT VENTRICLE: Normal LV wall thicknesses and cavity size. Overall normal LVEF (>55%). 
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTA: Normal ascending, transverse and descending thoracic aorta with no atherosclerotic plaque. Mildly dilated aortic root. Focal calcifications in aortic root. Normal ascending aorta diameter. Focal calcifications in ascending aorta. 
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS. No AR. 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP. Mild mitral annular calcification. Mild thickening of mitral valve chordae. Calcified tips of papillary muscles. No MS. Mild (1+) MR. [**First Name (Titles) 36**] LV inflow pattern for age. 
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial TR. Normal tricuspid valve supporting structures. Normal PA systolic pressure. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets with physiologic PR. Normal main PA. No Doppler evidence for PDA 
+
+PERICARDIUM: No pericardial effusion. 
+
+GENERAL COMMENTS: Contrast study was performed with 2 iv injections of 8 ccs of agitated normal saline, at rest, and with cough. Patient was unable to cooperate with maneuvers. Frequent atrial premature beats. 
+
+Conclusions: 
+The left atrium is normal in size. No atrial septal defect or patent foramen ovale is seen by 2D, color Doppler or saline contrast with maneuvers. Left ventricular wall thicknesses and cavity size are normal. Overall left ventricular systolic function is normal (LVEF 60%). Right ventricular chamber size and free wall motion are normal. The ascending, transverse and descending thoracic aorta are normal in diameter and free of atherosclerotic plaque. The aortic root is mildly dilated. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Mild (1+) mitral regurgitation is seen. The estimated pulmonary artery systolic pressure is normal. There is no pericardial effusion. 
+

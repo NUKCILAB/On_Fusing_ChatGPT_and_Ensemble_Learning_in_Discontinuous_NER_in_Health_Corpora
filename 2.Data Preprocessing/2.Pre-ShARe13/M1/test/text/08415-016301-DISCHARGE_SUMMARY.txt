@@ -1,0 +1,90 @@
+16301	||||	8415	||||	13277	||||	DISCHARGE_SUMMARY	||||	2011-05-04 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2011-04-29**]     Discharge Date:  [**2011-05-04**]
+
+Date of Birth:   [**1985-10-27**]     Sex:  F
+
+Service:
+
+This is from the Medical Intensive Care Unit admission intern admission note.
+
+CHIEF COMPLAINT:  Respiratory distress.
+
+HISTORY OF PRESENT ILLNESS:  This is a 25-year-old female with Crohn's disease on 6MP and chronic prednisone times six weeks, who was in her usual state of health until [**2011-04-21**] when she began to feel nasal congestion, spiking temperatures as high at 106.7 degrees Fahrenheit, accompanied by fevers and shaking chills.  The symptoms were accompanied by lower extremity myalgias, diarrhea, that was without blood or mucous and a non-productive cough.
+
+The following day, the patient presented to [**Hospital 2002**] and had a lumbar puncture and a chest x-ray, both of which were negative for any signs of infection.  She had a normal white blood cell count at the time with a differential that later came back as 27% bands.  The patient was treated with
+Tylenol and her symptoms persisted.  The patient then presented two days later to her primary care physician who placed her on a course of azithromycin for a presumed atypical pneumonia.  On the day of admission, the primary care physician reviewed the results of her bandemia from the outside hospital and asked her to come to the [**Hospital **] Emergency Department for further evaluation.
+
+The patient presented to the Emergency Room with low grade temperatures and then spiked to 105 and became tachycardic and tachypneic into the 40s.  She then developed an oxygen requirement up to 15 liters nasal cannula.  In the Emergency Department, the patient had a chest x-ray which revealed a right hilar infiltrate and left lower lobe infiltrate.  An abdominal CT was performed to check for occult abscess which was negative, however, this showed bibasilar pneumonia in consolidations.  CT of the head revealed some minor sinus thickening and no other abnormalities.
+
+In the Emergency Department, the patient was given a dose of intravenous Levaquin and transferred to the Medical Intensive Care Unit for impending respiratory failure.
+
+Patient gives a history of recent travel to [**State 549**] in March in which she swam in a pool but no sick contacts.
+
+PAST MEDICAL HISTORY:
+1.  Crohn's disease diagnosed in [**2010-10-19**], currently with a course of 6MP and prednisone started in [**2011-02-19**].  The prednisone had been started at 40 and tapered down to 5 mg by the time of admission.
+2.  Status post appendectomy.
+3.  Status post mononucleosis.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS ON ADMISSION:
+1.  6MP 50 mg po q.d.
+2.  Prednisone 5 mg po q.d.
+3.  Asacol 800 mg po t.i.d.  Recent finishing of a Z pack and an oral contraceptive.
+
+SOCIAL HISTORY:  The patient is a financial manager at
+Fleet's.  Married.  No tobacco, no alcohol or intravenous drug use.
+
+FAMILY HISTORY:  Hypertension, hypercholesterolemia, and a grandmother with rheumatoid arthritis.
+
+PHYSICAL EXAMINATION ON ADMISSION:  Blood pressure 130/80.
+Pulse 104.  Respiratory rate of 50, oxygenation 74% on room air up to 90% on a nonrebreather.  Head, eyes, ears, nose and throat:  Mucous membranes dry.  General:  Diaphoretic and tachypneic.  Cardiovascular:  Tachycardic, no murmurs, rubs or gallops.  Lungs:  Right lower lobe crackles, good air movement.  Abdomen:  Positive bowel sounds, soft, nontender, nondistended, no organomegaly.  Extremities without edema.
+
+LABORATORIES ON ADMISSION:  White blood cell count 8, hematocrit 35.2, platelet count 242,000.  Differential of 80, 7% polys, 9% lymphocytes, 3% monocytes.  Sodium 130, potassium 3.6, chloride 96, bicarbonate 23, BUN 9, creatinine 0.7, glucose 154.  Chest x-ray with mild right hilar infiltrate and left lower lobe infiltrate.  CT of the head with sinus thickening.  CT of the abdomen:  No abscess, but bibasilar pneumonia with small effusions.  Electrocardiogram: Sinus tachycardia at 158, normal axis, no ST changes.
+
+HOSPITAL COURSE:
+
+1.  Pneumonia:  The patient was admitted to the Medical
+Intensive Care Unit for impending respiratory failure and maintained on a 100% nonrebreather mask.  Her initial arterial blood gas showed a pH of 7.45, a pCO2 of 26 and a PO2 of 82 on the 100% nonrebreather.  The patient was started on prednisone 40 mg b.i.d. and Bactrim for suspected PCP pneumonia given her immunosuppression, as well as Levaquin 500 mg po q.d. for question of community acquired pneumonia or atypical pneumonia.  The patient spent one night in the Intensive Care Unit and was weaned off of her 100% nonrebreather down to two liter nasal cannula.  She was then called out to the floor.  Her Bactrim was discontinued as she did have a rash develop to this that did go away after the Bactrim was discontinued with a lower suspicion of PCP given her CT finding of dense consolidations, a negative LDH.  Her Bactrim was discontinued and another anti-PCP medication was not continued.  Her sputum did return negative for PCP times one.  Her sputum also was negative for legionella antigen, as well as her urine negative for legionella.  Her sputum did not grow out any pathogenic organisms and was shown to have oropharyngeal flora, however, the patient did not have a large sputum production and this was a small induced sample. It is likely that the patient had a bacterial pneumonia given her radiologic picture, although, legionella is still a possibility and her negative urine antigen might have been because she had already been treated with antibiotics.  The patient did improve and was on room air with a trending oxygen saturation of 97% upon discharge.
+
+2.  Anemia:  The patient had a microcytic anemia with a hematocrit that came down to 25 after fluids.  The anemia was microcytic with an MCV of 73.  Iron studies showed an iron of 38, a TIBC of 251, a ferritin of 69, transferrin of 193.
+These were thought to be consistent with a mild iron deficiency anemia and she was started on iron.  Her reticulocyte count, however, was 0.3 and this may have been suppressed in the setting of acute illness.
+
+3.  Crohn's disease:  Her abdominal CT was not consistent with a Crohn's flare and her mild loose stools were thought to be secondary to her illness rather than her Crohn's disease.  She was weaned back down from the initial 40 mg po b.i.d. Bactrim she had been put on for PCP [**Initials (NamePattern4) **] 5 mg per day that she was taking for her Crohn's.  She was continued on her Asacol as per Dr.[**Last Name (STitle) 2003**] recommendations.
+
+4.  Increased LFTs:  The patient's ALT did go up to 234 and
+AST to 93.  This was thought to be either secondary to her reaction to Bactrim versus her pneumonia.  These did trend down after her Bactrim was stopped.  They can be followed out for continued downtrending to normal as an outpatient.  The patient had no other associated findings of liver disease, including no abdominal pain, no elevated alkaline phosphatase and a normal total bilirubin.
+
+DISPOSITION:  The patient was discharged home.
+
+FOLLOW-UP:  She will follow-up with her primary care physician, Dr. [**Last Name (STitle) 2004**], tomorrow and follow-up with her gastroenterologist, Dr. [**First Name (STitle) **] next week.
+
+DISCHARGE DIAGNOSES:
+1.  Pneumonia, likely bacterial.
+2.  Small bilateral pleural effusions likely secondary to pneumonia.
+3.  Microcytic anemia, likely iron deficiency.
+4.  Increased LFTs, now trending down, likely secondary to
+Bactrim reaction.
+
+MEDICATIONS ON DISCHARGE:
+1.  Levofloxacin 500 mg per tablet, 1 po q.d. for eight more days to complete a 14 day course.
+2.  Pantoprazole 40 mg po q.d. for gastrointestinal prophylaxis on steroids.
+3.  Calcium carbonate 500 mg po t.i.d.
+4.  Vitamin D 400 units q.d. for bone prophylaxis on steroids.
+5.  Ibuprofen 800 mg po t.i.d.
+6.  Prednisone 5 mg po q.d.
+7.  Iron sulfate 325 mg po q.d.
+
+MARK [**Doctor Last Name 377**], M.D.  [**MD Number 378**]
+
+Dictated By:[**Dictator Info **]
+
+MEDQUIST36
+
+D:  [**2011-05-05**]  02:23
+T:  [**2011-05-04**]  18:48
+JOB#:  [**Job Number 2005**]
+rp [**2011-05-09**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Name (STitle) 377**] on: TUE [**2011-05-10**] 8:11 AM
+(End of Report)
+

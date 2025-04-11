@@ -1,0 +1,133 @@
+4075	||||	16660	||||	19936	||||	DISCHARGE_SUMMARY	||||	2019-12-15 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2019-12-06**]              Discharge Date:   [**2019-12-15**]
+
+Date of Birth:  [**1949-03-14**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies: 
+Lipitor
+
+Attending:[**Attending Info 98**] 
+Chief Complaint:
+Chest Pain 
+
+Major Surgical or Invasive Procedure:
+[**12-06**] Cardiac catherization 
+[**12-11**] Coronary Artery Bypass Graft (Left internal mammary artery -> Left anterior descending artery, Saphenous vein graft -> diagonal, Saphenous vein graft -> obtuse marginal) and Aortic Valve replacement (21mm pericardial) and Septal Myomectomy 
+
+History of Present Illness:
+70 YO m with mild AS, hyperlipidemia who presents with chest pain on exersion.  He reports minimal chest discomfort with exertion x1 year, improved with belching, no improved with PPI.  He had a stress MIBI which per report showed significant ischemia at apex and septum.  TTE showed EF 60% with mild AS but valve gradient 0.8. Now referred for cardiac catherization 
+
+Past Medical History:
+Coronary Artery Disease
+Aortic Stenosis 
+Hyperlipidemia
+Hiatal hernia
+Gilberts disease
+h/o tonsillectomy
+
+Social History:
+Retired fire fighter captain.  Denies tobacco use, 2 beers [**03-09**] times per week.
+Lives with spouse 
+
+Family History:
+NC
+
+Physical Exam:
+T: NR  BP: 139/69  P: 70  RR: 16  O2 sats: 100%
+Gen: NAD
+HEENT: NC, AT, PERRL, EOMi, MMM
+Neck: no LAD, systolic ejection murmur radiating to carotid arteries b/l
+CV: RRR, nl s1, s2, 3/6 systolic ejection murmur at LUSB radiating to carotids
+Resp: CTA anteriorly
+Abd: Soft, nontender, nondistended, bowel sounds present
+Ext: No edema, pedal pulses 2+ bilaterally. R grion dressing dry and intact, no hematoma, no carotid bruits
+Neuro: CN II-XII intact, sensation intact
+
+Discharge 
+99.6, 90, 120/70, 18 96% RA 
+Gen: NAD A/O x3 
+Card RRR
+Lungs CTA 
+Abd NT, ND +BS, soft
+Ext trace edema
+
+Pertinent Results:
+[**2019-12-15**] 04:35AM BLOOD WBC-7.1 RBC-2.81* Hgb-9.1* Hct-25.3*  MCV-90 MCH-32.5* MCHC-36.2* RDW-14.3 Plt Ct-119*#
+[**2019-12-06**] 02:10PM BLOOD WBC-4.8 RBC-4.05* Hgb-13.2* Hct-36.1*  MCV-89 MCH-32.6* MCHC-36.6* RDW-13.7 Plt Ct-253
+[**2019-12-15**] 04:35AM BLOOD Plt Ct-119*#
+[**2019-12-13**] 02:46AM BLOOD PT-14.7* PTT-28.2 INR(PT)-1.3*
+[**2019-12-06**] 02:10PM BLOOD PT-13.5* PTT-101.9* INR(PT)-1.2*
+[**2019-12-06**] 02:10PM BLOOD Plt Ct-253
+[**2019-12-15**] 04:35AM BLOOD Glucose-107* UreaN-18 Creat-0.9 Na-139  K-3.8 Cl-102 HCO3-29 AnGap-12
+[**2019-12-06**] 02:10PM BLOOD Glucose-141* UreaN-11 Creat-1.0 Na-141  K-3.5 Cl-105 HCO3-28 AnGap-12
+[**2019-12-06**] 02:10PM BLOOD ALT-14 AST-17 AlkPhos-40 TotBili-0.4
+[**2019-12-14**] 04:20AM BLOOD Mg-2.0
+[**2019-12-06**] 02:10PM BLOOD %HbA1c-5.1 [Hgb]-DONE [A1c]-DONE
+[**2019-12-07**] 06:57AM BLOOD Triglyc-73 HDL-51 CHOL/HD-3.9  LDLcalc-133*
+
+CXR [**12-14**] 
+Median sternotomy and aortic valve prosthesis is identified and unchanged. There is again seen a left apical pneumothorax which is small and unchanged since the previous study. There is a small amount of free air underneath the right hemidiaphragm. No focal consolidation, signs of pulmonary edema, or pleural effusions are noted.
+
+IMPRESSION:
+1. Persistent left apical pneumothorax and free air underneath the hemidiaphragm not significantly changed.
+2. Small bilateral pleural effusions are also stable.
+
+[**12-11**] TEE
+Conclusions:  
+Pre-CPB: No mass/thrombus is seen in the left atrium or left atrial appendage.   Right ventricular chamber size and free wall motion are normal. There are   simple atheroma in the aortic root. The ascending aorta is mildly dilated.   There are simple atheroma in the ascending aorta. The descending thoracic   aorta is mildly dilated. There are simple atheroma in the descending thoracic   aorta. The number of aortic valve leaflets cannot be determined. There is   moderate aortic valve stenosis (area 0.8-1.19cm2) Mild to moderate ([**01-07**]+)   aortic regurgitation is seen. The mitral valve leaflets are mildly thickened.   Trivial mitral regurgitation is seen. There is no pericardial effusion. The   inter-ventricular septum is hypertrophied near the LVOT, but does not cause  
+obstruction or a gradient.  
+Post-CPB: Preserved biventricular systolic fxn. A prosthetic aortic valve is   seen with good leaflet excursion, trace regurgitation and a residual peak   gradient of 19 mmHg. Ascending and descending aorta intact. A small septal   myotomy has been done at the LVOT. Other parameters as pre-bypass.  
+
+Brief Hospital Course:
+70 year old male admitted for workup of angina which cardiac catherization revealed LM and LAD disease with Aortic stenosis.  Underwent cardiac surgery pre operative work up and was transfered to the operating room on [**12-11**] and underwent coronary artery bypass graft, aortic valve replacement, and septal myomectomy.  Please see operative report for further details.  He was transferred to cardiac surgery recovery unit for continued hemodynamic monitoring on neosynephrine and propofol.  With in the first 24 hours he awoke neurologically intact, extubated without difficulty, and weaned from vasoactive medications.  He continued to progress, was started on beta blockers and on post operative day 2 he was transferred to [**Wardname **] 2.  He continued to progress and worked with physical therapy.  On post operative day 4 he was ready for discharge home with VNA services. 
+
+Medications on Admission:
+ASA 81
+Zocor 40
+Zetia 10
+Prilosec 20
+MVI
+Glucosamine
+
+Discharge Medications:
+1. Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day for 5 days: for 5 days. Disp:*5 Tablet(s)* Refills:*0*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+4. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+5. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO BID (2 times a day).
+Disp:*180 Tablet(s)* Refills:*2*
+Prilosec 20mg once a day 
+
+Discharge Disposition:
+Home with Service
+
+Discharge Diagnosis:
+Coronary artery disease s/p CABG
+Aortic stenosis S/P AVR
+Hyperlipidemia
+Hiatal hernia
+Gilberts disease
+
+Discharge Condition:
+Good.
+
+Discharge Instructions:
+May shower, no baths or swimming
+Monitor wounds for infection - redness, drainage or increased pain
+Report any fever greater than 101
+Report any weight gain of greater than 2 pounds in 24 hours or 5 pounds in one week
+No creams or lotions or ointments to incisions
+No driving for one month
+No lifting more than 10 pounds for 10 weeks
+Please call with questions or concerns
+
+Followup Instructions:
+Dr. [**Last Name (STitle) **] in CT surgery clinic in 4 weeks.  Please call for an appointment at [**Telephone/Fax (2) 101**] Dr [**Last Name (STitle) 5356**] in 1 week - [**Telephone/Fax (2) 5357**] please call for appointment  Wound check appointment [**Wardname **] as instructed by nurse [**Telephone/Fax (1) **]
+
+[**Name6 (MD) **] [**Name7 (MD) 103**] MD [**MD Number 104**]
+
+Completed by: [**First Name11 (Name Pattern1) 378**] [**Name7 (MD) 379**] NP 80-CDH [**2019-12-16**] @ 0959
+Signed electronically by: DR. [**First Name (STitle) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] on: [**First Name9 (NamePattern2) **] [**2020-01-17**] 5:25 PM (End of Report)
+

@@ -1,0 +1,20 @@
+360237	||||	18114	||||	10699	||||	RADIOLOGY_REPORT	||||	2019-07-29 04:48:00.0	||||	Q111 CT HEAD W/O CONTRAST	||||		||||	Clip # 407-6272  Actual report	||||	
+DATE: [**2019-07-29**] 4:48 AM
+CT HEAD W/O CONTRAST                                            [**Clip Number (Radiology) 1596**] Reason: ? progression of Right posterior fossa bleed                Admitting Diagnosis: CEREBELLER HEMORRHAGE
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+69 year old man with                                                            REASON FOR THIS EXAMINATION: ? progression of Right posterior fossa bleed                                    No contraindications for IV contrast
+______________________________________________________________________________
+
+FINAL REPORT
+INDICATION:  Evaluate for progression of right posterior fossa bleed.
+
+COMPARISON:  [**2019-07-28**].
+
+NON-CONTRAST HEAD CT:  There is no short interval change in appearance of the brain from the prior study.  The patient is status post right occipital craniotomy with a large amount of residual hemorrhage seen in the posterior fossa extending into the third, fourth and lateral ventricles.  The amount of hemorrhage is relatively unchanged compared to [**2019-07-28**].
+
+There has been almost complete resolution of the previously described pneumocephalus within the right posterior fossa.  Hyperdense material in the right parietal sulci representing subarachnoid hemorrhage is unchanged. There are periventricular white matter hypodensities consistent with chronic microvascular infarction.  There is no significant shift of midline structures.  The basal cisterns are not effaced.  Mild polypoid mucosal thickening of the maxillary sinuses and ethmoid air cells is again noted.
+
+IMPRESSION:  No significant interval change.  Status post right occipital craniotomy with expected post-surgical changes as well as a large amount of residual hemorrhage in the posterior fossa extending into the third, fourth and lateral ventricles.  A small amount of right parietal lobe subarachnoid hemorrhage is stable.
+

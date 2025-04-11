@@ -1,0 +1,126 @@
+22213	||||	10539	||||	4075	||||	DISCHARGE_SUMMARY	||||	2013-10-14 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2013-10-04**]              Discharge Date:   [**2013-10-14**]
+
+Date of Birth:  [**1932-05-01**]             Sex:   F
+
+Service: [**Hospital Unit Name **]
+
+Allergies: 
+Amoxicillin / Aldomet / Procardia / Ampicillin / Percocet / Adhesive Tape
+
+Attending:[**Attending Info 3178**] 
+Chief Complaint:
+left sided psoas abscess and left sided nonfunctional kidney with renal calculi
+
+Major Surgical or Invasive Procedure:
+left nephrectomy, drainage of psoas abscess
+
+History of Present Illness:
+81F with hyperparathyroidism leading to 20 years of urinary calculi.  Recent diagnosis of parathyroid adenoma resected.  Left kidney with multiple large obstructing calculi, found to be non functional with a psoas abscess.  She underwent bilateral percutaneous nephrostomy tube placement, antibiotic therapy and returned on this admission for left nephrectomy and drainage of abscess.
+
+Past Medical History:
+CAD s/p MI at 53
+HTN
+CHF s/p AVR
+Nephrolithiasis
+PAF
+L CEA
+Retroperitoneal hematoma
+
+Social History:
+Pt retired and currently live in [**State **].
+She ambulates and still drivesTob: stopped 30 yrs agoAlc: none Pt retired and currently live in [**Doctor Last Name **] IslandShe ambulates and still drivesTob: stopped 30 yrs agoAlc: none
+
+Family History:
+non-contributory
+
+Physical Exam:
+Physical Exam:
+T: 97.5  BP: 160/74  P: 74  RR: 18  O2: 98% RA
+Gen: Pt agitated, sitting up in bed, AOx2.5
+HEENT: ATNC, anicteric
+neck: supple no JVD
+Cardiac: [**Last Name (un) **] [**Last Name (un) **], SEM heard best at R sternal edge and throughout precordium
+Lungs: CTA-B
+Abd: soft, NT/ND, +BS R nephrostomy c/d/i, L incision c/d/i non-erythematous
+Ext: trace edema in LE b/l, 5/5 strength in grip/bicpes/quads. FROM throughout.
+
+Pertinent Results:
+VRE screen NEGATIVE (historical +)
+MRSA screen NEGATIVE
+
+At admit
+[**2013-10-04**] 01:50PM BLOOD WBC-11.2* RBC-4.03* Hgb-10.9* Hct-33.5*  MCV-83 MCH-27.2 MCHC-32.7 RDW-15.7* Plt Ct-268
+[**2013-10-04**] 07:00AM BLOOD PT-13.7* PTT-26.9 INR(PT)-1.2
+[**2013-10-04**] 01:50PM BLOOD Plt Ct-268
+[**2013-10-04**] 01:50PM BLOOD Glucose-184* UreaN-14 Creat-1.0 Na-140  K-4.0 Cl-107 HCO3-24 AnGap-13
+[**2013-10-04**] 07:39PM BLOOD Calcium-7.6* Phos-4.5 Mg-1.8
+[**2013-10-04**] 11:52AM BLOOD Type-ART Rates-7/  Tidal V-510 O2-44 pO2-165* pCO2-43 pH-7.40 calHCO3-28 Base XS-1 Intubat-INTUBATED Vent-CONTROLLED
+[**2013-10-04**] 08:13AM BLOOD Hgb-9.3* calcHCT-28
+[**2013-10-04**] 10:17AM BLOOD freeCa-1.10*
+
+S/p d/c from [**Hospital Unit Name 572**]
+[**2013-10-08**] 09:00PM BLOOD WBC-10.2 RBC-4.29 Hgb-11.5* Hct-36.6  MCV-85 MCH-26.7* MCHC-31.3 RDW-16.4* Plt Ct-313
+[**2013-10-09**] 06:20AM BLOOD PT-13.8* PTT-27.1 INR(PT)-1.2
+[**2013-10-08**] 09:00PM BLOOD Glucose-86 UreaN-21* Creat-1.2* Na-143  K-4.0 Cl-107 HCO3-23 AnGap-17
+[**2013-10-08**] 09:00PM BLOOD Calcium-8.3* Phos-3.5 Mg-2.1
+[**2013-10-11**] 05:30AM BLOOD Digoxin-0.9
+[**2013-10-06**] 01:38PM BLOOD Type-ART pO2-91 pCO2-35 pH-7.43 calHCO3-24 Base XS-0
+[**2013-10-05**] 02:22AM BLOOD Glucose-137* Lactate-2.9*
+[**2013-10-09**] 08:14AM BLOOD freeCa-1.14
+
+CXR ([**10-05**]) -- 1) Right internal jugular central venous line with tip at the superior vena cava/right atrial border. No pneumothorax. 2) Mild congestive heart failure. 
+
+CT ([**10-09**]) -- IMPRESSION: 
+1) Stable right UPJ and left distal ureter stones. Right nephrostomy tube  and no right hydronephrosis. 2) Extensive diverticulosis without evidence of diverticulitis. 3) Cholelithiasis. 4) Cardiomegaly. 5) Bilateral pleural effusions. 6) Probable hepatic cysts. 
+
+Brief Hospital Course:
+Pt was admitted on [**2013-10-04**] for the purpose of definitive surgical management of a chronic L kidney failure 2nd to ureteral calculi and L purulent perinephric psoas abcess.  The planned L radical nephrectomy/ureterectomy was without complication or finding necessitating a change in the pre-operative diagnosis, but given her fragile health, large fluid shift and the 800cc of EBL (addressed with 3U PRBC) she was maintained in the PACU overnight.  R nephrostomy tube remained in place and General Surgery was present during the case to assist with the lysis of extensive adheions of the abcess to surrounding structures.  On POD#1, it was decided to wean her off the vent (SIMV), and she was taken to the [**Hospital Unit Name 572**] for immediate post-operative period.  She was given a 24 hour course of Vanco, and started on 7 days of Ceftazidine.  She was sucessfully extubated on POD#2.  However at this same time, she was noted to be in A-Fib with an inappropriate pacemaker response and EP was consulted for a question of the PM failure to capture.  The pacemaker was interrogated on [**10-06**] and its setting reprogrammed to VV1 60. Wide complex V-tach was noted on [**10-07**] and runs of NSVT were noted on [**10-09**].  EP again interrogated the PM and considered it functioning well, but her digoxin level was 1.2-1.4, above the optimum 0.8 which they felt could have been contributing to ventricular irritability.  Thus her out-pt digoxin dose was halves in compensate for her change in renal fxn.  Similarly, lisinopril was also stopped post-operatively.  On POD#3, pt was cleared by a Speech and Swallow Eval.  Pt was transferred to 12Reisman and out of the [**Hospital Unit Name 572**] on POD#4, with telemetry and a sitter.  Chest tube was removed on POD#3, which was place as per standard procedure for a thoracoabdominal incision.  She was advance to a regular diet on POD#5, and restarted on her home dose of warfarin.  Throughout the post-operative period until they were removed on POD#7, her 2 JP drains put out >100cc of serosanguinous fluid each.  Sitter was d/c'ed on POD#8 without incident; pt remained agitated but cooperative.  Pt was ready for discharge on POD#7, but could not be discharged due to a sitter being involved in the pt's care.  On POD#10, pt had been without sitter for >24 hours without incident, and had notably come back negative for both VRE and MRSA.
+
+Medications on Admission:
+Same as below with the addition of lisinopril
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed.  
+2. Furosemide 40 mg Tablet Sig: One (1) Tablet PO QD (once a day).  
+3. Atorvastatin Calcium 10 mg Tablet Sig: One (1) Tablet PO QD (once a day).  
+4. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours). 
+
+5. Digoxin 125 mcg Tablet Sig: 0.5 Tablet PO QD (once a day).  
+6. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day for 21 days. Disp:*42 Capsule(s)* Refills:*0*
+7. Ativan 1 mg Tablet Sig: 1-2 Tablets PO twice a day as needed for insomnia: as needed for sleep/agitation PRN, not to exceed 3mg/24hrs.  
+8. Seroquel 25 mg Tablet Sig: One (1) Tablet PO twice a day.  
+9. Metoprolol Succinate 100 mg Tablet Sustained Release 24HR Sig: One (1) Tablet Sustained Release 24HR PO once a day.  
+10. Warfarin Sodium 1 mg Tablet Sig: One (1) Tablet PO once a day: Monday, Wednesday, Friday, alt with 2mg dose.  
+11. Warfarin Sodium 2 mg Tablet Sig: One (1) Tablet PO once a day: Tuesday, Thursday, Saturday, Sunday.  
+12. Ferrous Sulfate 325 (65) mg Capsule, Sustained Release Sig: One (1) Capsule, Sustained Release PO once a day.  
+13. Calcium 500 500 mg Tablet Sig: One (1) Tablet PO twice a day.  
+14. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1) Tablet PO once a day.  
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Clipper House
+
+Discharge Diagnosis:
+non functional left kidney with psoas abscess
+
+Discharge Condition:
+stable
+
+Discharge Instructions:
+Follow up with Dr. [**Last Name (STitle) 1892**] in 2-3 weeks.  Staples to be removed 2 weeks after surgery on or about [**2013-10-18**] Discharge to rehab/[**Hospital1 7438**] facility.  Keep nephrostomy tube in place until follow up visit.  Please call to schedule follow up with Dr. [**Last Name (STitle) 1892**] in 2-3 weeks.
+
+Followup Instructions:
+as above
+
+Schedule f/u as noted above.
+Provider: [**Name10 (NameIs) **],[**First Name3 (LF) 1896**] F.  [**Telephone/Fax (2) 2199**]  Follow-up appointment should be in 2 weeks
+
+ARIA [**Name7 (MD) 3180**] MD [**MD Number 3181**]
+
+Completed by: [**First Name11 (Name Pattern1) **] [**Name7 (MD) 6411**] MD [**MD Number 6412**] [**2013-10-14**] @ 1127
+Signed electronically by: DR. [**First Name (STitle) 1896**] [**Name (STitle) **] on: MON [**2013-10-28**] 5:11 PM
+(End of Report)
+

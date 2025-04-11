@@ -1,0 +1,118 @@
+26480	||||	3087	||||	14255	||||	DISCHARGE_SUMMARY	||||	2012-07-06 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2012-06-27**]              Discharge Date:   [**2012-07-06**]
+
+Date of Birth:  [**1954-08-29**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies: 
+Lisinopril
+
+Attending:[**Attending Info 342**] 
+Chief Complaint:
+Dyspnea on exertion.
+
+Major Surgical or Invasive Procedure:
+Mitral valve repair with resection of posterior leaflet [**2012-06-27**].
+
+History of Present Illness:
+This is a 57 year old male patient with known heart murmurs who has been followed by serial echos since [**1997**]. In 10/04 he saw his primary care physician with the complaint of progressive dyspnea. A Cardiac catheterization in 1/05 showed severe mitral regurgitation, an ejection fraction of 66% and a right coronary artery with a 70% lesion which was stented. He was subsequently referred for a minimally invasive mitral valve repair            
+
+Past Medical History:
+Hypertension.
+Addison's disease.
+Hypothyroidism.
+Melanoma.
+BPH.
+
+Social History:
+Works as mechanical engineer.  Lives with wife.  [**Name (NI) 1381**] [**Name2 (NI) **] use, reports [**04-05**] drinks of alcohol per week.
+
+Family History:
+Noncontributory
+
+Physical Exam:
+BP: (R) 135/76  (L) 149/79  HR 68 Weight 225
+Gen: Tall young lad in no acute distress
+Skin: well healed right shoulder incision
+HEENT: EOMI intact, nl buccal mucosa, anicteric, oropharynx benign.
+Neck: supple, murmur transmitted, No JVD
+Chest: Clear
+Heart: RRR, III/VI systolic murmur.
+Abdomen: Soft, Nontender, nondistended
+Ext: warm and well perfused
+Neuro: grossly intact
+
+Pertinent Results:
+[**2012-07-03**] 08:50AM BLOOD WBC-10.8 RBC-2.60* Hgb-8.0* Hct-23.3*  MCV-90 MCH-30.9 MCHC-34.5 RDW-15.0 Plt Ct-203
+[**2012-07-03**] 08:50AM BLOOD Plt Ct-203
+[**2012-06-28**] 03:04AM BLOOD PT-12.9 PTT-30.5 INR(PT)-1.1
+[**2012-07-03**] 08:50AM BLOOD Glucose-81 UreaN-15 Creat-0.9 Na-133  K-3.7 Cl-95* HCO3-28 AnGap-14
+[**2012-07-02**] 04:46AM BLOOD Calcium-8.0* Phos-3.9 Mg-1.9
+[**2012-07-05**] 11:30AM BLOOD WBC-9.8 RBC-4.04* Hgb-12.1* Hct-36.4*  MCV-90 MCH-30.0 MCHC-33.3 RDW-15.3 Plt Ct-407#
+[**2012-07-05**] 11:30AM BLOOD Plt Ct-407#
+[**2012-07-05**] 11:30AM BLOOD Glucose-102 UreaN-19 Creat-1.0 Na-136  K-4.6 Cl-96 HCO3-27 AnGap-18
+[**2012-07-02**] 04:46AM BLOOD Calcium-8.0* Phos-3.9 Mg-1.9
+
+[**2012-06-29**] CXR
+No evidence of pneumothorax, no significant CHF but bilateral moderate amount of pleural effusions as seen on single view chest examination.
+
+Brief Hospital Course:
+Mr. [**lastname 1382**] was admitted the morning of 4/27 and proceeded directly to the operating room.  He underwent a mitral valve repair with resection of the posterior leaflet with a 28 mm [**Doctor Last Name 1383**] band with Dr. [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 3**].  Please see OP note for full details. He was successfully weened and extubated on his operative evening and was placed on a steroid taper with the help of endocrinology given his addisons disease. On postoperative day two he was transferred to the inpatient telemetry floor for ongoing management and rehabilitation.  On postoperative day four he had a burst of atrial fibrillation -- converted spontaneously and was noted to have a first degree AV-block.  Due to this AV block, his beta blockade was held.  On postoperative day five, with no furtehr episodes of afib but with elevated BP and HR, a low dose beta-blocker was added with no change in his AV block.  He also continued to be significantly edamatous, nearly 14 kg up from his pre-op weight and he was actively diureses with lasix. On postoperative days six and seven, we continued to diurese him heavily.  Endocrine also continued to follow with regards for his steroid taper.   On postoperative eight, he cleared physical therapy and was discahrged home with a visiting nurse to follow.
+
+Medications on Admission:
+Plavix 75 daily.
+Prednisone 12.5 mg daily.
+Flurinef 0.1 mg daily.
+Levoxyl 0.025 mg daily.
+Enalapril 10 mh bid.
+Lipitor 20 mg daily.
+Aspirin 325 mg daily.
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). Disp:*60 Capsule(s)* Refills:*0*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+3. Atorvastatin Calcium 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0*
+4. Levothyroxine Sodium 25 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0*
+5. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+6. Fludrocortisone Acetate 0.1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0*
+7. Enalapril Maleate 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0*
+8. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*0*
+9. Polysaccharide Iron Complex 150 mg Capsule Sig: One (1) 
+Capsule PO DAILY (Daily).
+Disp:*30 Capsule(s)* Refills:*0*
+10. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day). Disp:*30 Tablet(s)* Refills:*0*
+11. Oxycodone HCl 5 mg Tablet Sig: 1-2 Tablets PO every [**06-06**] hours as needed. Disp:*40 Tablet(s)* Refills:*0*
+12. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig: Two (2) Tab Sust.Rel. Particle/Crystal PO Q12H (every 12 hours) for 2 weeks. Disp:*56 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+13. Lasix 40 mg Tablet Sig: One (1) Tablet PO twice a day for 2 weeks. Disp:*28 Tablet(s)* Refills:*0*
+14. Prednisone 5 mg Tablet Sig: 1.5 Tablets PO QAM (once a day (in the morning)): 5 mg on the PM. Disp:*45 Tablet(s)* Refills:*2*
+15. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*2*
+
+Discharge Disposition:
+Home with Service
+
+Discharge Diagnosis:
+Mitral regurgitation. 
+Hypertension. 
+Addison's disease. 
+Hypothyroidism. 
+
+Discharge Condition:
+Stable.
+
+Discharge Instructions:
+Shower daily with soap and water.  Rinse well.  [**Male First Name (un) **] not apply any creams, lotions, powders, or ointments.
+Take all new medications as prescribed.
+Make follow-up appointments as directed.
+No heavy lifting, greater than 10 pounds.
+No driving x 6 weeks.
+
+[**Initials (NamePattern4) 742**]p Instructions:
+Call to schedule appointment with Dr. [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 3**]. Call to schedule appointment with Dr. [**Last Name (STitle) **].
+
+[**Doctor Last Name **] [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] MD [**MD Number 351**]
+
+Completed by: [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 745**] PA 80-BYE [**2012-07-06**] @ 1046
+Signed electronically by: DR. [**First Name (STitle) **] [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] on: FRI [**2012-07-13**] 10:57 AM
+(End of Report)
+

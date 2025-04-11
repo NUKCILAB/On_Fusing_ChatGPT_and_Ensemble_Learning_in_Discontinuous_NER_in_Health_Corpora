@@ -1,0 +1,56 @@
+9354	||||	20706	||||	18989	||||	DISCHARGE_SUMMARY	||||	2015-01-11 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2015-01-04**]       Discharge Date:  [**2015-01-11**]
+
+Date of Birth:   [**1973-11-28**]       Sex:  F
+
+Service:  TRANSPLANT
+
+HISTORY OF PRESENT ILLNESS:  This is a 41 year-old female with a thirty year history of insulin dependent diabetes mellitus complicated with retinopathy, neuropathy and nephropathy.  Also a history of ESRD status post living related kidney transplant who now presents for elective pancrease after kidney transplant.
+
+PAST MEDICAL HISTORY:  Hypertension.
+
+PAST SURGICAL HISTORY:  Status post kidney transplant [**2014-08-20**].  Status post thyroidectomy 1988 for questionable papillary cancer.  Status post hand surgery.  Status post retinal laser treatment.
+
+ALLERGIES:  The patient has no known drug allergies.
+
+MEDICATIONS ON ADMISSION:  Prograf 3 mg po b.i.d., Imuran 50 mg po q.d., Lipitor 10 mg po q.h.s., Vasotec 10 mg po q.d.,
+Insulin, Synthroid .175 mg po q.d.
+
+INITIAL PHYSICAL EXAMINATION:  Well appearing female in no acute distress.  Her chest was clear to auscultation bilaterally.  Heart regular rate and rhythm.  Adomen was soft.  Right lower quadrant contained a kidney incision.  No graft tenderness.  She had 2+ femoral pulses bilaterally.
+
+INITIAL LABORATORIES:  White blood cell count 9.8, hematocrit 28.9, platelets 324.  Urinalysis was negative.  Coags were normal.  Chem 7 132, 6.2, 100, 21, 28, 1.3, 493, hemoglobin
+A1C was 7.9, SK level was 7.1.  Liver function tests were normal.  Beta HCG was negative.  Electrocardiogram showed normal sinus rhythm with a rate of 91.  Chest x-ray was negative.
+
+HOSPITAL COURSE:  The patient was admitted to the hospital where a preoperative workup was instituted.  On hospital day one [**01-04**], she was taken to the Operating Room where she underwent a cadaveric pancrease transplant of an enteric drained whole organ pancrease to the left iliac artery and vein.  The patient tolerated the procedure well.  There were no complications and she was transferred to the Recovery Room in stable condition.  She was taken to the Intensive Care
+Unit, extubated with an nasogastric tube in place.  Initial amylase and lipase were 104 and 524 in the immediate postoperative period.  Her hematocrit was 28.9 immediately postop.  She received thyroglobulin on Solu-Medrol intraoperatively.  Postoperatively, she was placed on 48 hours of Unasyn, Fluconazole and a Solu-Medrol taper.  Her thyroglobulin was continued for there days postoperative and then she was started on Prograf and Rapamune.  She did well and postoperatively her JP drain was discontinued on postoperative day number three.  Her nasogastric tube was also discontinued on postoperative day number three.  The patient was kept NPO until she passed flatus.  She was started on a diet as tolerated.  Postoperative day number six her diet was advanced without incident and she was able to go home tolerating a full regular diet.  She remained hemodynamically stable throughout her hospital course and she also remained afebrile throughout her hospital course with no temperature spikes.  Her amylase and lipase continued to come down from postoperative and were 21 and 23 respectively on discharge.  She was placed on Ganciclovir due to her CMV negative status with a CMV positive donor.  Her SK level on discharge was 12.4 on 3 po b.i.d.
+
+At the time of discharge the patient was ambulating independently and tolerating a regular diet, afebrile and was hemodynamically stable.  Of note her white blood cell count had dropped to a low of 2.0 and was 4 on discharge with a hematocrit of 23, platelet count of 172.
+
+The patient was also postoperatively placed on a heparin drip at 300 units per hour.  This was changed to po aspirin 81 mg po q.d.
+
+CONDITION AT DISCHARGE:  The patient stable as above.
+
+DISCHARGE STATUS:  The patient is discharged to home.
+
+FOLLOW UP INSTRUCTIONS:  The patient is to follow up with Dr. [**Last Name (STitle) 5510**] this Thursday.  She is to follow up with Dr. [**Last Name (STitle) 2236**] as well to have laboratories drawn.
+
+DISCHARGE DIAGNOSES:
+1.  Status post pancrease after kidney transplant was _______ antigen match.
+2.  Status post living related kidney transplant.
+3.  History of hypertension.
+4.  History of _________ papillary cancer of the thyroid.
+
+MEDICATIONS ON DISCHARGE:  Dilaudid 2 to 4 mg po q 3 hours prn.  Prednisone 20 mg po q.d., Zantac 150 mg po b.i.d.,
+Rapamune 5 mg po q.d., Prograf 3 mg po b.i.d., Vasotec 10 mg po q.d., aspirin 81 mg po q.d., Bactrim single strength one po q.d., Nystatin swish and swallow, Synthroid .175 mg po q.d., Ganciclovir 1000 mg po b.i.d., Lipitor 10 mg po q.d.
+
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], MD  [**MD Number 5511**]
+
+Dictated By:[**Dictator Info 6611**]
+MEDQUIST36
+
+D:  [**2015-01-12**]  08:09
+T:  [**2015-01-12**]  08:31
+JOB#:  [**Job Number 7014**]
+Signed electronically by: DR. [**First Name (STitle) 197**] [**Name (STitle) **] on: MON [**2015-01-26**] 7:41 PM
+(End of Report)
+

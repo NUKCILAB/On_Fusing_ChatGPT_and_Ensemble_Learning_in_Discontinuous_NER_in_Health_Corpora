@@ -1,0 +1,102 @@
+21533	||||	22788	||||	7190	||||	DISCHARGE_SUMMARY	||||	2012-07-05 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2012-06-19**]     Discharge Date:  [**2012-07-05**]
+
+Date of Birth:   [**1969-12-20**]     Sex:  M
+
+Service:  TRANSPLANT SURGERY
+
+HISTORY OF THE PRESENT ILLNESS:  Mr. [**lastname 5888**] is a 42-year-old male with end-stage renal disease secondary to
+FK506 toxicity with IGA nephropathy who has been on hemodialysis three times a week through a left AV fistula. He is status post liver transplant from [**2002**] and has had excellent liver graft function. The patient presented on [**71-11-23**] for a living related kidney transplant from his sister.
+
+PAST MEDICAL HISTORY:
+1.  Status post liver transplant in [**2002**] secondary to chronic hepatitis B.
+2.  Hypertension.
+3.  End-stage renal disease secondary to FK506 toxicity/IgA nephropathy.
+4.  Rheumatoid arthritis.
+5.  Depression.
+6.  GERD.
+7.  Status post hernia repair times two.
+8.  Status post AV fistula in [**2012-01-04**].
+
+ALLERGIES:   Penicillin.
+
+ADMISSION MEDICATIONS:
+1.  Neurontin 300 mg q.o.d.
+2.  Zoloft 200 mg q.a.m.
+3.  Wellbutrin 200 mg q.a.m., 100 mg p.m.
+4.  Bactrim one tablet three times a week.
+5.  Renagel 400 mg t.i.d.
+6.  Prednisone 25 mg q.d.
+7.  Prograf 1 mg.
+8.  Diovan 80 mg q.d.
+9.  Plaqueril 200 mg b.i.d.
+10. Metoprolol 100 mg q.d.
+11. ............. 0.1 mg q.d.
+12. Oxycontin 20 mg b.i.d.
+13. Lorazepam 0.5 mg p.r.n.
+14. Protonix 20 mg q.d.
+15. Lasix 20 mg p.o. b.i.d.
+
+PHYSICAL EXAMINATION ON ADMISSION:  Vitals signs:  97.8, blood pressure 117/64, heart rate 72, respiratory rate 18, oxygen saturation 97% on room air.  General: The patient was a well-developed, well-nourished, very pleasant man in no acute distress.  HEENT:  Normocephalic, atraumatic.  Sclerae were anicteric.  The pupils were equal, round, and reactive to light and accommodation.  Extraocular movements intact.
+Neck:  Supple, no lymphadenopathy, no thyromegaly.  Chest:
+Clear to auscultation bilaterally.  The patient was noted to have two puncture sites that were well healed at the right upper chest from prior Perma-Cath placements.  Cardiac: Normal S1, S2, regular rate and rhythm.  Abdomen:  Soft, nontender.  The liver was not palpable.  There was a large well healed scar from his transplant.  Extremities:  Without edema, 2+ PT pulses bilaterally, 1+ palpable radial on the left.  There was a left AV fistula with bruit and thrill.
+
+LABORATORY/RADIOLOGIC DATA:  White count 15.2, hematocrit
+34.9, platelets 409,000, INR 1.0.  Sodium 142, potassium 4.4, BUN 20, creatinine 5.4, AST 15, ALT 15, alkaline phosphatase 68, T bilirubin 0.2, TSH 0.78, albumin 3.4, calcium 9.1, phosphate 5.4.
+
+Preoperative chest x-ray indicated no cardiopulmonary process.  A Persantine study in [**2012-02-04**] indicated no angina or ischemic EKG changes.  A MIBI study was without perfusion defects and indicated a 46% ejection fraction.
+
+An echocardiogram in [**2012-02-04**] showed a left atrial dilation, mild LVH, left ventricular function was low normal. Laboratories were normal.  There was mild dilatation of the aortic arch.
+
+HOSPITAL COURSE:  The patient is a 42-year-old male status post liver transplant in [**2002**] secondary to hepatitis B cirrhosis who now presented to the [**Hospital 244**] on [**2012-06-19**] with end-stage renal disease secondary to either FK506 toxicity or IgA nephropathy.  He also has hypertension.
+
+He underwent a living related kidney transplant on [**2012-06-19**] from his sister.  The procedure was uncomplicated.  His initial postoperative course was unremarkable.  By postoperative day number three, he was 7 liters positive.
+His creatinine was down to 6.2 from 8 at admission.  Later that day, he developed increasing shortness of breath and he dropped his oxygen saturations to 92%.  He demonstrated a P02 of 62.  A chest x-ray was obtained at that time which demonstrated pulmonary edema.  An EKG and cardiac echocardiogram was negative.
+
+He was transferred to the Intensive Care Unit and placed on a nitroglycerin drip, CPAP and Lasix.  Over the next 24 hours, he was aggressively diuresed despite being negative by 2 liters for 24 hours.  His symptoms did not improve.  He was empirically started on broad spectrum antibiotics.  An echocardiogram at that time obtained demonstrated normal ejection fraction.  No valvular abnormalities and normal left ventricular wall thickness.  Despite antibiotics and aggressive diuresis, he required intubation on postoperative day number five.  Bronchoscopy at that time showed thick secretions.
+
+Over the next five days, he was diuresed and supported until he was extubated on postoperative day number nine.  At that point, he remained extubated in the ICU and his creatinine had decreased to 2.7.  Psychiatry had consulted on the patient for agitation which eventually resolved.  A head CT at the time was obtained which was normal.  The patient had hypernatremia with a free water deficit of around 4 liters for which he was given D5W and it eventually resolved.  The patient was transferred to the floor on postoperative day number 18.  He had a slight increase in his creatinine from
+2.6 to 2.9 for which a biopsy was performed which was read as as noted which is consistent with acute failure rejection. However, the granulomatous inflammation was not typical of failure rejection and its significant was unclear.  The team thought that he was clear for discharge with adequate follow-up by Dr. [**Last Name (STitle) 630**] from the Renal Department.
+
+By postoperative day number 16, the patient was ambulating, tolerating solids, and was stable for discharge.  The patient did leave the hospital before discharge papers were finalized.  However, we contacted the patient and the patient returned to review discharge medications and discharge instructions as well as follow-up visits.
+
+DISCHARGE STATUS:  Stable.
+
+DISCHARGE DIAGNOSIS:
+1.  End-stage renal disease secondary to FK506 toxicity/IgA nephropathy, status post living related kidney transplant on [**2012-06-19**] for which he has had excellent graft function.
+2.  Postoperative pulmonary edema requiring reintubation.
+3.  Hyponatremia.
+4.  Status post liver transplant, excellent liver graft function, in [**2002**].
+5.  Hypertension.
+6.  Depression/anxiety.
+
+DISCHARGE MEDICATIONS:
+1.  Bactrim one tablet p.o. q.d.
+2.  Tylenol p.r.n.
+3.  Gabapentin 300 mg tablet p.o. q.o.d.
+4.  Valcyte 400 mg p.o. q.o.d.
+5.  Amlodipine 5 mg tablet, two tablets p.o. q.d.
+6.  Metoprolol 50 mg tablet, one tablet p.o. b.i.d.
+7.  CellCept 1,000 mg p.o. b.i.d.
+8.  Reglan 10 mg tablet p.o. q.i.d.
+9.  Prednisone 20 mg tablet p.o. q.d.
+10. Wellbutrin 100 mg tablet, two tablets p.o. q.d.
+11. Sertraline 100 mg tablet p.o. q.d.
+12. Tacrolimus 6 mg p.o. b.i.d.
+13. Percocet one to two tablets p.o. q. four to six hours for one week.
+
+FOLLOW-UP:  The patient is to follow-up with Dr. [**First Name8 (NamePattern2) 115**] [**Last Name (NamePattern1) 10**] on [**2012-07-09**] at 3:40 p.m., at the Transplant
+Center, phone number [**Telephone/Fax (2) 736**] with Dr. [**First Name4 (NamePattern1) 1152**] [**Last Name (NamePattern1) 630**] in the [**Last Name (un) 1191**] Building Transplant Center, [**Telephone/Fax (2) 736**], on [**71-11-23**] at 10:40 a.m. as well as the Bone Density Center at the [**Doctor Last Name 232**] Center on [**2012-07-17**] at 1:20 p.m.
+
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D.  [**MD Number 1127**]
+
+Dictated By:[**Dictator Info 1356**]
+
+MEDQUIST36
+
+D:  [**2012-08-04**]  01:27
+T:  [**2012-08-11**]  20:24
+JOB#:  [**Job Number 5889**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] on: TUE [**2012-08-14**] 9:15 AM
+(End of Report)
+

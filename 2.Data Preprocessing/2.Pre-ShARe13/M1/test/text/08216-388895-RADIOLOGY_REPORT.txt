@@ -1,0 +1,21 @@
+388895	||||	8216	||||	5989	||||	RADIOLOGY_REPORT	||||	2013-02-24 15:29:00.0	||||	C12 CHEST (PORTABLE AP)	||||		||||	Clip # 360-5168  Actual report	||||	
+DATE: [**2013-02-24**] 3:29 PM
+CHEST (PORTABLE AP)                                             [**Clip Number (Radiology) 6544**] Reason: POST CT DC'D                                                Admitting Diagnosis: ATRIAL DEFECT\ REPAIR ATRIAL SEPTAL DEFECT/SDA ______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+40 year old woman with PFO/ASD s/p minimal invasive ASD closure               
+
+REASON FOR THIS EXAMINATION:
+POST CT DC'D                                                                    ______________________________________________________________________________
+
+FINAL REPORT
+INDICATION:  Chest tube removed.
+
+PORTABLE CHEST:  Comparison is made to film from one day earlier.  The right chest tube has been removed.  The tip of the central line remains in the distal SVC.  The cardiac and mediastinal contours are stable.  There is improved aeration in the right lung base, which now appears largely clear. There is however progression of abnormal density in the left retrocardiac area.  There is no evidence of CHF or pneumothorax.
+
+IMPRESSION:  1.  No evidence of pneumothorax s/p right chest tube removal.
+
+2.  Improved aeration right base.
+
+3.  Somewhat worsened aeration left base.
+

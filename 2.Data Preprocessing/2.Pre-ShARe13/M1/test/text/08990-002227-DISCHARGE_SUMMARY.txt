@@ -1,0 +1,156 @@
+2227	||||	8990	||||	25077	||||	DISCHARGE_SUMMARY	||||	2014-12-14 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2014-12-04**]              Discharge Date:   [**2014-12-14**]
+
+Date of Birth:  [**1967-07-31**]             Sex:   F
+
+Service: SURGERY
+
+Allergies: 
+Penicillins / Acetaminophen / Ultram / Oxycontin / Zantac / Levofloxacin
+
+Attending:[**Attending Info 2957**] 
+Chief Complaint:
+Abdominal pain.
+
+Major Surgical or Invasive Procedure:
+Exploratory laparotomy, lysis of adhesions,
+small bowel resection, primary repair of recurrent ventral hernia, placement of left femoral vein triple lumen central venous line, placement of PICC.
+
+History of Present Illness:
+The patient is a 47-year-old female with end
+stage renal disease on hemodialysis, status post epigastric ventral hernia repair in the distant past, who was noted recurrence of the ventral hernia but without any symptoms. The day PTA, during hemodialysis, she developed abdominal discomfort and nausea, and thereafter, severe pain at the side of the recurrent epigastric ventral hernia. She came to the emergency room where a CT scan of the abdomen revealed a small omental fat- containing ventral hernia above the umbilicus with mild adjacent inflammatory fat stranding. Adjacent to this region, there were multiple prominent loops of small bowel with fecalization of bowel contents and surrounding inflammatory fat stranding and fluid locally. The loops of bowel distal to these prominent loops appeared decompressed and the findings were suggestive of a recent reduction of an incarcerated hernia with high grade obstruction. She now presents for exploratory laparotomy.
+
+Past Medical History:
+1. Significant for end-stage renal disease secondary to glomerulonephritis possibly secondary to IgA diagnosed in
+[**1996**], and the patient has been on hemodialysis since [**2001**]. She is anuric and is on Monday, Wednesday, and Friday dialysis schedule. 2. The patient has had bilateral below-the-knee amputations secondary to calciphylaxis in [**2011-04-15**] as well as multiple finger amputations during the same year. 3. She is status post a parathyroidectomy for previous admissions for hypercalcemia. 4. The patient is status post a left arteriovenous fistula on her left upper extremity placed in [**2010**], which became injured during a fistulogram in [**2013-06-15**]. 5. She has chronic pain. 6. She is status post a mitral valve replacement in [**2010-04-15**] with a mechanical Carbomedics 29-mm valve for rheumatic heart disease; and she is on Coumadin for this valve. She also has a history of endocarditis. 7. History of hypertension. 8. Anxiety.
+
+Social History:
+The patient smokes one-third of a pack per
+day. She denies any EtOH and is disabled.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+On admission:
+99.8   100   90/49   19   
+A&Ox3 in obvious pain
+MMM, w/o JVD
+RRR, tachy, no murmur
+CTAB
+soft +BS, epigastric TTP, voluntary gaurding, non-distended, no rebound
+guaiac negative
+s/p bilat BKA
+
+Pertinent Results:
+[**2014-12-12**] 01:10PM BLOOD WBC-4.6 RBC-3.30* Hgb-9.9*# Hct-28.9*  MCV-88 MCH-30.0# MCHC-34.2# RDW-18.4* Plt Ct-176
+[**2014-12-10**] 06:05AM BLOOD WBC-6.3 RBC-2.66* Hgb-7.2* Hct-23.1*  MCV-87 MCH-26.9* MCHC-31.0 RDW-18.5* Plt Ct-148*
+[**2014-12-09**] 06:48AM BLOOD WBC-5.6 RBC-2.72* Hgb-7.4* Hct-23.9*  MCV-88 MCH-27.1 MCHC-30.8* RDW-18.0* Plt Ct-142*
+[**2014-12-08**] 08:10AM BLOOD WBC-6.2 RBC-2.69* Hgb-7.5* Hct-23.8*  MCV-89 MCH-27.8 MCHC-31.3 RDW-18.3* Plt Ct-146*
+[**2014-12-08**] 05:39AM BLOOD WBC-5.9 RBC-2.73* Hgb-7.5* Hct-24.5*  MCV-90 MCH-27.4 MCHC-30.6* RDW-18.1* Plt Ct-135*
+[**2014-12-07**] 06:15AM BLOOD WBC-6.9 RBC-2.99* Hgb-8.5* Hct-26.8*  MCV-90 MCH-28.6 MCHC-31.9 RDW-17.9* Plt Ct-127*
+[**2014-12-06**] 03:03AM BLOOD WBC-7.2 RBC-3.17* Hgb-8.9* Hct-27.5*  MCV-87 MCH-28.2 MCHC-32.4 RDW-17.9* Plt Ct-120*
+[**2014-12-05**] 07:43PM BLOOD Hct-30.2*
+[**2014-12-05**] 03:08AM BLOOD WBC-12.5* RBC-3.66* Hgb-10.1* Hct-31.1*  MCV-85 MCH-27.6 MCHC-32.6 RDW-18.1* Plt Ct-118*
+[**2014-12-04**] 02:15PM BLOOD WBC-16.1* RBC-3.51* Hgb-9.7* Hct-29.0*  MCV-83 MCH-27.7 MCHC-33.6 RDW-18.2* Plt Ct-114*
+[**2014-12-04**] 08:00AM BLOOD WBC-15.9* RBC-3.61*# Hgb-10.0*#  Hct-31.1*# MCV-86 MCH-27.7 MCHC-32.2 RDW-18.6* Plt Ct-107*
+[**2014-12-03**] 09:40PM BLOOD WBC-11.5*# RBC-5.47* Hgb-15.5 Hct-46.2  MCV-84 MCH-28.3 MCHC-33.5 RDW-17.9* Plt Ct-138*
+[**2014-12-12**] 09:30AM BLOOD PT-23.8* PTT-49.4* INR(PT)-4.1
+[**2014-12-11**] 05:40AM BLOOD PT-24.5* PTT-59.0* INR(PT)-4.4
+[**2014-12-10**] 09:12PM BLOOD PT-23.6* PTT-48.0* INR(PT)-4.0
+[**2014-12-10**] 06:05AM BLOOD PT-27.4* PTT-56.0* INR(PT)-5.5
+[**2014-12-09**] 06:48AM BLOOD PT-24.3* PTT-54.4* INR(PT)-4.3
+[**2014-12-08**] 08:55PM BLOOD PT-23.1* PTT-50.8* INR(PT)-3.9
+[**2014-12-08**] 05:39AM BLOOD PT-22.9* PTT-104.3* INR(PT)-3.8
+[**2014-12-07**] 06:15AM BLOOD PT-18.0* PTT-58.2* INR(PT)-2.3
+[**2014-12-06**] 03:03AM BLOOD PT-16.8* PTT-56.5* INR(PT)-1.9
+[**2014-12-03**] 07:00AM BLOOD PT-18.9* INR(PT)-2.5
+[**2014-12-11**] 05:40AM BLOOD Glucose-68* UreaN-22* Creat-5.0*# Na-141  K-3.4 Cl-96 HCO3-28 AnGap-20
+[**2014-12-10**] 06:05AM BLOOD Glucose-68* UreaN-43* Creat-7.3*# Na-141  K-3.7 Cl-102 HCO3-23 AnGap-20
+[**2014-12-09**] 06:48AM BLOOD Glucose-86 UreaN-35* Creat-6.0*# Na-144  K-4.0 Cl-102 HCO3-25 AnGap-21*
+[**2014-12-07**] 06:15AM BLOOD Glucose-70 UreaN-45* Creat-6.6*# Na-144  K-4.3 Cl-100 HCO3-24 AnGap-24*
+[**2014-12-06**] 03:03AM BLOOD Glucose-92 UreaN-32* Creat-5.3*# Na-143  K-4.4 Cl-102 HCO3-24 AnGap-21*
+[**2014-12-05**] 03:08AM BLOOD Glucose-74 UreaN-46* Creat-6.7* Na-139  K-4.5 Cl-98 HCO3-22 AnGap-24*
+[**2014-12-04**] 02:15PM BLOOD Glucose-89 UreaN-37* Creat-5.9* Na-140  K-4.6 Cl-99 HCO3-25 AnGap-21*
+[**2014-12-04**] 08:00AM BLOOD Glucose-141* UreaN-33* Creat-5.5* Na-141  K-4.2 Cl-100 HCO3-25 AnGap-20
+[**2014-12-03**] 11:20PM BLOOD Glucose-142* UreaN-28* Creat-5.7* Na-141  K-4.5 Cl-94* HCO3-27 AnGap-25*
+[**2014-12-03**] 09:40PM BLOOD Glucose-119* UreaN-25* Creat-5.7*# Na-139  K-4.7 Cl-90* HCO3-30 AnGap-24*
+[**2014-12-03**] 09:40PM BLOOD ALT-66* AST-41* AlkPhos-468* Amylase-415*  TotBili-0.5
+[**2014-12-11**] 05:40AM BLOOD Calcium-8.6 Phos-3.8 Mg-1.4*
+[**2014-12-10**] 06:05AM BLOOD Calcium-8.3* Phos-4.4 Mg-1.5*
+[**2014-12-09**] 06:48AM BLOOD Calcium-8.8 Phos-4.6* Mg-1.7
+[**2014-12-08**] 08:10AM BLOOD Albumin-3.0* Calcium-8.7 Phos-5.8* Mg-1.7  UricAcd-6.7*
+[**2014-12-07**] 06:15AM BLOOD Calcium-8.9 Phos-5.2* Mg-1.7
+[**2014-12-06**] 03:03AM BLOOD Calcium-9.3 Phos-5.1* Mg-1.9
+[**2014-12-05**] 03:08AM BLOOD Calcium-8.4 Phos-5.2* Mg-1.5*
+[**2014-12-04**] 02:15PM BLOOD Calcium-8.3* Phos-4.5 Mg-1.5*
+[**2014-12-04**] 08:00AM BLOOD Calcium-8.3* Phos-4.3 Mg-1.5*
+[**2014-12-03**] 09:40PM BLOOD Albumin-4.9* Calcium-10.0 Phos-4.8*  Mg-1.8
+[**2014-12-05**] 11:25AM BLOOD freeCa-1.14
+[**2014-12-04**] 02:22PM BLOOD freeCa-1.15
+[**2014-12-04**] 06:33AM BLOOD freeCa-1.04*
+[**2014-12-04**] 05:23AM BLOOD freeCa-1.04*
+
+Brief Hospital Course:
+Pt admitted to surgery from the [**Doctor First Name **].  
+
+Ct showed:
+1. Prominent loops of proximal small bowel adjacent to an omental fat containing ventral hernia with fecalization of bowel contents, adjacent inflammatory fat stranding, and small amount of fluid and extraluminal air consistent with bowel ischemia and contained perforation. There also is apparent caliber change just below the level of the ventral hernia within the small bowel loops, as the distal loops of small bowel are markedly collapsed. All these findings are suggestive of interval reduction of an incarcerated hernia with high-grade bowel obstruction. At this time, no bowel loops are demonstrated within the ventral hernia.
+2. Patent mesenteric vessels.
+3. 2, low-density lesions within the spleen, likely representing hemangiomas.
+4. Stable appearance of simple hepatic cyst within the dome of the liver.
+5. Diffuse increase in density of the osseous structures consistent with renal osteodystrophy.
+6. Collateral vessels within the right lateral chest wall. These findings are suggestive of a right subclavian vein stenosis. Clinical correlation is recommended.
+
+Pt taken to the OR for operation.  Taken to the ICU intubated.  Renal consulted for HD and recs.  Pt extubated on POD1.  Renal was consulted for continuation of her hemodialysis, which went on with out complication.  She was kept NPO until bowel function resumed on POD 3, She transferred out of the ICU once extubated on POD 1.  She was kept on heparin gtt due to her need for anti-coagulation.  Once she had resumed POs, coumadin was started, and she was brought up to her normal coagulation level of 2.5-3.  She will follow up in the coumadin clinic and hemodialysis for follwing her INR.  Through the remained of her postoperative course, she was advnced through sips, to clears, fulls, then to a regular diet which she tolerated well.  By POD 10, she was tolerating regular diet, having bowel movements and her coumadin was theraputic.  She was d/c'ed home.  
+
+Medications on Admission:
+xanax
+MS [**First Name (Titles) **]
+[**Last Name (Titles) 6985**]
+protonix
+fentanyl
+levoxyl
+dilaudid
+coumadin
+
+Discharge Medications:
+1. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day). Disp:*30 Tablet(s)* Refills:*2*
+2. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO QID (4 times a day).  
+3. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap PO DAILY (Daily).  
+4. Levothyroxine Sodium 25 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+5. Cinacalcet 30 mg Tablet Sig: One (1) Tablet PO daily ().  
+6. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO TID W/MEALS (3 TIMES A DAY WITH MEALS).  7. Fentanyl 75 mcg/hr Patch 72HR Sig: One (1) Patch 72HR 
+Transdermal Q72H (every 72 hours).  
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Recurrent ventral hernia with small
+bowel obstruction and compromised bowel.
+Chronic renal failure
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+You may resume your home medications, please take all new medications as prescribed.
+
+You may resume your regular activities.  You may shower, pat the wound dry.  Do not soak the wound for one week.  The staples will be removed at your follow up appointment.  Please refrain from driving while taking narcotic pain medication.
+
+Please call your physician or return to the hoptial if you experience:
+- Increasing pain
+- Fever (>101.5)
+- Inability to eat/persistant vomiting
+- Other symptoms concerning to you
+
+Followup Instructions:
+Please follow up with Dr. [**Last Name (STitle) **].  Call ([**Telephone/Fax (2) 6450**] to make an appointment.
+
+[**First Name8 (NamePattern2) 410**] [**Last Name (NamePattern1) **] ARCHER MD [**MD Number 411**]
+
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number 6670**] [**2014-12-14**] @ 1128
+Signed electronically by: DR. [**First Name (STitle) 410**] [**Name2 (NI) **] on: [**First Name9 (NamePattern2) **] [**2015-02-24**] 5:27 PM (End of Report)
+

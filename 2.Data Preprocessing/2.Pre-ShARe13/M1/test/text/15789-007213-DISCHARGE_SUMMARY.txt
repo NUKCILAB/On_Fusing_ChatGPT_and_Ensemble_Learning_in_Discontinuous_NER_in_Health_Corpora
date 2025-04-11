@@ -1,0 +1,68 @@
+7213	||||	15789	||||	4552	||||	DISCHARGE_SUMMARY	||||	2011-05-25 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2011-05-23**]       Discharge Date:  [**2011-05-25**]
+
+Date of Birth:   [**1970-03-27**]       Sex:  M
+
+Service:  Cardiothoracic
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**lastname 7380**] is a 41-year-old man with known history of mitral valve prolapse x 15 years.  A recent echocardiogram revealed severe mitral regurgitation with moderate to severe tricuspid regurgitation and partial flail mitral valve leaflet with a mildly dilated left atrium. He has had rare episodes of dyspnea on exertion and palpitations, otherwise he is asymptomatic.  He was referred by his cardiologist for catheterization today in anticipation of mitral valve surgery in the future.  Please see the catheterization report for full details.  In summary, the catheterization showed an ejection fraction of 54% with 4+ mitral regurgitation and normal coronaries.
+
+PAST MEDICAL HISTORY:  1. Known mitral valve prolapse.  2.
+Hypertension.  3. Right shoulder surgery.  4. Tonsillectomy and adenoidectomy.  5. Dental surgery.
+
+ALLERGIES:  The patient has no known drug allergies.
+
+MEDICATIONS ON ADMISSION:  1. Aspirin 81 mg q.d.  2. Atenolol 50 mg q.d.  3. Verapamil 240 mg q.d.  4. Vitamin E 400 mg q.d.
+
+LABORATORY DATA:  White count 8.8, hematocrit 38.5, platelet count 240, INR 1.1, sodium 137, potassium 4.0, chloride 104, CO2 25, BUN 20, creatinine 1.1, glucose 96.  EKG was normal sinus rhythm.  Liver function tests were normal.
+
+REVIEW OF SYSTEMS:  The patient denies any seizures, any transient ischemic attacks or headaches.  Pulmonary:  Denies cough, wheezes or sputum.  Cardiac:  As per history.  GI:
+Denies any gastroesophageal reflux disease, nausea or diarrhea.  [**Hospital Unit Name **]:  No problems.  Hematology, infectious disease and endocrine:  Denies any significant problems.
+Musculoskeletal:  Status post right shoulder surgery with decreased range of motion of the right shoulder.
+
+PHYSICAL EXAMINATION:  General:  No acute distress.
+Neurological:  Grossly intact.  Pulmonary:  Lung clear to auscultation bilaterally.  Heart:  Regular rate and rhythm with a 4/6 systolic ejection murmur.  Abdomen:  Soft, nontender, nondistended with positive bowel sounds.
+Extremities:  Warm and well perfused with no edema.
+
+HOSPITAL COURSE:  On [**05-23**] the patient was brought to the operating room.  Please see the operative report for full details.  In summary, he had a minimally invasive mitral valve repair with quadrangular resection of the posterior leaflet with a 28 mm [**Doctor Last Name 1660**] annuloplasty ring placed.  His bypass time was 108 minutes with a cross-clamp time of 80 minutes.  He tolerated the operation well and was transferred from the operating room to the cardiothoracic intensive care unit.  The did well in the immediate postoperative period.
+His anesthesia was reversed.  Sedation was discontinued.  He was weaned from the ventilator and successfully extubated.
+
+On the morning of postoperative day one the patient continued to do well.  He was hemodynamically stable.  He was off all cardioactive IV medications.  His chest tubes were removed as well as his central access lines and he was transferred to the floor for continuing postoperative care and cardiac rehabilitation.
+
+On the floor with the assistance of the nursing staff and physical therapy the patient's activity level was increased and at the end of postoperative day two it was decided that the patient was stable and ready to be discharged to home.
+At the time of discharge the patient's physical examination was as follows:  Vital signs were stable and he was afebrile. Neurologically he was alert and oriented x 3, moved all extremities, followed commands.  Respiratory was clear to auscultation bilaterally.  Cardiovascular was regular rate and rhythm, S1 and S2 with no murmur.  Abdomen was soft and nontender, nondistended, with normal active bowel sounds. Extremities were warm and well perfused with no clubbing, cyanosis or edema.  Right thoracotomy incision was clean and dry with no erythema.
+
+Laboratory data showed a white count of 13.2, hematocrit
+23.7, platelet count 135, PT 12.7, PTT 27.6, INR 1.1, sodium 137, potassium 3.6, chloride 102, CO2 28, BUN 12, creatinine 0.9, glucose 87.
+
+Chest x-ray showed minimal apical pneumothorax on the right.
+
+DISCHARGE MEDICATIONS:
+1. Aspirin 325 q.d.
+2. Colace 100 b.i.d.
+3. Tylenol #3, 1-2 tablets p.o. q. 4 hours p.r.n.
+4. Niferex 150 mg q.d.
+5. Vitamin C 500 mg b.i.d.
+6. Atenolol 25 mg b.i.d.
+
+DISCHARGE DIAGNOSES:
+1. Status post mitral valve repair.
+2. Hypertension.
+3. Status post right shoulder surgery.
+4. Status post tonsillectomy and adenoidectomy.
+
+CONDITION ON DISCHARGE:  Good.
+
+FOLLOW UP:  He is to have follow up with his primary care physician in two weeks.  He is to have follow up with Dr. [**Last Name (STitle) **] in four weeks.
+
+[**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 7066**], M.D.  [**MD Number 7067**]
+
+Dictated By:[**Dictator Info 7381**]
+MEDQUIST36
+
+D:  [**2011-05-26**]  09:34
+T:  [**2011-05-26**]  09:47
+JOB#:  [**Job Number 7382**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 7066**] on: WED [**2011-07-06**] 4:42 PM
+(End of Report)
+

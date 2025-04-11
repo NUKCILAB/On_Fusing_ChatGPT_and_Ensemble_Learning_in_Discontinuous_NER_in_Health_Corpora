@@ -1,0 +1,82 @@
+23268	||||	3628	||||	5561	||||	DISCHARGE_SUMMARY	||||	2012-08-05 00:00:00.0	||||		||||		||||		||||	
+Admission Date: [**2012-07-31**]        Discharge Date: [**2012-08-05**]
+
+Date of Birth:  [**1943-12-24**]        Sex:  M
+
+Service:  [**Last Name (un) **]
+
+HISTORY OF PRESENT ILLNESS:  This 68-year-old gentleman had a chief complaint of chest pain with exertion x six months.  He had a known history of aortic stenosis with a murmur and a bicuspid aortic valve with a history of chest pain with exertion x six months.  He has been followed with echocardiograms x 10 years and recently began to have symptoms.
+
+Preoperative echocardiogram showed the following:  Mild tricuspid regurgitation, mild mitral regurgitation, left ventricular hypertrophy with an ejection fraction of 60 percent, aortic root of 4.8 cm, aortic valve area of 0.8 cm squared, the right atrium was mildly enlarged.  The patient had mild aortic insufficiency and severe aortic stenosis with a peak gradient of 87 mm and a mean gradient of 53 mm.
+Preoperative cardiac catheterization showed severe aortic stenosis with an aortic valve area of 0.5 cm squared, a peak gradient of 75, and normal coronary artery.
+
+PAST MEDICAL HISTORY:  History of bicuspid aortic valve, known x 10 years.
+
+History of hypothyroidism x 4 to 5 years.
+
+PAST SURGICAL HISTORY:  TURP x 2.
+
+Tonsillectomy.
+
+Adenoidectomy.
+
+MEDICATIONS PRIOR TO ADMISSION:  Synthroid 0.75 mg p.o. q.d.
+
+ALLERGIES:  The patient had no known allergies.
+
+FAMILY HISTORY:  The patient was cleared by dental exam prior to admission.  He had a positive family history for CAD.  The patient is a retired engineer who lives with his wife and had no tobacco history and no alcohol history.
+
+REVIEW OF SYSTEMS:  His review of systems was unremarkable with the exception of nocturia for one time per night.
+
+PHYSICAL EXAMINATION:  On exam, his heart rate was 65 with a blood pressure in the right arm of 104/64.  He appeared to be in no apparent distress.  His skin was clear.  The patient was normocephalic and atraumatic.  Pupils were equally round and reactive to light and accommodation.  The extraocular movements were intact.  The oropharynx was benign.  The neck was supple with no lymphadenopathy and thyromegaly.  There was bilateral murmur radiation to the carotid artery.  The chest was clear to auscultation anterior and posterior.  The patient had a grade [**04-28**] holosystolic murmur.  The patient had positive bowel sounds.  His abdomen was soft and nontender without any masses or hepatosplenomegaly.  Extremities were without any cyanosis, clubbing, or edema.  No varicosities were noted, and neurologic exam was nonfocal.  Pulses were 1 plus bilaterally on the femorals, DPs, PTs, and radial arteries.  There was 1 plus carotid pulses.
+
+PREOPERATIVE LABORATORY DATA:  Preoperative labs were as follows:  Sodium 140, potassium 4.3, BUN 23, creatinine 0.7, blood sugar 73. White count 6.4, hematocrit 41.9, platelet count 207,000, PT 13.0, PTT 32.3, INR 1.1.  ALT 13, AST 19, alkaline phosphatase 84, total bilirubin 0.2, albumin 4.5.
+Urinalysis was negative.
+
+Carotid studies showed a normal study with no blockages.
+Preoperative chest x-ray revealed a left ventricular configuration of the heart with a tortuous and dilated ascending aorta.  Preoperative EKG showed sinus bradycardia at 57 with left ventricular hypertrophy and left anterior hemi-block.
+
+Additional labs were as follows:  Chloride 103, CO2 27.
+
+HO[**Last Name (STitle) **] COURSE:  The patient was referred to Dr. [**Name Prefix (Prefixes) 161**] [**Last Name (Prefixes) 162**] for aortic valve replacement and possible aortic aneurysm resection.  On [**2012-07-31**], the patient underwent repair of his aortic root dilatation with a supracoronary tube graft, 24 mm gel-weave, and an aortic valve replacement with a 25 mm [**Last Name (un) 610**]-[**Doctor Last Name 371**] pericardial broad bioprosthetic valve. The patient was transferred to the cardiothoracic ICU in stable condition on a Neo-Synephrine drip at 0.7 mcg per kilogram per minute and a propofol drip at 25 mcg per kilogram per minute.
+
+On postoperative day one, the patient had been extubated overnight, was on a Neo-Synephrine drip at 0.2 mcg per kilogram per minute.  He was hemodynamically stable with a blood pressure of 111/46 in sinus rhythm at 72.  The patient had a cardiac index of 2.64 and was saturating 99 percent on 2 liters nasal cannula.  Postoperative labs were as follows: White count 11.4, hematocrit 32.3, platelet count 151,000, potassium 4.0, BUN 13, creatinine 0.7, low blood sugar of
+119.  The patient was awake, alert, and oriented x 3.  His heart was regular in rate and rhythm without any murmurs. His breath sounds were clear bilaterally.  He had hypoactive bowel sounds, but his abdomen was soft, nontender, and nondistended.  His extremities were warm and well perfused. The patient continued to have his Neo-Synephrine weaned and was encouraged to be out of bed.  The Swan was discontinued. The patient was seen by case management for evaluation.
+
+On postoperative day two, the patient was off all drips, began his aspirin, finished his perioperative antibiotics, and was continued on his preoperative Synthroid.  He had a T- max of 100.6 degrees, remained in sinus rhythm in the 70s with a good blood pressure.  He was saturating 95 percent on room air.  His labs were unremarkable with the exception of a slight drop in his hematocrit to 28.1 and a drop in his platelets to 113,000.  He remained oriented.  His exam was unremarkable.  His chest tubes were discontinued.  He began his beta blockade with Lopressor at 12.5 mg p.o. b.i.d.  He resumed his Synthroid as previously noted and was transferred to [**Wardname 683**].  On postoperative day three, the patient had no events overnight, had a good blood pressure of 110/63, in sinus rhythm in the 80s, saturating 95 percent on room air.
+His exam was unremarkable.  His post chest tube pull x-ray showed a small right apical pneumothorax.  Please refer to the final x-ray report.  The patient was doing well and was working with physical therapy and out of bed for ambulation. The patient was re-evaluated on postoperative day three by physical therapy and was deemed safe to go home with VNA services.  On postoperative day four, the patient again had no events overnight, was saturating 93 percent on room air, was hemodynamically stable in sinus rhythm.  The patient did have some desaturation with ambulation.  He was doing a physical therapy level 4.  Repeat chest x-ray showed no changes with some subcutaneous air at his left shoulder.  He continued to do well.  His magnesium was repleted.  Repeat labs were drawn.  Repeat chest x-ray was ordered in preparation for allowing him to be discharged the following day.  His pacing wires were removed on postoperative day four.  On postoperative day five, the day of discharge, the patient was hemodynamically stable with a blood pressure of 96/50, in sinus rhythm in the [**Doctor First Name 5**], saturating 96 percent on room air.  The patient's beta blockade had been increased to metoprolol 25 mg p.o. b.i.d.  The patient had some subcutaneous air at the left area of his neck still, but repeat chest x-ray showed that his lungs were clear with no pneumothorax and did comment on the ongoing subcutaneous air. The patient, however, was doing very well.  The patient was discharged to home on [**2012-08-05**] with VNA services with the following discharge diagnoses.
+
+DISCHARGE DIAGNOSES:  Status post Bentall procedure with replacement of ascending aorta and aortic valve replacement.
+
+History of bicuspid aortic valve.
+
+Hypothyroidism.
+
+Status post transurethral resection of prostate x 2.
+
+Status post tonsillectomy and adenoidectomy.
+
+DISCHARGE MEDICATIONS:
+1. Lasix 20 mg p.o. b.i.d. for 7 days.
+2. Potassium chloride 20 mEq p.o. b.i.d. for 7 days.
+3. Colace 100 mg p.o. b.i.d.
+4. Ranitidine 150 mg p.o. b.i.d.
+5. Enteric-coated aspirin 325 mg p.o. q.d.
+6. Levothyroxine sodium 75 mcg p.o. q.d.
+7. Dilaudid 2 mg p.o. p.r.n. q.[**07-31**] h. for pain.
+8. Metoprolol 25 mg p.o. b.i.d.
+
+FO[**Last Name (STitle) 565**]P:  The patient was instructed to follow up with his primary care physician, Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1545**], in approximately two to three weeks and to follow up with Dr. [**Name Prefix (Prefixes) 161**] [**Last Name (Prefixes) 162**], his surgeon, in the office for his postoperative visit at three to four weeks.
+
+DISCHARGE DISPOSITION:  The patient was discharged in stable condition to home with VNA services on [**2012-08-05**].
+
+[**First Name4 (NamePattern1) 160**] [**Name Prefix (Prefixes) 161**] [**Last Name (Prefixes) 162**], M.D. 02351
+
+Dictated By:[**Dictator Info 239**]
+MEDQUIST36
+D:  [**2012-10-17**] 10:47:41
+T:  [**2012-10-17**] 14:51:10
+Job#:  [**Job Number 1546**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] on: FRI [**2012-12-07**] 4:07 PM
+(End of Report)
+

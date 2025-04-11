@@ -1,0 +1,100 @@
+4677	||||	4882	||||	28225	||||	DISCHARGE_SUMMARY	||||	2013-09-10 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2013-09-01**]              Discharge Date:   [**2013-09-10**]
+
+Date of Birth:  [**1937-08-10**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 181**] 
+Chief Complaint:
+Dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+[**2013-09-02**] Aortic Valve Replacement (pericardial), Mitral Valve  Replacement (pericardial), Coronary Artery Bypass Graft x 1(SVG->PDA)
+
+History of Present Illness:
+76 y/o male with extensive past medical history and multiple cardiac risk factors who has been followed by serial echocardiograms for his valvular disease. Now has severe Aortic stenosis and mild congestive heart failure.Presented for surgical evaluation.
+
+Past Medical History:
+Aortic Stenosis, Congestive Heart Failure, Atrial fibrillation s/p attempted cardioversion, Thyroid cancer s/p thyroidectomy & radioactive iodine, Hypothyroidism, h/o pulmonary nodules,  Diabetes Mellitus, Hyperlipidemia, Adrenal insufficiency, h/o Bladder cancer s/p TURP, s/p appendectomy
+
+Social History:
+Lives with wife. Contractor. Former smoker. Quit drinking ETOH.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+VS: 52 irreg, 12 155/74 150/70 72" 220#
+General: WDWN male in NAD
+Skin: Warm, dry -lesions
+HEENT: NCAT, EOMI, PERRL, opbenign, anicteric sclera
+Neck: Supple, FROM -JVD w/ well-healed thyroidectomy scar
+Chest: CTAB -w/r/r, large nevi and birthmark mid sternum
+Heart: Irreg, Irreg 4/6 SEM
+Abd: Soft, NT/ND +BS
+Ext: Warm, well-perfused trace edema, small right varicosities, 2+ pulses
+Neuro: Non-focal, A&Ox3, MAE, [**05-10**] strengths
+
+Pertinent Results:
+Echo [**10-03**]: Prebypass: The left atrium is moderately dilated.  There is mild symmetric left ventricular hypertrophy. Regional left ventricular wall motion is normal. Overall left ventricular systolic function is normal(LVEF>55%). There are simple atheroma in the ascending aorta. There are complex (mobile) atheroma in the aortic arch. The descending thoracic aorta is mildly dilated. There are complex (mobile) atheroma in the descending aorta. Epiaortic scan done to assess cannulation site on the ascending aorta. There are three aortic valve leaflets. The aortic valve leaflets are severely thickened/deformed. There is severe aortic valve stenosis. No aortic regurgitation is seen. The mitral valve leaflets are moderately thickened. There is moderate thickening of the mitral valve chordae. Moderate to severe (3+) mitral regurgitation is seen. The mitral regurgitation jet is eccentric and posteriorly directed. Post bypass: LV systolic function is mildly depressed. EF 45%. There is mild hypokinesia of the inferior wall. RV function is unchanged. There is bioprosthetic valve seen in the mitral posiiton. The valve appears well seated and the leaflets move well. There is mild MR [**First Name (Titles) 1955**] [**Last Name (Titles) 6773**] with the administration of protamine. There is a bioprosthetic valve seen in the aortic position. The valve appears well seated and the leaflets move well. Trace aortic insufficiency present.  CXR [**09-06**]: Comparison is made to [**2013-09-04**]. The patient is status post CABG and AVR and MVR. The cardiac silhouette, mediastinal and hilar contours appears stable. Bilateral small pleural effusions are again seen, slightly increased on the right in the interval. Again noted is left basilar discoid atelectasis. The lungs are otherwise clear. No consolidations are seen. There is no pneumothorax.
+[**2013-09-02**] 03:06AM BLOOD WBC-4.5 RBC-4.10* Hgb-11.7* Hct-32.6*  MCV-80* MCH-28.6 MCHC-36.0* RDW-16.3* Plt Ct-176
+[**2013-09-06**] 06:10AM BLOOD WBC-4.4 RBC-2.91* Hgb-8.4* Hct-23.7*  MCV-81* MCH-28.7 MCHC-35.3* RDW-16.8* Plt Ct-108*
+[**2013-09-10**] 06:20AM BLOOD WBC-5.8 RBC-2.98* Hgb-8.4* Hct-24.3*  MCV-81* MCH-28.2 MCHC-34.7 RDW-16.8* Plt Ct-247#
+[**2013-09-02**] 03:06AM BLOOD PT-14.4* PTT-34.3 INR(PT)-1.3*
+[**2013-09-10**] 12:45PM BLOOD PT-16.2* PTT-83.7* INR(PT)-1.5*
+[**2013-09-02**] 03:06AM BLOOD Glucose-115* UreaN-15 Creat-0.8 Na-138  K-4.0 Cl-103 HCO3-27 AnGap-12
+[**2013-09-09**] 06:40AM BLOOD Glucose-94 UreaN-15 Creat-1.1 Na-136  K-4.2 Cl-98 HCO3-32 AnGap-10
+
+Brief Hospital Course:
+Mr. [**lastname 6774**] [**Last Name (Titles) 902**] all pre-operative work-up as an outpatient. He was found to also have coronary artery disease and mitral valve disease. He was admitted one day prior to surgery secondary to being on Coumadin (which was stopped 5 days ago). He was started on heparin and usual lab work was performed. On [**09-02**] he was brought to the operating room where he underwent a aortic valve replacement, mitral valve replacement, and coronary artery bypass graft x 1. Please see operative report for surgical details. Surgery was uneventful and he was brought to the CSRU for invasive monitoring in stable condition. Later on op day he was weaned from sedation, awoke neurologically intact and was extubated. By post-operative day one he was weaned off of any pressors. He was started on beta blockers and diuretics and was transferred to the SDU. He was gently diuresed towards his pre-op weight during his post-op course. On post-op day two his chest tubes and epicardial pacing wires were removed. Coumadin was restarted for his chronic atrial fibrillation. Over the next several days his platelet count decreased but a HIT panel was negative. After this, post op day 5, he was started on low dose Heparin while awaiting his INR to increase with Coumadin. He remained stable over the next several days and worked with physical therapy for strength and mobility. His INR became therapeutic on post-op day eight and he was discharged home with VNA services and the appropriate follow-up appointments. 
+
+Medications on Admission:
+Levoxyl, Zestril, Digoxin, Hydrocortisone, Lipitor, Coumadin (stopped 5 days ago), Coreg, Niacin, MVI, Zanax, Diovan, 
+Cardizem
+
+Discharge Medications:
+1. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*2*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). Disp:*60 Capsule(s)* Refills:*0*
+3. Potassium Chloride 20 mEq Packet Sig: One (1) Packet PO Q12H (every 12 hours) for 7 days. Disp:*20 Packet(s)* Refills:*0*
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+5. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain. Disp:*35 Tablet(s)* Refills:*0*
+6. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*1*
+7. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+8. Levothyroxine 200 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily): use home meds.  
+9. Hydrocortisone 20 mg Tablet Sig: One (1) Tablet PO QAM (once a day (in the morning)).  
+10. Hydrocortisone 5 mg Tablet Sig: Two (2) Tablet PO QPM (once a day (in the evening)).  
+11. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+12. Multivitamin,Tx-Minerals     Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+13. Furosemide 40 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 7 days. Disp:*30 Tablet(s)* Refills:*0*
+14. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+15. Warfarin 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) for 2 doses: please have inr checked on [**09-12**] with results to Dr. [**Last Name (STitle) **]. Disp:*30 Tablet(s)* Refills:*0*
+16. Ferrous Gluconate 300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0*
+17. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*30 Tablet(s)* Refills:*0*
+
+Discharge Disposition:
+Home with Service
+
+Discharge Diagnosis:
+Aortic Stenosis, Mitral Regurgitation, Coronary Artery Disease s/p Aortic Valve Replacment, Mitral Valve Replacement, Coronary Artery Bypass Graft x 1
+PMH: Congestive Heart Failure, Atrial fibrillation s/p attempted cardioversion, Thyroid cancer s/p thyroidectomy & radioactive iodine, Hypothyroidism, h/o pulmonary nodules, Diabetes  Mellitus, Hyperlipidemia, Adrenal insufficiency, h/o Bladder cancer s/p TURP, s/p appendectomy
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+Call with fever, redness or drainage from incision or weight gain more than 2 pounds in one day or five in one week. Shower, no baths, no lotions, creams or powders to incisions. No heavy lifting or driving until follow up with surgeon.
+
+Followup Instructions:
+Provider: [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **],[**First Name3 (LF) **]  [**Telephone/Fax (2) 101**]  4 weeks Call to schedule appointment 
+Provider: [**Name10 (NameIs) **],[**Name11 (NameIs) **]  [**Telephone/Fax (2) 5682**]  2 weeks Call to schedule appointment  Dr. [**Last Name (STitle) **] 2 weeks and for coumadin dosing.
+
+[**Doctor Last Name **] [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] MD [**MD Number 185**]
+
+Completed by: [**First Name8 (NamePattern2) 57**] [**Last Name (un) **] PA 80-BMD [**2013-10-03**] @ 1006
+Signed electronically by: DR. [**First Name (STitle) **] [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] on: WED [**2013-12-11**] 3:29 PM
+(End of Report)
+

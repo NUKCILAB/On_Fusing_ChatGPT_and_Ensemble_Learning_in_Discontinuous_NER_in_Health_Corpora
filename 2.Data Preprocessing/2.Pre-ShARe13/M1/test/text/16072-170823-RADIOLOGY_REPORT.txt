@@ -1,0 +1,17 @@
+170823	||||	16072	||||	26057	||||	RADIOLOGY_REPORT	||||	2018-05-24 17:56:00.0	||||	C12 CHEST (PORTABLE AP)	||||		||||	Clip # 435-6530  Actual report	||||	
+DATE: [**2018-05-24**] 5:56 PM
+CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Clip Number (Radiology) 255**] Reason: please assess for trach placement / etc                     Admitting Diagnosis: CHEST PAIN
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+40 year old woman with severe resp failure now s/p trach and peg                REASON FOR THIS EXAMINATION: please assess for trach placement / etc                                         ______________________________________________________________________________
+
+FINAL REPORT
+INDICATION:  Severe respiratory failure status post trach and PEG.  Assess for trach placement.
+
+COMPARISON:  Chest x-ray from 14 hours prior.
+
+SINGLE AP SEMI-UPRIGHT BEDSIDE CHEST RADIOGRAPH:  There has been interval placement of a tracheostomy tube with tip approximately 5.6 cm above the carina.  Right subclavian line terminates at the mid SVC.  There is no pneumothorax.  There has been slight decrease to small bilateral pleural effusions and pulmonary edema with some residual cephalization and perivascular haziness.  Retrocardiac opacity with clustered bronchial markings is likely due to atelectasis.
+
+IMPRESSION:  Interval placement of tracheostomy tube, in satisfactory position.  Mild improvement in CHF.  Left basilar atelectasis persists.
+

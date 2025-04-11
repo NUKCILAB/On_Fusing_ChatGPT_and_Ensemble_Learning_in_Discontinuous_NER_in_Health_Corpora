@@ -1,0 +1,19 @@
+175533	||||	19911	||||	10724	||||	RADIOLOGY_REPORT	||||	2019-08-27 04:20:00.0	||||	C12 CHEST (PORTABLE AP)	||||		||||	Clip # 411-9581  Actual report	||||	
+DATE: [**2019-08-27**] 4:20 AM
+CHEST (PORTABLE AP)                                             [**Clip Number (Radiology) 8225**] Reason: Please assess for clinical change                           Admitting Diagnosis: SEPSIS
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+66 year old woman with ESRD on CVVH, resp. failure.                             REASON FOR THIS EXAMINATION: Please assess for clinical change                                               ______________________________________________________________________________
+
+FINAL REPORT
+AP CHEST 4:38 A.M. ON [**08-27**].
+
+HISTORY:  On dialysis.  Respiratory failure.
+
+IMPRESSION:  AP chest compared to [**08-02**] and 24:
+
+Moderate right pleural effusion has increased since [**08-22**], partially obscuring anatomic detail in the right lung but mild interstitial edema is probably present.  Leftward mediastinal shift _____ a function of right pleural effusion and substantial left lower lobe collapse, even though the latter appears to have improved since [**08-22**].  Cardiac silhouette is top normal size.  No pneumothorax.
+
+Tracheostomy tube and a dual channel right internal jugular dialysis line are in standard placements.  No pneumothorax.
+

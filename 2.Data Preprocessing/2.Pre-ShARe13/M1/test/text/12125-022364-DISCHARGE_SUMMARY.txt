@@ -1,0 +1,137 @@
+22364	||||	12125	||||	17352	||||	DISCHARGE_SUMMARY	||||	2015-10-10 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2015-10-07**]              Discharge Date:   [**2015-10-10**]
+
+Date of Birth:  [**1951-05-03**]             Sex:   M
+
+Service: [**Hospital Unit Name 865**]
+
+Allergies: 
+Lidocaine / Wheat Starch
+
+Attending:[**Attending Info 5852**] 
+Chief Complaint:
+SSCP
+DOE
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization with stent placement
+
+History of Present Illness:
+64yo man with h/o CAD s/p multiple percutaneous interventions, HTN, hypercholesterolemia, who had SSCP 2wks PTA, was scheduled for ETT, had PND and palpitations on PM PTA, then NSVT on DOA during his ETT and was transferred to [**Hospital1 189**] for cath.  Pt's CAD history consists of angioplasty of OM1, OM2 in [**2002**], a crown stent placed in his LAD in [**2009**], a relook in [**2010**], and a cath in 
+[**2011-07-23**] that showed EF 42%, OM1 99% stenosis, OM2 100% stenosis,  RCA 20-30% stenosis, LVEDP 12 mmHg, moderate global hypokinesis with LVEF 42%. No intervention done at that time.  
+
+Patient was in his USOH until 2 weeks PTA, when he had SSCP while jogging on a treadmill that ended on its own, no associated symptoms, no N/V, radiations, no diaphoresis, [**05-02**] pain at worst.  
+He went in to his ETT on AM of admit, started exercising and was stopped by the tech for NSVT of 3 beats. PCP transfer to [**Hospital1 189**] for cath. In cath, pt was found to have right dominant system, single vessel coronary artery disease, LMCA clear, LAD patent stent, LCX with TO of OM2 branch, filling via collaterals, RCA tortuous mid vessel 50 to 60% stenoses, LVEDP 14 mm Hg, LVEF 53%, no MR. Pressure wire was placed in mid-RCA with FFR 0.6 (>0.75 indicating restricted flow); during attempts at stent placement dissection occurred, pt had [**09-01**] "elephant sitting on my chest" pain; one stent was placed proximal to the lesion, Fentanyl given, IABP started, pain relieved, pt sent to CCU.
+
+Past Medical History:
+1. Hypercholesterolemia
+2. HTN
+3. CAD as in HPI
+4. GERD
+
+Social History:
+etoh: social
+tob: quit 1990
+drugs: none
+
+Family History:
+noncontributory
+
+Physical Exam:
+On admit:
+Vitals: HR 72 RR 18 BP 150/69 O2 sat 96%ra
+Gen: middle-aged man, pleasant, lying flat on bed with IABP
+Skin: warm and dry skin, no rash
+HEENT: nc/at, perrl, eomi, op clear, mmm
+CV: RRR, [**02-27**] syst murmur at apex, JVP flat
+Lungs: trace rales lower [**01-24**] bilaterally
+Abd: soft, nt, nd, no HSM
+Groin: R -- A + V sheaths in place; ecchymosis, tender; L -- A sheath with IABP in place; ecchymosis, tender; no bruits on either side
+Ext: no lower extremity edema, 2+ DP and PT pulses b/l, no clubbing, cyanosis or erythema
+Neuro: nonfocal exam, sensation intact
+
+Pertinent Results:
+[**2015-10-07**] 08:47PM BLOOD Hct-36.7* Plt Ct-169
+[**2015-10-08**] 05:01AM BLOOD WBC-7.5 RBC-4.18* Hgb-13.1* Hct-37.1*  MCV-89 MCH-31.3 MCHC-35.3* RDW-12.9 Plt Ct-180
+[**2015-10-09**] 05:04AM BLOOD WBC-8.0 RBC-4.06* Hgb-12.6* Hct-36.6*  MCV-90 MCH-31.1 MCHC-34.4 RDW-12.9 Plt Ct-164
+[**2015-10-07**] 08:47PM BLOOD Plt Ct-169
+[**2015-10-08**] 05:01AM BLOOD PT-13.3 PTT-48.8* INR(PT)-1.1
+[**2015-10-09**] 05:04AM BLOOD PT-13.0 PTT-28.4 INR(PT)-1.1
+[**2015-10-09**] 05:04AM BLOOD Plt Ct-164
+[**2015-10-09**] 05:04AM BLOOD Ret Aut-2.5
+[**2015-10-07**] 08:47PM BLOOD UreaN-13 Creat-0.7 K-3.2*
+[**2015-10-08**] 05:01AM BLOOD Glucose-105 UreaN-15 Creat-0.7 Na-138  K-3.7 Cl-105 HCO3-21* AnGap-16
+[**2015-10-09**] 05:04AM BLOOD Glucose-114* UreaN-16 Creat-1.1 Na-141  K-4.8 Cl-106 HCO3-28 AnGap-12
+[**2015-10-07**] 02:30PM BLOOD CK(CPK)-121
+[**2015-10-07**] 08:47PM BLOOD CK(CPK)-88
+[**2015-10-08**] 05:01AM BLOOD ALT-33 AST-24 LD(LDH)-219 CK(CPK)-97  AlkPhos-72 TotBili-1.1
+[**2015-10-09**] 05:04AM BLOOD ALT-27 AST-18 LD(LDH)-201 CK(CPK)-68  AlkPhos-71 TotBili-0.8
+[**2015-10-07**] 02:30PM BLOOD CK-MB-3 cTropnT-<0.01
+[**2015-10-08**] 05:01AM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**2015-10-09**] 05:04AM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**2015-10-07**] 08:47PM BLOOD Mg-1.8
+[**2015-10-08**] 05:01AM BLOOD Albumin-3.9 Calcium-7.9* Phos-2.6* Mg-2.3
+[**2015-10-09**] 05:04AM BLOOD Albumin-4.0 Calcium-9.2 Phos-3.6 Mg-1.8
+[**2015-10-08**] 05:01AM BLOOD Hapto-<20*
+[**2015-10-09**] 05:04AM BLOOD Hapto-42
+
+Brief Hospital Course:
+64yo man with h/o CAD s/p multiple PCIs, HTN, hyperchol, who had SSCP 2wks PTA, was scheduled for ETT, had PND and palpitations on PM prior to study and NSVT during study, was transferred to [**Hospital1 189**] for cath.
+
+1. Cardio
+A. Coronaries: 
+During pt's cath procedure, mid RCA 50-60% stenosis was encountered.  A pressure wire read an FFR of 0.69 after adenosine, 0.83 at rest.  An attempt was made to stent the lesion, but given the tortuous nature of the RCA a dissection of the artery occurred.  The patient then had [**09-01**] pain "like an elephant was sitting on [his] chest." He was given Fentanyl and a IABP for pain control and for increased flow to his coronaries. He was admitted to the CCU, and had a largely uneventful CCU course.  He was maintained on ASA 325mg qd,  Lipitor 80mg qd (for antiinflammatory properities the higher dose was used), IABP for two days.  CT [**Hospital Unit Name **] was emailed and made aware, though pt's dissection was managed medically without further evidence of CP, SOB, DOE, or PND.  Cardiac enzymes peaked on the DOA and trended down thereafter, without NSTEMI.
+
+B. Pump: 
+Pt was on an IABP initially for pain relief and to increase flow to the stented RCA in the tortuous artery.  An attempt was made to wean the pump 1d post cath that failed secondary to hypotension.  Another attempt to wean on Day 2 post cath was successful.  He started on metoprolol 25mg po bid on Day 3, but did not tolerate with HR in 40s, so was switched over to metoprolol 12.5mg po qd. He was also started on lisinopril 2.5mg po qd.
+
+C. Rhythm: NSR, intially with multiple PVCs c/w reperfusion of myocardial tissue but then stabilizing in NSR without ectopy.
+
+2. Renal: creatinine immediately post-procedure 0.7, bumped to 
+1.1, likely [**02-23**] dye load
+
+3. GI: GERD; was on Protonix as outpatient, which was continued in the hospital
+
+4. [**Hospital Unit Name **]: hematuria noted after anticoagulation and foley placement; after the foley and the anticoag were d/c'd this issue resolved.
+
+5. Heme: hct drop on admit but then stable around 37 and trending up, thought possibly from procedure and urinary loss
+
+Medications on Admission:
+Lipitor 10mg qd
+ASA 81mg qd
+Atenolol 25mg qd
+Diltiazem 60mg bid
+Protonix
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO QD (once a day). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO QD (once a day) for 30 days. Disp:*30 Tablet(s)* Refills:*5*
+3. Atorvastatin Calcium 80 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*
+4. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day). Disp:*30 Tablet(s)* Refills:*2*
+5. Lisinopril 5 mg Tablet Sig: 0.5 Tablet PO QD (once a day). Disp:*15 Tablet(s)* Refills:*2*
+6. Protonix as per outpatient regimen, QD
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Unstable angina
+RCA dissection
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+Please take all medications as prescribed and arrange appointments with your primary care doctor in the next week to have your electrolytes checked now that we have started you on new medications.  You should also set up an appointment with the Cardiologist who performed your procedure in the next month or so.
+
+Followup Instructions:
+Please call your primary care doctor to set up an appointment within the next week if possible to have your blood electrolytes checked now that you have been started on new medications. Your primary care doctor should also check your blood pressure and heart rate during this visit to see if any medications need to be changed.
+
+You will also need to call your Cardiologist Dr. [**Last Name (STitle) 1706**] ([**Telephone/Fax (2) 7835**] to set up a follow up appointment for within the next month or two if possible.
+
+[**First Name11 (Name Pattern1) 796**] [**Name7 (MD) 1714**] MD [**MD Number 5856**]
+
+Completed by: [**First Name11 (Name Pattern1) **] [**Name7 (MD) 2595**] MD [**MD Number 2596**] [**2015-10-10**] @ 1435
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on: FRI [**2015-10-23**] 1:33 PM
+(End of Report)
+

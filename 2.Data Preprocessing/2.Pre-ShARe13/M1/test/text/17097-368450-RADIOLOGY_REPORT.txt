@@ -1,0 +1,16 @@
+368450	||||	17097	||||	28577	||||	RADIOLOGY_REPORT	||||	2015-03-11 19:09:00.0	||||	C12 CHEST (PORTABLE AP)	||||		||||	Clip # 335-6754  Actual report	||||	
+DATE: [**2015-03-11**] 7:09 PM
+CHEST (PORTABLE AP)                                             [**Clip Number (Radiology) 709**] Reason: S/P TRACH,NG PLACEMENT Admitting Diagnosis: MYOCARDIAL INFARCTION\CATH ______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+77 year old woman with triple vessel CAD s/p RCA stent x 2 for    RV         infarct     and    coronary pacer for junctional rhythm REASON FOR THIS EXAMINATION: s/p trach, eval position of trach, eval for pneumothorax                        ______________________________________________________________________________
+
+FINAL REPORT
+INDICATION:  77 year old female status post stent placement.  Check position of tracheostomy.  Rule out pneumothorax.
+
+COMPARISON:  [**2015-03-11**] and [**2015-03-10**].
+
+AP SUPINE SINGLE VIEW OF THE CHEST:
+
+There is interval change of an ET tube for an endotracheal tube.  There is no evidence of pneumothorax.  There is pleural thickening in the left apex.  The cardiac size, mediastinum and hilum are unchanged when compared to the previous study earlier today.  The pulmonary vascularity is unchanged when compared to the previous study earlier today.  The appearance of the lungs is not significantly changed.  There is a nasogastric tube with the tip in the stomach.
+

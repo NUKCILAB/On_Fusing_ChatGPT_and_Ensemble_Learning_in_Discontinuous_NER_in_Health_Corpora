@@ -1,0 +1,146 @@
+1791	||||	19778	||||	12711	||||	DISCHARGE_SUMMARY	||||	2012-09-12 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2012-09-09**]              Discharge Date:   [**2012-09-12**]
+
+Date of Birth:  [**1961-06-08**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: 
+Penicillins
+
+Attending:[**Attending Info 2923**] 
+Chief Complaint:
+chest pressure and arm pain
+
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization
+Percutaneous Coronary Transluminal Angioplasty with Stenting
+
+History of Present Illness:
+51 y/o male with history of HTN and Hypercholesterolemia presented with new onset of bilateral arm pain associated with chest tightness. Received four baby aspirin from EMS and taken to [**Location 5831**]. Had full thrombolysis with TKNase as he would not be able to make it to [**Hospital1 461**] in approproate time frame. Once thrombolysed, taken to [**Hospital1 461**] via ambulance and upon arival, still with chest pain so taken emergently to the cath lab where he had cath and PCI to RCA. 
+
+Past Medical History:
+GERD
+HTN
+Hypercholesterolemia
+Retinal detachments s/p multiple retinal surgeries
+
+Social History:
+Not a smoker. Alcohol use -one drink every couple of weeks. No drug use.
+
+Family History:
+No significant history of familial heart disease. Paternal 
+Grandmother had MI at age 78.
+
+Physical Exam:
+VITALS: T Afebrile HR 55  BP 118/78 RR 15  Sat 98 
+GENERAL:  well developed male in  NAD 
+SKIN: no rashes
+HEAD: NC/AT
+EYES: EOMI, Anicteric, R pupil located laterally on [**Female First Name (un) 3650**], L pupil dyssymetric
+THROAT: No erythema, no tonsillar enlargement, tongue midline NECK: No stiffness, No masses, No LAD, Palpable carotid pulses, no bruits, no JVD 
+CHEST: no supraclavicular or axillary LAD, Lungs Clear to 
+Asculation, No Wheezes/Rhonchi/Crackles
+HEART: normal PMI, RRR, No Murmurs/Gallops/Rubs
+BACK: No CVA Tenderness, No spinal tenderness
+ABDOMEN: Flat, NABS, Soft, No organomegaly, No masses, No guarding, No rebound
+EXT: No clubbing/cyanosis/edema. Good Pulses.
+NEURO: oriented to person, place, time
+
+Pertinent Results:
+Admission Labs:
+[**2012-09-09**] 07:25PM   WBC-16.5* RBC-4.35* HGB-14.2 HCT-40.8 MCV-94  MCH-32.7* MCHC-34.8 RDW-12.6
+[**2012-09-09**] 07:25PM   PLT SMR-NORMAL PLT COUNT-232
+[**2012-09-09**] 07:25PM   NEUTS-87.6* BANDS-0 LYMPHS-10.1* MONOS-1.8*  EOS-0.4 BASOS-0.2
+[**2012-09-09**] 07:25PM   PT-15.1* PTT-134.8* INR(PT)-1.6
+[**2012-09-09**] 07:25PM   GLUCOSE-122* UREA N-12 CREAT-1.1 SODIUM-138  POTASSIUM-4.3 CHLORIDE-103 TOTAL CO2-21* ANION GAP-18
+[**2012-09-09**] 07:25PM   CK(CPK)-192*
+[**2012-09-09**] 07:25PM   CK-MB-10 MB INDX-5.2 cTropnT-0.17*
+[**2012-09-10**] 01:28AM BLOOD CK(CPK)-515*
+[**2012-09-10**] 10:30AM BLOOD CK(CPK)-1016*
+[**2012-09-11**] 06:10AM BLOOD CK(CPK)-743*
+[**2012-09-12**] 07:20AM BLOOD CK(CPK)-336*
+[**2012-09-10**] 01:28AM BLOOD CK-MB-38* MB Indx-7.4* cTropnT-1.54*
+[**2012-09-10**] 10:30AM BLOOD CK-MB-110* MB Indx-10.8* cTropnT-2.19*
+[**2012-09-11**] 06:10AM BLOOD CK-MB-33* MB Indx-4.4 cTropnT-1.55*
+[**2012-09-12**] 07:20AM BLOOD CK-MB-10 MB Indx-3.0 cTropnT-1.39*.
+
+Cath:
+1. Selective coronary angiography of this right dominant sytem revealed  single vessel CAD. The RCA was a dominant vessel and was 95% occluded in  the mid vessel with thrombus. The RCA gave rise to a large PDA. The LMCA  was without angiographic evidence of flow limiting stenosis. teh LAD had  no angiographically apparent flow limiting stenosis and gave rise to a  large D1. The LCX had no angiographically visible flow limiting lesions  and gave rise to a large OM branch. 
+2. Limited resting hmeodynamics revealed mildy elevated systemic 
+
+pressures. 
+3. Left ventriculography was deferred. 
+4. Successful PCI of the proximal and mid RCA with two Cypher DES  (non-overlapping 3.5 x 18 mm), both post-dilated with a 4.5 mm balloon. 
+5. Successful closure of the RFA arteriotomy site with a 6 [**Ethnicity 203**]  Angioseal device. 
+
+FINAL DIAGNOSIS:     
+1. Angiographic evidence of single vessel coronary artery disease. 
+2. Mildly elevated systemic pressures. 
+3. Successful rescue PCI with stenting of the proximal and mid-RCA for  failed fibrinolytic therapy for acute inferior myocardial infarction. 
+
+Echo:
+. Selective coronary angiography of this right dominant sytem revealed  single vessel CAD. The RCA was a dominant vessel and was 95% occluded in  the mid vessel with thrombus. The RCA gave rise to a large PDA. The LMCA  was without angiographic evidence of flow limiting stenosis. teh LAD had  no angiographically apparent flow limiting stenosis and gave rise to a  large D1. The LCX had no angiographically visible flow limiting lesions 
+and gave rise to a large OM branch. 
+2. Limited resting hmeodynamics revealed mildy elevated systemic 
+
+pressures. 
+3. Left ventriculography was deferred. 
+4. Successful PCI of the proximal and mid RCA with two Cypher DES  (non-overlapping 3.5 x 18 mm), both post-dilated with a 4.5 mm balloon. 
+5. Successful closure of the RFA arteriotomy site with a 6 [**Ethnicity 203**]  Angioseal device. 
+
+FINAL DIAGNOSIS:     
+1. Angiographic evidence of single vessel coronary artery disease. 
+2. Mildly elevated systemic pressures. 
+3. Successful rescue PCI with stenting of the proximal and mid-RCA for  failed fibrinolytic therapy for acute inferior myocardial infarction. 
+
+EKG on Admission:
+Sinus bradycardia. RSR' pattern in leads V1-V2. ST segment elevations in  leads II, III and aVF consistent with possible inferior ischemia/infarction.  
+
+Follow Up EKG:
+Normal sinus rhythm. Right bundle-branch block. Left anterior fascicular block. Compared to the previous tracing of [**2012-09-10**] the right bundle-branch block is new. There are also prominent T wave inversions in leads III and aVF with deep Q waves suggestive of inferior infarction/ischemia 
+
+Brief Hospital Course:
+51 yo male transferred from OSH with IMI. Lysed with full dose TNK, incompletely reperfused and still with pain on arrival at [**Hospital1 461**], taken to cath lab, had 95% RCA lesion which was stented with cyphers x 2. He had an uncomplicated recovery and was discharged pain free after three days on Toprol [**Last Name (LF) **], [**First Name3 (LF) **], lisinopril, and plavix. 
+
+Medications on Admission:
+Atenolol
+Niacin
+Prilosec
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+3. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+4. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+5. Toprol XL 25 mg Tablet Sustained Release 24HR Sig: One (1) Tablet Sustained Release 24HR PO once a day.
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Coronary Artery Disease
+Acute ST Segment Elevation Myocardial Infarction
+
+Discharge Condition:
+Stable, without chest pain.
+
+Discharge Instructions:
+Please call your doctor or go to the emergency room if you experience any chest pressure/pain or any symptomes concerning for a heart attack.
+
+Please make an appointment with your primary care doctor in the next week.
+
+Please follow up with your cardiologist.
+
+Followup Instructions:
+Please follow up with your primary care doctor and cardiologist.
+
+Cardiac rehabilitation.
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) 2927**] MD [**MD Number 2928**]
+
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3273**] MD [**MD Number 3274**] [**2012-10-19**] @ 1653
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on: TUE [**2012-12-04**] 11:40 AM
+(End of Report)
+

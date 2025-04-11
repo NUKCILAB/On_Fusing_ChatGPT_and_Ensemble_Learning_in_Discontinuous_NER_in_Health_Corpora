@@ -1,0 +1,106 @@
+28319	||||	16247	||||	28159	||||	DISCHARGE_SUMMARY	||||	2012-03-19 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2012-03-13**]              Discharge Date:   [**2012-03-19**]
+
+Date of Birth:  [**1946-12-21**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 565**] 
+Chief Complaint:
+Witnessed Cardiac Arrest
+
+Major Surgical or Invasive Procedure:
+CABGx2(LIMA->LAD, SVG->OM1) [**2012-03-13**]
+Cardiac Catheterization with placement of an IABP. [**2012-03-13**]
+
+History of Present Illness:
+Mr. [**lastname **] is a 66 year old gentleman who awoke at 4AM on [**2012-03-13**] with 10/10 chest pain. Paramedics were called and he subsequently sustained a cardiac arrest. He was cardioverted for ventricular tachycardia, sedated and intubated and taken to the [**Hospital 6801**] [**Hospital3 **]. He was treated with aspirin, betablockade, aggrestat and heparin. Mr. [**lastname **] was urgently transferred to the [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 346**] [**Hospital **] [**First Name (Titles) **] [**Last Name (Titles) **] for a cardiac catheterization which revealed an 80% stenosed left main and a 50% stenosed left anterior descending artery. An intra-aortic balloon pump was placed for coronary perfusion and the cardiac surgical service was consulted for surgical revascularization. 
+
+Past Medical History:
+Hypercholesterolemia
+Hypothyroidism
+
+Social History:
+Retired engineer. Lives with wife in [**Name2 (NI) 391**], MA. Denies smoking history or excessive alcohol use. 
+
+Family History:
+Unavailable
+
+Physical Exam:
+GEN: Pt in cath lab bed, intubated and sedated. IABP in place. VITALS: 132/80  91 SR  PA 36/20 
+HEENT: JVD 6cm, oropharynx benign, no audible carotid bruits bilaterally, anicteric sclera. 
+CARDIAC: RRR, no murmur
+LUNGS: Clear
+ABDOMEN: Soft, nontender, nondistended, no hepatosplenomegally. EXTREMITIES: No clubbing, cyanosis or edema.
+NEURO: Intubated and sedated. Pupils equal. 
+PULSES: 2+ femoral, radial dorsalis pedis and posterior tibial bilaterally. 
+
+Pertinent Results:
+[**2012-03-13**] 08:30AM   WBC-13.4* RBC-3.75* HGB-11.9* HCT-32.8*  MCV-87 MCH-31.7 MCHC-36.3* RDW-12.9
+[**2012-03-13**] 08:30AM   ALT(SGPT)-59* AST(SGOT)-51* ALK PHOS-62 TOT  BILI-0.6
+[**2012-03-13**] 08:30AM   GLUCOSE-160* UREA N-12 CREAT-0.7 SODIUM-136  POTASSIUM-3.9 CHLORIDE-106 TOTAL CO2-25 ANION GAP-9
+[**2012-03-13**] 08:58AM   TYPE-ART RATES-0/16 TIDAL VOL-600 PEEP-5  PO2-290* PCO2-42 PH-7.35 TOTAL CO2-24 BASE XS--2  INTUBATED-INTUBATED
+
+ELECTROCARDIOGRAM PERFORMED ON: [**2012-03-13**]  
+Atrial activity is not clearly discernible. The rhythm appears to be atrial flutter with 3:1 A-V conduction at 90. Intraventricular conduction delay. Prior anteroseptal and lateral myocardial infarction. There is much baseline artifact. ST segment elevations in leads I, aVL and V4-V6 consistent with active anterolateral ischemia. Followup and clinical correlation are suggested.
+No previous tracing available for comparison. 
+
+[**2012-03-13**] ECHOCARDIOGRAM 
+IMPRESSION: Severely depressed LV systolic function (LVEF 20-25%) with regional wall motion abnormalities c/w CAD. Normal RV systolic function. At least mild mitral and aortic regurgitation.  
+
+[**2012-03-19**] ECHOCARDIOGRAM
+Mild symmetric left ventricular hypertrophy with mild regional systolic dysfunction c/w CAD. Mild aortic regurgitation.  Compared with the prior study (tape reviewed) of [**2011-03-13**], global left ventricular systolic function is improved. Mild aortic regurgitation is also now seen.
+
+[**2012-03-13**] CARDIAC CATHETERIZATION
+1. Selective coronary arteriography of this right-dominant system revealed severe LMCA disease demonstrating an 80% distal stenosis. The LAD had a long 50% lesion involving the proximal and mid vessel as well as the D1 branch. The LCX and RCA were free of flow-limiting stenoses.
+2. Hemodynamic evaluation after angiography revealed normal right-sided pressures (mean RA was 8 and RVEDP was 10 mmHg), moderately elevated left-sided pressures (mean PCW was 21 mmHg), and moderately elevated pulmonary pressures (PA was 43/18 mmHg). The cardiac index was supranormal at 6.9 L/min/m2 (on dopamine infusion, during 1:1 intra-aortic balloon counterpulsations, and using an assumed oxygen consumption).
+3. An intra-aortic balloon pump was placed via the right femoral arteriotomy site with appropriate diastolic augmentation and systolic unloading.
+
+[**2012-03-13**] CXR
+1). An endotracheal tube terminates is slightly proximal in location. 
+2). Pulmonary parenchymal opacity is present within the left lung base  obscuring the left hemidiaphragm with an associated small left-sided pleural effusion. 
+
+Brief Hospital Course:
+Mr. [**lastname **] was admitted to the [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 346**] [**Hospital **] Medical Center on [**2012-03-13**] for a cardiac catheterization. He was found to have an 80% stenosed left main and a 50% stenosed left anterior descending artery. An intra-aortic balloon pump (IABP) was placed for coronary perfusion and the cardiac surgical service was consulted for surgical evaluation. Mr. [**lastname **] was worked-up in the usual preoperative manner and taken urgently to the operating room where he underwent coronary artery bypass grafting to two vessels. Postoperatively he was taken to the cardiac surgical intensive care unit for monitoring. His IABP was weaned and removed on postoperative day one without complication. On postoperative day two, Mr. [**lastname **] [**Last Name (Titles) 740**] neurologically intact and was extubated. Amiodarone was continued for prevention of ventricular arrythmias. He was placed on a course of zosyn for thick, yellow bronchial secretions. On postoperative day three, he was transferred to the cardiac surgical step down unit for further recovery. He was gently diuresed towards his preoperative weight. His epicardial pacing wires and drains were removed per protocol. The physical therapy service was consulted for assistance with his postoperative strength and mobility. Given his history of a ventricular tachycardia arrest and low ejection fraction, the electrophysiology service was consulted. A repeat echocardiogram revealed improvement in his left ventricular ejection fraction from 20% to roughly 35%. It was recommended to add betablockade and follow-up in 4-6 weeks with his cardiologist for a repeat echocardiogram with possible referral to the electrophysiology service for further testing. Mr. [**lastname **] continued to make steady progress and was discharged home on postoperative day six. He will follow-up with Dr. [**Last Name (STitle) **], his cardiologist and his primary care physician as an outpatient. 
+
+Medications on Admission:
+Aspirin 325mg once daily
+Synthroid 100mcg once daily
+Lipitor 20mg once daily
+
+Discharge Medications:
+1. Furosemide 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 7 days. Disp:*14 Tablet(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). Disp:*60 Capsule(s)* Refills:*2*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Levothyroxine Sodium 100 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+5. Amiodarone HCl 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day) for 7 days: Then decrease to 400 mg PO daily for 7 days, then decrease to 200 mg PO daily. Disp:*50 Tablet(s)* Refills:*0*
+6. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: Two (2) Capsule, Sustained Release PO Q12H (every 12 hours) for 7 days. Disp:*28 Capsule, Sustained Release(s)* Refills:*0*
+7. Atorvastatin Calcium 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+
+Discharge Disposition:
+Home with Service
+
+Discharge Diagnosis:
+Coronary artery disease.
+
+Discharge Condition:
+Good.
+
+Discharge Instructions:
+Follow medications on discharge instructions.
+You may not drive for 4 weeks.
+You may not lift more than 10 lbs. for 3 months.
+You should shower, let water flow over wounds, pat dry with a towel.
+
+Followup Instructions:
+Make an appointment with Dr. [**Last Name (STitle) **] for 1-2 weeks. Make an appointment with Dr. [**Last Name (STitle) 725**] for 2-3 weeks. Make an appointment with Dr. [**Last Name (STitle) **] for 4 weeks.
+
+[**Name6 (MD) **] [**Name7 (MD) 574**] MD [**MD Number 575**]
+
+Completed by: [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 745**] PA 80-BYE [**2012-04-12**] @ 1017
+Signed electronically by: DR. [**First Name (STitle) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] on: FRI [**2012-04-13**] 3:26 PM
+(End of Report)
+

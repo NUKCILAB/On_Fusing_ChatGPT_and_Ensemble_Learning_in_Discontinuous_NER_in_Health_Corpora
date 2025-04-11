@@ -1,0 +1,117 @@
+5003	||||	6134	||||	24066	||||	DISCHARGE_SUMMARY	||||	2013-07-23 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2013-07-20**]              Discharge Date:   [**2013-07-23**]
+
+Date of Birth:  [**1948-09-10**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 201**] 
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization with RCA stent x 2 placement.
+
+History of Present Illness:
+64 y/o male with h/o CAD (s/p 5VCABG 1996), HTN, and hyperlipidemia who presented with acute onset of CP. Patient states that recently he has noticed increasing exertional CP (chest pressure) over the past year. Today, around 1pm, he developed non-exertional [**10-01**] SSCP associated with SOB and diaphoresis.  Pt was taken to OSH. EKG showed STE in V2, V3, aVf and STD in V1, aVL. Pt was [**Hospital Unit Name 23**]-flighted to [**Hospital1 2**] for cath.
+
+In the cath lab, he was found to have occluded SVG to D1 and RCA; patent LIMA to LAD, SVG to OM1; severe 3VD. 90% stenosed RCA was stented with 2 overlapping drug eluting stents. Mildly elevated R and L sided pressure. Normal CO/CI.
+
+The patient was transferred to the CCU post-cath for further monitoring and managment. In the CCU, pt was asymptomatic without any CP, SOB, diaphoresis, nausea, or pain.
+
+Past Medical History:
+CAD (s/p 5VCABG [**2003-12-05**])
+HTN
+Hyperlipidemia
+
+Social History:
+He lives with his wife. [**Name (NI) **] denies tobacco, EtOH, or IVDU. He is currently unemployed.
+
+Family History:
+Father died of stroke in 70s.  Sister with rheumatic fever.
+
+Physical Exam:
+VS: T97.2 P77 BP 141/70 RR 19 99%2L
+Gen: well-appearing, pleasant
+Neck: JVP 6cm, no carotid bruits
+CVS: distant HS, no m/g/r
+Lungs: CTAB anteriorly
+Abd: soft, NT, ND, +BS
+Ext: no edema
+Groin: A and V sheaths in place. 
+
+Pertinent Results:
+[**2013-07-20**] WBC-15.8 Hct-40.8 Plt Ct-151 Glucose-144 UreaN-21  Creat-1.2 Na-144 K-3.9 Cl-109 HCO3-21 BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**2013-07-20**] CK 1004--1425--1[**Telephone/Fax (5) 7421**] CK-MB 178--139--94--33 Troponin T 2.80--5.70--6.39
+
+[**2013-07-23**] WBC-8.8 RBC-4.83 Hgb-15.1 Hct-43.0 MCV-89 MCH-31.3 
+MCHC-35.1* RDW-12.9 Plt Ct-122* Glucose-238* UreaN-14 Creat-1.1 Na-139 K-3.9 Cl-101 HCO3-27 AnGap-15
+
+[**2013-07-21**] 05:06AM BLOOD %HbA1c-6.8*
+
+Cardiac cath ([**2013-07-20**]): Selective coronary angiography of this right dominant system revealed severe three vessel native coronary artery disease.  The left main coronary artery had diffuse disease up to 30%.  The left anterior descending coronary artery was totally occluded in the mid vessel after the take off of a moderate sized D1 vessel.  The left circumflex coronary artery was totally occluded proximally.  The right coronary artery had a 90% ulcerated proximal stenosis, with diffuse 40-50% 
+stenoses in the mid and distal RCA.  The RCA was a large vessel with a  PDA and 2 PL branches. Vein graft angiography revealed a patent SVG to OM1.  The SVG --> D1 and SVG --> RCA (with possible jump graft previously) were totally occluded. Arterial conduit angiography revealed patent LIMA --> LAD. Resting hemodynamics revealed mildly elevated right and left sided filling pressures, with RVEDP = 13 mmhg and mean PCW = 20 mmhg.  There was no evidence of pulmonary hypertension.  The cardiac output and index  were preserved at 5.5 and 3.0 respectively.  There was no evidence of  systemic hypertension. Left ventriculography was not undertaken. 
+
+Echocardiogram ([**2013-07-22**]):
+The left atrium is mildly dilated. Left ventricular wall thicknesses and  cavity size are normal. There is mild regional left ventricular systolic  dysfunction with focal hypokinesis of the distal half of the inferior wall and mid-inferior septum. The remaining left ventricular segments contract normally and overall systolic function is normal. Right ventricular chamber size and free wall motion are normal. The ascending aorta is mildly dilated. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation. The mitral valve appears structurally normal with trivial mitral regurgitation. There is no mitral valve prolapse. There is borderline pulmonary artery systolic hypertension. There is no pericardial effusion. IMPRESSION: Mild regional left ventricular systolic dysfunction c/w CAD. 
+EF 55%
+
+Brief Hospital Course:
+64 y/o male with h/o CAD s/p 5V CABG in [**2002**], HTN, and hyperlipidemia who presented with an inferior STEMI. The following issues were addressed during this hospitalization.
+
+1. Cardiac
+- Ischemia
+The patient was transferred to [**Hospital1 2**] for catheterization after he was found to have had an inferior STEMI. See above for EKG results. He is s/p RCA [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] x2. He was transferred to the CCU for post-cath management. The patient was hypotensive on night of admission but was mentating well and had good urine output. He did not require pressors. He was started on aspirin 325 mg PO daily, clopidogrel 75 mg PO daily, and atorvastatin 80 mg PO daily. His HbA1C was checked and was 6.8. The patient will need further workup as an outpatient with his PCP regarding possible glucose intolerance. His BGs during this hospital admission were borderline. He had no h/o DM upon admission but may have had impaired glucose tolerance for some time prior to admission. The patient was transferred to the floor from the CCU as his clinical status improved. PT evaluated the patient and cleared him to return to home. He will need outpatient cardiac rehab coordinated by his PCP after discharge. The patient was instructed about his new medications and the importance of taking Plavix due to the placement of 2 stents. His medications will need to be managed by his PCP and follow up visit with cardiology.
+
+- Pump
+The patient was thought to be volume overloaded given elevated L sided pressures with wedge of 20 in cath lab. He was given IV lasix x 1 but required volume afterward. An echocardiogram was done after his catheterization and the results are above. He will need a repeat echo in approximately 6 months to re-evaluate his EF and any changes in his cardiac function.
+
+2. HTN
+The patient was initially hypotensive but that resolved and he remained normotensive for the remainder of the hospital course. He was on atenolol 25 mg PO daily at home. He was changed to metoprolol BID in house in order to titrate. He was discharged home on his home dose of atenolol.
+
+3. Hyperlipidemia
+The patient was on atorvastatin 40 mg PO qd at home. Increased to 80 mg PO daily for ACS. He was also discharged home on atorvastatin 80 mg PO daily.
+
+Medications on Admission:
+Aspirin 81 mg daily
+Atenolol 25 mg daily
+Atorvastatin 40 mg daily
+
+Discharge Medications:
+1. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+2. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+3. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+4. Atenolol 25 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary: ST elevation myocardial infarction with RCA stent
+
+Secondary: 
+Coronary Artery Disease
+
+Discharge Condition:
+The patient was discharged hemodynamically stable, afebrile with appropriate follow up.
+
+Discharge Instructions:
+1. Take all medications as prescribed. The following are new medications: Plavix 75 mg PO daily, Atorvastatin 80 mg PO each night, and Metoprolol 25 mg PO BID, Aspirin 325 mg PO daily.
+
+2. Please keep all follow up appointments.
+
+3. Please call your PCP [**Initials (NamePattern4) **]. [**First Name4 (NamePattern1) 663**] [**Last Name (NamePattern1) 2408**] at ([**Telephone/Fax (2) 7422**] or seek medical attention in the [**Doctor First Name 3**] if you experience worsening chest pain, shortness of breath, nausea, vomiting, diarrhea, abdominal pain, or any other concerning symptom.
+
+Followup Instructions:
+Please follow up with your PCP [**Initials (NamePattern4) **]. [**First Name4 (NamePattern1) 663**] [**Last Name (NamePattern1) 2408**] on Monday, [**07-29**] at 3:30.
+
+Please follow up with Dr. [**Last Name (STitle) **] in 2 weeks by calling ([**Telephone/Fax (2) 7423**] for an appointment.
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) 204**] MD [**MD Number 205**]
+
+Completed by: [**Name6 (MD) 2260**] PEOPLES MD [**MD Number 2261**] [**2013-07-30**] @ 2044
+Signed electronically by: DR. [**First Name (STitle) **] PINTO on: [**Doctor First Name 67**] [**2013-08-01**] 10:41 AM (End of Report)
+

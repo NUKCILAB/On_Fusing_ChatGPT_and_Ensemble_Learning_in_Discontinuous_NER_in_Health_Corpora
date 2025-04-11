@@ -1,0 +1,94 @@
+13632	||||	20701	||||	17766	||||	DISCHARGE_SUMMARY	||||	2011-10-21 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2011-09-09**]       Discharge Date:  [**2011-10-21**]
+
+Date of Birth:   [**1960-02-01**]       Sex:  M
+
+Service:  VASCULAR
+
+CHIEF COMPLAINT:   Abdominal pain.
+
+HISTORY OF PRESENT ILLNESS:   This is a 51 year old man who was recently evaluated by his primary care physician for complaints of atypical left upper quadrant abdominal pain.  A CT scan was obtained which detected a large right common iliac aneurysm 4.5 by 4.5, along with a small left common iliac aneurysm.  The patient had a cardiac work-up which revealed an essentially normal echocardiogram with an ejection fraction of 60 to 70% along with no ischemic symptoms by exercise tolerance.
+
+The patient underwent an arteriogram by Dr. [**Last Name (STitle) **] on [**08-11**] which demonstrated a right pseudo-iliac aneurysm and a left common iliac aneurysm.  The patient now is admitted electively for repair.
+
+PAST MEDICAL HISTORY:
+1.  Hay fever.
+2.  No previous surgeries.
+
+ALLERGIES:   No known drug allergies.
+
+MEDICATIONS:  The patient is not on any medications at the present time.
+
+SOCIAL HISTORY:   He is married; he is self-employed as a tile installer.  He lives with his wife.  [**Name (NI) **] ambulates independently.
+
+DISCHARGE LABORATORY:  PT 12.8, INR 1.1, PTT 32.7.  CBC with white blood cell count of 9.9, hematocrit 31.0, platelets 745k.
+
+Electrolytes were sodium 134, potassium 4.9, chloride 97, carbon dioxide 24, BUN 28, creatinine 0.7, glucose 103, calcium 8.5, phosphorus 5.7, magnesium 1.9.
+
+A video swallow done on [**2011-06-17**], demonstrated decreased bolus control with premature spillage.  There was poor epiglottic dysflexion throughout the entire study.  Residue remained in the panniculi with nectar liquids and there was trace penetration during swallowing of nectar liquids.  With thin liquids there was aspiration; the patient could not transfer or swallow a barium tablet.
+
+Bilateral venous studies for deep vein thrombosis were obtained on [**2011-10-04**], which showed no evidence of deep vein thrombosis in the left lower extremity from the inguinal to popliteal region as well as the right common femoral vein.
+
+A CT scan of the chest attained on [**2011-09-14**] for persistent fevers demonstrated heart and pericardium were unremarkable. Anterior mediastinum was clear.  The great vessels were intact.  There was no significant hilum or spinal, axillary lymphadenopathy.  There are bilateral pleural effusions which are moderate sized.  There is bilateral apical patchy infiltrates seen greater on the right than on the left.
+There is a left subclavicular and jugular line in the inferior aspect of the superior vena cava.  The trachea is midline with an ET in place and a nasogastric tube in place.
+
+Abdominal CT scan:  The liver, spleen, liver and pancreas were unremarkable.  There were small gallstones in the dependent portion of the gallbladder, however, there was no wall thickening or pericholecystic fluid collection.  The left kidney showed an inferior simple cyst.  There was free fluid in the abdomen and that has not changed significantly in amount compared to previous study.  There is no free air in the abdomen.
+
+CT scan of the pelvis:  Large and small bowels are normal caliber and course.  Fluid throughout the pelvis which measures approximately 16 hounds filled units, unchanged from previous.  Post-surgical changes were seen in the mesentery on the left side.
+
+The infraradial aorta-[**Hospital1 **]-iliac bypass was seen with a small amount of hematoma around the graft, but no extravasation, but there is a peri-aortic collection which has expanded since the previous study of 09/11.  There is no change in the retroperitoneum hematoma on the left.
+
+Preoperative chest x-ray was unremarkable.  Chest x-ray, single view only, done on [**2011-10-08**], did demonstrate low lung volumes with subsequent atelectasis in the left lower zones.  No evidence of pulmonary edema.
+
+HOSPITAL COURSE:  The patient was admitted to the
+Preoperative Holding Area on [**2011-09-09**].  He underwent bilateral iliac aneurysm repair with an aorta-bifemoral bypass.  Interoperatively, the iliac vein was injured with repair.  The patient had open bedside laparotomy on [**09-09**], later that day and returned to the Operating Room for intra-abdominal sepsis and bleeding of the iliac vein.  The patient remained in the [**Hospital Unit Name 189**] intubated during this time.
+
+On [**09-18**], the patient had bilateral chest tubes placed secondary to moderate pleural effusions bilaterally and underwent an exploratory laparotomy which was unremarkable.
+On [**09-23**], he underwent abdominal washout with fascial partial closure and then returned to the Operating Room on [**09-26**] for exploratory laparotomy, abdominal washout and repair of a serosal small bowel tear and fascial closing with Silastic.
+
+During his hospitalization, he required total parenteral nutrition and nasogastric tube feeds secondary to aspiration. He was initially evaluated by Speech Therapy on [**10-06**], and then a repeat video swallow was done on [**10-17**], which continued to show aspiration with thin liquids.
+Recommendations were soft solid ground foods and thickened liquids.
+
+The patient underwent, on [**10-07**], a venogram with IVC filter placement.  He was begun on anti-coagulation.  A repeat MRV was recommended which the patient refused to have done.
+
+The remaining hospital course was unremarkable.  The patient was discharged to rehabilitation in stable condition.
+
+DISCHARGE INSTRUCTIONS:
+1.  He is to follow-up with Dr. [**Last Name (STitle) 1723**] in one weeks time.
+2.  Coumadin 2.5 mg q. day.  This should be adjusted for a goal INR of 2.0 to  2.5.
+3.  His diet will be regular soft solids with thickened liquids.  His tube feeds were discontinued on [**2011-10-19**] by the patient.
+4.  The patient should have INR drawn on Saturday and this should be called to Dr.[**Last Name (STitle) 2614**] office at [**Telephone/Fax (2) 2391**].
+
+DISCHARGE MEDICATIONS:
+1.  Tomoxiprole 40 mg subcutaneously q. 12 hours.
+2.  Protonix 40 mg q. day.
+3.  Reglan 10 mg a.c. and h.s.
+4.  Lopressor 50 mg three times a day; hold for systolic blood pressure less than 100 and heart rate less than 60.
+5.  Dazolicine 60 mg four times a day, hold for heart rate less than 60, systolic blood pressure less than 115.
+6.  Enalapril 5 mg q. day.
+7.  Miconazole Powder to affected areas four times a day and p.r.n.
+8.  Artificial Tears one to two drops o.u. p.r.n.
+9.  Albuterol multi-dose inhalers, puffs four to eight p.r.n.
+10. Insulin sliding scale, discontinued.
+11. Lorazepam intravenous q. h.s. p.r.n.; if discharged to home this will be discontinued.
+
+DISCHARGE DIAGNOSES:
+1.  Bilateral iliac aneurysm status post aorta-bifemoral graft with right iliac vein injury status post repair.
+2.  Status post open laparotomy times three.
+3.  Bilateral pleural effusions, status post chest tubes.
+4.  Aspiration status post video swallow.
+5.  Questionable iliac thrombus status post IVC filter placement.
+6.  Blood loss anemia, corrected.
+7.  Hypertension, stable.
+
+[**First Name11 (Name Pattern1) 640**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 1836**]
+
+Dictated By:[**Dictator Info 3612**]
+MEDQUIST36
+
+D:  [**2011-10-21**]  14:12
+T:  [**2011-10-21**]  16:52
+JOB#:  [**Job Number 5216**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 640**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] on: FRI [**2011-10-28**] 12:18 PM
+(End of Report)
+

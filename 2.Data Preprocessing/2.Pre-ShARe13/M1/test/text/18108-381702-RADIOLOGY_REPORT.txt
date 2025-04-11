@@ -1,0 +1,18 @@
+381702	||||	18108	||||	15997	||||	RADIOLOGY_REPORT	||||	2016-03-31 10:23:00.0	||||	C11 CHEST (PA & LAT)	||||		||||	Clip # 314-1246  Actual report	||||	
+DATE: [**2016-03-31**] 10:23 AM
+CHEST (PA & LAT)                                                [**Clip Number (Radiology) 1513**] Reason: ? effusions, infiltrate                                     ______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+47 year old woman with sub acute onset liver failure, ascites and decreased  basilar breath sounds, increased 02 requirement
+REASON FOR THIS EXAMINATION:
+? effusions, infiltrate                                                         ______________________________________________________________________________
+
+FINAL REPORT
+INDICATIONS:   Subacute onset of liver failure, ascites, decreased basilar breath sounds.  Evaluate for effusions or infiltrate.
+
+COMPARISONS:  [**2016-03-30**].
+
+PA AND LATERAL CHEST: There has been significant interval improvement in the appearance of the multifocal pulmonary opacities in the one day interval. Particularly, there has been near resolution in the right upper lobe opacity. This appearance could be consistent with interval improvement in multifocal pneumonia. However, given the repeatidy of improvement, this may be consistent with improving pulmonary edema in the appropriate clinical context. The left PICC is unchanged in position. There are no pleural effusions.
+
+IMPRESSION:   Significant interval improvement in the multifocal pulmonary opacities. This may relate to improving multifocal pneumonia. However, given the repeatidy of improvement, this may indicate improving pulmonary edema.
+

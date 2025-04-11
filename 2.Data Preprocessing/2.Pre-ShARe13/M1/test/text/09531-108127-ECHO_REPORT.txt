@@ -1,0 +1,41 @@
+108127	||||	9531	||||	19759	||||	ECHO_REPORT	||||	2009-10-26 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: ?endocarditis
+Height: (in) 66
+Weight (lb): 117
+BSA (m2): 1.59 m2
+BP (mm Hg): 93/51
+HR (bpm): 103
+Status: Inpatient
+Date/Time: [**2009-10-26**] at 16:17
+Test: Portable TTE(Complete)
+Doppler: Complete pulse and color flow
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: The left atrium is normal in size. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: The right atrium is normal in size. 
+
+LEFT VENTRICLE: Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is normal (LVEF>55%). 
+
+AORTA: The aortic root is normal in diameter. 
+
+AORTIC VALVE: The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation. No masses or vegetations are seen on the aortic valve. 
+
+MITRAL VALVE: The mitral valve leaflets are structurally normal. No mass or vegetation is seen on the mitral valve. Physiologic mitral regurgitation is seen (within normal limits). 
+
+PULMONIC VALVE/PULMONARY ARTERY: The pulmonic valve leaflets appear structurally normal with physiologic pulmonic regurgitation. 
+
+PERICARDIUM: There is no pericardial effusion. 
+
+Conclusions: 
+The left atrium is normal in size. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is normal (LVEF>55%). The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation. No masses or vegetations are seen on the aortic valve. The mitral valve leaflets are structurally normal. No mass or vegetation is seen on the mitral valve. There is no pericardial effusion. No echocardiographic evidence of endocarditis. 
+
+Compared with the prior report (tape unavailable) of [**2009-10-06**], no significant change., 
+

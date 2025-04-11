@@ -1,0 +1,61 @@
+825	||||	16997	||||	20375	||||	DISCHARGE_SUMMARY	||||	2013-01-19 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2013-01-02**]     Discharge Date:  [**2013-01-19**]
+
+Date of Birth:   [**1937-01-18**]     Sex:  M
+
+Service:  CARDIOTHORACIC
+
+ADDENDUM:  On the day of discharge [**01-13**] the plan was to discharge the patient to rehab when his sternal drainage decreased.  On examination on the morning of the 18th he had continued drainage and his rehab bed was canceled.  He was continued on antibiotics and he continued his physical therapy while he remained under observation.  On the 19th he was comfortable with no complaints.  He was hemodynamically stable and afebrile sating 95% on room air.  His sternal dressing had 2 cm spot of serosanguinous staining again.  His lungs were clear.  His heart was regular rate and rhythm.  He had trace to 1+ edema in his bilateral lower extremities.
+
+Additional laboratory work was done with a chest x-ray to follow on his postoperative twelfth day.  On the evening of the 19th the resident was called to see the patient for a temperature max of 101.6 with no complaints.  He was sating well.  He was generally comfortable.  His sternum had no drainage that evening or no erythema, but his right lower extremity was warm and erythematous around the saphenectomy site.  He appeared to have some dried blood at the wound without any exudate and no drainage from the wound.  No fluid collection was appreciated and the [**Doctor Last Name 2567**] for a source of his fever continued.  He was noted to have pleural effusion to be aspirated under ultrasound guidance in the morning.  A sputum culture was sent.  Urinalysis and CNS was sent.  His examination was consistent with some cellulitis of his right lower extremity.  The patient was on Vancomycin and peaks and troughs were to be checked.  He had blood cultures sent off. He did not have any pain or discomfort with that.
+
+On the 20th he was afebrile overnight.  His right lower extremity dressing became soaked with increased amount of dark blood after Steri-Strips was removed from his incision. His extremities did not have any drainage.  His temperature max was 101.6 down to 101.2 at the time of examination.  He was sating well on room air and was hemodynamically stable.
+He continued on Vancomycin and Levofloxacin for his wound coverage.  His other continuing issue was a little bit of dysphagia and was seen by the speech and ORL Service.  He was also continued to be followed by physical therapy and case management who was reviewing his need for a bed.  He also received a podiatry consult who noted his signs of peripheral neuropathy.  His swallowing trial was deferred on the 21st as the patient had been up all evening and was exhausted.
+
+On the 21st he was ambulating a level three/four with no complaints with a temperature max of 100.4 remaining febrile to 100.1 at the time of examination.  He was comfortable.  He was hemodynamically stable.  His sternum had no drainage.
+His right lower extremity, his groin wound had no drainage.
+He had decreased induration of his distal wound.  The culture of the hematoma aspirate was still pending.  His white count was 15.4 with a hematocrit of 31.7 with a K of 4.9 and a BUN of 40 and creatinine 2.0, which was a slight increase.  He was to continue on his Levofloxacin and Vancomycin for thirteen more days.  His Lasix was discontinued.  He had some crackles on the right side of his lungs greater then left. He did have a grade 2 over 6 systolic murmur, but his heart was regular rate and rhythm.  After his examination on the 21st on postoperative day thirteen with decreased induration of his distal wound his white count was 15.4, hematocrit
+31.7, BUN 36, creatinine 1.6 with a K of 4.5.  The aspirate results were pending.  He continued on Vancomycin day seven and Levofloxacin day two.  He was followed by physical therapy.
+
+On postoperative day fifteen [**01-17**] he was ambulating approximately 100 feet, but needed a wheel chair to return to the room.  He had no new complaints.  His temperature max was 101.1 with 98.2 at the time of examination.  His lungs were clear bilaterally.  His heart was regular rate and rhythm.
+His right lower extremity groin wound was clean, dry and intact.  His distal wound was unchanged.  His wound aspirate from the proximal leg showed no PMNs and no growth to date. He continued on Levofloxacin and Vancomycin with a possibility of a PICC line placement on Friday.
+
+On postoperative day sixteen his temperature max was 100.8.
+He had some crackles on the right side greater then the left with a systolic ejection murmur of grade 2 over 6.  His extremities were intact with no edema bilaterally.  His sternum had no drainage.  His white count dropped to 11.0 with a hematocrit of 30.7, but his creatinine rose to 2.0 from the day prior.  His Lasix was discontinued and he continued on his double antibiotic therapy.  He appeared to be somewhat fatigued, but continued having encouragement to participate in physical therapy as his need for rehab increased.  On [**01-18**] case management updated to report that they had done multiple screens for him for discharge on the following day to rehab at Brandin Woods.  The swallowing trial was deferred by the patient on the 23rd.  He was saying he had no complaints and no signs or symptoms of aspiration.
+
+On the 23rd also a PICC line was placed by intravenous therapy by Dr. [**Last Name (STitle) 2568**] of radiology.  He also was seen by infectious disease on the 23rd.  At the time he had a white count of 9.9, hematocrit 31.0, BUN 39, creatinine 1.8 with a K of 4.1.  His hematoma from the leg wound on the 20th had negative organisms or PMNs and the culture was negative.  The blood cultures from [**01-15**] were pending.  The urine culture from the 19th showed less then 10,000 organisms.  The urinalysis from the 19th showed microscopic red blood cells and no white blood cells.  Please refer to he urinalysis report from the 19th.  The chest x-ray on the 19th also showed a stable mediastinal appearance with bilateral pleural effusions with loculated component in the left upper hemithorax.  He also was noted to have a sort of gouty tophus erythematous nodule on his right index finger.  According to the ID fellow his right lower extremity also showed two areas of minimal drainage with no erythema.  ID fellow recommended x-ray of the digit with gouty nodule, checking a uric acid level and getting rheumatology evaluation either in house or as an outpatient.  There appeared to be no evidence of septic arthritis and recommended follow up with Rheumatology.
+
+On the 24th the patient continued to have now a papular erythematous lesion over his right index finger.  He was ambulating a level four with no complaints.  His temperature max was 100.3, which is what it was at the time of examination.  He was comfortable.  His chest was clear bilaterally.  He continued to have a faint systolic murmur.
+His sternum had no dressing.  His abdomen was soft, nontender, nondistended.  He was discharged to rehab on
+[**01-19**] on postoperative day seventeen with recommendations for follow up with Dr. [**Last Name (STitle) 40**], having an outpatient rheumatology consult and follow up also with Dr. [**Last Name (STitle) 2569**] in three weeks his primary care physician.
+
+Please refer to the discharge summary that was done on
+[**01-13**] at the time of his original planned discharge.
+
+DISCHARGE DIAGNOSES:
+1.  Status post coronary artery bypass grafting.
+2.  Insulin dependent diabetes mellitus.
+3.  Hyperlipidemia.
+4.  Recurrent transient ischemic attacks.
+5.  Chronic mild azotemia.
+6.  Depression.
+7.  Question gouty nodule right index finger.
+
+DISCHARGE MEDICATIONS:  Protonix 40 mg po q.d., NPH insulin 36 units subQ every morning, 6 units subQ every evening,
+Colace 100 mg po b.i.d., sliding scale regular insulin per rehab protocol.  Celexa 20 mg po q.d., Zocor 10 mg po q.h.s., Percocet one to two tabs po q 4 hours to 6 hours prn.
+Lopresor 75 mg po b.i.d.  Persantine 100 mg po q.i.d.,
+Levofloxacin 250 mg po q.d., Vancomycin 1 gram intravenous q 24 hours, enteric coated aspirin 81 mg po q.d.
+
+Again, the patient was discharged to rehab on [**2013-01-19**] in stable condition.  The period dictated is [**01-13**] through [**2013-01-19**] date of discharge.
+
+[**First Name11 (Name Pattern1) 42**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 275**]
+
+Dictated By:[**Dictator Info 649**]
+
+MEDQUIST36
+
+D:  [**2013-02-27**]  10:07
+T:  [**2013-03-05**]  11:05
+JOB#:  [**Job Number 2570**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 42**] [**Last Name (NamePattern1) **] on: [**First Name9 (NamePattern2) **] [**2013-03-08**] 12:30 PM (End of Report)
+

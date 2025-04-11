@@ -1,0 +1,141 @@
+7256	||||	19596	||||	14806	||||	DISCHARGE_SUMMARY	||||	2018-01-17 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2018-01-12**]              Discharge Date:   [**2018-01-17**]
+
+Date of Birth:  [**1943-04-16**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 2121**] 
+Chief Complaint:
+Change in mental status
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+74F with mixed dementia, ESRD on HD, admitted on [**01-12**] with change in mental status/seizures at HD on the date of admission. In the [**Doctor First Name 2**], the patient was afebrile, with HR 61 BP 251/82. Given 10mg hydralazine with BP noted to improve to SBPs 170. Patient was started on nipride gtt and admitted to FICU for hypertensive urgency.  
+
+In the FICU, Pt. was treated with nipride gtt, then transitioned to labetalol gtt, then to CCB and [**Last Name (un) **], on which she was normotensive.  AMS thought to be multifactorial, secondary to worsening dementia, hypertensive encephalopathy, hypercalcemia.  Pt. also noted to have labile blood glucose in ICU. Per renal, goal SBP 140-150.  Upon arrival to floor, Pt. is disoriented and refuses to answer questions.  She reports that she is at a party, knows it is "[**Holiday **] month", does not know first name, year.
+
+Past Medical History:
+1.  End-stage renal disease.
+2.  Diabetic nephropathy.
+3.  Hemodialysis for years.
+4.  Right AV fistula.
+5.  Noninsulin-dependent diabetes mellitus.
+6.  Hypertension.
+7.  Encephalopathy.
+8.  Cholecystectomy.
+9.  Nephrectomy.
+10. Angioplasty of AV fistula in [**2014-12-28**].
+11. s/p recent corn removals on L foot
+12. mixed vascular and alzheimer's dementia
+
+Social History:
+Denies alcohol, drug use, smoking.  Lives in the bottom floor of an apartment - family lives in floors above her.  Says she is independent with her activities of daily living.
+
+Family History:
+Unable to obtain.
+
+Physical Exam:
+PE: afebrile, 241/88 73 20 99%RA
+HEENT: PERRL, EOMI, OP clear, not LAD
+CVS: nl s1s2, RRR, no m/r/g
+Chest: CTA b/l
+Abd: soft, NT/ND, +bs, no organomegaly
+ext: no c/c/edema; +OA in knees, AV fistula RUE. neuro: awake, orientated to person, and month. Speech coherent, though tangential; mild preservations. 4/5 strength [**Last Name (un) 769**]/BLE +2 patella and biceps tendon
+
+Pertinent Results:
+[**2018-01-12**] 06:15PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 5**]-1.010
+[**2018-01-12**] 06:15PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-100  GLUCOSE-100 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-9.0*  LEUK-NEG
+[**2018-01-12**] 06:15PM URINE  RBC-0-2 WBC-0-2 BACTERIA-MOD YEAST-NONE  EPI-0-2
+[**2018-01-12**] 12:24PM   LACTATE-1.3
+[**2018-01-12**] 12:12PM   GLUCOSE-120* UREA N-17 CREAT-5.0*# SODIUM-144  POTASSIUM-3.9 CHLORIDE-95* TOTAL CO2-34* ANION GAP-19
+[**2018-01-12**] 12:12PM   WBC-4.7 RBC-4.71 HGB-14.3 HCT-44.6 MCV-95  MCH-30.3 MCHC-32.0 RDW-18.4*
+[**2018-01-12**] 12:12PM   NEUTS-62.1 LYMPHS-30.1 MONOS-4.8 EOS-1.8  BASOS-1.3
+[**2018-01-12**] 12:12PM   HYPOCHROM-1+ ANISOCYT-2+ MACROCYT-1+
+[**2018-01-12**] 12:12PM   PLT COUNT-132*
+[**2018-01-12**] 12:12PM   PT-12.4 PTT-38.7* INR(PT)-1.0
+
+ECG: sinus brady with prolonged Qtc, LAD, LVH, with STE in V2/V3 likely representing repolarization abnormalities; no other acute St/T wave changes
+
+CXR: No radiographic evidence of pneumonia. 
+
+CT head: No evidence of acute intracranial hemorrhage.
+
+Brief Hospital Course:
+74F with mixed dementia, presenting with a one week history of mental status changes / increased confusion, also with hypertensive urgency.  
+
+On the floor, the Pt. was treated with hydralazine PRN for elevated systolic pressure, and was transitioned back to amlodipine and losartan, with goal SBP 140-150.  Metoprolol was discontinued.  Pt. was normotensive at the time of discharge.
+
+Pt's change in mental status thought to be multifactorial: ddx included worsening dementia with possible contribution of hypertensive encephalopathy and hypercalcemia.  With continued orientation and support from family members and nursing staff, Pt.'s mentation improved.  Her donepezil was continued.  
+
+Per records, Pt. has chronic hypercalcemia thought to be related to her chronic renal insufficiency/failure and secondary hyperparathyroidism.  Tums and Vit. D were held.  Sevelamer was continued for hyperphosphatemia at an increased dose (2400mg TID), and the Pt. was started on sensipar 30mg QD.
+
+The Pt. was seen and evaluated by social work. It is probable that Pt. will require increased amounts of support at home over the coming months/years in performing her ADLs.
+
+The Pt. will continue hemodialysis on M,W,F.
+
+An SPEP was checked just before discharge, at the request of the renal team.  The result can be followed up at the Pt's next appointment.
+
+Medications on Admission:
+Norvasc 10
+renal caps
+Zantac 150 bid
+Glucotrol xl 10
+Tums tid 
+aricept
+asa
+Cozaar
+metoprolol 100
+Renagel 800 tiw
+
+calcijex
+Epo
+
+Discharge Medications:
+1. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap PO DAILY (Daily).  
+2. Donepezil 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime). 
+
+3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).  
+4. Losartan 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+5. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+
+6. Sevelamer 800 mg Tablet Sig: Three (3) Tablet PO TID (3 times a day): please take with food/drink.  
+7. Zantac 150 mg Tablet Sig: One (1) Tablet PO twice a day.  
+8. Renal Caps 1 mg Capsule Sig: One (1) Capsule PO once a day.  
+9. humalog insulin sliding scale
+10. Glucotrol 10 mg Tablet Sig: One (1) Tablet PO at bedtime.  
+11. Sensipar 30 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital **] - [**Location (un) 464**]
+
+Discharge Diagnosis:
+1. End-stage renal disease, on hemodialysis
+2. NIDDM
+3. dementia/encephalopathy
+
+Discharge Condition:
+Fair, stable.
+
+Discharge Instructions:
+Please continue to take all your medications exactly as prescribed.  If you experience chest pain, shortness of breath, fevers, or abdominal pain, plesae call your PCP or return to the hospital.
+
+Followup Instructions:
+Please continue to follow up with your PCP as you have been doing.
+
+Provider: [**Name10 (NameIs) **], [**Name11 (NameIs) **] [**Name Initial (NameIs) **]., [**Location 7493**]Date/Time:[**2018-03-01**] 8:00
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) 2122**] MD [**MD Number 2123**]
+
+Completed by: [**First Name8 (NamePattern2) 6999**] [**Last Name (un) **] MD [**MD Number 7000**] [**2018-01-18**] @ 0712
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Male First Name (un) **] on: MON [**2018-02-26**] 8:26 AM
+(End of Report)
+

@@ -1,0 +1,62 @@
+19624	||||	5163	||||	5084	||||	DISCHARGE_SUMMARY	||||	2010-12-31 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2010-12-06**]     Discharge Date:  [**2010-12-31**]
+
+Date of Birth:   [**1984-05-21**]     Sex:  M
+
+Service:  [**Hospital Unit Name 44**]
+
+This is an addendum to the previous dictation covering the dates [**2010-12-06**] to [**2010-12-26**].
+
+HOSPITAL COURSE:  1.  Pneumonia - The patient completed a 21 day course of Azithromycin.  The patient had been intubated on [**2010-12-06**].  Initially the patient was difficult to wean from the vent secondary to issues of anxiety and agitation.  Originally the plan was made for tracheostomy in the Operating Room by the Interventional Pulmonary Staff.
+The patient was taken to the Operating Room on [**2010-12-29**] for rigid bronchoscopy and laryngoscopy.  At that time tracheostomy was scheduled to be performed.  However, tracheostomy was not performed as the Interventional Pulmonary Staff felt that the patient did not have evidence of severe supraglottic or subglottic stenosis and as such they felt that he was a good candidate to be safely extubated.  He continued to improve in his respiratory status and was able to be weaned from the ventilator as well as weaned from sedation.  He tolerated extubation on [**2010-12-30**].  At the time of discharge, his arterial blood gases were normalized.  He was breathing comfortably as well as saturating in the high 90s on room air.
+
+4.  (Addendum) Right upper extremity deep vein thrombosis and pulmonary embolus - The patient requires a total of six months of anticoagulation with Coumadin for his right upper extremity deep vein thrombosis and subsequent small pulmonary embolus at the left lower lung base.  He was initially heparinized during his hospital course but was changed to
+Lovenox and Coumadin prior to discharge.  He will require daily monitoring of his INR levels as subsequent discontinuation of the Lovenox when his INR is greater than
+2.0.
+
+8.  (Addendum) Ophthalmology issues - The patient is to follow up with Dr. [**Last Name (STitle) 265**] at [**Telephone/Fax (2) 266**], approximately one week after discharge from the hospital.  In the interim, he is to continue his inpatient regimen of ophthalmological ointments as well as eyedrops until he sees Dr. [**Last Name (STitle) 265**] in follow up.
+
+CONDITION ON DISCHARGE:  Stable, good oxygen saturation on room air.  Per physical therapy evaluation, the patient would benefit from acute rehabilitation setting.
+
+DISCHARGE STATUS:  The patient was discharged to [**Hospital 267**] Hospital.
+
+DISCHARGE DIAGNOSIS:
+1.  Mycoplasma pneumonia
+2.  Acute respiratory failure requiring intubation
+3.  Right upper extremity deep vein thrombosis
+4.  Pulmonary embolus
+5.  [**lastname 268**]-[**Location (un) 10**] syndrome
+6.  Acute respiratory distress syndrome
+7.  Ileus
+8.  History of delirium
+
+MEDICATIONS ON DISCHARGE:
+1.  Colace 100 mg one tablet p.o. b.i.d.
+2.  Tylenol 325 mg one to two tablets p.o. q. 6 hours as needed for pain or fever
+3.  Reglan 10 mg one tablet p.o. q.i.d. as needed for nausea or gastrointestinal upset
+4.  Tobramycin Sulfate/Dexamethasone ointment one application each [**Hospital Unit Name 71**] every other day
+5.  Sodium chloride nasal spray, one to two sprays each nostril t.i.d. as needed for nasal dryness
+6.  Erythromycin 2% solution, one application topically b.i.d. as needed for skin lesion secondary to [**lastname 268**]-[**Location (un) 10**] syndrome.
+7.  Nystatin 100 units/ml oral suspension 5 ml orally four times a day as needed for oral thrush.
+8.  Polyvinyl alcohol 1.4% eyedrops one drop each [**Hospital Unit Name 71**] q. 6 hours
+9.  Coumadin 5 mg p.o. q.d.
+10. Lovenox 80 mg one injection subcutaneously q. 12 hours.
+Please continue until the patient has a therapeutic INR greater than 2.0 on Coumadin, at that time Lovenox can be discontinued.
+11. Senna one tablet p.o. b.i.d. as needed for constipation
+12. Lanolin/mineral oil/petroleum ointment one application each [**Hospital Unit Name 71**] as needed
+13. Bacitracin Polymyxin Sulfate 1 application topically q. 6 hours as needed for the next seven days.
+
+FOLLOW UP PLAN:  The patient is to follow up with his primary care physician, Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 269**], at [**Telephone/Fax (2) 270**] upon discharge from the rehabilitation facility.  Additionally he should call Dr. [**Last Name (STitle) 265**] from Ophthalmology at [**Telephone/Fax (2) 266**] to schedule a follow up appointment.  Ideally he should be seen within the next seven to ten days.  He is to continue all of his ophthalmological treatments until that time.
+
+[**First Name11 (Name Pattern1) 271**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 272**], M.D.  [**MD Number 273**]
+
+Dictated By:[**Dictator Info 274**]
+
+MEDQUIST36
+
+D:  [**2010-12-31**]  13:04
+T:  [**2010-12-31**]  12:11
+JOB#:  [**Job Number 275**]
+
+cc:[**CC Contact Info 276**]
+

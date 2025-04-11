@@ -1,0 +1,132 @@
+3099	||||	4525	||||	18345	||||	DISCHARGE_SUMMARY	||||	2014-09-19 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2014-09-18**]              Discharge Date:   [**2014-09-19**]
+
+Date of Birth:  [**1933-02-26**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 2003**] 
+Chief Complaint:
+Transfer from OSH for bradycardia and cath
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+81 y/o female with h/o HTN and T2DM who was transferred to [**Hospital1 2**] for evaluation of bradycardia and possible cardiac cath. The patient was found at home by family dizzy, confused, and diaphoretic (presyncope) and the family attempted to move her and she syncopized. She was brought to [**Hospital1 569**] [**Doctor First Name 3**] by ambulance on [**2014-09-16**]. Her HR was found to be in the 40s and SBP 60's. EKG sent from [**Hospital1 569**] reveals junctional escape rhythm in the 40s.A temporary pacer wire was placed in the R IJ at the OSH [**Doctor First Name 3**]. She was admitted to OSH CCU where she was monitored. Troponins were initially 4.1/8.5/3.9.  She was given atropine/dopamine, neo, and was 100% paced overnight. On [**2014-09-17**] her pacer rate was decreased from 70 to 60 and her BP improved while in NSR 60's so pressors were weaned off quickly. Per records, there is mention of a recent h/o of right LE cellulitis. She was treated as OP for aforementioned RLE cellulitis with Keflex x 5 days. At OSH, she was started on vanco/unasyn then switched to ceftriaxone at treatment dose to cover Lyme disease as well. There is a question of baseline dementia since patient recently had w/u for AD. She lives alone but has family around the corner. Lyme titer was sent. She has been intermittently, pleasantly confused at home and at OSH per records. She was given ASA 325 and plavix (load of 300 mg and then 75 mg). She was started on heparin @ 700u/hr. Records mention question of LLL infiltrate vs. left pleural effusion and she was given one dose of moxifloxacin. In addition, she had a platelet drop of 213 to 168.
+
+On arrival to [**Hospital1 2**] CCU, she was hemodynamically stable and in NSRs 70-80s. Her pacer was set at 60 with threshold of 10. Of note, the patient is a poor historian and has baseline dementia.
+
+After speaking with family on [**2014-09-19**], they stated patient was in usual state of health on the day of her syncope. They left her in the morning and stated she carried out her normal activities such as going to the store and working in her garden. Also, they confirmed the patient administers her own medication, but has not been checking her blood glucose level as indicated. She never complained of chest pain.  Further, the family stated in past few weeks they have noticed the patient to be getting more forgetful, but not as confused as she presently is. Prior to this episode, she had an appoitment scheduled to assess her mental condition. 
+
+Cardiac ROS:
+Positive for CP, syncope, presyncope, and DOE
+Negative for PND, orthopnea, edema, or palpitations
+
+Past Medical History:
+1)HTN
+2)Diabetes mellitus type 2
+3) s/p PTCA approx 10yrs ago. 
+
+Social History:
+Lives at home with son and grandaughter. Denies tobacco, etOH, or illicit drug use. 
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+PE:
+Vitals: 147/69  92  22  97%RA
+General: Oriented to person, thought she was still at OSH, unsure of date/time, NAD
+HEENT: PERRLA, EOMI. MM dry. OP clear.
+Neck: No JVD. JVP 7 cm. No carotid bruits.
+CV: S1, S2 with Grade II/VI SEM best heard RUSB radiating to carotids
+Pulm: CTAB, no wheezes or crackles
+Abd: Soft, NT/ND with normoactive BS.
+Ext: No c/c/e. DP 1+ B/L. Good ROM and strength. Evidence of scaling plaque R shin. No warmth/induration/tracking.
+
+Pertinent Results:
+[**2014-09-18**] TSH-4.0
+
+[**2014-09-18**] GLUCOSE-99 UREA N-14 CREAT-0.8 SODIUM-141 POTASSIUM-4.0 
+CHLORIDE-
+111* TOTAL CO2-22 ANION GAP-12
+[**2014-09-18**] ALT(SGPT)-63* AST(SGOT)-50* LD(LDH)-217 CK(CPK)-121 ALK  PHOS-101  TOT BILI-0.5
+[**2014-09-18**] URINE  BLOOD-MOD NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG  KETONE-15 BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG
+[**2014-09-18**] CK-MB-6 cTropnT-0.38*
+[**2014-09-18**] ALBUMIN-3.5 CALCIUM-8.9 PHOSPHATE-2.6* MAGNESIUM-2.2
+[**2014-09-18**] WBC-6.2 RBC-3.55* HGB-10.8* HCT-31.2* MCV-88 MCH-30.3  MCHC-34.5  RDW-14.2
+[**2014-09-18**] PLT COUNT-164
+
+CXR ([**2014-09-18**]):
+IMPRESSION:  Bilateral effusions.  No infiltrates.  Severe scoliosis of 
+thoracolumbar spine. 
+
+Echo ([**2014-09-19**]):
+The left atrium is normal in size. No atrial septal defect is seen by 2D or color Doppler. There is mild symmetric left ventricular hypertrophy with normal cavity size and systolic function (LVEF>55%). Regional left ventricular wall motion is normal. Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Moderate (2+) mitral regurgitation is seen. The tricuspid valve leaflets are mildly thickened. There is mild pulmonary artery systolic hypertension. There is no pericardial effusion.  
+
+CT head ([**2014-09-19**]) PRELIM: Atrophy, old lacunar infarcts. 
+
+Brief Hospital Course:
+81 y/o female with h/o HTN and T2DM who presented upon transfer from OSH for evaluation and treatment of bradycardia and possible cardiac cath. Now in NSR 80-100s and SBP 140-150s without temporary pacer activity. 
+
+1)Bradycardia: Upon admission to OSH, patient found to be severely bradycardic 40s with low SBP (60s) likely secondary to BB toxicity. EKG indicated patient to be in junctional escape rhythm Temporary pacing device was inserted through R IJ. After insertion, patient became hemodynamically stable. Transferred to [**Hospital1 2**] for possible catherization. Upon arrival, the attending cardiologist felt additional workup was needed before cath and patient was admitted to CCU. Subsequent EKGs taken after admission indicated patient to be in NSR with no abnormal changes.  Due to suspected BB toxicity, patient put on hydralazine for blood pressure control. The decision was made that patient did not need catherization or permanment pacemaker insertion. The temporary pacing device was removed on [**2014-09-19**].  
+An echocardiogram was performed to assess cardiac function which showed EF >55%, aortic sclerosis, mild MR. [**Name13 (STitle) **] remained hemodynamically stable without any change in medical management. 
+
+2)Elevated cardiac enzymes: Patient noted to have elevated troponins at OSH after receiving temporary pacing device. Since admission to [**Hospital1 2**], patient without complaints of chest pain and noted to have decreasing Trop levels. Initial elevation of cardiac enzymes likely due to severe hypotension. 
+Catheterization not indicated at this time per CCU attending and team. 
+
+3)HTN: Patient treated with hydralazine 10mg in anticipation of cath. Patient will be restarted on home meds which include HCTZ and Univasc. Currently, patient with stable blood pressures off hydral, Hctz restarted. 
+
+4) Thrombocytopenia: Patient was started on heparin gtt at OSH. Upon arrival to [**Hospital1 2**] in preparation for cath, patient noted to be thrombocytopenic to 140. Due to suspected heparin induced thrombocytopenia, all heparin products including heparin flushes have been withheld. Lab tests for heparin antibodies were sent. 
+
+5) Confusion/Dementia: Since admission, patient has been confused, hallucinating, and in constant need of redirection. Overnight, patient was agitated and repeatedly attempted to pull out IVs, pacemaker line in R IJ, and pulse monitor. Initially, patient was Zyprexax 2 without relief, then Haldol IV without much improvement. After speaking with family, dementia appears to be a sudden deterioration of mental status.  Dementia workup was initiated including TSH (normal), RPR (pending), B12 (pending), and head CT (no acute change, old infarcts).  After head CT, patient to be transferred per family request back to [**Hospital 569**] hospital. 
+
+Medications on Admission:
+Medications at home
+Isordil
+HCTZ
+Glyburide
+Atenolol
+Univasc
+
+Medications upon transfer
+ASA 325
+RISS
+Protonix 40
+Heparin gtt
+Plavix (300 x 1 then 75)
+Haldol PRN agitation
+Keflex 500 g Q6H x 5 days
+Moxifloxacin 400 mg PO once
+
+Discharge Medications:
+1. Insulin Regular Human 100 unit/mL Solution Sig: One (1)  Injection ASDIR (AS DIRECTED).  
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for Constipation.  
+3. Senna 8.6 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for Constipation.  
+4. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+5. Haloperidol Lactate 5 mg/mL Solution Sig: One (1)  Injection Q6-8H (every 6 to 8 hours) as needed.  
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+Bradycardia secondary to Beta-blocker toxicity.
+
+Discharge Condition:
+Fair, Vital Signs Stable, patient ambulating. 
+
+Discharge Instructions:
+Back to [**Hospital1 569**]
+
+Followup Instructions:
+Transfer to outside hospital
+
+[**First Name11 (Name Pattern1) 618**] [**Name7 (MD) 2007**] MD [**MD Number 968**]
+
+Completed by: [**First Name4 (NamePattern1) 2190**] [**Last Name (NamePattern1) 2191**] MD [**MD Number 2192**] [**2014-09-19**] @ 1517
+Signed electronically by: DR. [**First Name4 (NamePattern1) 618**] [**Last Name (NamePattern1) **] on: [**Doctor First Name 67**] [**2014-10-16**] 3:36 PM (End of Report)
+

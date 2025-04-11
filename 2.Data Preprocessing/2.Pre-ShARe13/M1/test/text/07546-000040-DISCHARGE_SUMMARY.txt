@@ -1,0 +1,60 @@
+40	||||	7546	||||	21965	||||	DISCHARGE_SUMMARY	||||	2009-10-08 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2009-10-03**]     Discharge Date:  [**2009-10-08**]
+
+Date of Birth:   [**1933-11-26**]     Sex:  F
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  Mrs. [**lastname 225**] is a 75 year old woman from [**Hospital 226**] admitted on [**2009-10-03**] for evaluation for the question of dialysis.  The patient was last admitted to [**Hospital 227**] [**Hospital 24**] [**First Name (Titles) 25**] [**Last Name (Titles) 26**] on [**2009-09-01**] for workup of new onset acute renal failure, urosepsis, [**Last Name (un) 228**] syndrome and chronic ventilatory dependence.  She was discharged to [**Hospital 229**] without dialysis as there was no indication then for dialysis.
+
+The patient's acute renal failure continued to worsen and she had a question of altered mental status, leading to this readmission, for workup of uremic encephalopathy and the requirement of dialysis.  The patient was transferred to the Medical Intensive Care Unit because of ventilator dependence at night.
+
+ACTIVE ISSUES:
+1.  Acute renal failure:  The patient had hyperkalemia on admission, which resolved with a Kayexalate enema and Lasix. She was evaluated by the renal service and started bedside hemodialysis through a femoral line on [**2009-10-05**].  No improvement of mental status was noticed after two days of dialysis.
+
+A family meeting was held on [**2009-10-04**] with the patient's sister, who is her health care proxy, regarding the goals of our care for the patient.  We discussed at length regarding the need for hemodialysis, the need for a permanent catheter to be placed and regarding the overall prognosis of Mrs. [**lastname 225**].  The patient's family decided to give her a trial of hemodialysis from her femoral line and observe what benefit it will bring, then they will decide regarding chronic hemodialysis.  Mrs. [**lastname 225**] had minimal mental status improvement after two days of hemodialysis.  The patient's family decided on [**2009-10-06**] that they would not consent to further procedures or hemodialysis and would want only comfort measures for Mrs. [**lastname 225**].  Hemodialysis was stopped on [**2009-10-06**].
+
+2.  Ventilatory status:  The patient was placed on 12 hours off ventilator wean on her first day, and was noted to have some apneic episodes and appear labored in her breathing.  We therefore placed her on 24 hour PSV then switched to AC in order to better ventilate her and to rule out any hypoxia, hypercarbia as a cause of her altered mental status.  The patient's family had decided on comfort measures only on
+[**2009-10-07**].  The patient was then taken off the ventilator that afternoon and given oxygen over her tracheostomy mask.  She was not to be put on ventilator support from now on.  The patient is to receive morphine if she appears distressed from breathing.
+
+3.  Urinary tract infection:  On admission, a urinalysis was sent and the patient was found to have plenty of bacteria and yeast in her urine.  Later, the urine culture came back to show Klebsiella pneumoniae, sensitive to Bactrim.  The patient is now treated, day number five of Bactrim DS on discharge.
+
+4.  Diabetes/hyperglycemia:  The patient had been hyperglycemic during this admission, likely secondary to her urinary tract infection.  As the patient is now only comfort measures, she is getting her daily NPH at the same dose as on transfer, but no more daily fingersticks to check her blood sugar level.
+
+5.  Nutrition:  The patient is to receive no intravenous fluids.  She received 35 cc/hour of Nepro tube feeds and 250 cc of free water bolus through her nasogastric tube every day.  The family has not yet decided whether to stop tube feeding her and to remove her nasogastric tube.
+
+6.  Altered mental status:  A CT scan was performed for further evaluation of possible causes of the patient's mental status alteration and potential prognostication in terms of neurological status.  A CT scan of the head showed no acute infarction or hemorrhage, with small vessel disease in the periventricular white matter and an old putamen infarction.
+
+7.  Cardiovascular status:  An echocardiogram was performed to evaluate the cardiovascular status of Mrs. [**lastname 225**]. Results showed a mildly dilated left atrium and right atrium, otherwise no change from patient's echocardiogram on [**2009-05-20**].
+
+DISCHARGE DIAGNOSES:
+Acute renal failure.
+Diabetes mellitus.
+Urinary tract infection.
+Tracheostomy.
+
+CODE STATUS:  "Do Not Resuscitate"/"Do Not Intubate".
+
+DISCHARGE MEDICATIONS:
+Nepro tube feeds 35 cc/hour through nasogastric tube.
+Synthroid 175 mcg via nasogastric tube q.d.
+Lopressor 50 mg via nasogastric tube b.i.d.
+Nystatin powder to inguinal rash b.i.d.
+NPH 45 units s.c.b.i.d.
+Bactrim DS one per nasogastric tube q.d.
+Zantac 150 mg per nasogastric tube q.d.
+Free water 250 cc per nasogastric tube q.i.d.
+Morphine sulfate 1 to 5 mg s.c.q.1h.p.r.n. discomfort.
+
+[**Doctor First Name 230**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 231**], M.D. [**MD Number 232**]
+
+Dictated By:[**Dictator Info 233**]
+
+MEDQUIST36
+
+D:  [**2009-12-06**]  18:42
+T:  [**2009-12-08**]  10:54
+JOB#:  [**Job Number 234**]
+Signed electronically by: DR. [**First Name (STitle) 230**] [**Name (STitle) 231**] on: MON [**2009-12-14**] 12:03 PM
+(End of Report)
+

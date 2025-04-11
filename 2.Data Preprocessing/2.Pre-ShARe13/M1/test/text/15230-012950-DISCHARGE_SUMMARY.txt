@@ -1,0 +1,86 @@
+12950	||||	15230	||||	19482	||||	DISCHARGE_SUMMARY	||||	2014-10-29 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2014-09-18**]     Discharge Date:  [**2014-10-29**]
+
+Date of Birth:   [**1959-04-25**]     Sex:  M
+
+Service:  CCU
+
+ADDENDUM:
+
+This is an addendum to the previously described interim discharge summary.  Please see admission history, physical and hospital course through [**2014-10-13**] accordingly.
+
+HOSPITAL COURSE CONTINUED:
+1.  CARDIOVASCULAR:  As of [**2014-10-13**] blood pressures continued to remain labile.  Metoprolol 150 mg t.i.d.,
+Diltiazem 90 mg q.i.d., Hydralazine 100 mg q.i.d. and
+Clonidine 0.2 mg t.i.d. and Labetalol drip.  On [**2014-10-14**], the patient was weaned off the Labetalol drip and
+Clonidine dosing was gradually increased to maximum dose of
+0.8 mg t.i.d.  The patient was also started on
+Hydrochlorothiazide 50 mg q.d. with little improvement of blood pressure control.  With improvement of renal function, an angiotensin converting enzyme inhibitor was also added to the regimen on [**2014-10-17**].
+
+At this time the patient's systolic blood pressure was staying at approximately 140 mmHg and a heart rate between 75 to 85 and a CCU Team decided this patient was stable enough to be transferred to the floor.
+
+Within 48 hours of transfer, the patient began to experience chest pain with radiation to the back.  Sublingual
+Nitroglycerin was given three times and 0.5 mg of IV Morphine with mild relief.  The patient was taken for emergent CT SCAN angiogram of the chest that revealed further increase of thoracic luminal diameter from 3.5 to 3.8 cm, increase in size of the luminal thrombosis and increase in size of the lumen at the left pulmonary artery to 4.5 cm.  Cardiothoracic surgery was consulted at this time and stated that there was no indication for surgery at this time.
+
+The patient was then transferred back to the CCU for more aggressive control of his blood pressure and the patient was restarted on Nitroglycerin drip for 48 hours.  The patient was then started on Norvasc 5 mg.  The following evening, the patient again experienced an episode of chest pain, but this time without back pain and showed no clinical signs of extension or dissection nor changes on EKG.  Later on that evening, the patient experienced a drop in blood pressure to systolic blood pressure of 70, 30 minutes after receiving night time dosages of Clonidine and Captopril.  The patient responded to 500 cc bolus of normal saline and maintained him at greater than 60.
+
+Within the next 24 hours, the patient had another episode of substernal chest pain with stable vital signs and no EKG changes.  The patient had moderate relief with Nitroglycerin times two.  There are no EKG changes at this time.  Repeat CT Scan angiogram revealed no progression of dissection.  Again, blood pressure remained stable in both arms.  There are no clinical signs for evidence of progression of dissection.
+Given the episode of substernal chest pain, the patient was started on aspirin.
+
+The patient's blood pressure remained well controlled in the unit.  The patient was, again, transferred to the floor on
+[**2014-10-25**].  Between the time of transfer and patient's date of discharge on [**10-29**], patient's blood pressure was controlled on blood pressure medication. Blood pressure medication regimen was adjusted as necessary. Please see discharge medications for discharge antihypertensive medications.
+
+2.  INFECTIOUS DISEASE:  The patient completed a 14 out of 14 day course of Linezolid and aztreonam for MRSA and potential gram negative pneumonia as per Infectious Disease.  Patient remained afebrile with a stable white blood cell count for the remainder of the hospital stay.
+
+3.  NEUROLOGY:  Given patient's somnolence, confusion, mental status changes status post extubation, Neurology was consulted given these findings on exam.  On exam it was noted that the patient also had a left gazed deviation, right field, right hemiparesis.
+
+A MRI on [**2014-10-23**] revealed:
+1.  Laminar necrosis with hemorrhage in media left occipital lobe and left thalamus. 2.  Sinus disease.
+
+Neurology recommendations including maintaining systolic blood pressure less than 140, keep head of bed elevated greater than 30 degrees, and patient was followed by the
+Neurology for the remainder of the hospital course.
+
+The patient improved mental status throughout the remainder of the hospital stay with increased speech and movement of all extremities.  The Stroke Service was also consulted to evaluate the patient for possible cardiac catheterization given patient's history of substernal chest pain and possible future need of cardiothoracic surgery for aortic dissection. A MRI showed a left PCA involving infarct and thus it was concluded it was best to wait two to three weeks for anticoagulation.  Patient is to follow with Neurology Clinic as an outpatient.
+
+CONDITION ON DISCHARGE:  Good.
+
+DISCHARGE STATUS:  To rehab facility.
+
+DISCHARGE DIAGNOSES:
+1.  Aortic dissection, type B.
+2.  Cerebrovascular accident.
+3.  Hypertension.
+4.  Aspiration pneumonia.
+5.  ARDS.
+6.  Acute renal failure.
+7.  Methicillin-resistant Staphylococcus aureus bacteremia.
+
+DISCHARGE MEDICATIONS:
+1.  Atenolol 100 mg p.o. q.d.
+2.  Lisinopril 40 mg p.o. q.d.
+3.  Norvasc 10 mg p.o. q.d.
+4.  Clonidine 0.2 mg p.o. t.i.d. times one week.
+5.  Nitroglycerin sublingual p.r.n. chest pain
+6.  Aspirin 325 mg p.o. q.d.
+7.  Vitamin C 250 mg p.o. b.i.d.
+8.  Zinc Sulfate 220 mg p.o. q.d.
+
+FOLLOW UP PLANS:
+1.  Follow up with Cardiothoracic Surgery in one month.
+2.  Follow up with Dr. [**Last Name (STitle) 1604**] in one to two weeks for blood pressure management, this is the patient's primary care physician.
+3.  Follow up with Cardiology in one month including outpatient stress test.
+4.  Follow up in Neurology Clinic in two to three weeks.
+5.  Occupational Therapy and Physical Therapy.
+
+DR.[**Last Name (STitle) **],[**First Name3 (LF) **] [**MD Number 3609**]
+
+Dictated By:[**Dictator Info 3610**]
+
+MEDQUIST36
+
+D:  [**2014-11-24**]  14:08
+T:  [**2014-11-24**]  14:31
+JOB#:  [**Job Number 3611**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on: TUE [**2014-12-16**] 8:25 AM
+(End of Report)
+

@@ -1,0 +1,176 @@
+11493	||||	5065	||||	8597	||||	DISCHARGE_SUMMARY	||||	2019-02-01 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2019-01-12**]              Discharge Date:   [**2019-02-01**]
+
+Date of Birth:  [**1936-04-09**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 236**] 
+Chief Complaint:
+sepsis, aspiration, altered mental status
+
+Major Surgical or Invasive Procedure:
+Intubation-Mechanical Ventilation
+Internal Jugular Central Venous Line.
+PICC.
+
+History of Present Illness:
+Patient is an 82 year old portugese speaking male with recent L MCA CVA 2 weeks ago (d/c to [**Hospital1 707**] on [**2019-01-01**]), PNA (treated with Unasyn/Zosyn last 2 days), hip fracture, osteomyelitis of left hip, delerium, aphasia who was vomiting x 2 days, shivering, depressed MS, hypoxic to 65, and he was transferred to [**Hospital 800**] Hospital.  On arrival to [**Hospital1 800**] vitals were 103.2, 148, 85/41 (all subsequent ones demonstrated HTN), 42, 83% - placed on nonrebreather with little improvement and was found to be tachypneic with labored breathing and was intubated (received versed, lidocaine, rocuronium).  Also received cipro 400 mg IV x 1, Vanc 1 g IV x 1, cefepime 2g IV x 1, 2L NS.  Noted to have facial movement and with history of left MCA infarct 2 weeks prior patient had CT head which showed hemorrhagic conversion of left MCA infarct.  No neurosurgery on call at [**Hospital1 800**] and was therefore transferred for further management.  
+
+Upon arrival to [**Hospital1 16**] vitals were 102.3, 129, 129/54, 22, 97% on Ac 500/16/1%/5.  Lactate elevated at 6 and code sepsis called.  Right IJ sepsis line placed, 3L NS administered, and ativan 1mg given.  Transferred to ICU for further management.  Patient intubated and unresponsive, unable to obtain further history upon arrival.
+
+Past Medical History:
+# CVA - Presented on [**12-27**] with 2wks MS changes, slurred speech - found to have CVA in left temporal region by CT on [**12-29**] (no 
+TPA). 
+- no paralysis, able to move arms and legs, unable to feed himself, working on getting him up at [**Hospital1 707**], follows commands - memory loss/aphagia 
+- nml carotid U/S in 12/06
+- improved motor to [**05-04**] in UE
+- intermittent fevers, LP pending with VDRL, HSV, AFB, fungal cx pending at time of transfer to [**Hospital1 707**] # Seizures - Developed after recent CVA, controlled with valium and phenytoin # HTN - was on Atenolol, Lisinopril, HCTZ prior to CVA, on hold since
+# PNA 
+# Sepsis
+# L hip fracture s/p open reduction/internal fixation in 1970s with ongoing drainage - wound + for staph aureus and staph epi in past # Osteomyelitis of left hip [**2018-03-31**] (had continuous drainage from hip since [**1981**]'s) 
+# stress MIBI was neg in [**2012**] 
+
+Social History:
+Patient was previously fully independent prior to CVA. No ETOH, no tobacco.  2 sons, 2 daughters (one in [**Country 351**]). 
+
+Family History:
+Mother died of CVA suddenly
+
+Physical Exam:
+Vitals: 101.4, 122, 112/52, 40, 98%
+Vent: AC 500/16/0.7/5, PIP 20, ABG 7.31/35/268 (on FiO2 100%) HEENT: PERRL, left ovaloid, unable to assess EOM, anicteric sclera, OP clear
+Neck: supple, no LAD, no JVD
+Cardiac: tachy, regular, NL S1 and S2, no MRGs
+Lungs: CTAB anteriorly with course upper airway sounds 
+Abd: soft, NTND, NABS, no HSM, no rebound or guarding
+Skin: Erythema overlying left hip, dimples, one of which is draining
+Ext: warm, 1+ right DP pulse, 2+ left PT pulse, no C/C/E
+Neuro: sedated, toes equivaqual, not moving 
+
+By discharge, patient was extubated, alert, moving all four extremiteis well, speaking occasional words, following commands
+
+Pertinent Results:
+EKG [**2019-01-11**] OSH: RBBB, tachcardia, LAD, ST changes opposite major deflection.
+
+EKG [**2019-01-12**]: Sinus tachy, RBBB, nml axis
+
+Radiology:
+Head CT OSH [**2019-01-11**]: Acute to subacute infarct L temporal lobe with interval development of parenchymal hemorrhage.
+
+Head CT [**2019-01-12**]: Large left MCA ?fusiform? aneurysm without definite evidence of rupture. Large left MCA territory subacute infarction. 
+Overread:  Agree. MRI/MRA has been recommended to confirm that the lesion is aneurysm and not other pathology such as mass or unusual bleed CTA may also be helpful.
+
+CXR at OSH [**2019-01-11**]: Bilobar PNA
+
+CXR [**2019-01-12**]: Bilateral lower lobe opacities, R>L (right middle and lower, left lower), with vascular redistribution, deep sulcus sign and hyperlucency in RUL 
+
+CT HEAD [**2019-01-17**]: 
+1.  No significant change in the appearance of the left MCA territory subacute infarction with an 18 x 11 mm hyperdense focus medially within the temporal lobe consistent with hemorrhagic infarction. 
+2.  No evidence for midline shift or herniation. 
+
+EEG [**2019-01-18**]: 
+This is an abnormal EEG due to the frequent spike and wave discharges, primarily from the left frontal region with spread to the  left and right hemispheres independently. These discharges suggest a  left frontal region of cortical irritability. The second abnormality  suggests diffuse encephalopathy, which may be seen with infections, 
+toxic metabolic abnormalities, medications and ischemia. 
+
+MRI/MRA [**2019-01-18**]:
+1.  There are confluent areas of abnormal signal consistent with the history of herpes encephalitis.  There is involvement of the medial and lateral aspect of the left temporal lobe, the left gyrus rectus, the left hippocampus, and both cingulate gyri. 2.  There is a stable nearly 2 cm hemorrhage at the anteromedial aspect of left temporal lobe near the MCA and there is a stable small amount of intraventricular hemorrhage. 
+3. There is good flow in the distal internal carotid arteries, the distal vertebral arteries, and the basilar artery.  There is mild distal asymmetry of the PCAs, which is commonly seen.  There is probably slight elevation of the left MCA by the hemorrhage but no stenosis of it is seen. IMPRESSION:  There is no significant stenosis of the left MCA from the adjacent hemorrhage. 
+
+CXR [**2019-01-27**]: Worsening left lower two foci of consolidation which might represent worsening infection or aspiration, with otherwise unchanged appearance of the lungs. 
+
+Brief Hospital Course:
+Mr. [**lastname 4829**] is an 82 year old male who was transferred from an outside hospital for hypoxic respiratory failure.
+
+# Pneumonia and sepsis: the patient likely experienced an aspiration event resulting in either aspiration pneumonia or chemical pneumonitis and hypoxia. Upon transfer, the patient was admitted to the [**Hospital1 16**] [**Hospital Unit Name 154**]. A CXR showed evidence of CHF (iatrogenic due to fluid resuscitation) and possible PNA.  An EKG showed RBBB and no concordant ST changes.  Cardiac enzymes were negative for MI. He was intubated on the day of admission and started on Vancomycin and Zosyn. Mr. [**lastname 4829**] qualified for the sepsis protocol and was treated as such with mixed venous O2 monitoring, maintaining MAP > 65 (pressors), CVP 10-12 (fluids), following UOP and high-dose steroids.
+
+His [**Hospital Unit Name 154**] course was complicated by development of pansensitive Klebsiella pneumonia that was treated with 
+Meropenem/Vancomycin/Flagyl. The patient's family decided that they wanted the patient to be extubated despite RISB > 100. He was subsequently transferred to the floor and oxygen requirement weaned. The patient is being converted to oral antibiotic coverage upon discharge with levofloxacin and will require 2 more days of treatment.
+
+# Altered mental status: the patient had a recent history of hemorrhagic stroke and HSV encephalitis. The patient was continued on Acyclovir for HSV encephalitis for 21 day course total.  The patient's SBPs were maintained between 100-140 in setting of possible intracranial bleed.  Aspirin was held.  An MRI was performed which showed similar findings to the previous MRI.  Neuro recommended an additional month of Dilantin after discharge and after a repeat EEG.
+
+# Seizure history: the patient had a known history of seizures during his last hospital admission, and he was maintained on dilantin.  His target therapeutic range is 15-20 as per 
+Neurology recommendations. The patient showed no evidence of seizure activity during this hospitalization.
+
+# Thrombocytosis: the patient's platelet count reached 1100 during this admission and it was thought to be related to an acute inflammatory reaction. ESR, CRP, ferritin, fibrinogen were also significantly elevated. The patient's platelet count was decreasing at the time of discharge.
+
+# Hyperglycemia: the patient developed elevated blood sugars in the setting of high dose steroid administration. Although, high dose steroids were stopped, he continued to have some isolated elevations. The patient's blood sugars should be monitored and covered with sliding scale insulin until further work-up or resolution.
+
+# Sacral decubitus ulcer: the patient was noted to have a Stage II sacral decubitus ulcer during this hospitalization. It did not appear to be infected. Wound care was consulted. It was treated with duoderm dressing, air mattress, frequent position changes and physical therapy.
+
+# Osteomyelitis: the patient has a chronically infected hip for approximately 40 years, per his family.  This was unlikely to be the predominant infectious source given it's appearance on this admission. Wound care was consulted to provide recommendations. 
+
+# Nutrition: Given the patient's altered mental status and concern for aspiration, a speech and swallow examination was performed. The patient was cleared for nectar thick liquids and regular solids.
+
+Medications on Admission:
+Aspirin 325 QD  
+Dilantin 300 PO QD  
+Pravastatin 20 QD  
+Bacitracin oint  
+Dalteparin/Fragmin 5000 units SQ QD  
+Colace  
+Fluoxetine 20 QD  
+MVI  
+Pantoprazole 40 QD  
+Acet prn, Bisacodyl prn, Zofran prn, Compazine prn  
+
+Discharge Medications:
+1. Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).  
+2. Olanzapine 5 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, Rapid Dissolve PO BID (2 times a day) as needed for agitation.  3. Phenytoin 100 mg/4 mL Suspension Sig: Eight (8) mL PO TID (3 times a day).  
+4. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day) as needed.  
+5. Pravastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+6. Docusate Sodium 50 mg/5 mL Liquid Sig: Ten (10) mL PO BID (2 times a day) as needed for constipation.  
+7. Albuterol Sulfate 0.083 % Solution Sig: One (1) neb 
+Inhalation every 4-6 hours as needed for shortness of breath or wheezing.  
+8. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation.  
+9. Insulin Regular Human 100 unit/mL Solution Sig: One (1) QID Injection ASDIR (AS DIRECTED): See attached sliding scale.  10. Levaquin 500 mg Tablet Sig: One (1) Tablet PO once a day for 2 days.  
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+Primary:
+1. HSV Encephalitis w/ Hemmorhage.
+2. Generalize Seizure.
+3. Sepsis NOS.
+4. Respiratory Failure.
+5. Ventilator Associated Pneumonia - Klebsiella.
+6. Steroid Induced Diabetes Mellitus.
+7. Anemia of Chronic Inflammation.
+8. Malnutrition - Moderate Degree.
+9. Delirium.
+10. Reactive Thrombocytosis.
+
+Secondary:
+1. S/P Left Hip ORIF c/b Osteomyelitis 1970.
+2. Recurrent Osteomyelitis Left Hip, 4/2006.
+3. Depression.
+4. Hyperlipidemia.
+
+Discharge Condition:
+Stable. Afebrile. Tolerating PO. 
+
+Discharge Instructions:
+You were admitted to the hospital for an infection in your brain called HSV encephalitis. You received a course of antibiotics. During your hospitalization, you also developed pneumonia. This was treated with antibiotics. Please return to the [**Doctor First Name **] or call your doctor if you have any of the following symptoms: fever > 101.5, severe pain, difficulty breathing, intractable nausea/vomiting or any other concerning symptoms.
+
+Please take all medications as prescribed.
+
+Please follow-up with all appointments as scheduled.
+
+Followup Instructions:
+1. Check albumin and dilantin level 2 days from discharge. 
+Adjust dilantin dose as needed, then check weekly when therapeutic (~15-20). 
+2. Check phosphate.
+3. Check blood sugars and give insulin per sliding scale. 
+3. Please make an appointment with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5946**] after you are discharged from the extended care facility. You can call [**Telephone/Fax (2) 5947**] to make the appointment.
+4. The patient will need to follow-up with a Neurologist in in 4 weeks. He can call ([**Telephone/Fax (2) 3236**] to make an appointment with Dr. [**Last Name (STitle) 1643**]. Alternatively, he can be seen by the Neurologist at [**Hospital1 707**]. 5. Repeat EEG in one month.
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) 242**] MD [**MD Number 243**]
+
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 63**] MD [**MD Number 1668**] [**2019-02-01**] @ 1718
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] on: TUE [**2019-02-05**] 9:27 PM
+(End of Report)
+

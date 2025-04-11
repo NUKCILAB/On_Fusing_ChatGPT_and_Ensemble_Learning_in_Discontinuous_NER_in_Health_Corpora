@@ -1,0 +1,4083 @@
+27889 |||| 211 |||| 5653 |||| DISCHARGE_SUMMARY |||| 2014 - 04 - 08 00 : 00 : 00 . 0 |||| |||| |||| ||||
+
+
+Admission Date : [ * * 2014 - 03 - 28** ] Discharge Date : [ * * 2014 - 04 - 08** ]
+
+
+Date of Birth : [ * * 1930 - 09 - 21** ] Sex : F
+
+
+Service : CARDIOTHORACIC
+
+
+Allergies :
+
+
+Patient recorded as having No Known Allergies to Drugs
+
+
+Attending : [ * * Attending Info 565** ]
+
+
+Chief Complaint :
+
+
+Chest pain
+0,1 Disorder
+
+Major Surgical or Invasive Procedure :
+
+
+Coronary artery bypass graft 4 .
+
+
+History of Present Illness :
+
+
+83 year - old woman , patient of Dr . [ * * First Name4 ( NamePattern1 ) * * ] [ * * Last Name ( NamePattern1 ) 5005** ] , Dr . [ * * First Name ( STitle ) 5804** ] [ * * Name ( STitle ) 2275** ] , with increased SOB with activity , left shoulder blade / back pain at rest , + MIBI , referred for cardiac cath .
+56,56 Disorder|61,62,65,65 Disorder|64,65 Disorder
+
+This pleasant 83 year - old patient notes becoming SOB when walking up hills or inclines about one year ago .
+9,9 Disorder
+
+This SOB has progressively worsened and she is now SOB when walking [ * * 01 - 19** ] city block ( flat surface ) .
+1,1 Disorder|9,9 Disorder
+
+She also notes new sharp pain in left shoulder blade / back area .
+5,5,11,11 Disorder|5,5,8,9 Disorder
+
+This pain occurs at rest and is not associated with activity or SOB .
+1,1 Disorder|12,12 Disorder
+
+Adenosine MIBI at OSH showed + moderately reversible inferior defect , mild reversible anterior defect , nl LVEF 70 % .
+7,9 Disorder|12,14 Disorder
+
+Referred for cath here today which showed 80 % LMCA , 60 % LAD at origin of D1 , RCA diffusely diseased with 90 % stenosis .
+21,21 Disorder|25,25 Disorder
+
+Past Medical History :
+
+
+arthritis
+0,0 Disorder
+
+carpal tunnel
+0,1 Disorder
+
+shingles right arm 2000
+0,0 Disorder
+
+needs right knee replacement
+
+
+left knee replacement in [ * * 2010** ]
+
+
+thyroidectomy 1978
+
+
+cholecystectomy [ * * 1981** ]
+
+
+hysterectomy 2001
+
+
+h / o LGIB 2000 - 2001 after taking baby ASA 81 QOD
+3,3 Disorder
+
+Social History :
+
+
+Her husband died recently . She has two children .
+
+
+Family History :
+
+
+Father died of MI at age 69 .
+3,3 Disorder
+
+Physical Exam :
+
+
+PE : T 97 . 6 BP 142 / 70 R arm , 150 / 70 P 42 - 64 R 16 Sat 92 % RA G : Elderly female , NAD
+31,31 Disorder
+
+HEENT : MMM , anicteric
+
+
+Neck : JVD diff to assess
+2,2 Disorder
+
+Lungs : + end exp rhonchi bilaterally upper lung zones
+5,5 Disorder
+
+CV : RRR , S1S2 , distant heart sounds , + 2 / 6 systolic murmur at apex
+14,17 Disorder
+
+Abd : Soft , NT , ND , BS +
+0,0,6,6 Disorder|0,0,4,4 Disorder
+
+Ext : trace bilateral lower ext edema ; R groin small hematoma , no bruits
+4,6 Disorder|11,11 Disorder|14,14 Disorder
+
+Nails : No bed abnormalities , lunulas present , no splinters , pulses
+3,4 Disorder|10,10 Disorder
+
+Rectal : guiac neg
+
+
+Pertinent Results :
+
+
+[ * * 03 - 28** ] Cath : LMCA had 80 % eccentric distal stenosis ; LAD diffusely diseased with mid 60 % stenosis at the origin of a large diagonal branch ; LCX diffusely diseased ; RCA mid 90 % stenosis ; r - PDA occluded ; EF 60 % .
+15,15 Disorder|19,19 Disorder|24,24 Disorder|36,36 Disorder|42,42 Disorder|47,47 Disorder
+
+[ * * 2014 - 04 - 07** ] 06 : 10AM BLOOD WBC - 7 . 4 RBC - 3 . 53* Hgb - 10 . 7* Hct - 32 . 3*
+
+
+MCV - 92 MCH - 30 . 3 MCHC - 33 . 1 RDW - 14 . 4 Plt Ct - 339
+
+
+[ * * 2014 - 04 - 07** ] 06 : 10AM BLOOD Plt Ct - 339
+
+
+[ * * 2014 - 04 - 06** ] 09 : 59AM BLOOD PT - 13 . 3 PTT - 25 . 1 INR ( PT ) - 1 . 1
+
+
+[ * * 2014 - 04 - 07** ] 06 : 10AM BLOOD Glucose - 124* UreaN - 21* Creat - 1 . 0 Na - 141 K - 4 . 5 Cl - 100 HCO3 - 31* AnGap - 15
+
+
+Brief Hospital Course :
+
+
+Mrs . [ * * lastname 2977** ] was admitted [ * * 2014 - 03 - 27** ] for cardiac cath showing 3VD .
+23,23 Disorder
+
+A cardiac surgery consult was obtained and after pre - operative testing , she proceeded top the operating room on [ * * 2014 - 03 - 31** ] with Dr . [ * * Last Name ( STitle ) * * ] .
+
+
+She had a CABG x 4 with LIMA to the LAD , SVG to the PDA , SVG to the PLB , and SVG to the OM .
+
+
+Please see op note for full details .
+
+
+She was transferred to teh CSRU post - op for hemodynamic monitoring .
+
+
+She was unsuccessfully weened on her operative evening and was kept on SIMV overnight ans successfully weened and extubated on POD one .
+
+
+POD three was significant for dropping oxygen saturation with increased pulmonary toilet .
+5,7 Disorder|10,11 Disorder
+
+She also had a drop in her blood pressure for which she was a - paced with effect and her lopressor was discontinued .
+4,4,7,8 Disorder
+
+On POD five , she was in a rapid atrial flutter with pauses .
+9,10 Disorder
+
+She was started on amiodarone and woumadin for anticoaguation .
+
+
+POD six continued with bursts of atrial fibrillation .
+6,7 Disorder
+
+She was also transferred to the inpatient floor for ongoing recovery and rehabilitation .
+
+
+On POD seven it was decided that she would benefit from rehabilitation prior to discharge home and on POD eight she was discharged to rehab .
+
+
+Medications on Admission :
+
+
+Levothyroxine 200 mcg daily .
+
+
+Avalide 300 / 12 . 5 daily .
+
+
+Norvasc 5 daily .
+
+
+Ferrous sulfate bid .
+
+
+Tylenol PRN .
+
+
+Discharge Medications :
+
+
+1 .
+
+
+Aspirin 81 mg Tablet , Delayed Release ( E .
+
+
+C . ) Sig : One ( 1 ) Tablet , Delayed Release ( E .
+
+
+C . ) PO DAILY ( Daily ) .
+
+
+Disp : * 30 Tablet , Delayed Release ( E .
+
+
+C . ) ( s ) * Refills : * 0*
+
+
+2 . Docusate Sodium 100 mg Capsule Sig : One ( 1 ) Capsule PO BID ( 2 times a day ) . Disp : * 60 Capsule ( s ) * Refills : * 0*
+
+
+3 . Levothyroxine Sodium 200 mcg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+
+
+4 . Furosemide 20 mg Tablet Sig : One ( 1 ) Tablet PO twice a day for 10 days . Disp : * 20 Tablet ( s ) * Refills : * 0*
+
+
+5 .
+
+
+Potassium Chloride 10 mEq Capsule , Sustained Release Sig : Two ( 2 ) Capsule , Sustained Release PO twice a day for 10 days .
+
+
+Disp : * 40 Capsule , Sustained Release ( s ) * Refills : * 0*
+
+
+6 . Amiodarone HCl 200 mg Tablet Sig : Two ( 2 ) Tablet PO DAILY ( Daily ) for 2 weeks then decrease to 200mg po qd . Disp : * 60 Tablet ( s ) * Refills : * 0*
+
+
+7 . Coumadin as directed for goal INR 2 . 0 - 2 . 5
+
+
+Discharge Disposition :
+
+
+Extended Care
+
+
+Facility :
+
+
+[ * * Hospital 5805** ] Manor - [ * * Location ( un ) 348** ]
+
+
+Discharge Diagnosis :
+
+
+Coronary artery disease .
+0,2 Disorder
+
+s / p CABG
+
+
+post op atrial fibrillation
+2,3 Disorder
+
+Discharge Condition :
+
+
+Stable .
+
+
+Discharge Instructions :
+
+
+Shower daily and wash incisions with soap and water .
+
+
+Rinse well .
+
+
+Do not apply any creams , lotions , powders , or ointments .
+
+
+No tub bathing or swimming .
+
+
+No heavy lifting greater than 10 pounds .
+
+
+No driving for 6 weeks .
+
+
+check PT / INR qd and prn and dose coumadin for goal INR 2 . 0 - 2 . 5
+
+
+Followup Instructions :
+
+
+Follow - up with Dr . [ * * Last Name ( STitle ) * * ] in 4 weeks .
+
+
+Follow - up with Dr . [ * * Last Name ( STitle ) 5005** ] in 1 - 2 weeks . Follow - up with Dr . [ * * Last Name ( STitle ) 2275** ] in 1 - 2 weeks .
+
+
+[ * * Name6 ( MD ) * * ] [ * * Name7 ( MD ) 574** ] MD [ * * MD Number 575** ]
+
+
+Completed by : [ * * First Name11 ( Name Pattern1 ) 352** ] [ * * Initials ( NamePattern4 ) * * ] [ * * Last Name ( NamePattern4 ) 353** ] PA 80 - AXP [ * * 2014 - 04 - 08** ] @ 1039
+
+
+Signed electronically by : DR . [ * * First Name ( STitle ) * * ] [ * * Initials ( NamePattern4 ) * * ] [ * * Last Name ( NamePattern4 ) * * ] on : WED [ * * 2014 - 04 - 16** ] 11 : 09 AM
+
+
+( End of Report )
+
+
+67052 |||| 1455 |||| 18439 |||| ECG_REPORT |||| 2014 - 03 - 26 16 : 08 : 00 . 0 |||| |||| |||| ||||
+
+
+Atrial fibrillation with a rapid ventricular response . Prior anterior myocardial infarction . Low limb lead voltage . Compared to the previous tracing of [ * * 2014 - 03 - 26** ] no diagnostic interim change .
+0,1 Disorder|4,6 Disorder|9,11 Disorder
+
+TRACING # 1
+
+
+100844 |||| 2916 |||| 22316 |||| ECHO_REPORT |||| 2019 - 07 - 08 00 : 00 : 00 . 0 |||| ||||
+
+
+PATIENT / TEST INFORMATION :
+
+
+Indication : avr
+2,2 Disorder
+
+Status : Inpatient
+
+
+Date / Time : [ * * 2019 - 07 - 08** ] at 15 : 20
+
+
+Test : TEE ( Complete )
+
+
+Doppler : Full Doppler and color Doppler
+
+
+Contrast : None
+
+
+Technical Quality : Adequate
+
+
+|||| ||||
+
+
+INTERPRETATION :
+
+
+Findings :
+
+
+LEFT ATRIUM : No spontaneous echo contrast is seen in the LAA .
+
+
+RIGHT ATRIUM / INTERATRIAL SEPTUM : Normal interatrial septum .
+
+
+LEFT VENTRICLE : Wall thickness and cavity dimensions were obtained from 2D images . Normal LV wall thicknesses and cavity size .
+
+
+LV WALL MOTION : basal anterior - normal ; mid anterior - normal ; basal anteroseptal - normal ; mid anteroseptal - normal ; basal inferoseptal - normal ; mid inferoseptal - normal ; basal inferior - normal ; mid inferior - normal ; basal inferolateral - normal ; mid inferolateral - normal ; basal anterolateral - normal ; mid anterolateral - normal ; anterior apex - normal ; septal apex - normal ; inferior apex - normal ; lateral apex - normal ; apex - normal ;
+
+
+RIGHT VENTRICLE : Normal RV chamber size and free wall motion .
+
+
+AORTA : Normal ascending aorta diameter . Normal descending aorta diameter . Simple atheroma in descending aorta .
+13,13 Disorder
+
+AORTIC VALVE : Three aortic valve leaflets . Severely thickened / deformed aortic valve leaflets . Severe AS ( AoVA <0 . 8cm2 ) . Moderate to severe ( 3 + ) AR .
+9,9 Disorder|11,11 Disorder|17,17 Disorder|32,32 Disorder
+
+MITRAL VALVE : Trivial MR .
+4,4 Disorder
+
+TRICUSPID VALVE : Physiologic TR .
+4,4 Disorder
+
+PULMONIC VALVE / PULMONARY ARTERY : Physiologic ( normal ) PR .
+10,10 Disorder
+
+PERICARDIUM : No pericardial effusion .
+3,4 Disorder
+
+GENERAL COMMENTS : A TEE was performed in the location listed above .
+
+
+I certify I was present in compliance with HCFA regulations .
+
+
+No TEE related complications .
+
+
+The TEE probe was passed with assistance from the anesthesioology staff using a laryngoscope .
+
+
+The patient was under general anesthesia throughout the procedure .
+
+
+Conclusions :
+
+
+Pre - CPB : No spontaneous echo contrast is seen in the left atrial appendage .
+
+
+Left ventricular wall thicknesses and cavity size are normal .
+
+
+Right ventricular chamber size and free wall motion are normal .
+
+
+There are simple atheroma in the descending thoracic aorta .
+3,3 Disorder
+
+There are three aortic valve leaflets .
+
+
+The aortic valve leaflets are severely thickened / deformed .
+6,6 Disorder|8,8 Disorder
+
+There is severe aortic valve stenosis ( area <0 . 8cm2 ) .
+3,5 Disorder
+
+Moderate to severe ( 3 + ) aortic regurgitation is seen .
+7,8 Disorder
+
+Trivial mitral regurgitation is seen .
+1,2 Disorder
+
+There is no pericardial effusion .
+3,4 Disorder
+
+Post - CPB : There is an aortic valve prosthesis with no peri - valve leaks and no AI .
+12,15 Disorder|18,18 Disorder
+
+Trivial MR . [ * * First Name ( Titles ) 75** ] [ * * Last Name ( Titles ) 76** ] systolic fxn .
+1,1 Disorder
+
+Aorta intact .
+
+
+Other parameters as pre - bypass .
+
+
+167766 |||| 4082 |||| 24716 |||| RADIOLOGY_REPORT |||| 2014 - 10 - 22 12 : 56 : 00 . 0 |||| V99111 36569 PICC W / O PORT |||| |||| Clip # 384 - 8086 Actual report ||||
+
+
+DATE : [ * * 2014 - 10 - 22** ] 12 : 56 PM
+
+
+PICC LINE PLACMENT SCH [ * * Clip Number ( Radiology ) 2379** ] Reason : needs midline placed for access Admitting Diagnosis : AIRWAY OBSTRUCTION * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * CPT Codes * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 36569 PICC W / O [ * * State / Zipcode 73** ] FLUOR GUID PLCT / REPLCT / REMOVE * * C1751 CATH [ * * Last Name ( LF ) 74** ] , [ * * First Name3 ( LF ) 75** ] / CENT / MID ( NOT D * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+24,25 Disorder
+
+______________________________________________________________________________
+
+
+UNDERLYING MEDICAL CONDITION :
+
+
+62 year old man with NSCLC and SVC syndrome .
+5,5 Disorder|7,8 Disorder
+
+REASON FOR THIS EXAMINATION : needs midline placed for access ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+HISTORY : 62 - year - old man with SVC syndrome .
+9,10 Disorder
+
+RADIOLOGISTS : Dr . [ * * Last Name ( STitle ) 779** ] and Dr . [ * * Last Name ( STitle ) 77** ] .
+
+
+Dr . [ * * Last Name ( STitle ) 77** ] , the Attending Radiologist , was present throughout the procedure .
+
+
+FINDINGS / TECHNIQUE : The patient was placed supine on the angiographic table and the left arm was prepped and draped in the sterile fashion .
+
+
+There was in situ peripheral venous catheter Angiocath placed in the antecubital vein .
+
+
+A 0 . 018 wire was advanced into the Angiocath and the Angiocath was exchanged for a 4 . 5 introducer sheath under flouroscopic guidance .
+
+
+Appropriate length of the midline was measured for the tip to be positioned within the axillary vein .
+
+
+The PICC line was trimmed to the appropriate length and advanced over the 0 . 018 wire with the tip in the axillary vein .
+
+
+The catheter was secured to the skin with StatLock and dressed with sterile dressing .
+
+
+IMPRESSION : Successful placement of a midline via in situ peripheral venous line with the tip in the left axillary vein .
+
+
+27967 |||| 4269 |||| 23223 |||| DISCHARGE_SUMMARY |||| 2016 - 03 - 28 00 : 00 : 00 . 0 |||| |||| |||| ||||
+
+
+Admission Date : [ * * 2016 - 03 - 21** ] Discharge Date : [ * * 2016 - 03 - 28** ]
+
+
+Date of Birth : [ * * 1976 - 04 - 05** ] Sex : M
+
+
+Service : MEDICINE
+
+
+Allergies :
+
+
+Patient recorded as having No Known Allergies to Drugs
+
+
+Attending : [ * * Attending Info 2111** ]
+
+
+Chief Complaint :
+
+
+Pleuritic Chest Pain and Shortness of Breath
+0,2 Disorder|4,6 Disorder
+
+Major Surgical or Invasive Procedure :
+
+
+Mechanical Ventilation and Intubation .
+
+
+History of Present Illness :
+
+
+39 yo previously healthy [ * * Ethnicity 796** ] - [ * * Ethnicity 797** ] male patient is transferred from an outside hospital with respiratory distress .
+26,27 Disorder
+
+The patient was in his usual state of good health until approximately one week prior to transfer when he had an episode of vomiting and believes he may have aspirated .
+23,23 Disorder|29,29 Disorder
+
+He developed a right sided chest pain , sharp and pleuritic in nature .
+3,6 Disorder
+
+He subsequently developed shortness of breath and presented to the hospital where he works .
+3,5 Disorder
+
+He was noted to have concerning lesion on chest X - ray and he was admitted and placed on 100 % oxygen .
+6,6 Disorder
+
+He was given broad spectrum antibiotics with gatifloxacin and clindamycin .
+
+
+Linezolid was eventually added .
+
+
+He was transferred to [ * * Hospital1 79** ] per the family 's request .
+
+
+On arrival , the patient continues to report shortness of breath and pleuritic right - sided chest pain .
+8,10 Disorder|13,17 Disorder
+
+He states that when he takes the oxygen off , he can only speak two sentences before becomming short of breath .
+18,20 Disorder
+
+He denies fevers , chills and night sweats .
+2,2 Disorder|4,4 Disorder|6,7 Disorder
+
+Past Medical History :
+
+
+None
+
+
+Social History :
+
+
+The patient lives in [ * * Location 6016** ] with his girlfriend and her parents .
+
+
+He and his girlfriend have been together and monogomous for over six years .
+
+
+He has had less than five sexual partners in his lifetime , all women .
+
+
+He denies travel outside of the state in over ten years .
+
+
+His girlfriend 's parents just got a new dog .
+
+
+He works as a health aid at [ * * Hospital * * ] and does direct patient care .
+
+
+He has a ten - pack year smoking history .
+
+
+One beer per night .
+
+
+No illicit drug use .
+
+
+Family History :
+
+
+Mother and father alive and healthy .
+
+
+Physical Exam :
+
+
+T 102 BP 110 / 57 HR 113 RR 27 100 % on 100 % NRB
+
+
+General : Young man in moderate respiratory distress . Able to speak , but cannot complete full sentences .
+6,7 Disorder
+
+HEENT : moist mucous membranes , posterior OP erythema , white tongue but no evidence of plaques
+8,8 Disorder|10,11 Disorder|16,16 Disorder
+
+Neck : supple , FROM , no evidence of JVD , LAD , or thyromegaly
+9,9 Disorder|11,11 Disorder|14,14 Disorder
+
+Chest : no dullness to percussion , scattered wheezes , no egophony Card : tachycardic , regular rhythm , nml S1S2 , no m / r / g
+3,5 Disorder|8,8 Disorder|11,11 Disorder|14,14 Disorder|23,23 Disorder|25,25 Disorder|27,27 Disorder
+
+Abd : NABS , soft NTND
+0,0,5,5 Disorder
+
+Ext : no edema , 2 + DP pulses bilaterally , no calf tenderness , PPD site on right forearm with no evidence of induration at this time ( placed earlier today )
+3,3 Disorder|13,13 Disorder|24,24 Disorder
+
+Pertinent Results :
+
+
+Labs at OSH ( [ * * 2016 - 03 - 20** ] ) :
+
+
+WBC 12 . 0 ( 88 % N , 8 % L , 3 . 5 % M ) , Hct 35 . 7 , Plt 454
+
+
+Na 136 , K 3 . 8 , Cl 95 , CO2 29 , BUN 4 , Cr 0 . 9
+
+
+ALT 13 , AST 42 , Alk phos 84 , TB 0 . 4 , Alb 2 . 2 , TP 6 . 1
+
+
+Fe 15 , TIBC 162
+
+
+ABG : 7 . 44 / 50 / 74
+
+
+CXR ( OSH ) : right upper lobe cavitary infiltrate
+8,9 Disorder
+
+Chest CT ( OSH ) : diffuse prominent right upper lobe infiltrate with 5cm cavitary mass , 2cm right upper lobe cavitary mass , small right pleural effusion , some right hilar lymphadenopathy
+11,11 Disorder|14,15 Disorder|21,22 Disorder|26,27 Disorder|31,32 Disorder
+
+[ * * Hospital1 79** ] LABS / STUDIES :
+
+
+CT CHEST ( [ * * 2016 - 03 - 23** ] ) - IMPRESSION : 1 ) 3 . 5 - cm cavitary lesion with air - fluid level and thickened wall in the right middle lobe as described above , probably representing lung abscess , mentioned in the requisition .
+23,24 Disorder|26,29 Disorder|31,32 Disorder|44,45 Disorder
+
+However , please also consider the possibility of septic emboli . 2 ) Multiple patchy opacities in bilateral lungs , more on the right , which may represent multifocal pneumonia versus atypical edema . 3 ) Bilateral diffuse opacity , representing pulmonary edema due to ARDS . 4 ) Bilateral pleural effusion , greater on the right , associated with bibasilar atelectasis . 5 ) Perivascular lymphadenopathy .
+8,9 Disorder|14,15 Disorder|29,29 Disorder|32,32 Disorder|38,38 Disorder|41,42 Disorder|45,45 Disorder|49,51 Disorder|61,61 Disorder|66,66 Disorder
+
+ECHO / TTE ( [ * * 2016 - 03 - 22** ] ) : The LA is mildly dilated .
+16,16,19,19 Disorder
+
+LV wall thicknesses are normal .
+
+
+The LV cavity is moderately dilated .
+1,1,5,5 Disorder
+
+Overall LV systolic function is normal ( LVEF 60 % ) .
+
+
+No masses or thrombi are seen in the LV .
+1,1 Disorder|3,3 Disorder
+
+There is no VSD .
+3,3 Disorder
+
+Right ventricular chamber size and free wall motion are normal .
+
+
+The aortic root is mildly dilated .
+1,2,5,5 Disorder
+
+The AV leaflets ( 3 ) appear structurally normal with good leaflet excursion and no aortic regurgitation .
+15,16 Disorder
+
+No masses or vegetations are seen on the AV .
+1,1 Disorder|3,3 Disorder
+
+The MV appears structurally normal with trivial mitral regurgitation .
+7,8 Disorder
+
+There is no MVP .
+3,3 Disorder
+
+No mass or vegetation is seen on the MV .
+1,1 Disorder|3,3 Disorder
+
+The estimated pulmonary artery systolic pressure is normal .
+
+
+No vegetation / mass is seen on the pulmonic valve .
+1,1 Disorder|3,3 Disorder
+
+There is no pericardial effusion .
+3,4 Disorder
+
+The absence of a vegetation by 2D echocardiography does not exclude endocarditis if clinically suggested .
+4,4 Disorder|11,11 Disorder
+
+Brief Hospital Course :
+
+
+1 ) Respirtory Distress / PNA : The patient presented to an OSH with fever , bandemia , and respiratory discomcomfort .
+2,3 Disorder|5,5 Disorder|14,14 Disorder|16,16 Disorder|19,20 Disorder
+
+He was then transferred to [ * * Hospital1 79** ] with ARDS - like findings ( ARDS , PNA or lung injury via mechanical ventilation ) and a RUL cavitary lesion ( Infarction vs Abscess / Infection ) .
+12,12 Disorder|17,17 Disorder|19,19 Disorder|21,25 Disorder|30,31 Disorder|33,33 Disorder|35,35 Disorder|37,37 Disorder
+
+He was then intubated and mechanically ventilated for respiratory failure with an intialy ABG of 7 . 46 / 44 / 103 / 32 .
+8,9 Disorder
+
+He was afebrile over his course .
+2,2 Disorder
+
+Since his admission to the outside hospital , he had been on Gatifloxacin , Linezolid , Clindamycin , Zosyn , and Vancomycin .
+
+
+His final antibiotic regimen was Levofloxacin and Clindamycin for CAP / Aspiration PNA coverage .
+9,9 Disorder|11,12 Disorder
+
+Bronchoscopy / BAL was not revealing .
+
+
+HIV , PPD , Legionalla Urine Ag , BCXR , UCXR , BAL / AFB , and a Viral Panel were negative .
+0,0 Disorder
+
+He was continued on Albuterol / Atrovent nebulizers as needed .
+
+
+Of note , a TTE / ECHO showed a normal EF without clear signs of endocarditis .
+15,15 Disorder
+
+The patient had improved dramatically over his course and was comfortable on room air upon discharge .
+
+
+He was discharged with pulmonary follow - up .
+
+
+He was counseled in regards to smoking cessation .
+
+
+2 ) Normocytic Anemia : He had a HCT in the high 20 's to low 30 's early in his course .
+2,3 Disorder
+
+The baseline was unknown .
+
+
+His iron studies , LDH / Bili / Hapto , B12 / Folate were normal .
+
+
+His clinical picture was consistent with anemia of chronic disease and as his pulmonary inflammation / infection resolved , his HCT improved .
+6,9 Disorder|13,13,16,16 Disorder|14,14 Disorder
+
+Medications on Admission :
+
+
+None
+
+
+Discharge Medications :
+
+
+1 . Guaifenesin 100 mg / 5 mL Syrup Sig : 5 - 10 MLs PO Q6H ( every 6 hours ) as needed . Disp : * qs 1 week ML ( s ) * Refills : * 0*
+
+
+2 .
+
+
+Albuterol 90 mcg / Actuation Aerosol Sig : One ( 1 ) Inhalation every 4 - 6 hours as needed for shortness of breath or wheezing for 1 weeks .
+21,23 Disorder|25,25 Disorder
+
+Disp : * 1 inh* Refills : * 0*
+
+
+3 . Nicotine 21 mg / 24 hr Patch 24HR Sig : One ( 1 ) Patch 24HR
+
+
+Transdermal DAILY ( Daily ) .
+
+
+Disp : * 30 Patch 24HR ( s ) * Refills : * 0*
+
+
+4 . Levofloxacin 500 mg Tablet Sig : One ( 1 ) Tablet PO Q24H ( every 24 hours ) for 2 weeks . Disp : * 14 Tablet ( s ) * Refills : * 0*
+
+
+5 . Clindamycin HCl 300 mg Capsule Sig : One ( 1 ) Capsule PO four times a day for 3 months . Disp : * 360 Capsule ( s ) * Refills : * 0*
+
+
+Discharge Disposition :
+
+
+Home
+
+
+Discharge Diagnosis :
+
+
+Primary Diagnosis :
+
+
+1 ) Right Upper Lobe Pneumonia with Cavitary Lesion . 2 ) Right Upper Lobe Mass . 3 ) Bilateral Pulmonary Infiltrates .
+2,5 Disorder|7,8 Disorder|15,15 Disorder|21,21 Disorder
+
+Secondary Diagnosis :
+
+
+4 ) Idiopathic Anemia .
+2,3 Disorder
+
+Discharge Condition :
+
+
+Good / Stable .
+
+
+Discharge Instructions :
+
+
+1 ) Please call your doctor or return to the ER if you have any trouble breathing , increased cough , fevers , chills , fatigue , or any other concenring symptoms .
+15,16 Disorder|19,19 Disorder|21,21 Disorder|23,23 Disorder|25,25 Disorder|31,31 Disorder
+
+2 ) Please take your oral temperature twice daily . If you have a fever , call your pulmonary doctor ( see below for the number ) .
+14,14 Disorder
+
+3 ) If you resume smoking , stop taking the nicoderm patch .
+
+
+Followup Instructions :
+
+
+1 ) Please see your new primary doctor for the following appointment . Your primary doctor will follow up on your anemia and albumin levels :
+21,21 Disorder
+
+Provider [ * * First Name8 ( NamePattern2 ) * * ] [ * * Last Name ( NamePattern1 ) 939** ] [ * * Last Name ( NamePattern1 ) 940** ] , MD Where : [ * * Hospital 56** ] [ * * Hospital 496** ] Phone : [ * * Telephone / Fax ( 2 ) 58** ] Date / Time : [ * * 2016 - 04 - 08** ] 1 : 30
+
+
+2 ) Please have a CT of your chest for the following appointment :
+
+
+CAT SCAN Where : [ * * Hospital 56** ] RADIOLOGY Phone : [ * * Telephone / Fax ( 2 ) 1141** ] Date / Time : [ * * 2016 - 04 - 18** ] 11 : 30 .
+
+
+2 ) Please see your new lung doctor and obtain pulmonary function tests at the [ * * Hospital1 79** ] Pulmonary Clinic for the following appointment :
+
+
+Provider PULMONARY BREATHING TESTS Where : [ * * Hospital 56** ] PULMONARY FUNCTION LAB Phone : [ * * Telephone / Fax ( 2 ) 1185** ] Date / Time : [ * * 2016 - 04 - 25** ] 12 : 45
+
+
+[ * * First Name11 ( Name Pattern1 ) * * ] [ * * Name7 ( MD ) 2122** ] MD [ * * MD Number 2123** ]
+
+
+Completed by : [ * * First Name8 ( NamePattern2 ) * * ] [ * * First Name8 ( NamePattern2 ) * * ] [ * * Last Name ( un ) * * ] MD [ * * MD Number 3886** ] [ * * 2016 - 04 - 10** ] @ 1535
+
+
+Signed electronically by : DR . [ * * First Name8 ( NamePattern2 ) * * ] [ * * Last Name ( NamePattern1 ) * * ] on : SAT [ * * 2016 - 04 - 30** ] 3 : 14 PM
+
+
+( End of Report )
+
+
+5081 |||| 4303 |||| 14858 |||| DISCHARGE_SUMMARY |||| 2013 - 10 - 22 00 : 00 : 00 . 0 |||| |||| |||| ||||
+
+
+Admission Date : [ * * 2013 - 10 - 18** ] Discharge Date : [ * * 2013 - 10 - 22** ]
+
+
+Date of Birth : [ * * 1956 - 05 - 01** ] Sex : M
+
+
+Service : NEUROSURGERY
+
+
+Allergies :
+
+
+Patient recorded as having No Known Allergies to Drugs
+
+
+Attending : [ * * Attending Info 1196** ]
+
+
+Chief Complaint :
+
+
+I fell in my bathroom
+1,1 Disorder
+
+Major Surgical or Invasive Procedure :
+
+
+none
+
+
+History of Present Illness :
+
+
+HPI : This is a 57 year old male who was transfered to [ * * Hospital1 2** ] from [ * * Hospital 2601** ] Hospital .
+
+
+At 11am on [ * * 10 - 07** ] , the patient was urinating in his bathroom at home when he suddenly fell and hit his head against the toilet .
+23,23 Disorder|25,25,27,27 Disorder
+
+There may have been a period of lightheadedness prior to falling down but the patient is unsure .
+7,7 Disorder|10,11 Disorder
+
+He denies any loss of consciousness and was able to get up , go downstairs and watch TV .
+3,5 Disorder
+
+Throughout the day , he states he began to progressively feel lethargic and weak ( entire body weakness ) .
+11,11 Disorder|13,13 Disorder|17,17 Disorder
+
+He called EMS and was taken to [ * * Hospital 2601** ] Hospital , which showed cerebral contusions and a possible SAH . at [ * * Hospital1 2** ] , he was re - imaged and evaluated .
+17,18 Disorder|22,22 Disorder
+
+The patient denies
+
+
+nausea / vomiting / chest
+0,0 Disorder|2,2 Disorder
+
+pain / shortness of breath . Currently , at time of evaluation , the pt is complaining of a headache .
+2,4 Disorder|19,19 Disorder
+
+Past Medical History :
+
+
+PMHx :
+
+
+- Seizure ( [ * * 02 - 25** ] )
+1,1 Disorder
+
+- Pneumonia ( [ * * 02 - 25** ] )
+1,1 Disorder
+
+- Bronchitis ( [ * * 02 - 25** ] )
+1,1 Disorder
+
+- Numerous visits to the [ * * Doctor First Name 3** ] s / p alcoholic episodes with various falls or episodes of unconsciousness
+16,17 Disorder|20,20 Disorder|22,24 Disorder
+
+Social History :
+
+
+Social Hx : This patient lives alone .
+
+
+He drinks 1 pint / day and smokes approximately 2 packs a day of cigarettes for the last 40 years ( = 80 pack year history ) .
+
+
+The patient is not married .
+
+
+He works for a company which restores cars .
+
+
+He lives in [ * * Location 1424** ] .
+
+
+He
+
+
+has 3 children .
+
+
+Family History :
+
+
+Family Hx : Noncontributory .
+
+
+Physical Exam :
+
+
+on admission
+
+
+- - - - - PHYSICAL EXAM : - - - - - - - - - - - - -
+
+
+Gen : WD / WN , comfortable , NAD .
+
+
+HEENT : Pupils : 2 . 5 to 2mm bilaterally . EOMs intact . No nystagmus . C - collar in place .
+15,15 Disorder
+
+Neck : Supple .
+
+
+Lungs : CTA bilaterally .
+
+
+Cardiac : RRR . S1 / S2 .
+
+
+Abd : Soft , NT , BS +
+0,0,4,4 Disorder
+
+Extrem : Warm and well - perfused . No C / C / E .
+9,9 Disorder|11,11 Disorder|13,13 Disorder
+
+Neuro :
+
+
+Mental status : Awake and alert , cooperative with exam , normal affect .
+
+
+Orientation : Alert and orientated X 2 . Oriented to person , place ,
+
+
+but not date .
+
+
+Recall : [ * * 03 - 22** ] objects at 5 minutes .
+
+
+Language : Speech fluent with good comprehension and repetition . Naming intact . No dysarthria or paraphasic errors .
+14,14 Disorder|16,17 Disorder
+
+Cranial Nerves :
+
+
+I : Not tested
+
+
+II : Pupils equally round and reactive to light , 2 . 5 to 2 mm bilaterally .
+
+
+Visual fields are full to confrontation .
+
+
+III , IV , VI : Extraocular movements intact bilaterally without nystagmus .
+11,11 Disorder
+
+V , VII : Facial strength and sensation intact and symmetric .
+
+
+VIII : Hearing intact to finger rub bilaterally .
+
+
+IX , X : Palatal elevation symmetrical .
+
+
+XI : Sternocleidomastoid and trapezius normal bilaterally .
+
+
+XII : Tongue midline without fasciculations .
+2,2,5,5 Disorder
+
+Motor : Normal bulk and tone bilaterally . No abnormal movements , tremors . Strength full power [ * * 05 - 24** ] throughout . No pronator drift
+9,10 Disorder|12,12 Disorder|27,28 Disorder
+
+Sensation : Intact to light touch bilaterally .
+
+
+Pertinent Results :
+
+
+[ * * 2013 - 10 - 17** ] 11 : 00PM PT - 11 . 5 PTT - 24 . 9 INR ( PT ) - 1 . 0
+
+
+[ * * 2013 - 10 - 17** ] 11 : 00PM PLT COUNT - 325
+
+
+[ * * 2013 - 10 - 17** ] 11 : 00PM MACROCYT - 1 +
+
+
+[ * * 2013 - 10 - 17** ] 11 : 00PM NEUTS - 80 . 6* LYMPHS - 13 . 6* MONOS - 4 . 4 EOS - 0 . 5 BASOS - 0 . 9
+
+
+[ * * 2013 - 10 - 17** ] 11 : 00PM WBC - 6 . 7 RBC - 3 . 96* HGB - 13 . 9* HCT - 39 . 8* MCV - 100* MCH - 35 . 0* MCHC - 34 . 9 RDW - 13 . 2
+
+
+[ * * 2013 - 10 - 17** ] 11 : 00PM GLUCOSE - 86 UREA N - 17 CREAT - 0 . 6 SODIUM - 140 POTASSIUM - 3 . 9 CHLORIDE - 100 TOTAL CO2 - 24 ANION GAP - 20
+
+
+[ * * 2013 - 10 - 18** ] 02 : 45AM URINE RBC - <1 WBC - <1 BACTERIA - OCC YEAST - NONE EPI - <1
+
+
+[ * * 2013 - 10 - 18** ] 02 : 45AM URINE BLOOD - NEG NITRITE - NEG PROTEIN - TR GLUCOSE - NEG KETONE - TR BILIRUBIN - SM UROBILNGN - 1 PH - 6 . 0 LEUK - NEG [ * * 2013 - 10 - 18** ] 02 : 45AM URINE COLOR - Yellow APPEAR - Clear SP [ * * Last Name ( un ) 83** ] - > = 1 . 035
+
+
+[ * * 2013 - 10 - 18** ] 02 : 45AM URINE bnzodzpn - NEG barbitrt - NEG opiates - NEG cocaine - NEG amphetmn - NEG mthdone - NEG
+
+
+CT HEAD W / O CONTRAST [ * * 2013 - 10 - 18** ] 1 : 24 AM
+
+
+IMPRESSION :
+
+
+1 . Hemorrhagic contusion in the left frontal lobe .
+2,3 Disorder
+
+2 . Small subdural hematoma along the falx cerebri and tentorium .
+3,4 Disorder
+
+3 .
+
+
+Probable chronic subdural hematoma along the left frontal convexity , and possibly along the right as well .
+1,3 Disorder
+
+The latter appearance of extraaxial widening is felt more likely due to atrophy , however .
+4,5 Disorder|12,12 Disorder
+
+4 . Sinus mucosal thickening with a small air - fluid level in the sphenoid .
+2,4 Disorder|7,11 Disorder
+
+5 . Nasal bone fractures .
+2,4 Disorder
+
+NOTE ADDED AT ATTENDING REVIEW : I agree that the right frontal extra axial fluid is most likely an enlarged subarachnoid space .
+12,14 Disorder|19,21 Disorder
+
+CT C - SPINE W / O CONTRAST [ * * 2013 - 10 - 18** ] 1 : 24 AM
+
+
+IMPRESSION :
+
+
+1 . No evidence of fracture or dislocation .
+5,5 Disorder|7,7 Disorder
+
+2 . Moderately severe emphysema .
+4,4 Disorder
+
+3 . Findings suggesting chronic sinusitis in the left maxillary sinus . 4 . Cervical spondylosis .
+4,5 Disorder|14,15 Disorder
+
+Brief Hospital Course :
+
+
+This patient was admitted to [ * * Hospital1 2** ] on [ * * 2013 - 10 - 18** ] after a fall in his bathroom .
+23,23 Disorder
+
+He was evaluated and admitted to the trauma service initially for neuro checks , a repeat CT head the following morning and observation ( especially given his history of alcohol ) .
+
+
+Overnight , the patient was stable and he neurlogically was intact .
+
+
+A repeat CT in the morning showed a contusion which potentially was read as an underlying mass .
+8,8 Disorder|15,16 Disorder
+
+The patient was hence kept for furthur observation .
+
+
+As an MRI was unable to be done , a repeat CT head with and without contrast was done , which showed no underlying lesions .
+24,24 Disorder
+
+THe patient had no other medical or surgical issues and was stable .
+
+
+Over the weekend from [ * * 10 - 18** ] to [ * * 10 - 20** ] , the patient remained in the trauma ICU awaiting a bed on the floor .
+
+
+He remained stable and without issues .
+
+
+He was put on a CIWA scale per his alcoholic history .
+
+
+He was intermittently confused at some points overnight , likely due to his pain medications and alcoholic history .
+2,3 Disorder|13,14 Disorder|16,17 Disorder
+
+He was seen by physical therapy on [ * * 2013 - 10 - 21** ] , who reccomended one more session prior to discharge on [ * * 2013 - 10 - 22** ] .
+
+
+On [ * * 10 - 22** ] he was seen and evaluated by physical therapy and cleared for discharge .
+
+
+He was seen by physical therapy on [ * * 2013 - 10 - 22** ] , and then discharged in a stable condition .
+
+
+He is due to follow - up with Dr [ * * Last Name ( STitle ) * * ] in the clinic in 4 weeks with another repeat head scan .
+
+
+Medications on Admission :
+
+
+- oxycontin ( prescribed for the last 2 weeks as he has rib fractures from a previous fall )
+12,13 Disorder|17,17 Disorder
+
+- regular vitamins
+
+
+Discharge Medications :
+
+
+1 . Phenytoin Sodium Extended 100 mg Capsule Sig : One ( 1 ) Capsule PO TID ( 3 times a day ) for 30 days . Disp : * 45 Capsule ( s ) * Refills : * 1*
+
+
+2 . Oxycodone - Acetaminophen 5 - 325 mg Tablet Sig : 1 - 2 Tablets PO Q4 - 6H ( every 4 to 6 hours ) as needed for pain . Disp : * 40 Tablet ( s ) * Refills : * 0*
+30,30 Disorder
+
+3 . Docusate Sodium 100 mg Capsule Sig : One ( 1 ) Capsule PO BID ( 2 times a day ) . Disp : * 60 Capsule ( s ) * Refills : * 2*
+
+
+Discharge Disposition :
+
+
+Home
+
+
+Discharge Diagnosis :
+
+
+traumatic brain injury s / p fall
+0,2 Disorder|6,6 Disorder
+
+Discharge Condition :
+
+
+neurologically stable
+
+
+Discharge Instructions :
+
+
+Please call your doctor or return to the ER for any of the following : call if you have any lethargy , numbness tingling weakness , seizure or slurred speech . * You experience new chest pain , pressure , squeezing or tightness .
+20,20 Disorder|22,22 Disorder|23,23 Disorder|24,24 Disorder|26,26 Disorder|28,29 Disorder|35,35,42,42 Disorder|35,36,40,40 Disorder|35,35,38,38 Disorder
+
+* New or worsening cough or wheezing .
+1,1,6,6 Disorder|1,1,4,4 Disorder
+
+* If you are vomitting and cannot keep in fluids or your medications . * You are getting dehydrated due to continued vomitting , diarrhea or other reasons .
+4,4 Disorder|6,8,12,12 Disorder|6,9 Disorder|18,18 Disorder|22,22 Disorder|24,24 Disorder
+
+Signs of dehydration include dry mouth , rapid heartbeat or feeling dizzy or faint when standing . * You see blood or dark / black material when you vomit or have a bowel movement . * Your skin , or the whites of your eyes become yellow . * Your pain is not improving within 8 - 12 hours or not gone within 24 hours .
+2,2 Disorder|4,5 Disorder|7,8 Disorder|10,11 Disorder|13,13 Disorder|20,20,32,33 Disorder|20,20,28,28 Disorder|22,22,32,33 Disorder|22,22,25,25,28,28 Disorder|24,25,32,33 Disorder|24,25,28,28 Disorder|37,37,46,46 Disorder|41,42,44,44,46,46 Disorder|50,50 Disorder
+
+Call or return immediately if your pain is getting worse or is changing location or moving to your chest or back . * You have shaking chills , or a fever greater than 101 . 5 ( F ) degrees or 38 ( C ) degrees . * Any serious change in your symptoms , or any new symptoms that concern you .
+6,6 Disorder|25,26 Disorder|30,30 Disorder|53,53 Disorder|57,58 Disorder
+
+Followup Instructions :
+
+
+please call the office to be seen in 4 weeks with a cat scan of the brain .
+
+
+The cat scan should be with and without contrast .
+
+
+Please call Dr . [ * * Last Name ( STitle ) 2602** ] office at [ * * Telephone / Fax ( 2 ) * * ] for and appointment .
+
+
+You should see your primary care doctor within 2 weeks for evaluation and follow up .
+
+
+[ * * Name6 ( MD ) * * ] [ * * Name7 ( MD ) 1197** ] MD [ * * MD Number 1198** ]
+
+
+Completed by : [ * * First Name11 ( Name Pattern1 ) 409** ] [ * * Name7 ( MD ) 1308** ] NP 80 - BZE [ * * 2013 - 10 - 22** ] @ 0940
+
+
+Signed electronically by : DR . [ * * First Name8 ( NamePattern2 ) * * ] [ * * Name ( STitle ) * * ] on : MON [ * * 2013 - 12 - 30** ] 1 : 25 PM
+
+
+( End of Report )
+
+
+23607 |||| 7726 |||| 4044 |||| DISCHARGE_SUMMARY |||| 2011 - 07 - 28 00 : 00 : 00 . 0 |||| |||| |||| ||||
+
+
+Admission Date : [ * * 2011 - 07 - 25** ] Discharge Date : [ * * 2011 - 07 - 28** ]
+
+
+Date of Birth : [ * * 1965 - 02 - 21** ] Sex : F
+
+
+Service : [ * * Hospital Unit Name * * ]
+
+
+HISTORY OF PRESENT ILLNESS : The patient is a 46 - year - old woman with past medical history significant for end - stage renal disease and poorly controlled hypertension who was brought in to the [ * * Hospital 137** ]
+21,25 Disorder|29,29 Disorder
+
+Emergency Department by EMS after her husband activated 911 due to her lethargy and decreased responsiveness .
+12,12 Disorder|14,15 Disorder
+
+Of note , the patient has had multiple admissions to the same facility over the prior year for uncontrolled hypertension and associated chest pain without evidence of myocardial ischemia , all in the setting of poor medicine compliance and missed dialysis sessions .
+19,19 Disorder|22,23 Disorder|27,28 Disorder|35,37 Disorder
+
+On history , the patient reports missing approximately two weeks worth of hemodialysis appointments after her most recent infected Tunneled catheter was removed .
+18,20 Disorder
+
+The patient reported feeling both tired and depressed , expressing suicidal ideations , and admitted refusal of dialysis .
+3,3,5,5 Disorder|7,7 Disorder|10,11 Disorder
+
+REVIEW OF SYSTEMS : Otherwise significant for the absence of chest pain or cough , but presence of paroxysmal nocturnal dyspnea over the week leading to admission .
+10,11 Disorder|13,13 Disorder|18,20 Disorder
+
+The patient denied headache , fever , nausea , vomiting , or abdominal pain .
+3,3 Disorder|5,5 Disorder|7,7 Disorder|9,9 Disorder|12,13 Disorder
+
+PAST MEDICAL HISTORY : End - stage renal disease , significant for multiple tunneled catheter dialysis infections .
+4,8 Disorder|13,14,16,16 Disorder
+
+Hypertension .
+0,0 Disorder
+
+Hepatitis C .
+0,1 Disorder
+
+Polysubstance abuse .
+0,1 Disorder
+
+Asthma .
+0,0 Disorder
+
+History of left - sided CVA with residual right - sided weakness .
+2,5 Disorder|7,11 Disorder
+
+Bilateral internal jugular clots in 05 / 04 .
+3,3 Disorder
+
+ALLERGIES : PENICILLIN , KEFZOL , CODEINE , and VANCOMYCIN .
+
+
+MEDICATIONS :
+
+
+1 . Bumex 2 mg b . i . d .
+
+
+2 . Enalapril 40 mg q . d .
+
+
+3 . Labetalol 600 mg b . i . d .
+
+
+4 . Clonidine 0 . 3 mg TTP patch .
+
+
+5 . Norvasc 10 mg q . d .
+
+
+6 . Iron sulfate supplements .
+
+
+PHYSICAL EXAMINATION : Temperature 97 . 2 degrees , blood pressure 164 / 104 , heart rate 100 to 110 , respiratory rate 16 , saturating 97 percent on room air .
+
+
+In general , tearful and angry appearing woman , responding to questions , and in no acute distress .
+3,3 Disorder|16,17 Disorder
+
+HEENT exam : Pupils are equal , round , and reactive to light .
+
+
+Extraocular movements are intact .
+
+
+Sclarea anicteric . Chest is clear to auscultation bilaterally . Cardiovascular : Tachycardiac without murmur .
+12,12 Disorder|14,14 Disorder
+
+Abdomen : Soft and nontender with normoactive bowel sounds .
+0,0,4,4 Disorder
+
+Extremities : No pedal edema , fistula , left antecubital fossa with palpable thrill .
+3,4 Disorder|6,6 Disorder|13,13 Disorder
+
+Neuro : Alert and oriented to person , place , month , and year .
+
+
+Following commands .
+
+
+Moving all extremities .
+
+
+LABORATORY DATA : Labs on admission , sodium 141 , potassium
+
+
+5 . 8 , chloride 114 , bicarbonate 11 , BUN 107 , creatinine 10 . 6 , glucose 115 , calcium 7 . 7 , magnesium 2 . 2 , and phosphorous 7 . 8 .
+
+
+CBC , white blood cell count 8 . 7 , hematocrit 36 . 5 , and platelets 277 .
+
+
+Coags within normal limits .
+
+
+Chest x - ray , cardiomegaly with mild vascular congestion .
+5,5 Disorder|8,9 Disorder
+
+EKG , normal sinus rhythm of 90 , LVH , and left atrial enlargement .
+8,8 Disorder|11,13 Disorder
+
+CT of the head is significant for right thalamic hypodense lesion , new compared with prior study of 03 / 04 .
+9,10 Disorder
+
+SUMMARY OF HOSPITAL COURSE : Hypertensive urgency .
+5,6 Disorder
+
+The patient was placed on Nipride drip in the emergency department to which she responded well .
+
+
+Her outpatient medications including labetalol , Enalapril , and Norvasc were reinitiated given her recent noncompliance with these medications .
+15,15,18,18 Disorder
+
+Additionally , a Catapres patch was placed on the patient .
+
+
+Given her fluid overload secondary to dialysis noncompliance , plans were made to initiate hemodialysis after appropriate access was placed .
+2,3 Disorder|6,7 Disorder
+
+The patient was maintained on Nipride drip upon transfer to the Medical Intensive Care Unit and throughout her three to four day hospital course was placed back on her outpatient regimen with the Nipride drip being weaned off during her second day of Medical Intensive
+
+
+Care Unit stay .
+
+
+End stage renal disease .
+0,3 Disorder
+
+Interventional Radiology was consulted from the emergency department to establish access for hemodialysis .
+
+
+The patient initially refused such intervention , but ultimately consented to such on the evening of admission .
+
+
+The renal consult team was asked to see the patient in the emergency department and managed her end - stage renal disease throughout her hospital course , receiving several rounds of hemodialysis prior to discharge .
+17,21 Disorder
+
+The patient 's outpatient nephrologist , Dr . [ * * Last Name ( STitle ) 1945** ] , evaluated the patient on a daily basis in the Medical Intensive Care Unit and contributed to her care .
+
+
+Psychiatry .
+
+
+The patient expressed suicidal ideations and all her statements that indicated her noncompliance with medications and hemodialysis were secondary to her depression .
+3,4 Disorder|12,12,16,16 Disorder|12,14 Disorder|21,21 Disorder
+
+The psychiatry consult team evaluated the patient in the emergency department and consulted during her Medical Intensive Care Unit stay and deemed her competent to make decisions regarding her own care and not an acute risk to herself or others .
+34,36,39,39 Disorder|34,37 Disorder
+
+Neurology . Given the above - mentioned CT findings , the
+
+
+Neurology Stroke Consult Service was consulted and felt that the findings seen on CT were consistent with small - vessel disease resulting in a lacunar infarct .
+1,1 Disorder|17,20 Disorder|24,25 Disorder
+
+Given the patient 's nonfocal neurology exam , recommendations were made to control the patient 's blood pressure adequately and start the patient on one daily aspirin .
+
+
+Further lifestyle modifications , specifically that regarding recreational drug abuse and tobacco use were recommended as well as testing a baseline lipid panel , which was pending at the time of discharge .
+8,9 Disorder
+
+Lymphadenopathy .
+0,0 Disorder
+
+During her Medical Intensive Care Unit stay , the patient was noted to have a tender left submandibular lymph node approximately 1 cm to 2 cm in size without evidence of pharyngitis or other oropharyngeal lesions .
+15,15,18,19 Disorder|31,31 Disorder|35,35 Disorder
+
+In light of this , an HIV test was sent and was pending at the time of discharge ; and the patient was instructed to followup with her primary care physician regarding the persistence of such a lesion .
+37,37 Disorder
+
+DISCHARGE CONDITION : Stable .
+
+
+DISCHARGE STATUS : To home .
+
+
+DISCHARGE DIAGNOSES : End - stage renal disease .
+3,7 Disorder
+
+Hypertension .
+0,0 Disorder
+
+DISCHARGE MEDICATIONS :
+
+
+1 . Enalapril 10 mg 4 tablets p . o . q . d .
+
+
+2 . Clonidine 0 . 3 mg per 24 hours patch , 1 patch weekly , transdermal .
+
+
+3 . Amlodipine 5 mg 2 tablets p . o . q . d .
+
+
+4 . Bumetanide 2 mg 1 tablet p . o . b . i . d
+
+
+5 . Labetalol 200 mg tablets 3 tablets p . o . t . i . d .
+
+
+6 . Quetiapine 25 mg 1 tablet p . o q . a . m . and 2 tablets p . o . q . h . s .
+
+
+7 . Ferrous gluconate 325 mg 1 tablet p . o . q . d .
+
+
+FOLLOW - UP PLANS : The patient has an appointment with Dr . [ * * Last Name ( STitle ) 1945** ] on [ * * 2011 - 07 - 30** ] .
+
+
+[ * * Name6 ( MD ) * * ] [ * * Name8 ( MD ) * * ] , [ * * State / Zipcode 1489** ]
+
+
+Dictated By : [ * * Dictator Info 1994** ]
+
+
+MEDQUIST36
+
+
+D : [ * * 2011 - 09 - 14** ] 13 : 02 : 52
+
+
+T : [ * * 2011 - 09 - 14** ] 14 : 46 : 36
+
+
+Job# : [ * * Job Number 2720** ]
+
+
+Signed electronically by : DR . [ * * First Name ( STitle ) * * ] ERNST on : TUE [ * * 2011 - 09 - 20** ] 10 : 36 AM
+
+
+( End of Report )
+
+
+29701 |||| 7786 |||| 2725 |||| ECG_REPORT |||| 2013 - 01 - 11 10 : 13 : 00 . 0 |||| |||| |||| ||||
+
+
+Normal sinus rhythm with atrial premature depolarizations . Borderline low QRS voltage in the limb leads . Non - diagnostic repolarization abnormalities . Delayed anterior precordial R wave progression . Compared to the previous tracing of [ * * 2013 - 01 - 07** ] cardiac rhythm is now sinus mechanism .
+4,6 Disorder|10,10 Disorder|24,28 Disorder
+
+61373 |||| 8870 |||| 8042 |||| ECG_REPORT |||| 2009 - 12 - 23 16 : 42 : 00 . 0 |||| |||| |||| ||||
+
+
+Sinus rhythm
+0,1 Disorder
+
+Left axis deviation
+0,2 Disorder
+
+Anteroseptal myocardial infarction with anterolateral ST elevation - may be acute / recent
+0,2 Disorder|4,6 Disorder
+
+Consider prior inferior myocardial infarction
+2,4 Disorder
+
+Since previous tracing same date : no significant change
+
+
+67879 |||| 9569 |||| 12190 |||| ECG_REPORT |||| 2016 - 06 - 06 09 : 48 : 00 . 0 |||| |||| |||| ||||
+
+
+Sinus bradycardia
+0,1 Disorder
+
+Anterolateral myocardial infarct with ST - T wave configuration consistent with acute / recent / in evolution process
+0,2 Disorder
+
+Clinical correlation is suggested
+
+
+Since previous tracing of [ * * 2016 - 06 - 05** ] , probably no significant change
+
+
+87101 |||| 9622 |||| 26237 |||| ECG_REPORT |||| 2018 - 10 - 13 09 : 51 : 00 . 0 |||| |||| |||| ||||
+
+
+Sinus rhythm . Left atrial enlargement . Left ventricular hypertrophy . Compared to the previous tracing of [ * * 2018 - 10 - 12** ] no diagnostic interim change .
+3,5 Disorder|7,9 Disorder
+
+TRACING # 1
+
+
+257487 |||| 9963 |||| 24985 |||| RADIOLOGY_REPORT |||| 2014 - 08 - 22 15 : 18 : 00 . 0 |||| C91 CHEST PORT . LINE PLACEMENT |||| |||| Clip # 380 - 3850 Actual report ||||
+
+
+DATE : [ * * 2014 - 08 - 22** ] 3 : 18 PM
+
+
+CHEST PORT . LINE PLACEMENT [ * * Clip Number ( Radiology ) 4882** ] Reason : EVAL rsc LINE PLACEMENT Admitting Diagnosis : CROHN 'S DISEASE / SDA
+24,26 Disorder
+
+______________________________________________________________________________
+
+
+UNDERLYING MEDICAL CONDITION :
+
+
+50 year old man with S / P EX LAP REASON FOR THIS EXAMINATION : EVAL rsc LINE PLACEMENT ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+Portable chest , [ * * 2014 - 08 - 22** ] with no prior films for comparison .
+
+
+INDICATION : Line placement .
+
+
+A right internal jugular vascular catheter is in satisfactory position within the superior vena cava .
+
+
+There is no pneumothorax .
+3,3 Disorder
+
+An endotracheal tube terminates approximately 3 - 1 / 2 cm above the carina and a nasogastric tube terminates in the stomach with the tip directed cephalad in the fundus .
+
+
+The heart is mildly enlarged .
+1,1,4,4 Disorder
+
+Pulmonary vascularity is normal for technique .
+
+
+Very minimal atelectatic changes are noted at the lung bases with otherwise clear lungs .
+2,3 Disorder
+
+IMPRESSION : Central venous catheter in satisfactory position with no pneumothorax .
+10,10 Disorder
+
+110055 |||| 10689 |||| 436 |||| ECHO_REPORT |||| 2013 - 10 - 04 00 : 00 : 00 . 0 |||| ||||
+
+
+PATIENT / TEST INFORMATION :
+
+
+Indication : Aortic valve disease . Left ventricular function . Murmur . History of CABG [ * * 2008** ] .
+2,4 Disorder|6,8 Disorder|10,10 Disorder
+
+Height : ( in ) 61
+
+
+Weight ( lb ) : 180
+
+
+BSA ( m2 ) : 1 . 81 m2
+
+
+BP ( mm Hg ) : 168 / 44
+
+
+HR ( bpm ) : 62
+
+
+Status : Inpatient
+
+
+Date / Time : [ * * 2013 - 10 - 04** ] at 09 : 40
+
+
+Test : Portable TTE ( Complete )
+
+
+Doppler : Complete pulse and color flow
+
+
+Contrast : None
+
+
+Technical Quality : Adequate
+
+
+|||| ||||
+
+
+INTERPRETATION :
+
+
+Findings :
+
+
+LEFT ATRIUM : The left atrium is moderately dilated . The left atrium is elongated .
+4,5,8,8 Disorder|14,14 Disorder
+
+RIGHT ATRIUM / INTERATRIAL SEPTUM : The right atrium is mildly dilated .
+7,8,11,11 Disorder
+
+LEFT VENTRICLE : Left ventricular wall thicknesses are normal .
+
+
+The left ventricular cavity size is normal .
+
+
+Overall left ventricular systolic function is normal ( LVEF > 55 % ) .
+
+
+RIGHT VENTRICLE : The right ventricular wall thickness is normal .
+
+
+Right ventricular chamber size is normal .
+
+
+Right ventricular systolic function is normal .
+
+
+AORTA : The aortic root is normal in diameter .
+
+
+AORTIC VALVE : The aortic valve leaflets are mildly thickened . There is mild aortic valve stenosis .
+9,9 Disorder|14,16 Disorder
+
+MITRAL VALVE : The mitral valve leaflets are mildly thickened . There is moderate mitral annular calcification . Trivial mitral regurgitation is seen .
+4,4,6,6,9,9 Disorder|14,16 Disorder|19,20 Disorder
+
+PULMONIC VALVE / PULMONARY ARTERY : Physiologic ( normal ) pulmonic regurgitation is seen .
+10,11 Disorder
+
+PERICARDIUM : There is no pericardial effusion .
+5,6 Disorder
+
+There is an anterior space which most likely represents a fat pad , though a loculated anterior pericardial effusion cannot be excluded .
+17,18 Disorder
+
+GENERAL COMMENTS : Image quality was suboptimal .
+
+
+Conclusions :
+
+
+1 . The left atrium is moderately dilated . The left atrium is elongated .
+3,4,7,7 Disorder|13,13 Disorder
+
+2 .
+
+
+Left ventricular wall thicknesses are normal .
+
+
+The left ventricular cavity size is normal .
+
+
+Overall left ventricular systolic function is normal ( LVEF > 55 % ) .
+
+
+3 . Right ventricular chamber size is normal . Right ventricular systolic function is normal .
+
+
+4 . The aortic valve leaflets are mildly thickened . There is mild aortic valve stenosis .
+8,8 Disorder|13,15 Disorder
+
+5 . The mitral valve leaflets are mildly thickened . Trivial mitral regurgitation is seen .
+3,3,5,5,8,8 Disorder|11,12 Disorder
+
+6 .
+
+
+There is no pericardial effusion .
+3,4 Disorder
+
+There is an anterior space which most likely represents a fat pad , though a loculated anterior pericardial effusion cannot be excluded .
+17,18 Disorder
+
+48474 |||| 13101 |||| 21807 |||| ECG_REPORT |||| 2014 - 09 - 23 08 : 06 : 00 . 0 |||| |||| |||| ||||
+
+
+Sinus rhythm and underlying sinus rhythm without ventricular sensing of the atrial pacemaker . There is intermittent appearance of apparent atrial pacemaker artifact without capture . Clinical correlation is suggested . TRACING # 2
+0,1 Disorder|4,5 Disorder|20,22 Disorder|21,21,24,24 Disorder
+
+340203 |||| 14108 |||| 17954 |||| RADIOLOGY_REPORT |||| 2013 - 12 - 09 22 : 05 : 00 . 0 |||| T9411 MR CERVICAL SPINE |||| |||| Clip # 354 - 3895 Actual report ||||
+
+
+DATE : [ * * 2013 - 12 - 09** ] 10 : 05 PM
+
+
+MR [ * * First Name ( Titles ) 101** ] [ * * Last Name ( Titles ) 102** ] ; MR [ * * First Name ( Titles ) 103** ] [ * * Last Name ( Titles ) 102** ] [ * * Clip Number ( Radiology ) 484** ] Reason : ligamentous injury ? Admitting Diagnosis : S / P FALL TEMP . FRACTURE
+55,56 Disorder|64,64 Disorder|65,67 Disorder
+
+______________________________________________________________________________
+
+
+UNDERLYING MEDICAL CONDITION :
+
+
+53 year old man s / p fall from ladder REASON FOR THIS EXAMINATION : ligamentous injury ? can go off tele ______________________________________________________________________________
+7,9 Disorder|15,16 Disorder
+
+FINAL REPORT
+
+
+INDICATION : Status post fall from ladder , evaluate for ligamentous injury .
+4,6 Disorder|10,11 Disorder
+
+COMPARISON : CT of the cervical spine from [ * * 2013 - 12 - 07** ] .
+
+
+MRI OF THE CERVICAL SPINE :
+
+
+TECHNIQUE : Sagittal T1W , T2W , STIR , and axial GRE and T2W images of the cervical spine were performed .
+
+
+FINDINGS : Study is limited secondary to patient motion .
+
+
+Allowing for this , there is no evidence of abnormal alignment of the cervical vertebral bodies , fracture , or abnormal signal within the cervical spine .
+9,10 Disorder|17,17 Disorder|20,21 Disorder
+
+The extent of degenerative change and spinal stenosis cannot be fully assessed because of patient motion .
+3,4 Disorder|6,7 Disorder
+
+No abnormal signal is demonstrated within the prevertebral soft tissues .
+1,2 Disorder
+
+IMPRESSION : Limited study secondary to patient motion .
+
+
+No abnormal signal demonstrated within the cervical spine to suggest ligamentous injury .
+1,2 Disorder|10,11 Disorder
+
+No definite fracture seen .
+2,2 Disorder
+
+MRI OF THE THORACIC SPINE :
+
+
+TECHNIQUE : Sagittal T1W , T2W , and STIR images were performed .
+
+
+FINDINGS : Two small round foci of increased T1 & T2 signal are demonstrated within the T6 and T9 vertebral bodies consistent with hemangiomas .
+8,8,11,11 Disorder|10,11 Disorder|23,23 Disorder
+
+Alignment of the thoracic spine is normal .
+
+
+No areas of abnormal signal are demonstrated within the thoracic spine or spinal cord are present .
+3,4 Disorder
+
+Height of the vertebral bodies and intervertebral discs is normal .
+
+
+Alignment of the vertebral bodies is normal .
+
+
+IMPRESSION : No abnormal alignment , fractures , or signal demonstrated within the thoracic spine .
+3,3,9,9 Disorder|3,4 Disorder|6,6 Disorder
+
+325902 |||| 14835 |||| 24494 |||| RADIOLOGY_REPORT |||| 2017 - 04 - 15 10 : 41 : 00 . 0 |||| Q111 CT HEAD W / O CONTRAST |||| |||| Clip # 369 - 4642 Actual report ||||
+
+
+DATE : [ * * 2017 - 04 - 15** ] 10 : 41 AM
+
+
+CT HEAD W / O CONTRAST [ * * Clip Number ( Radiology ) 6909** ] Reason : Bleed Admitting Diagnosis : SUBDURAL HEMATOMA
+18,18 Disorder|22,23 Disorder
+
+______________________________________________________________________________
+
+
+UNDERLYING MEDICAL CONDITION :
+
+
+83 year old man with REASON FOR THIS EXAMINATION : Bleed No contraindications for IV contrast
+10,10 Disorder
+
+______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+INDICATION : This is a patient with bilateral subdural hematomas .
+8,9 Disorder
+
+COMPARISON : Comparison is made to [ * * 2017 - 04 - 14** ] .
+
+
+TECHNIQUE : 64 - MDCT axial images of the head and were obtained without IV contrast .
+
+
+FINDINGS : There is no evidence of new intracranial hemorrhage .
+8,9 Disorder
+
+There is again noted post - surgical changes of the bilateral hematoma evacuation .
+10,11 Disorder
+
+There is again noted pneumocephalus in a similar amount when compared to the prior study .
+4,4 Disorder
+
+There is more pneumocephalus in the posterior aspect of the left hemisphere .
+3,3 Disorder
+
+This is most likely due to the shift of air .
+
+
+There is again noted loculated fluid / hemorrhage posteriorly , which is unchanged in size when compared to the prior study .
+4,4,7,7 Disorder|4,5 Disorder
+
+The amount of mass effect is unchanged .
+
+
+There is no CT evidence of major vascular territorial infarcts or herniations .
+7,8,11,11 Disorder|7,9 Disorder
+
+The ventricles are essentially of normal size .
+
+
+Surgical drains in the subcutaneous tissues are unchanged in position .
+
+
+The bone structures are unchanged when compared to the prior study .
+
+
+IMPRESSION : Overall stable appearance of the brain . There is no evidence of new intracranial hemorrhage .
+15,16 Disorder
+
+348292 |||| 15295 |||| 12622 |||| RADIOLOGY_REPORT |||| 2013 - 02 - 17 09 : 37 : 00 . 0 |||| C12 CHEST ( PORTABLE AP ) |||| |||| Clip # 389 - 7196 Actual report ||||
+
+
+DATE : [ * * 2013 - 02 - 17** ] 9 : 37 AM
+
+
+CHEST ( PORTABLE AP ) [ * * Clip Number ( Radiology ) 1913** ] Reason : effusion ? Admitting Diagnosis : CHF \ CORONARY ARTERY BYPASS GRAFT ; EPICARDIAL LEAD PLACEMENT / SDA ______________________________________________________________________________
+17,17 Disorder|22,22 Disorder
+
+UNDERLYING MEDICAL CONDITION :
+
+
+s / p CABGx3 / Epicardial Lead Placement
+
+
+REASON FOR THIS EXAMINATION :
+
+
+effusion ? ______________________________________________________________________________
+0,0 Disorder
+
+FINAL REPORT
+
+
+CHEST , SINGLE VIEW
+
+
+HISTORY : Status post CABG and epicardial lead placement , question effusion .
+11,11 Disorder
+
+REFERENCE EXAM : [ * * 02 - 16** ]
+
+
+FINDINGS : Again noted are epicardial leads projecting over the cardiac apex .
+
+
+The patient is status post median sternotomy with skin staples in place .
+
+
+There is a right IJ Swan - Ganz catheter with tip poorly visualized .
+
+
+It is unclear where the tip of the catheter is located .
+
+
+If clinically indicated , this film should be repeated to ascertain location of the tip of Swan - Ganz catheter .
+
+
+There are bilateral pleural effusions , right greater than left .
+2,4 Disorder
+
+There is left lower lobe consolidation / volume loss .
+5,5 Disorder|7,8 Disorder
+
+26988 |||| 15751 |||| 23389 |||| DISCHARGE_SUMMARY |||| 2018 - 06 - 13 00 : 00 : 00 . 0 |||| |||| |||| ||||
+
+
+Admission Date : [ * * 2018 - 06 - 07** ] Discharge Date : [ * * 2018 - 06 - 13** ]
+
+
+Date of Birth : [ * * 1937 - 08 - 09** ] Sex : M
+
+
+Service : CARDIOTHORACIC
+
+
+Allergies :
+
+
+Patient recorded as having No Known Allergies to Drugs
+
+
+Attending : [ * * Attending Info 565** ]
+
+
+Chief Complaint :
+
+
+DOE
+0,0 Disorder
+
+Major Surgical or Invasive Procedure :
+
+
+AVR ( 21mm CE ) [ * * 2018 - 06 - 07** ]
+
+
+History of Present Illness :
+
+
+80 y / o male with 2 yr h / o SOB . Had Echo that revealed AS . Has had serial Echo 's since , with the last done on [ * * 04 - 17** ] which showed worsening AS .
+11,11 Disorder|17,17 Disorder|41,41 Disorder
+
+Past Medical History :
+
+
+Aortic stenosis
+0,1 Disorder
+
+Hypertension
+0,0 Disorder
+
+Hypercholesterolemia
+0,0 Disorder
+
+Diabetes Mellitus Type 2
+0,3 Disorder
+
+Left [ * * Hospital Unit Name * * ] Glaucoma
+10,10 Disorder
+
+Severe LE Varicosities
+2,2 Disorder
+
+h / o Bilat . Renal Calculi
+5,6 Disorder
+
+s / p bilat . cataract surgery
+5,5 Disorder
+
+s / p appendectomy
+
+
+s / p tonsillectomy
+
+
+s / p lithotripsy
+
+
+Social History :
+
+
+Lives with wife , retired . Quit smoking 20yrs ago ( 40 - 50 pk yrs ) . ETOH : 1 glass wine / day .
+
+
+Family History :
+
+
+Sister with RHF / valve [ * * Hospital Unit Name 1711** ] .
+2,2 Disorder
+
+Physical Exam :
+
+
+VS : 76 14 154 / 78 5'10 " 165#
+
+
+General : Well - appearing , well - nourished elderly man
+
+
+Skin : Unremarkable , - lesions
+5,5 Disorder
+
+HEENT : PERRLA , EOMI , NC / AT
+
+
+Neck : Supple , FROM , - JVD , Murmur radiating to carotids
+7,7 Disorder|9,9 Disorder
+
+Chest : CTAB , - w / r / r
+5,5 Disorder|7,7 Disorder|9,9 Disorder
+
+Heart : RRR , + S1S2 , 2 / 6 SEM
+10,10 Disorder
+
+Abd : Soft , NT / ND + BS
+0,0,6,6 Disorder|0,0,4,4 Disorder|0,0,2,2 Disorder
+
+Ext : Warm , well - perfused , - c / c / e , + severe bilat varicosities ( L > R ) 2 + pulses bilat .
+9,9 Disorder|11,11 Disorder|13,13 Disorder|18,18 Disorder
+
+Fem , PT , and L DP .
+
+
+No pulse on R DP .
+
+
+Neuro : CN [ * * 02 - 24** ] intact , non - focal , MAE [ * * 04 - 17** ] strengths
+
+
+Pertinent Results :
+
+
+[ * * 2018 - 06 - 07** ] 10 : 16AM BLOOD WBC - 15 . 2*# RBC - 2 . 89*# Hgb - 9 . 6*# Hct - 26 . 3*# MCV - 91 MCH - 33 . 3* MCHC - 36 . 5* RDW - 13 . 8 Plt Ct - 175
+
+
+[ * * 2018 - 06 - 12** ] 06 : 25AM BLOOD WBC - 8 . 5 RBC - 3 . 44* Hgb - 11 . 0* Hct - 31 . 5* MCV - 92 MCH - 32 . 0 MCHC - 34 . 9 RDW - 14 . 2 Plt Ct - 228
+
+
+[ * * 2018 - 06 - 07** ] 10 : 16AM BLOOD PT - 16 . 1* PTT - 40 . 3* INR ( PT ) - 1 . 7
+
+
+[ * * 2018 - 06 - 11** ] 02 : 40AM BLOOD PT - 13 . 3 PTT - 26 . 3 INR ( PT ) - 1 . 2
+
+
+[ * * 2018 - 06 - 07** ] 11 : 25AM BLOOD UreaN - 15 Creat - 0 . 8 Cl - 105 HCO3 - 27
+
+
+[ * * 2018 - 06 - 07** ] 07 : 55PM BLOOD Glucose - 111* K - 3 . 3
+
+
+[ * * 2018 - 06 - 12** ] 06 : 25AM BLOOD Glucose - 167* UreaN - 34* Creat - 0 . 9 Na - 140 K - 3 . 4 Cl - 101 HCO3 - 28 AnGap - 14
+
+
+[ * * 2018 - 06 - 13** ] 06 : 25AM BLOOD K - 3 . 9
+
+
+Brief Hospital Course :
+
+
+As stated in the HPI , he is a 80 y / o male with a h / o AS who was initially seen as an outpt .
+19,19 Disorder
+
+He was a same day admit and brought to the operating room , where he underwent an aortic valve replacement .
+
+
+Please see op note for full surgical details .
+
+
+He tolerated the procedure well with a total bypass time of 71 minutes and cross clamp time of 58 minutes .
+
+
+He was transferred to CSRU in stable condition with a MAP of 60 , CVP 7 , PAD 13 , [ * * Female First Name ( un ) * * ] 18 , HR 87 NSR and being titrated on Neo , Propofol , and Insulin .
+
+
+Pt was weaned from propofol and mechanical ventilation and was extubated later on op day .
+
+
+He was awake , alert , MAE , and following commands .
+
+
+On POD # 1 he was recovering well .
+
+
+Swan Ganz catheter was removed .
+
+
+Diuretics and B - blockers were started per protocol .
+
+
+His chest x - ray showed bibasilar atelectasis and small r . pleural effusion which was matched with bibasilar rales and dimished bs on exam .
+7,7 Disorder|12,13 Disorder|19,19 Disorder|21,22 Disorder
+
+POD # 2 his chest tubes were removed , but cont . to have decreased breath sounds with CXR showing cont . atelectasis and effusion .
+14,16 Disorder|22,22 Disorder|24,24 Disorder
+
+He was cont . to be aggressively diuresed along with aggressive cpt w / postural drainage .
+
+
+Also received flovent and combivent and Levaquin was started for poss . pneumonia .
+12,12 Disorder
+
+POD # 3 his epicaridal pacing wires and foley were removed .
+
+
+He remained in the CSRU and repeat cxr showed cont . r . effusion and atelectasis w / poss . superimposed pnuemonia .
+13,13 Disorder|15,15 Disorder|21,21 Disorder
+
+POD # 4 he appeared to be improved , but had cont . decreased bs right base .
+13,14 Disorder
+
+He was transferred to telemetry floor .
+
+
+CXR showed decreased atelectasis .
+3,3 Disorder
+
+By POD # 5 he appeared to be doing quite well .
+
+
+Cont . to ambulate and get OOB .
+
+
+O2 sats remained alittle low depsite O2 via NC .
+
+
+Exam unremarkable .
+
+
+He was d / c 'd on POD # 6 .
+
+
+Exam was unremarkable , incisions stable , breath sounds clear .
+
+
+Labs were stable and he would follow - up as directed .
+
+
+Medications on Admission :
+
+
+1 . HCTZ 50mg qd
+
+
+2 . Atenolol 50mg qd
+
+
+3 . Glucophage 500mg qd
+
+
+4 . KCL ER 600mg qd
+
+
+5 . Gemfibrozil 600mg qd
+
+
+6 . Omeprazole 20mg qd
+
+
+7 . Vit . E qd
+
+
+8 . Omega 5 Oils
+
+
+9 . Allphagan [ * * First Name9 ( NamePattern2 ) * * ] [ * * Male First Name ( un ) 299** ] 10 . B - Complex
+
+
+Discharge Medications :
+
+
+1 . Oxycodone - Acetaminophen 5 - 325 mg Tablet Sig : 1 - 2 Tablets PO Q4H ( every 4 hours ) as needed for pain . Disp : * 50 Tablet ( s ) * Refills : * 0*
+26,26 Disorder
+
+2 .
+
+
+Aspirin 81 mg Tablet , Delayed Release ( E .
+
+
+C . ) Sig : One ( 1 ) Tablet , Delayed Release ( E .
+
+
+C . ) PO DAILY ( Daily ) .
+
+
+Disp : * 30 Tablet , Delayed Release ( E .
+
+
+C . ) ( s ) * Refills : * 2*
+
+
+3 . Docusate Sodium 100 mg Capsule Sig : One ( 1 ) Capsule PO BID ( 2 times a day ) . Disp : * 60 Capsule ( s ) * Refills : * 2*
+
+
+4 . Brimonidine Tartrate 0 . 15 % Drops Sig : One ( 1 ) Drop
+
+
+Ophthalmic BID ( 2 times a day ) .
+
+
+Disp : * 1 bottle* Refills : * 2*
+
+
+5 . Fluticasone Propionate 110 mcg / Actuation Aerosol Sig : Two ( 2 ) Puff Inhalation BID ( 2 times a day ) . Disp : * 1 inhaler* Refills : * 2*
+
+
+6 . Albuterol - Ipratropium 103 - 18 mcg / Actuation Aerosol Sig : [ * * 01 - 14** ]
+
+
+Puffs Inhalation Q4H ( every 4 hours ) .
+
+
+Disp : * 1 inhaler* Refills : * 2*
+
+
+7 . Metformin HCl 500 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ) . Disp : * 60 Tablet ( s ) * Refills : * 2*
+
+
+8 . Levofloxacin 500 mg Tablet Sig : One ( 1 ) Tablet PO Q24H ( every 24 hours ) for 3 days . Disp : * 3 Tablet ( s ) * Refills : * 0*
+
+
+9 . Latanoprost 0 . 005 % Drops Sig : One ( 1 ) Drop Ophthalmic HS ( at bedtime ) . Disp : * 1 bottle* Refills : * 2*
+
+
+10 .
+
+
+Potassium Chloride 10 mEq Capsule , Sustained Release Sig : Two ( 2 ) Capsule , Sustained Release PO DAILY ( Daily ) for 7 days .
+
+
+Disp : * 14 Capsule , Sustained Release ( s ) * Refills : * 0*
+
+
+11 . Lopressor 50 mg Tablet Sig : 1 . 5 Tablets PO three times a day . Disp : * 135 Tablet ( s ) * Refills : * 2*
+
+
+12 . Lasix 20 mg Tablet Sig : One ( 1 ) Tablet PO twice a day for 7 days . Disp : * 14 Tablet ( s ) * Refills : * 0*
+
+
+13 .
+
+
+Omeprazole 20 mg Capsule , Delayed Release ( E .
+
+
+C . ) Sig : One ( 1 ) Capsule , Delayed Release ( E .
+
+
+C . ) PO once a day .
+
+
+Disp : * 30 Capsule , Delayed Release ( E .
+
+
+C . ) ( s ) * Refills : * 2*
+
+
+14 . Zocor 10 mg Tablet Sig : One ( 1 ) Tablet PO once a day .
+
+
+Disp : * 30 Tablet ( s ) * Refills : * 2*
+
+
+Discharge Disposition :
+
+
+Home with Service
+
+
+Discharge Diagnosis :
+
+
+Aortic stenosis s / p Aortic Valve Replacement
+0,1 Disorder
+
+Hypertension
+0,0 Disorder
+
+Hypercholesterolemia
+0,0 Disorder
+
+Diabetes Mellitus Type 2
+0,3 Disorder
+
+Left [ * * Hospital Unit Name * * ] Glaucoma
+10,10 Disorder
+
+Severe LE Varicosities
+2,2 Disorder
+
+h / o Bilat . Renal Calculi
+5,6 Disorder
+
+Discharge Condition :
+
+
+Good
+
+
+Discharge Instructions :
+
+
+Follow medications on discharge instructions .
+
+
+You may not drive for 4 weeks .
+
+
+You may not lift more than 10 lbs . for 3 months .
+
+
+You should shower , let water flow over wounds , pat dry with a towel
+8,8 Disorder
+
+Do not put lotions or creams on incisions .
+
+
+Followup Instructions :
+
+
+Make an appointment with Dr . [ * * Last Name ( STitle ) 3378** ] for 1 - 2 weeks .
+
+
+Make an appointment with Dr . [ * * Last Name ( STitle ) 776** ] for 2 - 3 weeks .
+
+
+Make an appointment with Dr . [ * * Last Name ( STitle ) * * ] for 4 weeks .
+
+
+[ * * Name6 ( MD ) * * ] [ * * Name7 ( MD ) 574** ] MD [ * * MD Number 575** ]
+
+
+Completed by : [ * * First Name8 ( NamePattern2 ) 388** ] [ * * Last Name ( un ) 389** ] PA 80 - BMD [ * * 2018 - 06 - 14** ] @ 0906
+
+
+Signed electronically by : DR . [ * * First Name ( STitle ) * * ] [ * * Initials ( NamePattern4 ) * * ] [ * * Last Name ( NamePattern4 ) * * ] on : WED [ * * 2018 - 06 - 20** ] 12 : 16 PM
+
+
+( End of Report )
+
+
+152402 |||| 16055 |||| 1984 |||| RADIOLOGY_REPORT |||| 2016 - 04 - 02 05 : 35 : 00 . 0 |||| C12 CHEST ( PORTABLE AP ) |||| |||| Clip # 335 - 8675 Actual report ||||
+
+
+DATE : [ * * 2016 - 04 - 02** ] 5 : 35 AM
+
+
+CHEST ( PORTABLE AP ) [ * * Clip Number ( Radiology ) 104** ] Reason : CHEST TUBE
+
+
+Admitting Diagnosis : WOUND INFECTION
+3,4 Disorder
+
+______________________________________________________________________________
+
+
+UNDERLYING MEDICAL CONDITION :
+
+
+83 year old woman s / p bronchoscopy to clear out secretions .
+
+
+R Chest tube placed this morning for large R pleural effusion , lung noted to be collapsed on f / u CXR , ? plugged with secretions .
+9,10 Disorder|12,12,16,16 Disorder|24,26 Disorder
+
+REASON FOR THIS EXAMINATION :
+
+
+compare to prior ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+Compared to previous study of one day earlier .
+
+
+CLINICAL INDICATION : Chest tube placement for large pleural effusion . Pre - evaluate lung collapse .
+8,9 Disorder|14,15 Disorder
+
+An endotracheal tube remains in place .
+
+
+The tip is in a relatively low position , within 1 . 5 cm of the carina , but this is likely accenuated by the flexed position of the patient 's neck .
+
+
+A left sided chest tube remains in place , with no evidence of pneumothorax , and right internal jugular vascular catheter remains in satisfactory position .
+13,13 Disorder
+
+Cardiac and mediastinal contours are within normal limits .
+
+
+There has been interval improved aeration in the left retrocardiac region .
+
+
+There remains a small left pleural effusion and a moderate layering right pleural effusion .
+5,6 Disorder|12,13 Disorder
+
+IMPRESSION : Improving left retrocardiac opacity , likely due to atelectasis .
+5,5 Disorder|10,10 Disorder
+
+Persistent small left and moderate right pleural effusions .
+6,7 Disorder
+
+Relatively low position of the endotracheal tube .
+
+
+21181 |||| 17336 |||| 16636 |||| DISCHARGE_SUMMARY |||| 2016 - 09 - 09 00 : 00 : 00 . 0 |||| |||| |||| ||||
+
+
+Admission Date : [ * * 2016 - 08 - 10** ] Discharge Date : [ * * 2016 - 09 - 09** ]
+
+
+Date of Birth : [ * * 1998 - 05 - 12** ] Sex : F
+
+
+Service : TRAUMA SURGERY
+
+
+HISTORY OF THE PRESENT ILLNESS : The patient is an 18 - year - old female who was an unrestrained driver of a truck after where she lost control and rolled over .
+
+
+She was ejected and ended up becoming entrapped underneath some of the wreckage .
+
+
+The extrication time was approximately one hour .
+
+
+There was a question of LOC .
+5,5 Disorder
+
+Medflight arrived on the scene where her GCS was 15 and she was hemodynamically stable .
+
+
+She was flown to [ * * Hospital1 189** ] for trauma resuscitation .
+
+
+PAST MEDICAL HISTORY : None .
+
+
+ADMISSION MEDICATIONS : None .
+
+
+ALLERGIES : The patient has no known drug allergies .
+
+
+PHYSICAL EXAMINATION : On arrival to the Trauma Bay , her heart rate was 88 , blood pressure 90 / palpable .
+
+
+She was breathing at 20 , 100 % on room air .
+
+
+She was in moderate distress .
+4,4 Disorder
+
+She had multiple facial lacerations but her face was stable .
+3,4 Disorder
+
+Her TMs were clear .
+
+
+Her neck was in a C collar with the trachea midline .
+
+
+The chest had equal breath sounds bilaterally and there was no instability of the chest wall .
+11,11 Disorder
+
+Her heart revealed a regular rate and rhythm .
+
+
+The abdomen was soft and nontender with a negative fast .
+1,1,5,5 Disorder
+
+She had on the right upper extremity a large degloving injury to her forearm and an obvious deformity .
+9,10 Disorder|17,17 Disorder
+
+She had good neurovascular examination .
+
+
+Her right lower extremity had a large thigh deformity laceration and large area of abrasion .
+8,9 Disorder|14,14 Disorder
+
+Her distal neurovascular examination on the lower extremities was intact .
+
+
+The pelvis was stable .
+
+
+LABORATORY / RADIOLOGIC DATA : On admission , hematocrit 35 , INR 1 . 3 .
+
+
+BUN and creatinine 16 and 0 . 9 .
+
+
+Amylase 29 .
+
+
+Tox screen was negative .
+
+
+There was large blood in the urine , [ * * 07 - 05** ] RBCs .
+3,6 Disorder
+
+The patient underwent multiple studies . A CT of the head was negative for any bleed .
+15,15 Disorder
+
+C - spine CT was negative for fracture or dislocation or canal impingement .
+7,7 Disorder|9,9 Disorder|12,12 Disorder
+
+CT of the abdomen and pelvis demonstrated a right superior pubic rami fracture , right L4 - 5 transverse process fracture , a right sacral fracture extending to the sacroiliac joint with no diastasis .
+9,12 Disorder|18,20 Disorder|24,25 Disorder|33,33 Disorder
+
+The right upper extremity revealed no solid organ injury and no free air in the abdomen .
+6,8 Disorder|11,12 Disorder
+
+An x - ray of the right upper extremity demonstrated radial ulnar fracture of the forearm .
+10,12 Disorder
+
+Right lower extremity demonstrated a displaced right femoral fracture , nondisplaced fracture of the proximal right fibula .
+5,5,8,8 Disorder|10,11 Disorder
+
+HOSPITAL COURSE : The patient was stabilized in the trauma bay , remained hemodynamically stable and after uncovering the extensive orthopedic injuries , she was taken to the Operating Room by the Orthopedic 's Team .
+20,21 Disorder
+
+At this time , the patient was also noted to have a significant perineal injury and the
+13,14 Disorder
+
+General Surgery and Colorectal Surgery teams were involved .
+
+
+At that initial operating room intervention , the patient underwent multiple procedures which included incision and drainage of the right forearm , external fixation of the right forearm fractures , and IM rodding of the right femur .
+27,28 Disorder
+
+A perineal debridement followed by rectal washout and a diverting end - colostomy .
+
+
+The patient tolerated all of these procedure well , remained hemodynamically stable and was transferred to the Trauma
+
+
+Intensive Care Unit for close monitoring , ventilatory support and continued workup for injuries .
+13,13 Disorder
+
+The patient 's ensuing hospital course was significant for multiple trips to the Operating Room for debridement of her right thigh and buttock region .
+
+
+There were multiple swab cultures taken and the patient was placed on the appropriate antibiotics .
+
+
+She tolerated all of these procedures well and to facilitate the multiple trips to the Operating Room , the patient required ventilatory support and remained intubated during this period of time .
+
+
+For sedation , she remained on narcotic and benzodiazepine drips which maintained her appropriate sedation levels .
+
+
+On [ * * 2016 - 08 - 16** ] , while undergoing the debridement of the right buttock and thigh wound , underwent an ultrasound of the rectum which demonstrated an intact sphincter .
+18,18,21,21 Disorder|20,21 Disorder
+
+She also was noted at this time to have right purulent drainage from the right forearm where the external fixator had been placed and this was opened and debrided .
+10,11 Disorder
+
+Approximately a week after the initial injury and multiple debridements , Plastic Surgery was involved and after careful consideration it was considered for a VAC drain placement to allow the bed of tissue to granulate and look towards wound closure at some future point .
+6,6 Disorder|38,38 Disorder
+
+This was placed and she was continued on appropriate antibiotics .
+
+
+Her nutrition was addressed with TPN initially and she was converted to tube feeds which she has tolerated .
+
+
+Infectious Disease consultation was obtained .
+
+
+Due to the extensive debridement of the right thigh and buttock region which was essentially down to the bone , the patient was diagnosed with osteomyelitis and she was placed on broad spectrum antibiotics which will be continued for an extensive period of time beyond this admission .
+25,25 Disorder
+
+Beginning on [ * * 2016 - 08 - 19** ] , the patient began to have temperature spikes and she was pan cultured .
+17,18 Disorder
+
+She was maintained on her broad spectrum antibiotics .
+
+
+On [ * * 2016 - 08 - 24** ] , she was taken back to the Operating Room by the
+
+
+Orthopedics Team where her right femur rod was removed and she had a replacement IM rod placed .
+
+
+She had an echocardiogram which did not demonstrate any vegetations .
+9,9 Disorder
+
+After that orthopedic procedure , the patient actually defervesced . She was maintained on her antibiotic course .
+8,8 Disorder
+
+The VAC drains have been periodically changed every three to five days .
+
+
+In early August , the patient was weaned to extubation which she has tolerated .
+
+
+She was weaned off of her sedation which had resulted actually in high levels of narcotic and benzodiazepines .
+
+
+In order to combat withdrawal , she was placed on an around the clock dose of Ativan to combat any tremulousness or withdrawal symptoms .
+4,4 Disorder|20,20 Disorder|22,23 Disorder
+
+On [ * * 2016 - 08 - 30** ] , the patient was taken to the Operating
+
+
+Room with Plastic Surgery where she underwent a split - thickness skin graft taken from her left thigh donor site and placed on the right thigh and buttock area .
+
+
+She tolerated this procedure well .
+
+
+Post procedure , a VAC dressing was placed over the skin graft .
+
+
+On [ * * 2016 - 09 - 01** ] , the patient was taken to the Operating
+
+
+Room where she underwent an ORIF of the right forearm fracture .
+9,10 Disorder
+
+She tolerated this procedure well .
+
+
+The right forearm VAC was placed .
+
+
+The remainder of her stay in the ICU has remained stable .
+
+
+She defervesced without any temperature spikes .
+1,1 Disorder|4,5 Disorder
+
+All of her recent cultures have been negative to date .
+
+
+She continues on her broad spectrum antibiotics per Infectious Disease and will remain so for an approximate length of 12 weeks .
+
+
+There are plans for Plastic Surgery to return to remove the buttock VAC to examine the skin graft .
+
+
+Upon completion of the examination of the skin graft , the patient will be ready for discharge to rehabilitation to continue her likely long rehabilitation course .
+
+
+She has actually done quite well despite the numerous and severity of her injuries .
+13,13 Disorder
+
+The patient 's list of injuries at this point include the following :
+
+
+1 . Right femur fracture , status post rodding times two .
+3,4 Disorder
+
+2 . Right bone forearm fracture , status post open reduction and internal fixation .
+4,5 Disorder
+
+3 . A right open pelvic fracture and a right superior rami fracture .
+4,6 Disorder|10,12 Disorder
+
+4 . A right proximal fibula fracture .
+4,6 Disorder
+
+5 .
+
+
+Right L4 - 5 transverse process fracture ( Neurosurgery had been consulted with regards to this injury .
+4,6 Disorder
+
+They recommended a TLSO brace times one month ) .
+
+
+6 . Right sacral fracture and right iliac bone fracture .
+3,4 Disorder|7,9 Disorder
+
+7 . Perineal injury requiring a diverting colostomy and perineal washout .
+2,3 Disorder
+
+DISCHARGE DIAGNOSIS :
+
+
+1 . Status post motor vehicle crash with the injuries as above .
+9,9 Disorder
+
+2 . Pseudomonas sputum culture , multiorganism .
+
+
+3 . Osteomyelitis of the right pelvis and deep tissue infection .
+2,2 Disorder|8,10 Disorder
+
+4 . Extended ventilatory wean secondary to multiple operations .
+
+
+DISCHARGE MEDICATIONS :
+
+
+1 . Vancomycin 2 grams IV q . 12 hours .
+
+
+2 . Meropenem 2 grams IV q . eight .
+
+
+3 . Clindamycin 600 mg IV q . eight .
+
+
+4 . Lovenox 40 mg subcutaneously q . d .
+
+
+5 . Albuterol and Atrovent inhalers one to two puffs q . four hours p . r . n .
+
+
+6 . Zinc sulfate 220 mg p . o . q . d .
+
+
+7 . Ativan 1 mg IV q . six hours .
+
+
+8 . Methadone 20 mg b . i . d .
+
+
+9 . Nystatin swish and swallow q . i . d . p . r . n .
+
+
+10 . Miconazole powder applied as needed .
+
+
+11 . Tylenol 650 mg p . o . q . four to six hours p . r . n .
+
+
+12 . Bacitracin ointment , apply as needed .
+
+
+DISPOSITION : The patient remains neurologically intact , is ready for rehabilitation .
+
+
+She will require extensive physical therapy and occupational therapy .
+
+
+She will continue to have wound monitoring and final recommendations will be placed with her discharge information per Plastics and Hand
+5,5 Disorder
+
+Orthopedic Team .
+
+
+She will require continued nutritional support and as she tolerates her diet , her tube feeds can be weaned and adjusted as necessary .
+
+
+She will continue her antibiotic course and final recommendations will be left per her Infectious Disease consultation and a PICC line will be assessed and placed if necessary .
+
+
+CONDITION ON DISCHARGE : Stable .
+
+
+[ * * First Name11 ( Name Pattern1 ) * * ] [ * * Initials ( NamePattern4 ) * * ] [ * * Last Name ( NamePattern4 ) * * ] , M . D . [ * * MD Number 165** ]
+
+
+Dictated By : [ * * Dictator Info 5082** ]
+
+
+MEDQUIST36
+
+
+D : [ * * 2016 - 09 - 06** ] 05 : 06
+
+
+T : [ * * 2016 - 09 - 06** ] 17 : 27
+
+
+JOB# : [ * * Job Number 5083** ]
+
+
+Signed electronically by : DR . [ * * First Name8 ( NamePattern2 ) * * ] [ * * Last Name ( NamePattern1 ) * * ] on : FRI [ * * 2016 - 09 - 23** ] 2 : 02 PM
+
+
+( End of Report )
+
+
+3873 |||| 19791 |||| 19646 |||| DISCHARGE_SUMMARY |||| 2019 - 01 - 31 00 : 00 : 00 . 0 |||| |||| |||| ||||
+
+
+Admission Date : [ * * 2019 - 01 - 19** ] Discharge Date : [ * * 2019 - 01 - 31** ]
+
+
+Date of Birth : [ * * 1963 - 08 - 10** ] Sex : F
+
+
+Service : SURGERY
+
+
+Allergies :
+
+
+Sulfa ( Sulfonamides )
+
+
+Attending : [ * * Attending Info 2145** ]
+
+
+Chief Complaint :
+
+
+Abdominal Pain
+0,1 Disorder
+
+Jaundice
+0,0 Disorder
+
+Nausea / Vomiting
+0,0 Disorder|2,2 Disorder
+
+Major Surgical or Invasive Procedure :
+
+
+Small Bowel Resection ; IOUS
+
+
+Roux - en - Y Cholecysto - jejunostomy
+
+
+Pseudocyst - Jejunosotmy
+
+
+J - tube Placement
+
+
+History of Present Illness :
+
+
+This 55 - year - old lady has a history of chronic alcoholic - induced pancreatitis .
+11,15 Disorder
+
+She has had a pseudocyst problem in the past that resolved over time and has previously had an open J tube placement in the last year for malnutrition during this period .
+4,4 Disorder|27,27 Disorder
+
+She recently presented with overt jaundice from bile duct obstruction and a history of many weeks of decline .
+5,5 Disorder|7,9 Disorder
+
+She has only lost 4 pounds over this period of time , but has been malnourished and unable to eat regular foods and has sustained herself only on liquids because of gastric outlet obstruction .
+15,15 Disorder|31,33 Disorder
+
+She was transferred to our care for assessment of her biliary obstruction and thoughts of therapeutic approaches to this and the large pseudocyst that was identified that was on the order of 10 x 10 cm in her mid - abdomen .
+10,11 Disorder|22,22 Disorder
+
+When we assessed her CAT scan , it was clear that she had three problems .
+
+
+1 . Biliary obstruction from an obstructed bile duct .
+2,3 Disorder|6,8 Disorder
+
+2 . Gastric outlet obstruction from the duodenum being splayed across this large pseudocyst in the head of the pancreas .
+2,4 Disorder|13,13 Disorder
+
+3 . Sinistral hypertension from her pseudocyst as well .
+2,3 Disorder|6,6 Disorder
+
+It was clear that the whole upper abdomen was full of massive venous collaterals in that in fact the superior mesenteric vein drained into the splenic vein in order to drain her bowels .
+12,13 Disorder
+
+The interface between the lower aspect of the portal vein and the superior mesenteric vein was completely splayed out and attenuated and probably thrombosed by the pseudocyst mass effect .
+23,23 Disorder|26,26 Disorder
+
+With Dr . [ * * First Name ( STitle ) * * ] [ * * Name ( STitle ) 1453** ] , we decided that there was no value in any endoscopic approaches to either the pseudocyst or the biliary obstruction and it was clear that an operative approach was the safest and only way to approach this .
+38,38 Disorder|41,42 Disorder
+
+Past Medical History :
+
+
+Alcoholic pancreatitis , hyperlipidemia , EtOH abuse ( last drink 10 days ago ) , h / o regional thrombosis , cirrhosis , glaucoma PSH : J - tube ( removed [ * * 08 - 07** ] ) , C - section x2 , tonsillectomy
+0,1 Disorder|3,3 Disorder|5,6 Disorder|19,19 Disorder|21,21 Disorder|23,23 Disorder
+
+Social History :
+
+
+No tobacco
+
+
+Last drink [ * * 2019 - 01 - 09** ]
+
+
+Lives with Husband , 2 boys , and her mother
+
+
+[ * * Name ( NI ) 2614** ] as consultant
+
+
+Family History :
+
+
+Father with bladder CA
+2,3 Disorder
+
+family HTN in f
+1,1 Disorder
+
+Physical Exam :
+
+
+VS : 100 . 6 , 85 , 140 / 80 , 18 , 96 % RA
+
+
+Gen : fatigued appearing , thin woman , NAD . Jaundice , Scleral icteric
+2,2 Disorder|8,8 Disorder|10,10 Disorder|13,13 Disorder
+
+Chest : CTA bilat .
+
+
+CV : RRR , normal S1 , S2 . No M / R / G .
+10,10 Disorder|12,12 Disorder|14,14 Disorder
+
+Abd : soft , ND , + BS , TTP over epigastrim , no ascities .
+0,0,4,4 Disorder|0,0,2,2 Disorder|14,14 Disorder
+
+Ext : 2 + DP pulses , warm , no C / C / E
+10,10 Disorder|12,12 Disorder|14,14 Disorder
+
+Pertinent Results :
+
+
+[ * * 2019 - 01 - 24** ] 02 : 43AM BLOOD WBC - 10 . 3 RBC - 3 . 85* Hgb - 11 . 5* Hct - 34 . 0* MCV - 88 MCH - 29 . 8 MCHC - 33 . 7 RDW - 15 . 5 Plt Ct - 389
+
+
+[ * * 2019 - 01 - 24** ] 02 : 43AM BLOOD Glucose - 156* UreaN - 3* Creat - 0 . 6 Na - 138 K - 4 . 5 Cl - 105 HCO3 - 25 AnGap - 13
+
+
+[ * * 2019 - 01 - 19** ] 09 : 45PM BLOOD ALT - 83* AST - 55* AlkPhos - 611* Amylase - 58 TotBili - 12 . 5* DirBili - 9 . 4* IndBili - 3 . 1
+
+
+[ * * 2019 - 01 - 23** ] 08 : 28PM BLOOD ALT - 43* AST - 54* AlkPhos - 311* Amylase - 26 TotBili - 10 . 1*
+
+
+[ * * 2019 - 01 - 24** ] 02 : 43AM BLOOD Phos - 4 . 5 Mg - 1 . 7
+
+
+CHEST PORT . LINE PLACEMENT [ * * 2019 - 01 - 24** ] 11 : 00 AM
+
+
+CHEST PORT . LINE PLACEMENT
+
+
+Reason : ? line position
+
+
+UNDERLYING MEDICAL CONDITION :
+
+
+55 year old woman with cholecystojeje and pancreatic pseudocyst jeje with new RIJ cvl
+7,8 Disorder
+
+REASON FOR THIS EXAMINATION :
+
+
+? line position
+
+
+AP PORTABLE CHEST FOR LINE PLACEMENT ON [ * * 2019 - 01 - 24** ] AT 10 : 55 A . M .
+
+
+HISTORY : New right internal jugular approach central venous catheter .
+
+
+COMPARISON : [ * * 2019 - 01 - 23** ] .
+
+
+FINDINGS : Patient has been extubated and the nasogastric tube removed .
+
+
+The large right internal jugular sheath has been removed as well .
+
+
+There is an indwelling right internal jugular approach central line with the distal tip at the cavoatrial junction .
+
+
+Lung volumes are markedly diminished , however , there is no focal consolidation .
+0,0,12,12 Disorder|0,1 Disorder
+
+Minimal left basilar atelectasis is seen .
+3,3 Disorder
+
+No pleural effusion or pneumothorax is evident .
+1,2 Disorder|4,4 Disorder
+
+There is residual contrast within the colon .
+2,3 Disorder
+
+Midline surgical skin staples are seen overlying the abdomen .
+
+
+IMPRESSION : Central venous catheter as above . No pneumothorax .
+9,9 Disorder
+
+Brief Hospital Course :
+
+
+She was transferred here from an OSH with a larger pancreatic pseudocyst .
+10,11 Disorder
+
+After reviewing the CT from the OSH , it was determined that she will need a biliary drainage .
+
+
+An ERCP was considered , but then felt that there was no value in any endoscopic approaches to either the pseudocyst or the biliary obstruction and it was clear that an operative approach was the safest and only way to approach
+20,20 Disorder|23,24 Disorder
+
+this .
+
+
+She was NPO , with an NGT and IV fluids .
+
+
+She was receiving a Banana Bag for electrolyte replacement .
+
+
+She was receiving IV antibiotics empirically .
+
+
+She received 2 days of vitamin K prior to the OR .
+
+
+_
+
+
+_
+
+
+_
+
+
+_
+
+
+_
+
+
+_
+
+
+_
+
+
+_
+
+
+_
+
+
+_
+
+
+_
+
+
+_
+
+
+_
+
+
+_
+
+
+_
+
+
+_
+
+
+_
+
+
+_
+
+
+_
+
+
+_
+
+
+_
+
+
+________________________________________________________________
+
+
+She went to the OR on [ * * 2019 - 01 - 23** ] .
+
+
+She tolerated the procedure well .
+
+
+She had a feeding J - tube placed and Cyst J - tube to gravity .
+
+
+She remained intubated overnight and was extubated in the morning .
+
+
+She was slightly hypotensive post - operatively and responded well to IV fluids .
+3,3 Disorder
+
+Pain : She was receiving Dilaudid for pain control with good effect .
+0,0 Disorder|7,7 Disorder
+
+She continued on a PCA until she was tolerating clears and then switched to PO pain meds on POD 6 .
+
+
+FEN : She initially was NPO , with IV fluids .
+
+
+She was started on tube feedings at a slow rate and her rate was increased over the next few days .
+
+
+She was started on sips on POD 4 and advanced to clears , then fulls and a regular diet on POD 8 .
+
+
+She had a feeding J - tube in place and was tolerating 1 / 2 strength tube feedings .
+
+
+The feedings were stopped on POD 9 .
+
+
+Abd : She had an ascitic abdomen that was very large , round , and soft .
+5,5 Disorder|6,6,15,15 Disorder
+
+The JP drain in the RLQ was draining large amounts of sero - sanguinous fluid .
+
+
+A JP Amylase was 4 on POD 5 .
+
+
+The drain was D / C 'd on POD 7 and a U - stitch placed .
+
+
+She was appropriately tender with good bowel sounds .
+
+
+The staples were in place .
+
+
+These were left in place due to her abdominal distension .
+8,9 Disorder
+
+The staples will be removed at her follow - up appointment .
+
+
+She had a Cyst J - tube to gravity that drained initially , but there was no drainage by POD 4 . The J - tube was capped and will remain in place .
+
+
+Activity : She was seen by PT and performed stairs without difficulty . She was cleared to go home .
+
+
+Medications on Admission :
+
+
+Cosopt 1 gtt each [ * * Hospital Unit Name 151** ] bid
+
+
+Discharge Medications :
+
+
+1 . Docusate Sodium 100 mg Capsule Sig : One ( 1 ) Capsule PO BID ( 2 times a day ) . Disp : * 60 Capsule ( s ) * Refills : * 2*
+
+
+2 . Hydromorphone 2 mg Tablet Sig : 1 - 2 Tablets PO Q4 - 6H ( every 4 to 6 hours ) as needed for 4 weeks . Disp : * 50 Tablet ( s ) * Refills : * 0*
+
+
+3 . Pantoprazole 40 mg Tablet , Delayed Release ( E . C . ) Sig : One ( 1 ) Tablet , Delayed Release ( E . C . ) PO once a day .
+
+
+Disp : * 30 Tablet , Delayed Release ( E . C . ) ( s ) * Refills : * 2*
+
+
+Discharge Disposition :
+
+
+Home with Service
+
+
+Discharge Diagnosis :
+
+
+Abdominal Pain
+0,1 Disorder
+
+Jaundice
+0,0 Disorder
+
+Pancreatic Pseudocyst HOP
+0,1 Disorder
+
+Biliary Obstruction
+0,1 Disorder
+
+Portal Hypertension
+0,1 Disorder
+
+Ascities
+0,0 Disorder
+
+Discharge Condition :
+
+
+Good
+
+
+Discharge Instructions :
+
+
+You should contact your MD if you experience : * Increasing pain
+11,11 Disorder
+
+* Fever ( > 101 . 5 F )
+1,1 Disorder
+
+* Inability to eat or persistent vomiting
+1,3 Disorder|5,6 Disorder
+
+* Inability to pass gas or stool
+1,3,6,6 Disorder|1,4 Disorder
+
+* Increasing shortness of breath
+2,4 Disorder
+
+* Chest pain
+1,2 Disorder
+
+Please resume all of your regular medications and take any new meds as ordered .
+
+
+Continue to ambulate several times per day .
+
+
+Staples to be removed at follow - up appointment .
+
+
+Followup Instructions :
+
+
+Please follow - up with Dr . [ * * Last Name ( STitle ) * * ] in 3 weeks . Call ( [ * * Telephone / Fax ( 2 ) 2157** ] to schedule an appointment .
+
+
+Please follow - up with Dr . [ * * Last Name ( STitle ) 1443** ] ( Pancreatologist ) . Call ( [ * * Telephone / Fax ( 2 ) 4841** ] to schedule an appointment .
+
+
+[ * * First Name11 ( Name Pattern1 ) * * ] [ * * Name7 ( MD ) 2158** ] MD [ * * MD Number 2159** ]
+
+
+Completed by : [ * * First Name11 ( Name Pattern1 ) * * ] [ * * Name7 ( MD ) 2461** ] NP 80 - CBX [ * * 2019 - 01 - 31** ] @ 1131
+
+
+Signed electronically by : DR . [ * * First Name8 ( NamePattern2 ) * * ] [ * * Last Name ( NamePattern1 ) * * ] on : FRI [ * * 2019 - 02 - 01** ] 9 : 18 AM
+
+
+( End of Report )
+
+
+103427 |||| 20223 |||| 5893 |||| ECHO_REPORT |||| 2014 - 03 - 28 00 : 00 : 00 . 0 |||| ||||
+
+
+PATIENT / TEST INFORMATION :
+
+
+Indication : Shortness of breath .
+2,4 Disorder
+
+Height : ( in ) 67
+
+
+Weight ( lb ) : 165
+
+
+BSA ( m2 ) : 1 . 87 m2
+
+
+BP ( mm Hg ) : 160 / 80
+
+
+HR ( bpm ) : 74
+
+
+Status : Inpatient
+
+
+Date / Time : [ * * 2014 - 03 - 28** ] at 12 : 54
+
+
+Test : Portable TTE ( Complete )
+
+
+Doppler : Full doppler and color doppler
+
+
+Contrast : Saline
+
+
+Technical Quality : Adequate
+
+
+|||| ||||
+
+
+INTERPRETATION :
+
+
+Findings :
+
+
+LEFT ATRIUM : Moderate LA enlargement .
+4,5 Disorder
+
+RIGHT ATRIUM / INTERATRIAL SEPTUM : Normal RA size .
+
+
+LEFT VENTRICLE : Normal LV wall thickness .
+
+
+Normal LV cavity size .
+
+
+Suboptimal technical quality , a focal LV wall motion abnormality cannot be fully excluded .
+6,9 Disorder
+
+Overall normal LVEF ( > 55 % ) .
+
+
+RIGHT VENTRICLE : Normal RV wall thickness . Normal RV chamber size . Normal RV systolic function .
+
+
+AORTA : Mildly dilated aortic root . Normal ascending aorta diameter . Normal aortic arch diameter .
+3,5 Disorder
+
+AORTIC VALVE : Mildly thickened aortic valve leaflets ( 3 ) .
+4,4 Disorder
+
+MITRAL VALVE : Mild mitral annular calcification . Mild ( 1 + ) MR .
+4,6 Disorder|13,13 Disorder
+
+TRICUSPID VALVE : Physiologic TR . Indeterminate PA systolic pressure .
+4,4 Disorder|7,9 Disorder
+
+PERICARDIUM : No pericardial effusion .
+3,4 Disorder
+
+GENERAL COMMENTS : Suboptimal image quality .
+
+
+Conclusions :
+
+
+1 . The left atrium is moderately dilated .
+3,4,7,7 Disorder
+
+2 .
+
+
+Left ventricular wall thicknesses are normal .
+
+
+The left ventricular cavity size is normal .
+
+
+Due to suboptimal technical quality , a focal wall motion abnormality cannot be fully excluded .
+8,10 Disorder
+
+Overall left ventricular systolic function is normal ( LVEF > 55 % ) .
+
+
+3 . Right ventricular chamber size is normal . Right ventricular systolic function is normal .
+
+
+4 . The aortic root is mildly dilated .
+3,4,7,7 Disorder
+
+5 . The aortic valve leaflets ( 3 ) are mildly thickened . No aortic regurgitation present .
+11,11 Disorder|14,15 Disorder
+
+6 . Mild mitral valve thickness . Mild ( 1 + ) mitral regurgitation is seen .
+5,5 Disorder|12,13 Disorder
+
+7 . The pulmonary artery systolic pressure could not be determined . 8 . There is no pericardial effusion .
+3,6 Disorder|17,18 Disorder
+
+23289 |||| 20442 |||| 1075 |||| DISCHARGE_SUMMARY |||| 2013 - 07 - 15 00 : 00 : 00 . 0 |||| |||| |||| ||||
+
+
+Admission Date : [ * * 2013 - 07 - 08** ] Discharge Date : [ * * 2013 - 07 - 15** ]
+
+
+Date of Birth : [ * * 1937 - 09 - 12** ] Sex : M
+
+
+Service : CSU
+
+
+CHIEF COMPLAINT : This is a 75 - year - old male patient of [ * * firstname * * ] . [ * * First Name8 ( NamePattern2 ) * * ] [ * * Last Name ( NamePattern1 ) * * ] and [ * * firstname * * ] . [ * * First Name8 ( NamePattern2 ) 517** ] [ * * Name ( STitle ) 224** ] referred for an outpatient cardiac catheterization due to an abnormal stress echocardiogram .
+81,83 Disorder
+
+HISTORY OF PRESENT ILLNESS : In [ * * 2011 - 12 - 02** ] , PTA with stenting ,
+
+
+[ * * 2012 - 12 - 07** ] diffuse instent restenosis of RSFA stent status post PTA of entire right SFA and a placement of a new stent . On
+11,11 Disorder
+
+[ * * 2013 - 04 - 10** ] status post left SFA stent placement and right SFA stent placement .
+
+
+Patient has a history of a silent MI approximately seven years .
+6,7 Disorder
+
+For 4 - 6 weeks prior to admission , he had been experiencing symptoms of heartburn with activity and anxiety .
+15,15 Disorder|19,19 Disorder
+
+A GI workup initially revealed a stomach polyp and an esophageal polyp , which was biopsied and found negative .
+6,7 Disorder|10,11 Disorder
+
+Dobutamine stress echocardiogram on [ * * 2013 - 07 - 03** ] was positive for chest pain and EKG changes .
+16,17 Disorder|19,20 Disorder
+
+Echocardiogram revealed an EF of 50 percent , posterior basilar akinesis , aortic sclerosis , no AI , thickened mitral valve , mild MR , concentric left ventricular hypertrophy , mild - to - moderate TR , mild pulmonary hypertension , whose exercise imaging revealed mid to apical and inferior apical marked hypokinesis consistent with LAD stenosis .
+10,10 Disorder|12,13 Disorder|16,16 Disorder|18,18 Disorder|23,23 Disorder|26,28 Disorder|35,35 Disorder|38,39 Disorder|52,52 Disorder|56,56 Disorder
+
+Patient was then referred for cardiac catheterization , which he underwent on [ * * 2013 - 07 - 08** ] .
+
+
+The catheterization revealed normal left main with LAD 80 percent occlusion at the origin , 80 percent mid occlusion , left circumflex occluded after a large OM - 1 with a 70 percent .
+10,10 Disorder|18,18 Disorder|22,22 Disorder
+
+OM - 2 fills by collaterals and RCA occluded .
+7,8 Disorder
+
+At that time , the patient was referred for coronary artery bypass grafting by [ * * firstname * * ] . [ * * First Name4 ( NamePattern1 ) 458** ] [ * * Last Name ( NamePattern1 ) 457** ] .
+
+
+PAST MEDICAL HISTORY : GERD .
+4,4 Disorder
+
+Silent MI seven years .
+0,1 Disorder
+
+Status post prostate cancer treated with radiation treatment .
+2,3 Disorder
+
+PVD status post right and left SFA stenting .
+0,0 Disorder
+
+Stomach polyp .
+0,1 Disorder
+
+ALLERGIES : Latex .
+
+
+MEDICATIONS AT HOME :
+
+
+1 . Zestril 40 mg q . d .
+
+
+2 . Plavix 70 mg q . d .
+
+
+3 . Aspirin 325 mg q . d .
+
+
+4 . Ranitidine 150 mg b . i . d .
+
+
+5 . Lasix 5 mg q Monday and Thursday .
+
+
+6 . Prilosec 40 mg b . i . d .
+
+
+7 . Folic acid 1 . 6 mg daily .
+
+
+8 . Multivitamin daily .
+
+
+9 . Flomax 0 . 4 mg daily .
+
+
+10 . Norvasc 2 . 5 mg q Monday , Wednesday , and Friday , and 5 mg q Tuesdays , Thursdays , and Saturdays .
+
+
+11 . Lipitor 5 mg daily .
+
+
+12 . Fish oil 1000 mg daily .
+
+
+13 . Lorazepam prn for anxiety .
+5,5 Disorder
+
+14 . Cranberry capsules 405 mg q . h . s .
+
+
+PHYSICAL EXAMINATION ON ADMISSION : Heart rate 88 , blood pressure 110 / 63 . General : Alert and oriented times three .
+
+
+Head is normocephalic , atraumatic . Neck is supple , no bruits . Chest was clear to auscultation bilaterally .
+11,11 Disorder
+
+Cardiac : Regular , rate , and rhythm , normal S1 , S2 .
+
+
+Abdomen is soft , nontender , nondistended .
+0,0,6,6 Disorder|0,0,4,4 Disorder|0,0,2,2 Disorder
+
+Neurologic : Grossly intact .
+
+
+Pulses : 2 plus bilateral radial , 2 plus left femoral , and 1 plus right dorsalis pedis .
+
+
+LABORATORY DATA AT DISCHARGE : WBC 4 . 9 , hematocrit 30 . 0 , platelets 184 , BUN 18 , creatinine 1 . 3 .
+
+
+Chest x - ray from day of discharge pending .
+
+
+SUMMARY OF HOSPITAL COURSE : The patient was admitted on
+
+
+[ * * 2013 - 07 - 08** ] for cardiac catheterization , and was subsequently referred for coronary artery bypass grafting .
+
+
+He went to the operating room under the care of [ * * firstname * * ] . [ * * First Name4 ( NamePattern1 ) 458** ] [ * * Last Name ( NamePattern1 ) 457** ] on [ * * 2013 - 07 - 09** ] .
+
+
+He underwent a CABG x5 with a LIMA to the LAD and saphenous vein grafting to D1 , OM , ramus , and PDA .
+
+
+His OR course was uneventful with a cross - clamp time of 89 minutes and a bypass time of 106 minutes .
+
+
+He left the operating room , and was transferred to the
+
+
+Cardiac Surgery Recovery Unit on Levophed and propofol drips .
+
+
+He was extubated on the evening of the surgery .
+
+
+He was transferred to the inpatient floor on postoperative day one .
+
+
+On postoperative day two , his chest tubes and wires were
+
+
+D / C 'd . He was followed throughout his hospital course by
+
+
+Physical Therapy and on [ * * 07 - 14** ] , was found to have a safe level for discharge home with use of a cane , and was referred to outpatient cardiac rehab .
+
+
+DISCHARGE CONDITION : T max 100 , pulse 81 in sinus rhythm , blood pressure 125 / 70 , respiratory rate 18 , on room air oxygen saturation 100 percent .
+
+
+Neurologic : Awake , alert , and oriented times three .
+
+
+Cardiac : Regular , rate , and rhythm .
+
+
+No murmurs , rubs , or gallops .
+1,1 Disorder|3,3 Disorder|6,6 Disorder
+
+Respiratory : Lungs sounds are clear bilaterally .
+
+
+GI : Positive bowel sounds .
+
+
+Abdomen is soft , nontender , nondistended . Incisions :
+0,0,6,6 Disorder|0,0,4,4 Disorder|0,0,2,2 Disorder
+
+Sternal incision with staples intact , open to air , and no drainage . Right lower extremity harvest site with Steri -
+1,1 Disorder
+
+Strips intact and open to air .
+
+
+DISCHARGE STATUS : The patient will be discharged home today , [ * * 2013 - 07 - 15** ] in stable condition with visiting nurse to follow .
+
+
+DISCHARGE DIAGNOSIS : Coronary artery disease status post coronary artery bypass graft times five .
+3,5 Disorder
+
+DISCHARGE MEDICATIONS :
+
+
+1 . Lasix 20 mg p . o . q . d . for seven days .
+
+
+2 . Potassium chloride 20 mEq p . o . q . d . for seven days .
+
+
+3 . Aspirin 325 mg p . o . q . d .
+
+
+4 . Plavix 75 mg p . o . q . d .
+
+
+5 . Colace 100 mg p . o . b . i . d .
+
+
+6 . Flomax 0 . 4 mg q . d .
+
+
+7 . Lopressor 25 mg p . o . b . i . d .
+
+
+8 . Lipitor 5 mg p . o . q . d .
+
+
+9 . Percocet 5 / 325 mg 1 - 2 tablets p . o . q . 4 - 6h . prn .
+
+
+FOLLOW - UP PLANS : Follow up with [ * * firstname * * ] . [ * * First Name4 ( NamePattern1 ) 458** ] [ * * Last Name ( NamePattern1 ) 457** ] in approximately four weeks and cardiologist , [ * * firstname * * ] . [ * * First Name8 ( NamePattern2 ) 517** ] [ * * Name ( STitle ) 224** ] in 1 - 2 weeks .
+
+
+Follow up [ * * firstname * * ] . [ * * Last Name ( STitle ) 1623** ] in 1 - 2 weeks .
+
+
+Visiting nurses will also follow patient as an outpatient .
+
+
+[ * * First Name11 ( Name Pattern1 ) 458** ] [ * * Name7 ( MD ) 459** ] , [ * * State / Zipcode 460** ]
+
+
+Dictated By : [ * * Dictator Info 1624** ]
+
+
+MEDQUIST36
+
+
+D : [ * * 2013 - 07 - 15** ] 11 : 16 : 09
+
+
+T : [ * * 2013 - 07 - 15** ] 11 : 38 : 46
+
+
+Job# : [ * * Job Number 1625** ]
+
+
+Signed electronically by : [ * * firstname * * ] . [ * * First Name4 ( NamePattern1 ) * * ] [ * * Last Name ( NamePattern1 ) * * ] on : MON [ * * 2013 - 07 - 15** ] 12 : 10 PM
+
+
+( End of Report )
+
+
+101632 |||| 21115 |||| 27449 |||| ECHO_REPORT |||| 2018 - 06 - 08 00 : 00 : 00 . 0 |||| ||||
+
+
+PATIENT / TEST INFORMATION :
+
+
+Indication : Hypertrophic cardiomyopathy . Left ventricular function . Height : ( in ) 72
+2,3 Disorder|5,7 Disorder
+
+Weight ( lb ) : 180
+
+
+BSA ( m2 ) : 2 . 04 m2
+
+
+BP ( mm Hg ) : 105 / 61
+
+
+HR ( bpm ) : 113
+
+
+Status : Inpatient
+
+
+Date / Time : [ * * 2018 - 06 - 08** ] at 13 : 43
+
+
+Test : Portable TTE ( Complete )
+
+
+Doppler : Full Doppler and color Doppler
+
+
+Contrast : None
+
+
+Technical Quality : Adequate
+
+
+|||| ||||
+
+
+INTERPRETATION :
+
+
+Findings :
+
+
+This study was compared to the prior study of [ * * 2018 - 06 - 04** ] .
+
+
+LEFT ATRIUM : Moderate LA enlargement .
+4,5 Disorder
+
+RIGHT ATRIUM / INTERATRIAL SEPTUM : Mildly dilated RA .
+7,8 Disorder
+
+A catheter or pacing wire is seen in the RA and extending into the RV .
+
+
+Dilated IVC ( > 2 , 5cm ) with <50 % decrease during respiration ( estimated RAP 16 - 20 mmHg ) .
+0,0 Disorder
+
+LEFT VENTRICLE : Severe symmetric LVH .
+5,5 Disorder
+
+Severely depressed LVEF . [ Intrinsic LV systolic function likely depressed given the severity of valvular regurgitation . ] No resting LVOT gradient .
+1,2 Disorder|6,8,10,10 Disorder|15,16 Disorder|20,22 Disorder
+
+RIGHT VENTRICLE : RV hypertrophy .
+3,4 Disorder
+
+Dilated RV cavity .
+0,1 Disorder
+
+Severe global RV free wall hypokinesis . [ Intrinsic RV systolic function likely more depressed given the severity of TR ] .
+5,5 Disorder|9,11,14,14 Disorder|19,19 Disorder
+
+AORTA : Normal aortic diameter at the sinus level . Normal ascending aorta diameter .
+
+
+AORTIC VALVE : Mildly thickened aortic valve leaflets ( 3 ) . No AR .
+4,4 Disorder|13,13 Disorder
+
+MITRAL VALVE : Mildly thickened mitral valve leaflets .
+4,5,7,7 Disorder
+
+Moderate ( 2 + ) MR .
+5,5 Disorder
+
+LV inflow pattern c / w restrictive filling abnormality , with elevated LA pressure .
+6,8 Disorder|11,13 Disorder
+
+TRICUSPID VALVE : Moderate [ 2 + ] TR . Moderate PA systolic hypertension .
+8,8 Disorder|12,13 Disorder
+
+PULMONIC VALVE / PULMONARY ARTERY : Pulmonic valve not well seen .
+
+
+PERICARDIUM : Trivial / physiologic pericardial effusion .
+5,6 Disorder
+
+Conclusions :
+
+
+The left atrium is moderately dilated .
+1,2,5,5 Disorder
+
+The estimated right atrial pressure is 16 - 20 mmHg .
+
+
+There is severe symmetric left ventricular hypertrophy .
+4,6 Disorder
+
+Overall left ventricular systolic function is severely depressed . [ Intrinsic left ventricular systolic function is likely more depressed given the severity of valvular regurgitation . ] The right ventricular free wall is hypertrophied .
+1,4,7,7 Disorder|11,14,18,18 Disorder|23,24 Disorder|28,29,33,33 Disorder
+
+The right ventricular cavity is dilated .
+1,2,5,5 Disorder
+
+There is severe global right ventricular free wall hypokinesis . [ Intrinsic right ventricular systolic function is likely more depressed given the severity of tricuspid regurgitation . ] The aortic valve leaflets ( 3 ) are mildly thickened .
+8,8 Disorder|12,15,19,19 Disorder|24,25 Disorder|37,37 Disorder
+
+No aortic regurgitation is seen .
+1,2 Disorder
+
+The mitral valve leaflets are mildly thickened .
+1,1,3,3,6,6 Disorder
+
+Moderate ( 2 + ) mitral regurgitation is seen .
+5,6 Disorder
+
+The left ventricular inflow pattern suggests a restrictive filling abnormality , with elevated left atrial pressure .
+7,9 Disorder|12,15 Disorder
+
+Moderate [ 2 + ] tricuspid regurgitation is seen .
+5,6 Disorder
+
+There is moderate pulmonary artery systolic hypertension .
+5,6 Disorder
+
+There is a trivial / physiologic pericardial effusion .
+6,7 Disorder
+
+Compared with the prior study ( images reviewed ) of [ * * 2018 - 06 - 04** ] , left ventricular systolic function appears more depressed .
+20,23,26,26 Disorder
+
+40122 |||| 22230 |||| 17644 |||| ECG_REPORT |||| 2018 - 01 - 25 17 : 22 : 00 . 0 |||| |||| |||| ||||
+
+
+Sinus rhythm . Left axis deviation . Left ventricular hypertrophy . Diffuse non - specific ST - T wave changes . Compared to the previous tracing left ventricular hypertrophy and diffuse ST - T wave changes are new . TRACING # 1
+0,1 Disorder|3,5 Disorder|7,9 Disorder|12,19 Disorder|26,28 Disorder|31,35 Disorder
+
+78076 |||| 23039 |||| 23211 |||| ECG_REPORT |||| 2018 - 03 - 05 08 : 06 : 00 . 0 |||| |||| |||| ||||
+
+
+Sinus rhythm . Prolonged QTc interval . Compared to the previous tracing of [ * * 2018 - 03 - 04** ] the QTc interval has increased . Clinical correlation is suggested .
+0,1 Disorder|3,5 Disorder|23,24 Disorder
+
+TRACING 32
+
+
+17830 |||| 23590 |||| 17919 |||| DISCHARGE_SUMMARY |||| 2010 - 11 - 16 00 : 00 : 00 . 0 |||| |||| |||| ||||
+
+
+Admission Date : [ * * 2010 - 11 - 12** ] Discharge Date : [ * * 2010 - 11 - 16** ]
+
+
+Date of Birth : [ * * 1929 - 03 - 04** ] Sex : F
+
+
+Service :
+
+
+ADDENDUM :
+
+
+The patient 's dry weight is 77 kilograms .
+
+
+The patient was noted to have positive urinalysis with positive nitrates , positive leukocyte esterase and 712 white blood cells with moderate bacteria on [ * * 2010 - 11 - 16** ] .
+6,7 Disorder|9,10 Disorder|12,14 Disorder|17,20,22,22 Disorder
+
+She was started on
+
+
+Ciprofloxacin 500 mg p . o . b . i . d . to complete a seven day course .
+
+
+DISCHARGE MEDICATIONS : To be addended on this discharge summary will include
+
+
+1 . Lasix 20 mg p . o . b . i . d .
+
+
+2 . Ciprofloxacin 500 mg p . o . b . i . d . to complete a seven day course with [ * * 11 - 16** ] being the first day .
+
+
+3 . Also the patient was discharged on Zestril 20 mg p . o . q . d . rather than Captopril 37 . 5 mg p . o . t . i . d . The Captopril was discontinued .
+
+
+The culture and sensitivities of the urine will be followed up by Dr . [ * * Last Name ( STitle ) * * ] and called into the rehab facility .
+
+
+[ * * First Name11 ( Name Pattern1 ) * * ] [ * * Initials ( NamePattern4 ) * * ] [ * * Last Name ( NamePattern4 ) 458** ] , M . D . [ * * MD Number 1697** ]
+
+
+Dictated By : [ * * Dictator Info 5516** ]
+
+
+MEDQUIST36
+
+
+D : [ * * 2010 - 11 - 16** ] 14 : 48
+
+
+T : [ * * 2010 - 11 - 16** ] 15 : 03
+
+
+JOB# : [ * * Job Number 5517** ]
+
+
+Signed electronically by : DR . [ * * First Name4 ( NamePattern1 ) * * ] [ * * Last Name ( NamePattern1 ) 458** ] on : [ * * Doctor First Name 32** ] [ * * 2010 - 11 - 25** ] 1 : 12 PM ( End of Report )
+
+
+299900 |||| 23969 |||| 25350 |||| RADIOLOGY_REPORT |||| 2018 - 07 - 02 15 : 36 : 00 . 0 |||| C11 CHEST ( PA & LAT ) |||| |||| Clip # 433 - 9253 Actual report ||||
+
+
+DATE : [ * * 2018 - 07 - 02** ] 3 : 36 PM
+
+
+CHEST ( PA & LAT ) [ * * Clip Number ( Radiology ) 1251** ] Reason : Evaluate for infiltrate / edema ______________________________________________________________________________
+20,20 Disorder|22,22 Disorder
+
+UNDERLYING MEDICAL CONDITION :
+
+
+62 year old woman with bilateral LE edema and fatigue REASON FOR THIS EXAMINATION : Evaluate for infiltrate / edema ______________________________________________________________________________
+6,7 Disorder|9,9 Disorder|17,17 Disorder|19,19 Disorder
+
+FINAL REPORT
+
+
+TWO VIEWS OF THE CHEST DATED [ * * 2018 - 07 - 02** ]
+
+
+HISTORY : 62 - year - old woman with bilateral lower extremity edema and fatigue ; evaluate for infiltrate or edema .
+10,12 Disorder|14,14 Disorder|18,18 Disorder|20,20 Disorder
+
+FINDINGS : Two views are compared with remote radiographs dated [ * * 2015 - 01 - 10** ] , as well as more recent CECT of the chest , dated [ * * 2018 - 02 - 01** ] .
+
+
+There is evidence of pulmonary hyperinflation and " simplification " suggestive of underlying obstructive airways disease , and the CT demonstrates relatively mild centrilobular emphysema .
+4,4,8,8 Disorder|4,5 Disorder|13,15 Disorder|23,24 Disorder
+
+Other than biapical pleural thickening , as before , the lungs are clear .
+3,4 Disorder
+
+The cardiomediastinal silhouette is within normal limits , and there is no pulmonary vascular congestion , pleural effusion , or other evidence of CHF .
+12,14 Disorder|16,17 Disorder|23,23 Disorder
+
+There is diffuse osteopenia , but no thoracic vertebral compression is identified .
+3,3 Disorder|8,9 Disorder
+
+IMPRESSION : Evidence of underlying obstructive lung disease , with no acute process .
+5,7 Disorder
+
+387055 |||| 26563 |||| 18146 |||| RADIOLOGY_REPORT |||| 2009 - 01 - 26 15 : 08 : 00 . 0 |||| C12 CHEST ( PORTABLE AP ) |||| |||| Clip # 282 - 0776 Actual report ||||
+
+
+DATE : [ * * 2009 - 01 - 26** ] 3 : 08 PM
+
+
+CHEST ( PORTABLE AP ) [ * * Clip Number ( Radiology ) 7881** ] Reason : r / o ptx , s / p aicd removal
+20,20 Disorder
+
+______________________________________________________________________________
+
+
+UNDERLYING MEDICAL CONDITION :
+
+
+57 year old man with pleural effusion .
+5,6 Disorder
+
+REASON FOR THIS EXAMINATION :
+
+
+r / o ptx , s / p aicd removal
+3,3 Disorder
+
+______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+INDICATION : 57 y / o male with pleural effusion , rule out pneumothorax , status post AICD removal .
+8,9 Disorder|13,13 Disorder
+
+FINDINGS : A single portable chest radiograph is compared with a portable study done earlier today .
+
+
+The right subclavian line is redemonstrated and in appropriate position .
+
+
+There is no evidence for pneumothorax .
+5,5 Disorder
+
+The AICD has been removed in the interim .
+
+
+The heart is mildly enlarged when adjusting for technique .
+1,1,4,4 Disorder
+
+There is evidence for mild pulmonary vascular redistribution .
+5,7 Disorder
+
+There has been interval increase in the size of the right pleural effusion .
+11,12 Disorder
+
+The patient is status post sternotomy .
+
+
+IMPRESSION : 1 ) Status post AICD removal without evidence for pneumothorax .
+11,11 Disorder
+
+2 ) Findings consistent with worsening CHF .
+6,6 Disorder
+
+3 ) Interval increase in the size of the right pleural effusion .
+10,11 Disorder
+

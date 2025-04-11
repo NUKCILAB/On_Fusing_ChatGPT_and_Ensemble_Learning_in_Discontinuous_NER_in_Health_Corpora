@@ -1,0 +1,114 @@
+9968	||||	6557	||||	25986	||||	DISCHARGE_SUMMARY	||||	2016-07-06 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2016-06-27**]              Discharge Date:   [**2016-07-06**]
+
+Date of Birth:  [**1935-02-18**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 236**] 
+Chief Complaint:
+Fever.
+
+Major Surgical or Invasive Procedure:
+None.
+
+History of Present Illness:
+81 yo M with h/o COPD, dementia, Parkinson's, schizophrenia,  who was BIBA from [**Female First Name (un) 393**] RIdge NH where he was found to be febrile to 102.8 today. Per report, the patient had T 102.8, P 100, BP 130/80, RR 24, O2 sat 90% RA. The patient needs assistance with ADLs, is combative and non-verbal at baseline.
+
+In the [**Doctor First Name **]: T 101.8; HR 130s; BP 120/92; RR 36; O2 sat 95% on 5L NC. Lactate 2.8. WBC 9.9. EKG wtih afib. CXR with multifocal opacities. Received Vanco, Levo, Flagyl. Blood cx drawn. Patient received Diltiazem 10 mg IV once.
+
+Past Medical History:
+1. COPD/emphysema
+2. A fib
+3. Parkinsons
+4. Osteomyelitis
+5. Schizophrenia
+
+Social History:
+Lives in the nursing home. At baseline, needs assistance with ADL. The rest of Social history is unknown.
+
+Family History:
+Unknown.
+
+Physical Exam:
+VS: 100.2 rectal; HR 121; BP 95/71; RR 33; O2sat 95% on 5L
+GENERAL: cachectic; combative; non-verbal
+HEENT: NC, AT, poor dentition
+Neck: No JVP
+CV: irregulary irregular; no m/r/g
+PULM: CTA bilaterally
+ABD: + BS, soft, NT, ND
+EXTR: no edema
+
+Pertinent Results:
+EKG: afib rate 128; no comparison available
+
+CXR: 1.  Multifocal airspace opacities, likely representing aspiration or aspiration pneumonia, given mostly dependent distribution.  Followup radiograph recommended in six weeks to document resolution.  2.  9-mm nodular opacity in the left upper lung zone, which may represent a lung nodule.  This can be further evaluated with concomitant PA and lateral views at the time of pneumonia followup.
+
+Brief Hospital Course:
+1. Aspiration pneumonia: 
+Initially treated for an aspiration pneumonia (Vanc/Zosyn).  His saturations improved and he was weaned off oxygen.  When the patient was made CMO, antibiotic were stopped and he was treated supportively.  
+
+2. Failure to thrive: 
+The patient was 43 kg on admission and dehydrated.  He had an NGT placed and was started on tube feeds given an inability to take any PO.  After the NG was pulled, an attempt was made to replace - the patient did not tolerate this.  Given his lack of quality of life and poor long-term prognosis, he was made comfort measures only.
+
+3. Atrial fibrillation: 
+Initially difficult to rate control, however, improved after hydration.  He was continued on outpatient digoxin and low dose diltiazem while NG was in place.  IV Lopressor was used after NG was pulled.  
+
+4.  [**Hospital Unit Name **]/Schizophrenia:  
+Continued on fluphenazine and benzotropine while NG was in place.  Later, for intermittent agitation, the patient was given zyprexa. 
+
+Medications on Admission:
+1. Benztropine Mesylate 0.5 mg PO BID  
+2. Carbidopa-Levodopa (10-100) 2 TAB PO TID  
+3. Prilosec bid  
+4. Multivitamins 1 CAP PO DAILY  
+5. Digoxin 0.125 mg PO DAILY  
+6. Senna 2 tabs qd  
+7. Colace  
+8. Fluphenazine 4 mg PO QHS  
+9. Compazine prn  
+10. MOM prn  
+11. Dulcolax prn  
+12. Tylenol  
+
+Discharge Medications:
+1. Olanzapine 5 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, Rapid Dissolve PO TID (3 times a day) as needed for agitation.  2. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed for fever, apparent discomfort.  
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**First Name4 (NamePattern1) 393**] [**Last Name (NamePattern1) 394**] Rehabilitation & Nursing Center - [**Location (un) 109**]
+
+Discharge Diagnosis:
+Primary Diagnoses: 
+1. Multifocal Pneumonia. 
+2. Delirium. 
+3. Failure to Thrive 
+
+Secondary: 
+1. Dementia. 
+2. Schizophrenia 
+3. Parkinson's disease 
+4. COPD 
+6. Atrial fibrillation 
+
+Discharge Condition:
+Stable.
+
+Discharge Instructions:
+Patient was hospitalized in the ICU with an aspiration pneumonia which was treated with antibiotics. Given his ongoing risk of aspiration, we attempted to place an NG tube.  The patient did not tolerate this intervention.  We then had a discussion with his health care proxy and [**Name2 (NI) 395**] that given his end-stage dementia a PEG tube was not indicated. The decision was made to transition the patient to comfort care. 
+
+Followup Instructions:
+Patient will be discharged to long-term care facility for ongoing comfort care.
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) 242**] MD [**MD Number 243**]
+
+Completed by: [**First Name8 (NamePattern2) 244**] [**Last Name (NamePattern1) 245**] MD [**MD Number 246**] [**2016-07-07**] @ 0829
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] on: FRI [**2016-07-08**] 2:48 PM
+(End of Report)
+

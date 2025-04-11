@@ -1,0 +1,36 @@
+109059	||||	12627	||||	23718	||||	ECHO_REPORT	||||	2019-07-16 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Left ventricular function. 
+BP (mm Hg): 147/81
+HR (bpm): 62
+Status: Inpatient
+Date/Time: [**2019-07-16**] at 15:47
+Test: TTE (Focused views)
+Doppler: Limited Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size. Overall normal LVEF (>55%). 
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS. No AR. 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP. Mild mitral annular calcification. Mild thickening of mitral valve chordae. Calcified tips of papillary muscles. No MS. Mild (1+) MR. 
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Normal tricuspid valve supporting structures. Mild to moderate [[**02-11**]+] TR. Normal PA systolic pressure. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets with physiologic PR. Normal main PA. No Doppler evidence for PDA 
+
+PERICARDIUM: No pericardial effusion. 
+
+Conclusions: 
+There is mild symmetric left ventricular hypertrophy. The left ventricular cavity size is normal. Overall left ventricular systolic function is normal (LVEF 70%). Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Mild (1+) mitral regurgitation is seen. The estimated pulmonary artery systolic pressure is normal. There is no pericardial effusion. 
+
+Compared with the findings of the prior study (images reviewed) of [**47-09-05**], no major change is evident. 
+

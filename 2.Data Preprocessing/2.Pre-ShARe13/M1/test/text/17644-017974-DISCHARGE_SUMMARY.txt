@@ -1,0 +1,82 @@
+17974	||||	17644	||||	12326	||||	DISCHARGE_SUMMARY	||||	2015-12-18 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2015-12-08**]     Discharge Date:  [**2015-12-18**]
+
+Date of Birth:   [**1952-01-06**]     Sex:  M
+
+Service:
+
+ADMISSION DIAGNOSIS:  Rectal cancer.
+
+DISCHARGE DIAGNOSIS:  Rectal cancer, status post abdominoperineal resection.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 63 year old man with a known history of right colon adenocarcinoma, staging
+T3 N0, rectal adenocarcinoma staging T1 N0, status post chemotherapy and radiation therapy in August and [**2015-09-27**].  The patient had had previous resections for the known cancers.  He now has a recurrence of a rectal cancer at the suture line.  The patient comes for further surgical resection of the recurrent cancer.
+
+PHYSICAL EXAMINATION:  In general, the patient is in no acute distress.  Chest is clear to auscultation bilaterally.
+Cardiovascular is regular rate and rhythm, without murmurs, rubs or gallops.  The abdomen is soft, nontender, nondistended.  Incisional scars consistent with previous surgery.  Extremities - The patient does have some mild pitting edema of the bilateral lower extremities.  Otherwise, the extremities are warm, noncyanotic, nonedematous.
+Neurologically, the patient is grossly intact.
+
+PAST MEDICAL HISTORY:
+1.  Right colon adenocarcinoma, T3 N0.
+2.  Rectal adenocarcinoma, T1 N0.
+3.  Status post chemotherapy and radiation treatment in
+August and [**2015-09-27**].
+4.  Hypertension.
+5.  History of atrial fibrillation.
+6.  History of Clostridium difficile infection.
+7.  Status post right colectomy and sigmoid resection in
+[**2012-12-26**].
+8.  Transurethral resection of prostate [**2015-10-27**].
+9.  Port-a-cath placement [**2015-08-27**].
+
+MEDICATIONS ON ADMISSION:
+1.  Lasix 40 mg once daily.
+2.  Diltiazem extended release 120 mg once daily.
+3.  Accupril 10 mg once daily.
+4.  Potassium Chloride 10 meq once daily.
+5.  Albuterol inhaler two puffs four times a day.
+6.  Atrovent inhaler two puffs four times a day.
+7.  Digoxin 250 mcg once daily.
+8.  Warfarin 1 mg once daily, has been off Warfarin preoperatively. 9.  Azmacort inhaler p.r.n.
+
+HOSPITAL COURSE:  The patient was admitted for further surgical therapy of his recurrent rectal cancer.  In the operating room, the decision was made to proceed with abdominoperineal resection.  The patient seemed to tolerate the procedure well without complication.
+
+Postoperatively, the patient was recovering nicely on bedrest until the morning of [**2015-12-10**], postoperative day number two.
+The patient on postoperative day number two had some mental status changes and was initially somewhat lethargic and became agitated and intermittently violent.  The patient became disoriented although he was alert.  Initial workup including cardiac and metabolic workups proved to be negative.  The patient did have some crackles on physical examination throughout his lung fields.  After speaking with the family, the patient had a history of some altered mental status changes preceding a previous episode of pneumonia that he had had.  Working diagnosis at that time was pneumonia versus hospital psychosis.  The patient's mental status did not improve over the course of the following two days with some intermittent agitation.  The patient was medicated with Haldol and Ativan.  This had some success.
+
+On the evening of postoperative day number four, the patient had an acute episode of respiratory distress and required intubation on the floor.  Subsequent to this, the patient was transferred to the Intensive Care Unit for closer monitoring and ventilatory management.  In the Intensive Care Unit, the patient did well and was extubated postoperative day number six.  The patient was empirically covered for a probable aspiration pneumonia with Levaquin, a seven day course.  The patient was transferred back to the floor on postoperative day number six.  His mental status was normal at that time.
+Throughout the rest of his hospital course, the patient did quite well.  His diet was advanced as tolerated.  The patient was discharged on postoperative day number ten tolerating a regular diet and having regular ostomy output, good pain control on p.o. pain medications.
+
+CONDITION ON DISCHARGE:  Good.
+
+DISPOSITION:  To home.
+
+DIET:  Ad lib.
+
+MEDICATIONS ON DISCHARGE:
+1.  Lasix 40 mg once daily.
+2.  Diltiazem extended release 120 mg once daily.
+3.  Accupril 10 mg once daily.
+4.  Potassium Chloride 10 meq once daily.
+5.  Albuterol inhaler two puffs four times a day.
+6.  Atrovent inhaler two puffs four times a day.
+7.  Digoxin 250 mcg once daily.
+8.  Warfarin 1 mg once daily, has been off Warfarin preoperatively.
+9.  Azmacort inhaler p.r.n.
+10. Amiodarone 400 mg twice a day.
+11. Percocet 5/325 mg one to two tablets q4hours p.r.n.
+
+FOLLOW-UP:  The patient is to follow-up with Dr. [**Last Name (STitle) 165**] on [**2015-12-21**].  He is being sent home with VNA for ostomy care and [**lastname 198**]-[**Location (un) 200**] teaching.  [**lastname 198**]-[**Location (un) 200**] will likely be discontinued at subsequent office visit with Dr. [**Last Name (STitle) 165**].
+
+[**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 167**]
+
+Dictated By:[**Dictator Info 1248**]
+
+MEDQUIST36
+
+D:  [**2015-12-18**]  08:21
+T:  [**2015-12-20**]  09:18
+JOB#:  [**Job Number 5810**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on: TUE [**2015-12-22**] 11:44 AM
+(End of Report)
+

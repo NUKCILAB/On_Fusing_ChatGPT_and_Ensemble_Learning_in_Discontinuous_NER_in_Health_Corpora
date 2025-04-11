@@ -1,0 +1,35 @@
+7698	||||	18317	||||	20898	||||	DISCHARGE_SUMMARY	||||	2015-03-30 00:00:00.0	||||		||||		||||		||||	
+Admission Date: [**2015-03-25**]        Discharge Date: [**2015-03-30**]
+
+Date of Birth:  [**1961-06-19**]        Sex:  M
+
+Service:  [**Last Name (un) **]
+
+HISTORY:  The patient is a 53-year-old male with a history of diabetes mellitus, endstage renal disease, who is status post hemodialysis catheter 4 days prior to his death. Initially there was the dialysis catheter at one point placed in the right common carotid. This was repaired with the assistance of Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] of vascular surgery as well as Dr. [**First Name (STitle) **] of transplant surgery, the attending surgeon of record. The patient had been doing well on the floor postoperatively with the exception of blood sugars that had been difficult to manage. He was found by nursing between 4 and 5 a.m. unresponsive, asystolic without a blood pressure. Code blue was called. ACLS was initiated for 30 minutes with chest compressions, epi x2, atropine x2, insulin, D50 shock x1. Pulse, blood pressure returned. The patient remained unresponsive following event. CT/ CTA were done of the head and neck to evaluate for dissection. CTA was negative for dissection, however CT demonstrated infarct of bilateral occipital lobes and subacute thalamic infarcts bilaterally.
+
+Neurology was called. No significant brain stem reflexes were found. The patient was intubated, no sedation was given in the event and not responsive to noxious stimuli and had bilateral papilledema and poor prognosis. The patient is a 53- year-old male with past medial history significant for CHF with an EF of 35%, insulin dependent diabetes mellitus x2, triopathy, chronic renal insufficiency awaiting transplant.
+He is on hemodialysis. Hepatitis C, hypertension, high cholesterol, hyperparathyroidism.
+
+MEDICATIONS AT HOME:
+1.  Reglan.
+2.  Nexium.
+3.  Coreg.
+4.  Glargine.
+
+On [**03-30**] after extensive discussion was undertaken with the family with both the doctor attending, ICU attending, Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2110**], Dr. [**First Name (STitle) **], a decision was made to withdraw all care as the patient was declared brain dead after brain death examination. The ventilator was withdrawn and the patient expired shortly after.
+
+Time of death was recorded as 8:56 p.m. on [**2015-03-30**].
+
+Medical examiner was notified and Dr. [**Last Name (STitle) 2111**] of the medical examiner's office declined the case, however autopsy permission was granted by [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] [**lastname 2112**] and autopsy was to be performed expeditiously as there were still no clear etiology as per the asystolic event that lead to an anoxic brain injury and eventual brain death and demise in this patient.
+
+On the night of [**2015-03-30**], I declared the patient after withdrawal of support.
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) **], [**State/Zipcode 2113**]
+
+Dictated By:[**Dictator Info 2114**]
+MEDQUIST36
+D:  [**2015-03-30**] 21:34:53
+T:  [**2015-03-30**] 22:42:26
+Job#:  [**Job Number 2115**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] on: [**Doctor First Name 170**] [**2015-04-30**] 4:40 PM (End of Report)
+

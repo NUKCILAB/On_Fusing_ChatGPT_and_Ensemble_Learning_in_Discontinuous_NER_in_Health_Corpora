@@ -1,0 +1,49 @@
+103427	||||	20223	||||	5893	||||	ECHO_REPORT	||||	2014-03-28 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Shortness of breath. 
+Height: (in) 67
+Weight (lb): 165
+BSA (m2): 1.87 m2
+BP (mm Hg): 160/80
+HR (bpm): 74
+Status: Inpatient
+Date/Time: [**2014-03-28**] at 12:54
+Test: Portable TTE (Complete)
+Doppler: Full doppler and color doppler
+Contrast: Saline
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: Moderate LA enlargement. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. 
+
+LEFT VENTRICLE: Normal LV wall thickness. Normal LV cavity size. Suboptimal technical quality, a focal LV wall motion abnormality cannot be fully excluded. Overall normal LVEF (>55%). 
+
+RIGHT VENTRICLE: Normal RV wall thickness. Normal RV chamber size. Normal RV systolic function. 
+
+AORTA: Mildly dilated aortic root. Normal ascending aorta diameter. Normal aortic arch diameter. 
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). 
+
+MITRAL VALVE: Mild mitral annular calcification. Mild (1+) MR. 
+
+TRICUSPID VALVE: Physiologic TR. Indeterminate PA systolic pressure. 
+
+PERICARDIUM: No pericardial effusion. 
+
+GENERAL COMMENTS: Suboptimal image quality. 
+
+Conclusions: 
+1. The left atrium is moderately dilated. 
+2.Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. Overall left ventricular systolic function is normal (LVEF>55%). 
+3. Right ventricular chamber size is normal. Right ventricular systolic function is normal. 
+4. The aortic root is mildly dilated. 
+5.The aortic valve leaflets (3) are mildly thickened. No aortic regurgitation present. 
+6. Mild mitral valve thickness. Mild (1+) mitral regurgitation is seen. 
+7.The pulmonary artery systolic pressure could not be determined.  8.There is no pericardial effusion. 
+

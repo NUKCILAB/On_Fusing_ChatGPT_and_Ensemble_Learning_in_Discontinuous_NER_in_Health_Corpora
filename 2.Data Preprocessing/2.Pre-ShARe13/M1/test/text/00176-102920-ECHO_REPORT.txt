@@ -1,0 +1,49 @@
+102920	||||	176	||||	2167	||||	ECHO_REPORT	||||	2013-09-23 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Pericardial effusion. 
+Height: (in) 68
+Weight (lb): 184
+BSA (m2): 1.97 m2
+BP (mm Hg): 140/80
+HR (bpm): 70
+Status: Inpatient
+Date/Time: [**2013-09-23**] at 10:20
+Test: TTE (Focused views)
+Doppler: No doppler
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: The left atrium is moderately dilated. The left atrium is elongated. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: The right atrium is moderately dilated. 
+
+LEFT VENTRICLE: There is severe symmetric left ventricular hypertrophy. The left ventricular cavity size is normal. Overall left ventricular systolic function is low normal (LVEF 50-55%). 
+
+LV WALL MOTION: The following resting regional left ventricular wall motion abnormalities are seen: basal inferoseptal - hypokinetic; mid inferoseptal - hypokinetic; basal inferior - hypokinetic; mid inferior - hypokinetic; 
+
+RIGHT VENTRICLE: The right ventricular free wall is hypertrophied. Right ventricular chamber size is normal. Right ventricular systolic function is normal. 
+
+AORTIC VALVE: The aortic valve leaflets (3) are mildly thickened. 
+
+MITRAL VALVE: The mitral valve leaflets are mildly thickened. There is mild mitral annular calcification. 
+
+TRICUSPID VALVE: Mild tricuspid [1+] regurgitation is seen. There is mild pulmonary artery systolic hypertension. 
+
+PERICARDIUM: There is a trivial/physiologic pericardial effusion. The effusion appears circumferential. 
+
+Conclusions: 
+1. Limited focused study. 
+2. The left atrium is moderately dilated. The left atrium is elongated. 
+3.The right atrium is moderately dilated. 
+4.There is severe symmetric left ventricular hypertrophy. The left ventricular cavity size is normal. Overall left ventricular systolic function is low normal (LVEF 50-55%). Resting regional wall motion abnormalities include basal and mid septal hypokinesis. 
+5.The right ventricular free wall is hypertrophied. Right ventricular chamber size is normal. Right ventricular systolic function is normal. 6.The aortic valve leaflets (3) are mildly thickened. No color doppler study was done to assess for the presence of MR [**First Name (Titles) 4**] [**Last Name (Titles) 15**]. 7. The mitral valve leaflets are mildly thickened. 
+8.There is mild pulmonary artery systolic hypertension. There is a trivial/physiologic pericardial effusion. The effusion appears circumferential. 
+9. An echogenic density in the right ventricle is present consistent with a pacemaker lead. 
+
+Compared with the findings of the prior study (tape reviewed) of [**2013-09-12**], the pericardial effusion is much less. The overall function is unchanged. 
+

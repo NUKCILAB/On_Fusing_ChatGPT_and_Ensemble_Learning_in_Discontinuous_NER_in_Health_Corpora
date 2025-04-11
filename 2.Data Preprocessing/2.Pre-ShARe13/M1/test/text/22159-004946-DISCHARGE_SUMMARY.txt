@@ -1,0 +1,134 @@
+4946	||||	22159	||||	20924	||||	DISCHARGE_SUMMARY	||||	2019-11-05 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2019-11-04**]              Discharge Date:   [**2019-11-05**]
+
+Date of Birth:  [**1950-10-07**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: 
+Sulfa (Sulfonamides)
+
+Attending:[**Attending Info 1897**] 
+Chief Complaint:
+Carotid Stenosis
+
+Major Surgical or Invasive Procedure:
+Carotid Stent Placement
+
+History of Present Illness:
+69yo M with HTN, Hyperlipidemia, diet controlled DM, ? TIA, now s/p R carotid stent placement. Pt was well until 6months ago where he reported an episode where a clock was shifting to the right on the wall of his bedroom. He stood up and felt a little "dizzy" or "unsteady." These symptoms resolved within 10 minutes. Pt also notes mild L sided hearing loss since January, however no tinnitus. He denies any transient visual loss or scotomas. No tingling, numbness or weakness with these episodes. Pt was told by opthalmologist several years ago that he had "cholesterol in the back of his [**Hospital Unit Name 151**]." Thus eliciting carotid doppler evaluation revealing 71-90%stenosis in the mid right ICA and a 50-70% stenosis in the left ICA. Pt was admitted for R ICA stent placement.   Pt was without any complaints once brought the the CCU. SBP's 140's on Nitroglycerin drip. Denied any dysarthria, weakness, numbness, paresthesias, HA, or visual changes.  
+ROS: denies F/C/NS, no wt loss, no cough, no SOB or CP, no peripheral edema. no BRBPR/Melena, denies claudication, PND, orthopnea. Can climb > 2 flights of stairs without difficulty at baseline.  
+
+Past Medical History:
+HTN  
+Hyperlipidemia  
+DM- diet controlled. am BG's 110 per pt report.  
+Traumatic glaucoma with cataract- s/p OS cataract removal.  s/p R shoulder basal cell carcinoma excision 1998  
+
+Social History:
+Divorced, lives with girlfriend. Retired machinist. He has one grown daughter who lives in [**State 5083**]. Distant tobacco use > 25yrs ago. No ETOH. No illicits. 
+
+Family History:
+brother- d.74 CAD, MI at 63yo  
+brother- d.60 CAD  
+
+Physical Exam:
+Vitals: T97, BP 153/90, HR 75, R 16, 98% RA  
+Ht: 6'2" Wt: 205 lbs  
+Gen: awake, alert, lying flat in bed, pleasant, conversant in NAD.  
+HEENT: NCAT, EOM's full, smooth. R pupil 5-->3mm, afferent pupillary defect. L 5-->4mm, no tonsillar exudates.  
+NECK: No bruits B, no thyromegaly  
+CV: nl S1 and S2, no MRG  
+PULM: CTA B  
+ABD: Soft, NT, ND, BS+, no HSM, non-pulsatile  
+Extrem: No CCE, 2+ DP, PT pulses  
+GROIN: no femoral bruit Bilat, no masses B, excellent peripheral pulses.  
+NEURO: CN's II-XII intact, L APD as above, FST- [**05-24**] globally- did not test hipflexors or knee F/E since pt is s/p femoral artery cath. Sensory exam intact to light touch.  
+
+Pertinent Results:
+[**2019-10-17**]:  
+5.7> 15.3 < 178 140/ 105/ 17 INR=1.0  
+44 4.3/ 29 /1.0  
+
+EKG: NSR 60, nl axis, no q-waves, no ST segment changes.  
+
+Imaging:  
+
+[**2019-09-27**]: CT of the neck revealed an 80% stenosis of the proximal  
+right ICA 16 mm from the origin and a 50% stenosis in the distal 
+
+left common carotid artery just before the bifurcation.  
+
+[**2019-09-03**]: Carotid Duplex series demonstrated heterogeneous  calcified plaquing in both carotid systems. There was a 71-90%  stenosis in the mid right ICA and a 50-70% stenosis in the left  
+
+ICA. Vertebral flow is antegrade bilaterally. And this was  significantly increased in the right ICA since a study done one  
+
+year previously.  
+
+Exercise Stress test- reportedly normal per pt. report  
+Head CT- "normal" per pt report, results not available- test was ordered for L sided hearing loss.  \
+
+Brief Hospital Course:
+69yo M with HTN, Hyperlipidemia, diet controlled DM, ? TIA, now s/p R carotid stent placement.  
+
+1) Carotid Stenosis-  
+Patient was given right ICA stent without complication. The patient was monitored overnight in the CCU. Nitroglycerin drip was used to maintain SBP's < 160, then titrated to off. Serial neurological exams did not reveal any new deficits. L Afferent pupillary defect is likely secondary to chronic low vision from history of trauma-->cataract pt sustained as an adolescent. 
+
+The patient was started on clopidogrel 75mg daily and continued on ASA 325 mg daily, Atorvastatin 10mg qhs, he was re-started on losartan at time of discharge. A lipid panel was not drawn during hospitalization and will be left to the discretion of the patient's PCP if pt is at goal for lipid management. 
+
+The patient was scheduled to follow up with Dr. [**Last Name (STitle) **] in 4 weeks with repeat carotid ultrasound and neurology follow-up.
+
+2) Diabetes Mellitus- 
+Patient reported adequate control with diet, weight loss. He was maintained on an insulin sliding scale and diabetic diet. We did not check a hemoglobin A1C.
+
+3) Cardiac- no known cardiac disease, reportedly normal cardiac stress test. no anginal sx. However the patient has multiple cardiac risk factors. He was continued on ASA, clopidogrel, [**Last Name (un) 144**], atorvastatin, DM control.  
+
+4) Renal- 
+Patient had normal creatinine at baseline and was given hydration for contrast (~125cc) periprocedure. Upon arrival in the unit he was given 1 Liter NS.  Repeat creatinine the morning following procedure was stable. 
+
+5) Heme- 
+Normal baseline hct 44. Stable the morning post-procedure.
+
+Medications on Admission:
+Lipitor 10 mg daily  
+Doxazosin 8 mg daily  
+Cozaar 100 mg daily  
+ASA 325 mg daily  
+MVI daily  
+
+Discharge Medications:
+1. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+2. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).  
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+4. Losartan 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).   5. Doxazosin 8mg by mouth daily
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary: Carotid Stenosis
+
+Secondary:
+Hypertension
+Hyperlipidemia
+
+Discharge Condition:
+Good.
+
+Discharge Instructions:
+You were diagnosed with carotid stenosis and had a carotid stent placed.
+
+You should take all of your medications as prescribed. 
+Especially aspirin and plavix- failure to do so could result in a new clot forming in the stent, stroke, or even death.
+
+Call Dr. [**Last Name (STitle) 3698**] or 911 if you experience any weakness, numbness, tingling, slurred speech, chest pain or shortness of breath.
+
+Followup Instructions:
+You should see Dr. [**Last Name (STitle) **] in 4 weeks for follow up appointment. 
+
+[**First Name11 (Name Pattern1) 329**] [**Name7 (MD) 1901**] MD [**MD Number 1902**]
+
+Completed by: [**First Name8 (NamePattern2) 1998**] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1999**] MD [**MD Number 2000**] [**2019-11-06**] @ 1051
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 329**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 328**] on: FRI [**2019-11-08**] 7:33 AM
+(End of Report)
+

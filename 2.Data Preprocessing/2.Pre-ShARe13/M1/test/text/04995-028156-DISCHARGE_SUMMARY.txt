@@ -1,0 +1,114 @@
+28156	||||	4995	||||	6466	||||	DISCHARGE_SUMMARY	||||	2013-12-13 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2013-12-04**]              Discharge Date:   [**2013-12-13**]
+
+Date of Birth:  [**1934-04-16**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies: 
+Penicillins
+
+Attending:[**Attending Info 342**] 
+Chief Complaint:
+79 year old white female with 2 year history of shortness of breath.
+
+Major Surgical or Invasive Procedure:
+AVR with 21mm CE valve [**2013-12-04**]
+
+Past Medical History:
+CHF
+Aortic stenosis
+Right upper lobe bullae
+Anxiety
+Diverticulosis
+L carotid disease
+Peripheral vascular disease
+Obesity
+s/p TAH/BSO
+s/p cataract surgery
+s/p foot surgery
+
+Pertinent Results:
+Hematology 
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct [**2013-12-09**] 05:40AM    14.0* 4.41 12.0 36.9 84 27.3 32.6 15.3 240 
+BASIC COAGULATION PT PTT Plt Ct INR(PT) 
+[**2013-12-10**] 06:05AM    13.41 24.0   1.1 1 NOTE NEW NORMAL RANGE AS OF 12A OF [**2013-09-03**] 
+
+Chemistry 
+RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap 
+[**2013-12-10**] 06:05AM    107* 43* 0.8 137 5.1 96 36* 10 
+CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron [**2013-12-09**] 05:40AM          8.9 3.9 2.8*     
+
+[**2013-12-12**] 06:25AM BLOOD WBC-13.4* RBC-4.19* Hgb-11.3* Hct-35.4* 
+MCV-85 MCH-26.9* MCHC-31.8 RDW-15.3 Plt Ct-310
+[**2013-12-12**] 06:25AM BLOOD Plt Ct-310
+[**2013-12-12**] 06:25AM BLOOD PT-14.0* PTT-25.3 INR(PT)-1.2
+[**2013-12-12**] 06:25AM BLOOD UreaN-36* Creat-1.0 K-5.2*
+[**2013-12-13**] 06:15AM BLOOD WBC-14.0* RBC-4.23 Hgb-11.2* Hct-35.0*  MCV-83 MCH-26.6* MCHC-32.2 RDW-15.3 Plt Ct-329
+[**2013-12-13**] 06:15AM BLOOD Plt Ct-329
+[**2013-12-13**] 06:15AM BLOOD PT-14.0* PTT-24.7 INR(PT)-1.2
+[**2013-12-13**] 06:15AM BLOOD Glucose-100 UreaN-35* Creat-0.9 Na-142  K-4.1 Cl-94* HCO3-43* AnGap-9
+
+Brief Hospital Course:
+Mrs. [**lastname 6424**] was admitted to BIDMCon [**2013-12-04**] and taken to the operating room with Dr. [**Last Name (STitle) 347**] for an AVR with a 21mm CE pericardial tissue valve.  She tolerated the procedure well and was transferred to the ICU in stable condition.  Postoperatively she remained intubated on mechanical ventilation due to CO2 retention, and was extubated on the evening of POD#2.  She continued to have elevated CO2 with a normal pH, which was thought to be her baseline.  She was noted to have a prolonged PR interval of about .33.  She was transferred from the ICU to the regular floor on POD#2.  She developed fib on POD#4, was started on amiodarone on POD#5.  She converted into SR, but continued to have a very prolonged PR interval.  An EP consult was obtained and the team was concerned that she was having heart block with the atrial fibrillation.  She was taken to the electrophysiology lab for a study on POD#7 where it was determined that she had some AV nodal disease with a LBBB, but she was at very low risk for progression to CHB and it was decided that there was no indication for a permanent pacer.  She was also cardioverted into sinus rhythm. The EP service recommended lo dose beta blocker and anticoagulation and no amiodarone therapy.  She was started on 12.5mg of Lopressor bid and tolerated it well.  Her PR interval remains 2.5-.3.  On the morning of discharge, she developed periods of slower heart rates into the 60s.  EP service evaluated her rhythm and determined that it was due to blocked premature atrial contractions and recommended continuing her lopressor and continue with plan for discharge to rehab with a monitored bed.  
+
+She has continued to require oxygen thru out her hospital stay, 4L nasal cannula to maintain a Sp O2 of 96%.  Her CXR shows a large right upper lobe bullae, small bilateral pleural effusions.  The RUL bullae is consistent with her preoperative CXR, and Dr. [**Last Name (STitle) 347**] has requested Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 6425**]/Thoracic surgery to consult regarding management of her bullous disease.  
+
+She is being anticoagulated with Coumadin to achieve an INR of 2.0-2.5 for the atrial fibrillation.
+
+Medications on Admission:
+Digoxin 0.25 mg PO daily
+HCTZ/Triam. 37.5/25 PO daily
+Detrol 4 mg PO daily
+Premarin 0.625 mg PO daily
+Candesartan 16 mg PO daily
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).  
+2. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).  
+3. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every 4 hours) as needed.  
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+5. Alprazolam 0.25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) as needed.  
+7. Lipitor 10 mg Tablet Sig: One (1) Tablet PO once a day.  
+8. Premarin 0.625 mg Tablet Sig: One (1) Tablet PO once a day.  
+9. Furosemide 10 mg/mL Solution Sig: 40 mg IV Injection BID (2 times a day): wean to PO lasix when fluid status decreases.  10. Captopril 12.5 mg Tablet Sig: 0.5 Tablet PO TID (3 times a day).  
+11. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day): hold HR<60.  
+12. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain.  
+13. Warfarin Sodium 1 mg Tablet Sig: Five (5) Tablet PO once [**12-13**]: titrate for INR 2.0-2.5.  
+14. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) ML PO HS (at bedtime) as needed for constipation.  
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital 1754**] Medical Center - [**Hospital1 1755**]
+
+Discharge Diagnosis:
+Critical aortic stenosis
+Congestive heart failure
+Peripheral vascular disease
+Obesity
+s/p AVR
+atrial fibrillation
+RUL bullous disease
+first degree AV block
+anxiety
+
+Discharge Condition:
+Good.
+
+Discharge Instructions:
+Follow medications on discharge instructions.
+You may not drive for 4 weeks.
+You may not lift more than 10 lbs. for 3 months.
+You should shower, let water flow over wounds, pat dry with a towel.
+
+Followup Instructions:
+Make an appointment with Dr. [**Last Name (STitle) 6426**] for 1-2 weeks. Make an appointment with Dr. [**Last Name (STitle) **] for 4 weeks. Please consult Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 6427**] upon arrival to rehab re:RUL bullous disease
+
+[**Doctor Last Name **] [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] MD [**MD Number 351**]
+
+Completed by: [**First Name11 (Name Pattern1) 352**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 353**] PA 80-AXP [**2013-12-13**] @ 1015
+Signed electronically by: DR. [**First Name (STitle) **] [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] on: TUE [**2013-12-24**] 2:44 PM
+(End of Report)
+

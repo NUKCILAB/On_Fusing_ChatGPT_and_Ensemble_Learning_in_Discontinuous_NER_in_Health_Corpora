@@ -1,0 +1,87 @@
+18982	||||	17652	||||	16576	||||	DISCHARGE_SUMMARY	||||	2016-01-18 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2015-12-31**]       Discharge Date:  [**2016-01-18**]
+
+Date of Birth:   [**1941-04-23**]       Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  This is a 75-year-old gentleman, who has a history of known coronary artery disease had been managed medically over the last several years with a PTCA in [**2001**].  Recently has been experiencing increased exertional angina.  Had a positive stress test in [**2015-11-14**], which showed a large reversible inferolateral wall defect with a fixed component of inferior apex, an ejection fraction of 38%.  An echocardiogram [**2015-12-14**] showed mild left ventricular hypertrophy, moderate inferior wall hypokinesis, and ejection fraction of 50%.  Patient was referred to [**Hospital 20**] for cardiac catheterization.
+
+PAST MEDICAL HISTORY:
+1. Coronary artery disease.
+2. Hyperlipidemia.
+
+ALLERGIES:  No known drug allergies.
+
+PREOPERATIVE MEDICATIONS:
+1. Zocor 40 mg p.o. q.d.
+2. Procardia 30 mg p.o. q.d.
+3. Isosorbide dinitrate 30 mg p.o. t.i.d.
+4. Inderal 30 mg p.o. t.i.d.
+5. Aspirin 325 mg p.o. q.d.
+
+Patient was admitted to the Cardiac Catheterization
+Laboratory on [**2016-01-01**].  Cardiac catheterization showed left ventricular end diastolic pressure of 26, ejection fraction of 25%, 95% distal left main involving the ostia, the LAD, and circumflex, 30% mid LAD, 95% very proximal left circumflex, and 95% mid left circumflex after OM-1, dominant diffusely diseased RCA with 90% mid lesion and 90% distal lesion.  Patient was referred for cardiac surgery.
+
+Patient was originally scheduled for surgery on [**01-04**] or [**01-05**], however, on the evening of [**01-02**], patient had episode of ventricular fibrillation, which required d-c cardioversion with 200 joules.  Patient was cardioverted into a sinus rhythm.  Patient recovered a good blood pressure.  Patient was then transported to the Cardiac Catheterization Laboratory, where an intra-aortic balloon pump was placed, and Cardiac Surgery was consulted.  It was decided at that time to take the patient urgently for a CABG with Dr. [**Last Name (STitle) 72**].
+
+Patient underwent a CABG x4:  LIMA to LAD, SVG to OM-1, SVG to OM-2, and SVG to PDA.  Patient tolerated the procedure well.  Was transported to the Intensive Care Unit in stable condition on Levophed and milrinone as well as intra-aortic balloon pump.  Patient awoke postoperatively, followed commands, moved all extremities, and was nonfocal neurologically.
+
+Patient was weaned and extubated from mechanical ventilation on postoperative day #1.  The milrinone and Levophed were weaned down to off.  The intra-aortic balloon pump was discontinued on postoperative day #1.  Liver function tests were drawn as it was felt that the patient had some jaundice. The liver function tests were all significantly elevated with an ALT of 1433, AST 1958, LDH 2408, alkaline phosphatase of 69, and a total bilirubin of 0.6.
+
+It was recommended by the Hepatology service that a right upper quadrant ultrasound be obtained to check flow to the patient's liver.  However, it was felt that the etiology was most likely ischemic hepatitis due to the poor forward flow during the arrest and subsequent CABG.
+
+The right upper quadrant ultrasound showed no obstruction, no evidence of cholecystitis, and good blood flow to the liver. The patient's liver function tests continued to rise.  It was also recommended by the Hepatology service that a hepatitis panel be sent which is pending at this date.
+
+It was noted by the nurses on postoperative day #2, that this patient's right upper extremity was felt to be weak.  It was recommended carotid ultrasounds be obtained and patient have a CT scan of his head.  Carotid ultrasound showed that the patient had less than 40% narrowing of his carotids bilaterally.
+
+Around this time, the patient also had episodes of rapid atrial fibrillation which causes decrease in his blood pressure requiring cardioversion.  Patient had been started on amiodarone due to the patient's elevated liver function tests.  Electrophysiology service was consulted for alternative to amiodarone.  It was recommended by
+Electrophysiology service to discontinue the amiodarone due to the patient's elevated liver enzymes.  Start the patient on digoxin for rate control should the patient go into atrial fibrillation, and it was also recommended to switch the patient from Lopressor to atenolol.
+
+On postoperative day #3, patient began working with Physical Therapy.  Was able to ambulate only about 100 feet, still in the Intensive Care Unit.  Still requiring Neo-Synephrine to maintain adequate blood pressure.
+
+On the early morning of postoperative day three, patient developed periods of agitation and confusion.  It was felt that this was due to Percocet.  Percocet was discontinued.
+Patient was given low dose Haldol, and subsequently cleared. Patient was switched to Dilaudid for pain control.  Patient's mediastinal chest tubes were removed.
+
+Left sided watershed stroke:  Neurology thought this was likely due to hypoperfusion.  Patient's right upper extremity weakness continued to improve.  Electrophysiology service was again reconsulted for patient's atrial fibrillation as well as patient's preoperative ventricular fibrillation, and the need for electrophysiology study.  Echocardiogram per the EP service, showed ejection fraction of 25-30% and it was planned to take the patient for an EP study and question of
+AICD implantation.
+
+The day the patient was scheduled to go for his study, it was noted the patient had elevated white blood cell count of 21,000.  The case was cancelled and the patient was brought back to [**Wardname 2947**].  Patient was pancultured and it was found that patient had a mild pancreatitis.  The EP service felt that the ventricular fibrillation was likely due to his ischemic state preoperatively.  They felt that the study could be deferred for 1-2 weeks while patient recovered from his surgery.
+
+A General Surgery consult was obtained for the patient's pancreatitis.  Patient's lipase was 502 with an amylase of 183 and mild left upper quadrant pain.  Patient was made NPO. CT scan of the abdomen was obtained, which showed no evidence of significant pancreatitis.  The patient continued to be
+NPO.
+
+On [**01-14**], patient's amylase and lipase were trending downward.  Patient had no abdominal pain.  Was started on clear liquids and advanced to a regular diet without any abdominal pain.  Patient's amylase and lipase continued to trend downward.  It was decided by the Electrophysiology service that patient was safe to be discharged to home and will return for his study.
+
+By postoperative day #15, patient had completed a level five with Physical Therapy, and the patient was cleared for discharge to home.
+
+CONDITION ON DISCHARGE:  T max 99.1, pulse 80 sinus rhythm, blood pressure 104/52, respiratory rate 16, on room air oxygen saturation 97%.  Neurologically, the patient is awake, alert, and oriented times three.  Right upper extremity has significantly improved strength with barely perceptible weakness.  Right lower extremity and left lower extremity have equal strength bilaterally.  Heart:  Regular rate and rhythm without rub or murmur.  Breath sounds are clear bilaterally.  Abdomen is soft, nontender, nondistended, positive bowel sounds, tolerating regular diet.  Sternal incision:  The staples are intact, clean, and dry.  There is no erythema or drainage.  Right lower extremity vein harvest site is clean and dry.  Ste[**MD Number 6045**]ips were intact.  There is minimal erythema over the medial portion of the incision.
+Extremities have 1+ edema.
+
+DISCHARGE DIAGNOSES:
+1. Coronary artery disease.
+2. Preoperative ventricular fibrillation.
+3. Postoperative atrial fibrillation.
+4. Postoperative pancreatitis.
+5. Postoperative ischemic hepatitis.
+
+DISCHARGE MEDICATIONS:
+1. Zocor 40 mg p.o. q.d.
+2. Enteric coated aspirin 325 mg p.o. q.d.
+3. Colace 100 mg p.o. b.i.d.
+4. Dilaudid 2 mg p.o. q.4-6h. prn.
+5. Atenolol 100 mg p.o. q.d.
+6. Digoxin 0.125 mg p.o. q.d.
+
+DISCHARGE INSTRUCTIONS:  The patient is discharged to home in stable condition with home Occupational and Physical Therapy. Patient is to followup with Dr. [**Last Name (STitle) 7837**] in his office in 1-2 weeks.  Patient has an appointment for an electrophysiology study on [**01-29**] at 7 a.m.  Patient will be contacted by the Electrophysiology Department for further instructions, and patient should see Dr. [**Last Name (STitle) 72**] in one month.
+
+[**First Name11 (Name Pattern1) 58**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 73**]
+
+Dictated By:[**Dictator Info 7205**]
+MEDQUIST36
+
+D:  [**2016-01-18**]  12:50
+T:  [**2016-01-18**]  12:49
+JOB#:  [**Job Number 7838**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 58**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] on: [**First Name9 (NamePattern2) 216**] [**2016-02-09**] 11:52 AM (End of Report)
+

@@ -1,0 +1,115 @@
+22047	||||	17583	||||	1254	||||	DISCHARGE_SUMMARY	||||	2017-07-19 00:00:00.0	||||		||||		||||		||||	
+Admission Date:                   Discharge Date: [**2017-07-19**]
+
+Date of Birth:  [**1931-06-23**]        Sex:  F
+
+Service:  CME
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 86 year old
+Caucasian female with a history of hypercholesterolemia, right bundle branch block on EKG, and osteoporosis, who was in her usual state of health until two days prior to admission when she had intermittent nausea and weakness.  The patient states that she has been unable to get up from a chair secondary to weakness.  She denies palpitations, PND, orthopnea.  She has stable lower extremity edema, perhaps slightly worse over the last day.  She denies chest pain or pressure.  She reports intermittent dizziness but no episodes of loss of consciousness.  The patient's daughter, who is a nurse, noted the patient to be bradycardic and brought the patient to the E.D., where on EKG she was noted to have a new left bundle branch block and to be in complete heart block with an atrial rate of 110 and a ventricular rate of 40.  The patient's daughter reports that an EKG one week prior to admission did not have a complete heart block.
+
+PAST MEDICAL HISTORY:  Hyperlipidemia.
+
+Gastroesophageal reflux disease.
+
+Hiatal hernia.
+
+Dementia.
+
+Catatonic depression.
+
+Spinal stenosis, status post surgery.
+
+Urinary retention.
+
+Osteoporosis.
+
+Cataracts.
+
+Biceps tendon repair.
+
+Chronic constipation.
+
+Sciatica.
+
+MEDICATIONS:  Fosamax 70 mg q.week.
+Protonix 40 mg q.day.
+Nortriptyline 50 mg q.p.m.
+Trilafon 4 mg q.p.m.
+Multivitamin.
+Vitamin E.
+Calcium.
+Vitamin D.
+Fibercon.
+Flax seed oil.
+Ocular eyedrops 1 drop o.u. b.i.d.
+Advil 400 mg t.i.d.
+
+SOCIAL HISTORY:  The patient previously lived in an assisted- living facility for many years until her husband passed away; now she lives with her daughter, who is a nurse and performs all of her ADL.  She denies a history of tobacco, alcohol, or drug use.
+
+PHYSICAL EXAMINATION:  General:  BP 120/70, heart rate 41, respirations 12, 99 percent on room air.  In general, the patient is an elderly woman in no acute distress with a depressed affect.
+HEENT:  Normocephalic, atraumatic.  Extraocular movements are intact.  Oropharynx is clear.  Dry mucous membranes.
+Chest:  Lungs are clear to auscultation bilaterally aside from mild bibasilar crackles.
+Heart:  Bradycardic.  No murmurs, rubs, or gallops.
+Abdomen:  Soft, nondistended, with mild tenderness on palpation in the suprapubic region with normoactive bowel sounds.
+Extremities:  No clubbing or cyanosis.  There is 2+ bilateral pitting edema.  DP pulses are 2+ bilaterally.  All extremities are cool.
+
+LABORATORY DATA:  White blood cells 11.9, hematocrit 27.5, platelets 305, sodium 137, potassium 4.3, chloride 103, bicarb 27, BUN 22, creatinine 1.0, glucose 93,  iron 2.1, calcium 11.7, phosphorus 4.1, INR 1.1.
+
+HOSPITAL COURSE:  COMPLETE HEART BLOCK:  The patient was noted to be in complete heart block on admission EKG, was admitted to the Coronary Care Unit for temporary pacer wire placement.  She received a temporary pacer wire on the evening of admission.  On [**2017-07-18**], the patient was taken for a pacemaker.  The patient underwent an uncomplicated placement of a dual-chamber pacemaker.  Upon return to the floor, the patient complained of 6 out of 10 chest pressure substernally without radiation.  Her cardiac enzymes were not elevated and she had no EKG changes.  Her cardiac enzymes were cycled and were noted to be normal.  The patient's chest pressure resolved overnight.  The site of the pacemaker was stable and nontender without evidence of hematoma.  An echocardiogram performed after pacemaker placement revealed a very small anterior pericardial effusion.  A repeat echocardiogram done the following morning showed no change in the small effusion.  The patient's nonsteroidal anti- inflammatory medications were held.
+
+CORONARY ARTERY DISEASE:  The patient has no known history of coronary artery disease.  An LDL was 97.  The patient was given aspirin throughout her brief hospitalization.  As noted previously, she had complaints of mild chest pressure after her pacemaker placement but had cycled cardiac enzymes which were normal and no EKG changes.
+
+BONE LUCENCY:  Noted on a chest x-ray was a right humerus lucency.  This was confirmed with a right shoulder film which confirmed a focal lucent lesion in the proximal right humerus shaft with an ill-defined border.  This lucent lesion was concerning for metastatic disease, multiple myeloma, or a benign bony lesion.  The patient had an S-pep and a U-pep which were sent and were negative.  She was evaluated with a breast exam that was normal.  It is anticipated that a further workup for this right humerus lucency will be performed as an outpatient and the patient's primary care physician was contacted prior to discharge.
+
+OSTEOPOROSIS:  The patient was continued on alendronate, vitamin D and calcium throughout her brief hospitalization.
+
+GASTROESOPHAGEAL REFLUX DISEASE:  The patient was continued on her Fibercon, flax seed oil, and proton pump inhibitor throughout this hospitalization and was asymptomatic.
+
+PSYCHIATRIC:  The patient was continued on her outpatient dose of nortriptyline and had a stable, somewhat flat affect throughout her hospitalization.
+
+ANEMIA:  The patient was noted to have a somewhat low hematocrit throughout her hospitalization that was stable.
+The etiology of this is somewhat unclear.  The patient was guaiac negative on admission.  It is anticipated that the patient's hematocrit and iron studies will be followed by her primary care physician as an outpatient.
+
+CONDITION ON DISCHARGE:  Good.
+
+DISCHARGE STATUS:  The patient is discharged to home.
+
+DISCHARGE DIAGNOSES:  Complete heart block, status post pacemaker placement.
+
+Hyperlipidemia.
+
+Gastroesophageal reflux disease/hiatal hernia.
+
+Depression.
+
+Anemia.
+
+Osteoporosis.
+
+MEDICATIONS:  Alendronate sodium 70 mg p.o. q.week.
+Pantoprazole 40 mg p.o. q.day.
+Nortriptyline 50 mg p.o. q.h.s.
+Multivitamin 1 cap p.o. q.day.
+Vitamin E 400 units p.o. q.day.
+Calcium carbonate 500 mg p.o. t.i.d.
+Vitamin D 400 units p.o. q.day.
+Ketorolac 0.5 percent one drop o.u. b.i.d.
+Perphenazine 4 mg q.a.m.
+Flax seed oil.
+Fibercon.
+
+FOLLOW UP:  The patient has a followup appointment with her primary care physician [**Initials (NamePattern4) **] [**2017-07-21**] at 1:45 p.m.  She is instructed to have her hematocrit and iron studies drawn the day after admission to be followed up by her primary care physician.  [**Name10 (NameIs) 36**] patient's primary care physician will also follow up on the right shoulder lucency seen on x-ray.
+
+The patient also has a followup appointment with cardiology on [**2017-07-25**] at 2:00 pm.
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) **], [**State/Zipcode 7018**]
+
+Dictated By:[**Dictator Info 7021**]
+MEDQUIST36
+D:  [**2017-07-19**] 20:55:35
+T:  [**2017-07-19**] 22:33:44
+Job#:  [**Job Number 7022**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) 90**] [**Last Name (NamePattern1) **] on: MON [**2017-07-24**] 9:27 AM
+(End of Report)
+

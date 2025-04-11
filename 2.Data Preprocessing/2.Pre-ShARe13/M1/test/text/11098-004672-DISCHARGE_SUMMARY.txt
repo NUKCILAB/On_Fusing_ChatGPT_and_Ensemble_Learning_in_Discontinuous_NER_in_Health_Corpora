@@ -1,0 +1,104 @@
+4672	||||	11098	||||	26352	||||	DISCHARGE_SUMMARY	||||	2017-10-16 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2017-10-10**]              Discharge Date:   [**2017-10-16**]
+
+Date of Birth:  [**1957-01-18**]             Sex:   F
+
+Service: ORTHOPAEDICS
+
+Allergies: 
+Hydrocodone
+
+Attending:[**Attending Info 2117**] 
+Chief Complaint:
+60 yo female S/P lumbar fusion [**04-29**].  Patient with continued back pain and development of junctional kyphosis.
+
+Major Surgical or Invasive Procedure:
+s/p revision posterior thoracolumbar fusion with instrumentation and iliac crest bone graft ([**2017-10-10**]).
+
+History of Present Illness:
+60 yo female s/p lumbar fusion [**04-29**].  Patient developed junctional kyphosis and disc degeneration above previous fusion construct.  Patient developed significant low back pain recalcitrant to nonoperative modalities of management.  Patient opted to pursue surgical intervention for revision of lumbar fusion with extension above thoracolumbar junction.
+
+Past Medical History:
+gastric bypass
+bilateral hip replacements 
+
+Social History:
+Denies
+
+Family History:
+N/C
+
+Physical Exam:
+[**2017-10-14**]:
+AO x 3, NAD
+Afebrile, VSS
+incsion clean, dry, intact.
+BLE:  FROM 
+[**04-28**] quadriceps/ADF/APF/[**Last Name (un) 150**]/FHL/EVERSION L2-S1 sensation intact distal pulses intact
+
+Pertinent Results:
+[**2017-10-14**] 08:50AM BLOOD WBC-5.6 RBC-3.18* Hgb-9.6* Hct-27.8*  MCV-88 MCH-30.3 MCHC-34.6 RDW-14.7 Plt Ct-86*
+[**2017-10-13**] 12:40PM BLOOD WBC-6.6 RBC-3.15* Hgb-9.5* Hct-27.5*  MCV-87 MCH-30.3 MCHC-34.7 RDW-14.8 Plt Ct-68*
+[**2017-10-12**] 08:14AM BLOOD WBC-5.4 RBC-2.99* Hgb-9.1* Hct-25.8*  MCV-86 MCH-30.3 MCHC-35.1* RDW-15.6* Plt Ct-71*
+[**2017-10-11**] 06:46AM BLOOD WBC-5.8 RBC-3.17* Hgb-9.5* Hct-27.3*  MCV-86 MCH-30.1 MCHC-35.0 RDW-16.0* Plt Ct-77*
+[**2017-10-10**] 08:08PM BLOOD WBC-4.6 RBC-2.79* Hgb-8.7* Hct-24.2*  MCV-87 MCH-31.2 MCHC-35.9* RDW-15.5 Plt Ct-90*
+[**2017-10-14**] 08:50AM BLOOD Plt Ct-86*
+[**2017-10-13**] 12:40PM BLOOD Plt Ct-68*
+[**2017-10-13**] 12:40PM BLOOD PT-12.1 PTT-26.7 INR(PT)-1.0
+[**2017-10-10**] 08:08PM BLOOD Plt Ct-90*
+[**2017-10-10**] 08:08PM BLOOD PT-12.8 PTT-29.4 INR(PT)-1.1
+[**2017-10-10**] 04:55PM BLOOD PT-13.6* PTT-30.5 INR(PT)-1.2*
+[**2017-10-13**] 06:40AM BLOOD Glucose-124* UreaN-10 Creat-1.0 Na-137  K-4.1 Cl-104 HCO3-28 AnGap-9
+[**2017-10-12**] 08:14AM BLOOD Glucose-130* UreaN-11 Creat-1.0 Na-143  K-3.9 Cl-109* HCO3-31 AnGap-7*
+[**2017-10-11**] 06:46AM BLOOD Glucose-163* UreaN-14 Creat-1.1 Na-141  K-4.7 Cl-109* HCO3-26 AnGap-11
+[**2017-10-11**] 01:32AM BLOOD Glucose-177* UreaN-16 Creat-1.1 Na-142  K-4.5 Cl-112* HCO3-24 AnGap-11
+
+Brief Hospital Course:
+Patient underwent revision lumbar fusion and extension to thoracolumbar junction on [**2017-10-10**].  Patient tolerated procedure well, but sustained significant blood loss.  She was monitored in [**Hospital Unit Name 8**] overnight without complications.  Patient did receive transfusion of PRBC's for low hematocrit.  Patient was transferred to orthopaedic floor.  She was able to resume regular diet with return of bowel function.  She was able to manage pain with oral meds.  Incision was noted to be clean, dry, and intact; wound drain was removed.   Heme/Oncology c/s was obtained because of intraoperative bleeding and concern for possible occult coagulopathy.  Heme/onc to complete workup on outpatient basis.  Patient demonstrated slow progress with PT and was deemed suitable for extend rehab stay.  After evaluation by orthopaedic spine team on [**10-14**], patient was judged ready for transfer to rehab bed.
+
+Medications on Admission:
+paroxetine
+fluticasone
+gabapentin
+
+Discharge Medications:
+
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).  
+2. Paroxetine HCl 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+3. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO HS (at bedtime).  
+4. Fluticasone 50 mcg/Actuation Aerosol, Spray Sig: One (1) Spray Nasal DAILY (Daily).  
+5. Oxycodone 20 mg Tablet Sustained Release 12HR Sig: One (1) Tablet Sustained Release 12HR PO Q12H (every 12 hours).  
+6. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed.  
+7. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed.  
+8. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.  9. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  10. Cyanocobalamin 1,000 mcg/mL Solution Sig: One (1) 1000mcg/mL Injection DAILY (Daily) for 7 days: Started [**10-15**].  
+11. Cyanocobalamin 1,000 mcg/mL Solution Sig: One (1) 1,000 mcg/mL  Injection once a week for 4 weeks: Please begin after daily dosing has completed.  
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+Junctional kyphosis s/p lumbar fusion.
+
+Discharge Condition:
+Good.
+
+Discharge Instructions:
+Keep incision clean, dry.  May shower with wound covered.
+Use brace when OOB.
+Take pain medication as directed when needed.
+Resume home medications.
+Physical Therapy:
+Ambulate as tolerated.  Patient to wear TLSO brace when OOB. Treatments Frequency:
+All sutures are soluble.  No need for removal.
+Keep incision clean, dry.  
+May leave wound open to air when dry.
+
+Followup Instructions:
+F/U Dr. [**Last Name (STitle) **] per previously scheduled appt.  ([**Telephone/Fax (2) 523**].
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) 2119**] MD [**MD Number 2120**]
+
+Completed by: [**First Name11 (Name Pattern1) 2121**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2122**] PA 80-BLU [**2017-10-16**] @ 0947
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on: TUE [**2017-10-17**] 8:25 AM
+(End of Report)
+

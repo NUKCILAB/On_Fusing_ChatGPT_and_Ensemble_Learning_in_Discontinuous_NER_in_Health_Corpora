@@ -1,0 +1,64 @@
+28983	||||	9339	||||	6299	||||	DISCHARGE_SUMMARY	||||	2012-04-07 00:00:00.0	||||		||||		||||		||||	
+Admission Date: [**2012-03-30**]        Discharge Date: [**2012-04-06**]
+
+Date of Birth:  [**1939-06-28**]        Sex:  M
+
+Service:  CSU
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**lastname 430**] is a 72 year old man who underwent coronary artery bypass grafting times three as well as a Maze procedure on the [**03-21**] with an unremarkable postoperative course.  He was discharged to rehabilitation on [**03-27**] and presented to the emergency room at [**Hospital 431**] Hospital on [**03-30**] with serosanguineous drainage from the lower aspect of his sternal wound.  The drainage began suddenly following an episode of coughing not associated with any chest pain, increasing shortness of breath, fever, chills, redness or erythema of the wound.  He was transferred to [**Hospital 193**] from [**Hospital 431**] Hospital following initial evaluation at the emergency room at [**Location (un) 431**].
+
+PAST MEDICAL HISTORY:  Is significant for coronary artery disease, status post coronary artery bypass grafting, congestive heart failure, paroxysmal atrial
+fibrillation/flutter, status post Maze procedure, hypercholesterolemia, noninsulin dependent diabetes mellitus, history of urosepsis, history of colon carcinoma, status post colonic resection, hypertension, degenerative joint disease, status post bilateral total knee replacement, abdominal aortic aneurysm and bilateral cataract surgery.
+
+SOCIAL HISTORY:  Patient lives alone.  He has a remote tobacco history, quit over 18 years ago alcohol use limited to one drink per day.
+
+FAMILY HISTORY:  Father died of prostate carcinoma.
+
+ALLERGIES:  Patient states no known drug allergies.
+
+MEDICATIONS ON ADMISSION:  Include aspirin 81 mg daily, Lasix 20 mg B.I.D., Colace 100 mg B.I.D., potassium chloride 20 mEq B.I.D., Percocet PRN, Glipizide 2.5 mg daily, amiodarone 400 mg B.I.D., Lipitor 40 mg daily, Lopressor 50 mg B.I.D.,
+Coumadin 7.5 mg daily
+
+PHYSICAL EXAMINATION:  Temperature 98.9, heart rate 67, blood pressure 138/62, respiratory rate 24, O2 saturation 94 percent on 3 liters.  Neurologic:  Alert and oriented times three, nonfocal examination.  Cardiovascular:  Regular rhythm with no murmurs, rubs or gallops, no jugular venous distension.  Respiratory:  Coarse breath sounds diminished at the bases.  Sternal wound dehiscence with serosanguineous drainage, no surrounding erythema, fluctuance or tenderness. Abdomen is soft, nontender, nondistended with normal active bowel sounds.  Extremities are warm and well perfused with trace edema and no cyanosis.
+
+HOSPITAL COURSE:  Patient was admitted to cardiothoracic surgery.  Chest x-ray showed misaligned sternal wires.  His
+Coumadin was discontinued and he was scheduled to go to the operating room upon correction of his INR.  On the [**04-01**] the patient was brought to the operating room where he underwent sternal debridement and reclosure.  The patient tolerated the operation well and was transferred from the operating room to the cardiothoracic Intensive Care Unit.  He did well in the immediate postoperative area.  His anesthesia was reversed and he weaned from the ventilator and successfully extubated.  The following morning the patient remained hemodynamically stable.  His chest tubes were removed and he was transferred to 424 for continuous postoperative management.  Over the next several days the patient had an uneventful postoperative course.  His activity level was increased with the assistance of the nursing staff as well as the physical therapy staff on [**04-05**].  A PICC line was placed for administration of long term antibiotics. At that time the patient's culture data from the operating room came back as rare coag negative staph as well as sparse enterococcus from broth culture only resistant to Vancomycin, sensitive to linezolid.  At that time it was decided that the patient was stable and ready to be transferred to rehabilitation for continuing postoperative care as well as antibiotic administration.
+
+The patient's physical examination at the time of discharge: Temperature 99, heart rate 90, blood pressure 152/75, respiratory rate 24, O2 saturation 95 percent on room air.
+Weight 99.4 kilos.  Laboratory data:  PT/INR 13.4, INR 1.1.
+Physical examination neurologic:  Alert and oriented times three, moves all extremities, follows commands, nonfocal examination.  Pulmonary:  Upper airway wheezes, otherwise clear to auscultation.  Cardiac:  Irregular rate and rhythm. Sternum is stable.  Incision with staples without erythema or drainage.  Abdomen is soft, nontender, nondistended, normal active bowel sounds.  Extremities are warm with no edema. Bilateral leg incision open to air with no erythema.  PICC line in the right antecubital space, a 4 [**Ethnicity 432**] single lumen catheter.
+
+CONDITION ON DISCHARGE:  Good.
+
+DISCHARGE DIAGNOSES:
+1. Coronary artery disease, status post coronary artery bypass grafting times three complicated by sternal drainage requiring sternal rewiring on [**04-01**].
+2. Atrial fibrillation status post Maze.
+3. Hypertension.
+4. Hypercholesterolemia.
+5. Noninsulin dependent diabetes mellitus.
+6. Degenerative joint disease, status post bilateral total knee replacement.
+7. Abdominal aortic aneurysm.
+8. Colon carcinoma, status post colonic resection.
+9. Status post bilateral cataract surgery.
+
+FOLLOW UP:  The patient is have follow up in the wound clinic one week following his discharge from [**Hospital 193**], that would be on [**06-25**] with one of the mid level practitioners, and follow up with Dr. [**Last Name (STitle) 433**] in three to four weeks.
+
+MEDICATIONS AT TIME OF DISCHARGE:  Include metoprolol 75 mg
+B.I.D., atorvastatin 40 mg daily, Percocet 5/325 one to two tablets q 4 to 6 hours PRN, amiodarone 200 mg B.I.D. times seven days, then daily, lorazepam 0.5 mg to 1 mg q 6 hours
+PRN, Combivent 2 puffs q 6 hours, Flovent 2 puffs B.I.D.,
+Lasix 40 mg daily, warfarin as directed to maintain a goal
+INR of 2 to 2.5.  The patient received 5 mg on [**04-04**] as well as
+[**04-05**].  His warfarin dose prior to admission was 7.5 mg. Colace 100 mg B.I.D. and linezolid 600 mg B.I.D. times four weeks.
+
+It should be noted that the patient will require CBC as well as liver function tests q week while he is on linezolid.  His staples can be removed on or about [**04-22**].
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) 434**], [**State/Zipcode 435**]
+
+Dictated By:[**Dictator Info 35**]
+MEDQUIST36
+D:  [**2012-04-05**] 16:25:26
+T:  [**2012-04-05**] 17:21:18
+Job#:  [**Job Number 436**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] on: SAT [**2012-04-07**] 1:06 PM
+(End of Report)
+

@@ -1,0 +1,18 @@
+167766	||||	4082	||||	24716	||||	RADIOLOGY_REPORT	||||	2014-10-22 12:56:00.0	||||	V99111 36569 PICC W/O PORT	||||		||||	Clip # 384-8086  Actual report	||||	
+DATE: [**2014-10-22**] 12:56 PM
+PICC LINE PLACMENT SCH                                          [**Clip Number (Radiology) 2379**] Reason: needs midline placed for access                             Admitting Diagnosis: AIRWAY OBSTRUCTION ********************************* CPT Codes ******************************** * 36569 PICC W/O [**State/Zipcode 73**] FLUOR GUID PLCT/REPLCT/REMOVE * * C1751 CATH [**Last Name (LF) 74**],[**First Name3 (LF) 75**]/CENT/MID(NOT D                                     * ****************************************************************************
+
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+62 year old man with NSCLC and SVC syndrome.                                    REASON FOR THIS EXAMINATION: needs midline placed for access                                                 ______________________________________________________________________________
+
+FINAL REPORT
+HISTORY:  62-year-old man with SVC syndrome.
+
+RADIOLOGISTS:  Dr. [**Last Name (STitle) 779**] and Dr. [**Last Name (STitle) 77**].  Dr. [**Last Name (STitle) 77**], the Attending Radiologist, was present throughout the procedure.
+
+FINDINGS/TECHNIQUE:  The patient was placed supine on the angiographic table and the left arm was prepped and draped in the sterile fashion.  There was in situ peripheral venous catheter Angiocath placed in the antecubital vein.  A 0.018 wire was advanced into the Angiocath and the Angiocath was exchanged for a 4.5 introducer sheath under flouroscopic guidance.  Appropriate length of the midline was measured for the tip to be positioned within the axillary vein. The PICC line was trimmed to the appropriate length and advanced over the 0.018 wire with the tip in the axillary vein.  The catheter was secured to the skin with StatLock and dressed with sterile dressing.
+
+IMPRESSION:  Successful placement of a midline via in situ peripheral venous line with the tip in the left axillary vein.
+

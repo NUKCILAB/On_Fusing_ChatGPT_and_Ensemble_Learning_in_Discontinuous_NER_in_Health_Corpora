@@ -1,0 +1,20 @@
+203738	||||	21951	||||	28549	||||	RADIOLOGY_REPORT	||||	2016-03-08 10:17:00.0	||||	C11 CHEST (PA & LAT)	||||		||||	Clip # 338-7596  Actual report	||||	
+DATE: [**2016-03-08**] 10:17 AM
+CHEST (PA & LAT)                                                [**Clip Number (Radiology) 8295**] Reason: s/p CABG w/decreased BS-r/o effusion/infiltrate             Admitting Diagnosis: MITRAL STENOSIS\CATH
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+69 year old man with                                                           
+
+REASON FOR THIS EXAMINATION:
+s/p CABG w/decreased BS-r/o effusion/infiltrate                                 ______________________________________________________________________________
+
+FINAL REPORT
+INDICATIONS:  Status post CABG with decreased breath sounds. R/O effusion/infiltrate. 
+
+PA AND LATERAL CHEST:  Comparison is made to the study from [**2016-03-03**].  Status post CABG surgery is again noted with sternal sutures and cardiovascular clips demonstrated.  There is evidence of an enlarging soft tissue opacity in the right mid zone anteriorly.  It measured 3.7 cm in diameter previously. It now measures approximately 6 cm in diameter. This could represent a localized hematoma or possibly an area of edema in the anterior chest wall. It could be further characterized by CT evaluation. The heart otherwise shows slight left ventricular enlargement. The pulmonary vessels do not indicate cardiac failure. No definite pulmonary infiltrates or pleural effusions are seen. Some minor linear atelectasis is noted at the left base laterally.
+
+IMPRESSION:
+
+1.  Enlarging soft tissue opacity in the left mid zone anteriorly following surgery. This could be a hematoma.
+

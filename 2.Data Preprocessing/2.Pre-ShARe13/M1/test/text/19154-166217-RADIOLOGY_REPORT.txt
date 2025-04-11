@@ -1,0 +1,23 @@
+166217	||||	19154	||||	7888	||||	RADIOLOGY_REPORT	||||	2012-09-11 17:36:00.0	||||	C12 CHEST (PORTABLE AP)	||||		||||	Clip # 348-5236  Actual report	||||	
+DATE: [**2012-09-11**] 5:36 PM
+CHEST (PORTABLE AP)                                             [**Clip Number (Radiology) 1700**] Reason: new hypoxia, fevers, please r/o pneumonia                   Admitting Diagnosis: SKULL FRACTURE;HEAD INJURY;SAH ______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+65 year old man with                                                         
+
+REASON FOR THIS EXAMINATION:
+new hypoxia, fevers, please r/o pneumonia                                       ______________________________________________________________________________
+
+FINAL REPORT
+CLINICAL HISTORY:  A 65-year-old male with hypoxia and fevers.
+
+TECHNIQUE:  Portable AP chest.
+
+COMPARISON:  [**2012-09-09**].
+
+FINDINGS:  Endotracheal tube, enteric tube, and right subclavian central venous catheter remain in stable position.  The cardiac and mediastinal contours are unchanged.  There has been interval improvement in the appearance of the previously evident pulmonary edema.  However, there is now a dense left retrocardiac density compatible with consolidation or collapse.  There are no definite pleural effusions, although the extreme left costophrenic angle is excluded from this study.
+
+IMPRESSION:
+1.  Improved interstitial edema.
+2.  Left lower lobe collapse versus consolidation.
+

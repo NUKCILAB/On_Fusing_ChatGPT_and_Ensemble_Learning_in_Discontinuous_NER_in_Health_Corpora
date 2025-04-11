@@ -1,0 +1,175 @@
+1840	||||	1163	||||	29384	||||	DISCHARGE_SUMMARY	||||	2014-10-06 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2014-10-01**]              Discharge Date:   [**2014-10-06**]
+
+Date of Birth:  [**1958-06-16**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 3220**] 
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Mr. [**lastname **] is a 56 year old man who was discharged on [**09-18**] after plasmapheresis x 5 for [**First Name9 (NamePattern2) 5981**] [**Location (un) **] Syndrome complicated by ileus. He was recovering at [**Hospital 154**] rehab when he woke on day of admission ([**10-01**]) with dyspnea. Vital signs were obtained and he was found to be sating 82% on 4L NC. He improved to 90% on ventimask. Patient was sent to [**Doctor First Name **] at [**Hospital1 **] on [**2014-10-01**] and went to [**Hospital Unit Name 74**] overnight prior to transfer to medicine due to respiratory improvement. Patient says he has had SOB for 6 days, when he developed SOB at rest and while lying down.  Patient has not ambulated since discharge secondary to weakness in LE from GB.  He says he has difficulty eating secondary to reflux, coughing, and choking on food, and difficulty swallowing.  His SOB worsened through the day of admission. CXR on [**2014-09-29**] at [**Hospital1 154**] revealed infiltrates in the lower lobes in addition to the RML. He was treated with levofloxacin and Timentin at [**Hospital1 154**]. He also developed a cough productive of yellowish sputum.  He complains of reflux that worsens his dyspnea.  The CXR at [**Hospital1 154**] was also thought to be consistent with CHF so he was diuresed with 80 mg IV lasix resulting with a UOP of 850 cc at [**Hospital1 154**].  Patient was receiving standing dose of 80 mg po qd lasix at [**Hospital1 154**].   A WBC count was obtained and was elevated at 10.9 on day of admission to [**Hospital Unit Name 74**]. Bilateral LENIs were obtained that were negative for DVT. An EKG was obtained that showed fist degree AV block, and nonspecific ST changes. BNP 2 days prior to admission was high at 140  (upper limit of normal is 99). On the day of admission, an ABG was obtained that showed 7.46/47/117. 
+
+As the patient had abdominal pain, an ultrasound was obtained on [**09-29**] which showed normal gallbladder, kidneys, common hepatic duct, pancreas, and spleen. It was remarkable for a mild right sided hydronephrosis and bilateral renal cysts. KUB was negative for obstruction. A day prior to admission, his lipase was found to be elevated at 107 but his amylase was normal. 
+
+In the [**Doctor First Name **], he was given vanco and flagyl. Prior to this, he received levofloxacin. 
+
+Past Medical History:
+1. Cystinuria, on penicillamine for 25 years 
+2. HTN 
+3. Remote afib, has had none for 15-20 yrs 
+4. CHF, diastolic, thought secondary to penicillamine 
+5. Primary pulmonary HTN 
+6. Chronic renal insufficiency, baseline Cr 1.9-2.2 
+7. Gout 
+8. Multiple renal cysts 
+9. h/o pancreatic mass 
+10. Chronic gastritis, GERD 
+11. Anemia 
+12. h/o elevated PSA, prostae bx negative 2003 
+13. Cutis laxa secondary to penicillamine 
+14. Restless legs syndrome 
+
+Social History:
+Lives with fiancee, works as software engineer. No tobacco, [**02-13**] drinks (glass wine) with dinner/week, no other drugs. 
+
+Family History:
+Maternal aunt with DM, stroke in 70s, PGM with DM. No cystinuria. 
+
+Physical Exam:
+PE: 
+Tm 98.4 Tc 97.2 HR 79 BP 115/64 RR 16 O2 95% on 4 L NC
+Gen: pleasant and cooperative, sitting up conversant, nasal cannula in place
+HEENT: MMM NCAT, hoarse voice (chronic), throat-MMW, no erythema, exudates
+Neck: no LAD supple, thyroid enlarged
+Cor: RRR no murmurs
+Pulm: dull at right base with crackles BL in lower lobes and RML Back: no costovertebral tenderness
+Abd: distended but no guarding, no tenderness, + BS
+Ext: WWP, DP, PT 2+ bilaterally, strength ankle flexors and extensors [**05-15**] bilaterally, upper and lower extremities [**05-15**] bilaterally; 1+ patellar reflexes BL, 2+ biceps reflexes BL, reflexes in achilles BL not able to obtain
+Neuro: CN II-XII intact. Ambulation not tested as patient says he can't walk
+Derm: skin at neck and axilla with thick consistency and hyperpigmented macules consistent with penicillamine rectal: guiac negative
+
+Pertinent Results:
+[**2014-10-03**] 05:51AM BLOOD WBC-6.9 RBC-2.74* Hgb-7.9* Hct-24.5*  MCV-90 MCH-28.8 MCHC-32.2 RDW-17.5* Plt Ct-369
+[**2014-10-03**] 05:51AM BLOOD Glucose-88 UreaN-34* Creat-1.3* Na-139  K-4.3 Cl-102 HCO3-27 AnGap-14
+[**2014-10-01**] 02:40PM BLOOD Glucose-126* UreaN-45* Creat-1.6* Na-136  K-4.6 Cl-96 HCO3-29 AnGap-16
+[**2014-10-02**] 05:24AM BLOOD Amylase-150*
+[**2014-10-02**] 05:24AM BLOOD Lipase-102*
+[**2014-10-03**] 05:51AM BLOOD Calcium-9.4 Phos-3.5 Mg-2.0
+[**2014-10-01**] 02:40PM BLOOD calTIBC-278 VitB12-699 Folate-GRATER THA  Ferritn-36 TRF-214
+[**2014-10-01**] 05:15PM BLOOD Type-ART pO2-143* pCO2-44 pH-7.46* calHCO3-32* Base XS-7
+
+Brief Hospital Course:
+# Respiratory.  Patient was sent to [**Hospital Unit Name 74**] for O2 saturation in 80's on RA.  He was treated on 4L of 02 and his respiratory status improved.  His po medications were held, as the patient was found to have an aspiration risk given his dysphagia.   Patient was treated for likely aspiration PNA confirmed on CXR. He was started on IV 500 mg qd Levofloxacin and 500 mg tid IV Flagyl x 14 days (day 1: [**10-01**]).  Patient was transferred to the medicine floor the following day due to improvement in respiratory status and an ABG within normal limits.  Patient was evaluated by speech and swallow given his difficulty swallowing secondary to his recent [**First Name9 (NamePattern2) 5981**] [**Location (un) **] Syndrome and was placed on aspiration precautions.   He was transitioned to PO 500 mg qd Levofloxacin and PO 500 mg tid Flagyl after he was evaluated and taught by speech and swallow andtransitioned to pureed solids and nectar thick liquids, later advanced to thin liquids after repeat video swallow. Patient was initially requiring 4L NC with an 02 sat of 95% and his 02 requirement decreased during his hospital stay and he was sating 95/RA on [**10-03**].
+
+# Neuro: Patient was followed for his recent diagnosis of [**First Name9 (NamePattern2) 5982**] [**Location (un) **] and was status post plasmapheresis x 5 prior to readmission. On exam, the patient had 4+ strength in his LE's and 1+ reflexes in his LE's.  The neurology service followed the patient during his admission to ensure clinical improvement of his symptoms and recommended pain control for his LE pain related to [**First Name9 (NamePattern2) 5982**] [**Location (un) **] with Ketorlac and Morphine.  A lyme titer was sent and was pending upon time of discharge, this lab should be followed up outpatient.  Patient was kept on gabapentin for pain symptoms.  Patient states neurontin makes him drowsy in the am so dosage given in the afternoon.  Patient given 300mg at 6pm and 11pm.  If needed and patient stable can titrate neurotin to 300mg at 6pm and 600mg at 11pm.
+
+# Renal: Patient has a history of chronic renal failure with baseline 1.6 secondary to cystinuria for which he was taking penicillamine. His BUN and Cr trended down during the course of the admission and he was transitioned to oral captopril, allopurinol and Polycitra-K for his cystinuria once he was transitioned from NPO to liquids and pureed solids.  Patient ACEI and Lasix were held secondary to increased Cre, however ACEI restarted when Cre back to normal.  Lasix continued to be held.  ACEI was restarted at lower dose 25mg tid from 50mg tid, can be titrated up if patient tolerates.  Since lasix being held would closely watch volume status as patient with history of flash pulmonary edema.
+
+#Anemia: The patient has a documented baseline Hct of 30-35 and a history of iron deficiency anemia.  The patient discontinued use of iron supplementation since his previous admission given his intolerance of iron and constipation.  His PCP scheduled the patient for a capsule study and evaluation for anal nodularity as an outpatient but it was delayed due to hospitalization.  His HCT on [**10-03**] dropped to 24.5 from 25.1 from the day before.  He was found to be guiac negative the evening of 9/22.  The patient was transfused 1 Unit of PRBC. He was told to follow up with his PCP regarding further workup of his anemia.  This was discussed with his PCP.
+
+# FEN/GI: The patient had a lipase of 102 and amylase 150 during his hospital stay, although he denied abdominal pain.  His abdominal exam was followed routinely throughout his hospital stay.
+Patient was given IV fluids when NPO for his risk of kidney stones given his diagnosis of cystinuria.
+
+# CV/HTN: Patient has a history of diastolic dysfunction and flash pulmonary edema. A Cardiac catheterization in [**2014-08-05**] showed normal coronaries. Echo on [**2014-07-15**] showed EF > 65% and moderate pulmonary artery systolic hypertension.
+The patient's po meds were held until [**10-03**] due to his dysphagia and he was transitioned to po norvasc, captopril, ASA, lasix, and aldactone on [**10-03**] after his evaluation by speech and swallow.  His blood pressure and fluid status remained stable during the course of his admission.  Lasix was held upon discharge given rise in Cre, this can be slowly restarted as tolerated.
+
+#H/o restless legs:  The patient was restarted on  mirapex when patient was able to take po's on [**10-03**].
+
+Medications on Admission:
+1. Allopurinol 300 mg QD.  
+2. Amlodipine 2.5 mg QD.  
+3. Folic Acid 1 mg PO BID.  
+4. Pramipexole 0.25 mg QD.  
+5. Aspirin 325 mg QD.  
+6. Acetaminophen 325 mg PRN  
+7. Spironolactone 25 mg QD  
+8. Omeprazole 20 mg QD  
+9. Sodium Citrate-Citric Acid 500-334 mg/5 mL 15 ML PO QID PRN.  
+
+10. Furosemide 120 mg PO QPM  
+11. Zolpidem Tartrate 10 mg HS PRN  
+12. Clonazepam 0.5 mg PO Q8H  
+13. Heparin SQ TID  
+14. Docusate Sodium 100 BID  
+15. Phenol-Phenolate Sodium 1.4 % Mouthwash PRN  
+16. Morphine 15 mg Tablet Sustained Release QPM  
+17. Gabapentin 300 mg BID 6 pm 10 pm.  
+18. Captopril 50 mg TID  
+19. Morphine 2 mg Injection Q4H PRN  
+20. Senna 8.6 mg PRN.  
+21. Dulcolax 10 mg PRN  
+Levofloxacin (started [**09-29**])  
+Timentin (started [**09-29**])  
+
+Discharge Medications:
+1. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)  
+Injection TID (3 times a day).  
+2. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed.  
+3. Amlodipine 2.5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+4. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).  
+5. Pramipexole 0.25 mg Tablet Sig: One (1) Tablet PO qhs ().  
+6. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+7. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+8. Zolpidem 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime) as needed.  
+9. Captopril 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).  
+10. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed.  
+11. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 times a day) for 8 days.  
+12. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 8 days.  
+13. Sodium Chloride 0.65 % Aerosol, Spray Sig: [**01-12**] Sprays Nasal  TID (3 times a day) as needed.  
+14. Allopurinol 100 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+15. Morphine Sulfate 1-5 mg IV Q4H:PRN 
+16. Pantoprazole 40 mg Recon Soln Sig: One (1)  Intravenous  Q12H (every 12 hours).  
+17. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q6PM ().  
+18. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q11PM ().  
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital 3028**] - [**Location (un) 3029**]
+
+Discharge Diagnosis:
+Primary Diagnosis
+Aspiration Pneumonia
+Secondary Diagnoses
+[**First Name9 (NamePattern2) 5981**] [**Location (un) **] 
+Cystinuria, on penicillamine for 25 years 
+HTN 
+Remote afib, has had none for 15-20 yrs 
+CHF, diastolic, thought secondary to penicillamine 
+Primary pulmonary HTN- s/p cath on [**2014-08-05**], which demonstrated normal coronary arteries and normal LV function with primary pulmonary hypertension, treated w/ lasix, aldactone, lopressor (which pt did not tolerate secondary to dizziness) 
+Chronic renal insufficiency, baseline Cr 1.9-2.2 
+Gout 
+Multiple renal cysts 
+h/o pancreatic mass 
+Chronic gastritis, GERD 
+Anemia 
+h/o elevated PSA, prostae bx negative 2003 
+Cutis laxa secondary to penicillamine 
+Restless legs syndrome 
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+Please follow up with your PCP [**Initials (NamePattern4) 67**]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 5983**] ([**Telephone/Fax (2) 5984**] upon discharge.  Please take all your medications as described, including the Levofloxacin and Flagyl for your pneumonia (last dose on [**10-14**]).   Please follow up with your PCP regarding your low hematocrit levels.   Please follow the instructions outlined for you regarding eating thin liquids and pureed solids.  Please follow up with speech and swallow for further evaluation at your rehabilitation facility.
+
+Followup Instructions:
+Please follow up with your PCP [**Initials (NamePattern4) 67**]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 5983**] ([**Telephone/Fax (2) 5984**] upon discharge.   Please follow up with your GI doctor [**First Name (Titles) **] [**Last Name (Titles) 4750**] regarding your low hematocrit levels and further workup.
+Please follow up with your neurologist as an outpatient.  
+
+[**First Name11 (Name Pattern1) 811**] [**Name7 (MD) 3225**] MD [**MD Number 813**]
+
+Completed by: [**Doctor First Name 5985**] [**Name6 (MD) 5986**] [**Name8 (MD) 5987**] MD [**MD Number 5988**] [**2014-10-06**] @ 1513
+Signed electronically by: DR. [**First Name (STitle) 811**] PARKS on: MON [**2014-10-06**] 5:59 PM
+(End of Report)
+

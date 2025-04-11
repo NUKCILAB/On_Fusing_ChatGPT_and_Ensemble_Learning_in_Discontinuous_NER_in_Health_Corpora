@@ -1,0 +1,27 @@
+622	||||	24435	||||	21375	||||	DISCHARGE_SUMMARY	||||	2012-11-05 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2012-10-29**]       Discharge Date:  [**2012-11-04**]
+
+Date of Birth:   [**1924-05-26**]       Sex:  M
+
+Service:  CARDIOTHORACIC
+
+HISTORY OF PRESENT ILLNESS:  Patient is an 80 year-old male with worsening dyspnea on exertion times one year.  His symptoms resolved with Nitropaste.  Persantine exercise
+Thallium test was negative.  Ejection fraction was estimated to be 36 percent with global hypokinesis.  Catheterization report showed a left main was patent, LAD 60 to 70 percent proximally occluded, 90 percent mid occluded, circumflex collateral to OM2 and LPL, RCA bridges collateral.
+
+Patient underwent coronary artery bypass graft times three by Dr. [**Last Name (STitle) 40**] on [**2012-10-30**] with LIMA to LAD, SVG to OM,
+SVG to RPDA.  Postoperatively patient did well.  Patient was extubated and weaned off all drips without incident.  Chest tube was removed on postoperative day number three.  However, patient's recovery course is complicated by postoperative atrial fibrillation.  Patient was put on Amiodarone and was initially rate controlled with Lopressor.  His vital signs were stable and his heart rate was controlled and patient was in sinus when transferred to the floor.  Patient essentially had no other events and recovered well on the floor.  Patient was ambulating at level three with assistance and discharge medications includes Lopressor 12.5 mg p.o. b.i.d., aspirin 81 mg p.o. q. day, Lasix 20 mg p.o. b.i.d. times five days, potassium chloride 20 mEq p.o. b.i.d. times five days, Amiodarone 400 mg p.o. b.i.d. times four then switch to 400 mg p.o. q.d. and Percocet 1 to 2 tabs p.o. q. 4 to 6 h p.r.n.
+
+The patient will be discharged to a rehabilitation facility and upon discharge his physical condition was stable, vital signs were stable, afebrile, and chest was clear.  Heart regular rate and rhythm, normal sinus.  Incision was clean, dry and intact, no drainage, no pus.  Sternum was stable.
+Patient was told to follow up with Dr. [**Last Name (STitle) 40**] in three to four weeks.
+
+[**First Name11 (Name Pattern1) 42**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 275**]
+
+Dictated By:[**Dictator Info 1408**]
+MEDQUIST36
+
+D:  [**2012-11-04**]  10:15
+T:  [**2012-11-04**]  10:23
+JOB#:  [**Job Number 2084**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 42**] [**Last Name (NamePattern1) **] on: MON [**2012-11-05**] 11:48 AM
+(End of Report)
+

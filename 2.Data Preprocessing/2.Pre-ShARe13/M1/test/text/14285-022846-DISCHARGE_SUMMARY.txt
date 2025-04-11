@@ -1,0 +1,96 @@
+22846	||||	14285	||||	972	||||	DISCHARGE_SUMMARY	||||	2012-12-09 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2012-12-06**]              Discharge Date:   [**2012-12-09**]
+
+Date of Birth:  [**1970-07-29**]               Sex:   M
+
+Service: [**Hospital Unit Name **]
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 6368**] 
+Chief Complaint:
+respiratory depression and cyanosis 
+
+Major Surgical or Invasive Procedure:
+endotracheal tube
+OG tube placement
+
+History of Present Illness:
+42 yo male found down unresponsive and cyanotic by EMS. Someone called EMS however no other person on site when EMS arrived. Pt was unresponsive with RR4. RR increased to 10 with 1mg of narcan x2. At that point, pt withdraw from pain and had slightly opened eyes with pin point pupils.  He received an additional 1 mg of narcan intra-nasally. Upon arrival at [**Hospital1 189**], RR=20, HR120's, BP 170's/100. 95% on NRB but still unresponsive. He then received an additional 1mg of narcan, pupils became reactive to light. He vomited and required intubation for airway protection. As per EMS report, the police found a brown substance on the patient that may have represented heroine and smell of alcohol. Per pt wife, he was last seen by her at 7pm last night, pt recently was d/cd of all his pain meds and had an argument with her yesterday due to pain issue.
+
+In [**Doctor First Name **], Urine tox screen positive for benzos, cocaine and opiates.  Serum tox pos for benzos, neg for ETOH, ASA, 
+Acetominophen, Barb.  Pt has increased Cr to 1.5, hyperglycemia to 163, hyperkalemia 6.2 and thrombocytosis (WBC 20.1). CXR showing opacity  of bil upper lobes ?aspiration, also w apparent mediastinal upper widening and this is likely due to the patient's positioning and technique. Head CT pending.  No Agap. ABG: 7.35 / 42 / 356 / 24 / -2, toxicology consulted.
+
+Past Medical History:
+PMH: HTN, DM, HepC dx in [**2004**], depression, IVDA x 5 yrs 1980's, back injury with chronic pain meds use, recently d/cd all pain meds. Asthma, bronchitis, OSA (use a machine when sleep at home), ?CAD.
+
+Social History:
+SHX: married with 2 kids, lives with his wife. [**Name (NI) **] worker out of hob for 2 yrs, chronic back injury from work. hx of IVDA ([**1990-08-16**]), marijuana, cocaine (1979-87), ETOH (clean from ETOH for 2 yrs; 3 detoxes since [**1995**]). 
+
+Family History:
+non contributory
+
+Physical Exam:
+Temp 101 8 rectal  in [**Doctor First Name **]
+BP 127/87
+Pulse 91 reg. 
+Resp on AC, 100% FIO2, Peep 5: 100% sat
+Gen - intubated sedated, non-responsive
+HEENT - PERRL
+Neck - thick neck
+Chest - bronchial BS anterirorly with coarse sounds
+CV - distant , Normal S1/S2, RRR, no murmurs, rubs, or gallops Abd - Soft, distended/obese, with normoactive bowel sounds Extr - No clubbing, cyanosis, or edema. 2+ DP pulses bilaterally Neuro - sedated on propofol, no limb movements, equivocal 
+Bainksi, no DTRs
+Skin - freckles, left shin psoriatic lesion
+
+Pertinent Results:
+Head CT: no bleed or evidence of mass
+CXR: ETT tube in place, bilateral upper lobe opacities
+EKG: sinus tachy about 110 bpm, nl axis, nl intervals, peaked Ts in V3-V6. Pt received insulin 10U, D50 and NaHCO3, also received charcoal 50g via OG tube. 
+
+Brief Hospital Course:
+1. mental status: Hypoperfusion vs. drugs vs seizure. Head Ct was negative for bleed or mass. Neuro status improved with improved resp failure. 
+2. respiratory status: Dec resp. drive secondary to rep depression from cocaine. Intubated in the [**Doctor First Name **] and place on AC. Over the next 24 hours, he was weaned to 40% FIO2 and PS. He was extubated 24 hours after admission and eventually able to tolerated good sats on RA.  Pt remained afebril after admission and did not need any treatment for quesiton of aspiration during intubation. 
+3. Hyper K: Due to succinylcholine used in [**Doctor First Name **]. Transiently elevated with no EKG changes, resolved in 24 hours without intervention.
+4. Elevated CK: Elevated CK on admission with negative cardiac enzyme fractions. Trended down during stay. 
+5. HTN: Stable, on labetaolol since this is better in cocaine o/d patients. D/c on metorprolol with f/u with PCP. 
+6. Elevated LFTs: Question of shock liver vs. toxic metabolic injury. Also chronic hep C. Trending down. Will give pt follow up for liver clinic. 
+7. Elevated Cr: prerenal resolved with fluids
+8. Polysubstance abuse: OGT placed for NG charcol lavage. Pt recovered from overdose. He wil reconnect with sponser for  AA/NA. Since he is from NH, it is difficult for him to use any resources from here in MA. 
+Comm: was with wife
+[**Name (NI) 1752**]: Full
+
+Pt was d/c'd home with one day vicodin script to f/u with PCP. 
+
+Medications on Admission:
+wellbutrin 300 mg SR
+
+Discharge Medications:
+1. Metoprolol Tartrate 50 mg Tablet Sig: 0.5 Tablet PO TID (3 times a day). Disp:*45 Tablet(s)* Refills:*2*
+2. Hydrocodone-Acetaminophen 5-500 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed: dispense 10 tablets. Disp:*10 Tablet(s)* Refills:*0*
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+1. Polysubstance abuse
+2. Hypertension
+
+Discharge Condition:
+Stable. 
+
+Discharge Instructions:
+If you have chest pain, shortness of breath, nausea or vomiting, please call your PCP or come to the [**Doctor First Name **]. 
+
+Followup Instructions:
+Provider: [**Name10 (NameIs) **],[**Name11 (NameIs) **]  [**Telephone/Fax (2) **]  Call to schedule appointment for the next two days. 
+
+Call Dr. [**Last Name (STitle) **] at [**Telephone/Fax (2) 1370**] 
+
+[**Name6 (MD) **] [**Name7 (MD) 6373**] MD [**MD Number 6374**]
+
+Completed by: [**Name6 (MD) 6649**] [**Name7 (MD) 6650**] MD [**MD Number 6651**] [**2012-12-09**] @ 1311
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **] on: TUE [**2013-01-15**] 2:51 PM
+(End of Report)
+

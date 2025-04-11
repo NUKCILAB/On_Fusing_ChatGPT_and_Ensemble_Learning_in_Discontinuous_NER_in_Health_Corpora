@@ -1,0 +1,52 @@
+14779	||||	15664	||||	2620	||||	DISCHARGE_SUMMARY	||||	2011-07-01 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2011-06-14**]     Discharge Date:  [**2011-07-01**]
+
+Date of Birth:   [**1940-07-15**]     Sex:  F
+
+Service:
+
+ADDENDUM:
+
+This Addendum summarizes the patient's final hospital day:
+
+1.  Gastrointestinal:  The patient is doing well on
+Erythromycin 250 mg p.o. three times a day, Colace 100 mg p.o. twice a day; Myralact one teaspoon p.o. q. day.  She is tolerating a full soft solid diet.  She has daily bowel movements.  Should the constipation recur, cathartic laxatives can be used on a p.r.n. basis.  The patient will also benefit from manual rectal stimulation.
+
+2.  Neurological:  The patient was evaluated by the Movement Disorder Service, who felt that it would be appropriate to continue on Sinemet 25/100, one tablet p.o. four times a day. They recommended crushing the tablets and dissolving them in carbonated liquid for better absorption.  They also recommended Seroquel 12.5 mg p.o. q. h.s. as an adjunct.
+
+She will follow-up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3017**] of the Movement Disorder Service.  His office will call with an appointment or can be reached at ([**Telephone/Fax (2) 3018**].
+
+CONDITION AT DISCHARGE:  The patient is discharged to [**Hospital 561**] Rehabilitation Hospital in good condition.
+
+DISCHARGE INSTRUCTIONS:
+1.  She will follow-up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3017**] at the [**Hospital 3400**] Movement Disorder Clinic as scheduled.
+2.  She will also follow-up with her primary care provider,
+Dr. [**First Name (STitle) **] [**Name (STitle) **] or [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 7501**], Nurse Practitioner, on [**2011-07-05**], at 03:40 p.m. at the [**Hospital 1195**] Clinic.
+
+DISCHARGE DIAGNOSES:
+1.  Parkinson's Disease.
+2.  Obstipation.
+3.  Hypertension.
+
+DISCHARGE MEDICATIONS:
+1.  Sinemet 25/100, one tablet p.o. four times a day, crushed and dissolved in carbonated liquid.
+2.  Colace 100 mg p.o. twice a day.
+3.  Captopril 25 mg p.o. three times a day.
+4.  Lopressor 100 mg p.o. three times a day.
+5.  Erythromycin 250 mg p.o. three times a day.
+6.  Miralax one teaspoon p.o. q. day dissolved in liquid.
+7.  Heparin 5000 units subcutaneously twice a day until ambulatory.
+8.  Lactulose 30 cc., p.o. three times a day, p.r.n. constipation. 9.  Soft/solid heart low sodium diet.
+
+[**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 255**], M.D.  [**MD Number 3596**]
+
+Dictated By:[**Dictator Info 6094**]
+
+MEDQUIST36
+
+D:  [**2011-07-01**]  13:55
+T:  [**2011-07-01**]  16:36
+JOB#:  [**Job Number 7502**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Male First Name (un) 255**] on: MON [**2011-08-01**] 10:40 AM
+(End of Report)
+

@@ -1,0 +1,126 @@
+26988	||||	15751	||||	23389	||||	DISCHARGE_SUMMARY	||||	2018-06-13 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2018-06-07**]              Discharge Date:   [**2018-06-13**]
+
+Date of Birth:  [**1937-08-09**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 565**] 
+Chief Complaint:
+DOE
+
+Major Surgical or Invasive Procedure:
+AVR(21mm CE) [**2018-06-07**]
+
+History of Present Illness:
+80 y/o male with 2 yr h/o SOB. Had Echo that revealed AS. Has had serial Echo's since, with the last done on [**04-17**] which showed worsening AS.
+
+Past Medical History:
+Aortic stenosis 
+Hypertension
+Hypercholesterolemia
+Diabetes Mellitus Type 2
+Left [**Hospital Unit Name **] Glaucoma
+Severe LE Varicosities
+h/o Bilat. Renal Calculi
+s/p bilat. cataract surgery
+s/p appendectomy
+s/p tonsillectomy
+s/p lithotripsy
+
+Social History:
+Lives with wife, retired. Quit smoking 20yrs ago (40-50 pk yrs). ETOH: 1 glass wine/day.
+
+Family History:
+Sister with RHF/valve [**Hospital Unit Name 1711**]. 
+
+Physical Exam:
+VS: 76 14 154/78 5'10" 165#
+General: Well-appearing, well-nourished elderly man
+Skin: Unremarkable, -lesions
+HEENT: PERRLA, EOMI, NC/AT
+Neck: Supple, FROM, -JVD, Murmur radiating to carotids
+Chest: CTAB, -w/r/r
+Heart: RRR, +S1S2, 2/6 SEM
+Abd: Soft, NT/ND +BS
+Ext: Warm, well-perfused, -c/c/e, +severe bilat varicosities (L>R) 2+ pulses bilat. Fem, PT, and L DP. No pulse on R DP. Neuro: CN [**02-24**] intact, non-focal, MAE [**04-17**] strengths
+
+Pertinent Results:
+[**2018-06-07**] 10:16AM BLOOD WBC-15.2*# RBC-2.89*# Hgb-9.6*#  Hct-26.3*# MCV-91 MCH-33.3* MCHC-36.5* RDW-13.8 Plt Ct-175
+[**2018-06-12**] 06:25AM BLOOD WBC-8.5 RBC-3.44* Hgb-11.0* Hct-31.5*  MCV-92 MCH-32.0 MCHC-34.9 RDW-14.2 Plt Ct-228
+[**2018-06-07**] 10:16AM BLOOD PT-16.1* PTT-40.3* INR(PT)-1.7
+[**2018-06-11**] 02:40AM BLOOD PT-13.3 PTT-26.3 INR(PT)-1.2
+[**2018-06-07**] 11:25AM BLOOD UreaN-15 Creat-0.8 Cl-105 HCO3-27
+[**2018-06-07**] 07:55PM BLOOD Glucose-111* K-3.3
+[**2018-06-12**] 06:25AM BLOOD Glucose-167* UreaN-34* Creat-0.9 Na-140  K-3.4 Cl-101 HCO3-28 AnGap-14
+[**2018-06-13**] 06:25AM BLOOD K-3.9
+
+Brief Hospital Course:
+As stated in the HPI, he is a 80 y/o male with a h/o AS who was initially seen as an outpt. He was a same day admit and brought to the operating room, where he underwent an aortic valve replacement. Please see op note for full surgical details. He tolerated the procedure well with a total bypass time of 71 minutes and cross clamp time of 58 minutes. He was transferred to CSRU in stable condition with a MAP of 60, CVP 7, PAD 13, [**Female First Name (un) **] 18, HR 87 NSR and being titrated on Neo, Propofol, and Insulin. Pt was weaned from propofol and mechanical ventilation and was extubated later on op day. He was awake, alert, MAE, and following commands. On POD #1 he was recovering well. Swan Ganz catheter was removed. Diuretics and B-blockers were started per protocol. His chest x-ray showed bibasilar atelectasis and small r. pleural effusion which was matched with bibasilar rales and dimished bs on exam. POD #2 his chest tubes were removed, but cont. to have decreased breath sounds with CXR showing cont. atelectasis and effusion. He was cont. to be aggressively diuresed along with aggressive cpt w/ postural drainage. Also received flovent and combivent and Levaquin was started for poss. pneumonia. POD #3 his epicaridal pacing wires and foley were removed. He remained in the CSRU and repeat cxr showed cont. r. effusion and atelectasis w/ poss. superimposed pnuemonia. POD #4 he appeared to be improved, but had cont. decreased bs right base. He was transferred to telemetry floor. CXR showed decreased atelectasis. By POD #5 he appeared to be doing quite well. Cont. to ambulate and get OOB. O2 sats remained alittle low depsite O2 via NC. Exam unremarkable. He was d/c'd on POD #6. Exam was unremarkable, incisions stable, breath sounds clear. Labs were stable and he would follow-up as directed. 
+
+Medications on Admission:
+1. HCTZ  50mg qd
+2. Atenolol 50mg qd
+3. Glucophage 500mg qd
+4. KCL ER 600mg qd
+5. Gemfibrozil 600mg qd
+6. Omeprazole 20mg qd
+7. Vit. E qd
+8. Omega 5 Oils
+9. Allphagan [**First Name9 (NamePattern2) **] [**Male First Name (un) 299**] 10. B-Complex
+
+Discharge Medications:
+1. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain. Disp:*50 Tablet(s)* Refills:*0*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). Disp:*60 Capsule(s)* Refills:*2*
+4. Brimonidine Tartrate 0.15 % Drops Sig: One (1) Drop 
+Ophthalmic  BID (2 times a day).
+Disp:*1 bottle* Refills:*2*
+5. Fluticasone Propionate 110 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation BID (2 times a day). Disp:*1 inhaler* Refills:*2*
+6. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: [**01-14**] 
+Puffs Inhalation Q4H (every 4 hours).
+Disp:*1 inhaler* Refills:*2*
+7. Metformin HCl 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*2*
+8. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 3 days. Disp:*3 Tablet(s)* Refills:*0*
+9. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic  HS (at bedtime). Disp:*1 bottle* Refills:*2*
+10. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: Two (2) Capsule, Sustained Release PO DAILY (Daily) for 7 days. Disp:*14 Capsule, Sustained Release(s)* Refills:*0*
+11. Lopressor 50 mg Tablet Sig: 1.5 Tablets PO three times a day. Disp:*135 Tablet(s)* Refills:*2*
+12. Lasix 20 mg Tablet Sig: One (1) Tablet PO twice a day for 7 days. Disp:*14 Tablet(s)* Refills:*0*
+13. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO once a day. Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+14. Zocor 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+
+Discharge Disposition:
+Home with Service
+
+Discharge Diagnosis:
+Aortic stenosis s/p Aortic Valve Replacement
+Hypertension
+Hypercholesterolemia
+Diabetes Mellitus Type 2
+Left [**Hospital Unit Name **] Glaucoma
+Severe LE Varicosities
+h/o Bilat. Renal Calculi
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+Follow medications on discharge instructions.
+You may not drive for 4 weeks.
+You may not lift more than 10 lbs. for 3 months.
+You should shower, let water flow over wounds, pat dry with a towel
+Do not put lotions or creams on incisions.
+
+Followup Instructions:
+Make an appointment with Dr. [**Last Name (STitle) 3378**] for 1-2 weeks. Make an appointment with Dr. [**Last Name (STitle) 776**] for 2-3 weeks. Make an appointment with Dr. [**Last Name (STitle) **] for 4 weeks.
+
+[**Name6 (MD) **] [**Name7 (MD) 574**] MD [**MD Number 575**]
+
+Completed by: [**First Name8 (NamePattern2) 388**] [**Last Name (un) 389**] PA 80-BMD [**2018-06-14**] @ 0906
+Signed electronically by: DR. [**First Name (STitle) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] on: WED [**2018-06-20**] 12:16 PM
+(End of Report)
+

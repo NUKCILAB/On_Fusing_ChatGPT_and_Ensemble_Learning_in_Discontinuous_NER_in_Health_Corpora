@@ -1,0 +1,93 @@
+23289	||||	20442	||||	1075	||||	DISCHARGE_SUMMARY	||||	2013-07-15 00:00:00.0	||||		||||		||||		||||	
+Admission Date: [**2013-07-08**]        Discharge Date: [**2013-07-15**]
+
+Date of Birth:  [**1937-09-12**]        Sex:  M
+
+Service:  CSU
+
+CHIEF COMPLAINT:  This is a 75-year-old male patient of [**firstname **]. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] and [**firstname **]. [**First Name8 (NamePattern2) 517**] [**Name (STitle) 224**] referred for an outpatient cardiac catheterization due to an abnormal stress echocardiogram.
+
+HISTORY OF PRESENT ILLNESS:  In [**2011-12-02**], PTA with stenting,
+[**2012-12-07**] diffuse instent restenosis of RSFA stent status post PTA of entire right SFA and a placement of a new stent.  On
+[**2013-04-10**] status post left SFA stent placement and right SFA stent placement.  Patient has a history of a silent MI approximately seven years.  For 4-6 weeks prior to admission, he had been experiencing symptoms of heartburn with activity and anxiety.  A GI workup initially revealed a stomach polyp and an esophageal polyp, which was biopsied and found negative.  Dobutamine stress echocardiogram on [**2013-07-03**] was positive for chest pain and EKG changes.  Echocardiogram revealed an EF of 50 percent, posterior basilar akinesis, aortic sclerosis, no AI, thickened mitral valve, mild MR, concentric left ventricular hypertrophy, mild-to-moderate TR, mild pulmonary hypertension, whose exercise imaging revealed mid to apical and inferior apical marked hypokinesis consistent with LAD stenosis.
+
+Patient was then referred for cardiac catheterization, which he underwent on [**2013-07-08**].  The catheterization revealed normal left main with LAD 80 percent occlusion at the origin, 80 percent mid occlusion, left circumflex occluded after a large OM-1 with a 70 percent.  OM-2 fills by collaterals and RCA occluded.  At that time, the patient was referred for coronary artery bypass grafting by [**firstname **]. [**First Name4 (NamePattern1) 458**] [**Last Name (NamePattern1) 457**].
+
+PAST MEDICAL HISTORY:  GERD.
+
+Silent MI seven years.
+
+Status post prostate cancer treated with radiation treatment.
+
+PVD status post right and left SFA stenting.
+
+Stomach polyp.
+
+ALLERGIES:  Latex.
+
+MEDICATIONS AT HOME:
+1. Zestril 40 mg q.d.
+2. Plavix 70 mg q.d.
+3. Aspirin 325 mg q.d.
+4. Ranitidine 150 mg b.i.d.
+5. Lasix 5 mg q Monday and Thursday.
+6. Prilosec 40 mg b.i.d.
+7. Folic acid 1.6 mg daily.
+8. Multivitamin daily.
+9. Flomax 0.4 mg daily.
+10.      Norvasc 2.5 mg q Monday, Wednesday, and Friday, and 5 mg q Tuesdays, Thursdays, and Saturdays.
+11.      Lipitor 5 mg daily.
+12.      Fish oil 1000 mg daily.
+13.      Lorazepam prn for anxiety.
+14.      Cranberry capsules 405 mg q.h.s.
+
+PHYSICAL EXAMINATION ON ADMISSION:  Heart rate 88, blood pressure 110/63.  General:  Alert and oriented times three.
+Head is normocephalic, atraumatic.  Neck is supple, no bruits.  Chest was clear to auscultation bilaterally.
+Cardiac:  Regular, rate, and rhythm, normal S1, S2.  Abdomen is soft, nontender, nondistended.  Neurologic:  Grossly intact.  Pulses:  2 plus bilateral radial, 2 plus left femoral, and 1 plus right dorsalis pedis.
+
+LABORATORY DATA AT DISCHARGE:  WBC 4.9, hematocrit 30.0, platelets 184, BUN 18, creatinine 1.3.
+
+Chest x-ray from day of discharge pending.
+
+SUMMARY OF HOSPITAL COURSE:  The patient was admitted on
+[**2013-07-08**] for cardiac catheterization, and was subsequently referred for coronary artery bypass grafting.  He went to the operating room under the care of [**firstname **]. [**First Name4 (NamePattern1) 458**] [**Last Name (NamePattern1) 457**] on [**2013-07-09**].  He underwent a CABG x5 with a LIMA to the LAD and saphenous vein grafting to D1, OM, ramus, and PDA.  His OR course was uneventful with a cross-clamp time of 89 minutes and a bypass time of 106 minutes.
+
+He left the operating room, and was transferred to the
+Cardiac Surgery Recovery Unit on Levophed and propofol drips. He was extubated on the evening of the surgery.  He was transferred to the inpatient floor on postoperative day one.
+
+On postoperative day two, his chest tubes and wires were
+D/C'd.  He was followed throughout his hospital course by
+Physical Therapy and on [**07-14**], was found to have a safe level for discharge home with use of a cane, and was referred to outpatient cardiac rehab.
+
+DISCHARGE CONDITION:  T max 100, pulse 81 in sinus rhythm, blood pressure 125/70, respiratory rate 18, on room air oxygen saturation 100 percent.  Neurologic:  Awake, alert, and oriented times three.  Cardiac:  Regular, rate, and rhythm.  No murmurs, rubs, or gallops.  Respiratory:  Lungs sounds are clear bilaterally.  GI:  Positive bowel sounds.
+Abdomen is soft, nontender, nondistended.  Incisions:
+Sternal incision with staples intact, open to air, and no drainage.  Right lower extremity harvest site with Steri-
+Strips intact and open to air.
+
+DISCHARGE STATUS:  The patient will be discharged home today, [**2013-07-15**] in stable condition with visiting nurse to follow.
+
+DISCHARGE DIAGNOSIS:  Coronary artery disease status post coronary artery bypass graft times five.
+
+DISCHARGE MEDICATIONS:
+1. Lasix 20 mg p.o. q.d. for seven days.
+2. Potassium chloride 20 mEq p.o. q.d. for seven days.
+3. Aspirin 325 mg p.o. q.d.
+4. Plavix 75 mg p.o. q.d.
+5. Colace 100 mg p.o. b.i.d.
+6. Flomax 0.4 mg q.d.
+7. Lopressor 25 mg p.o. b.i.d.
+8. Lipitor 5 mg p.o. q.d.
+9. Percocet 5/325 mg 1-2 tablets p.o. q.4-6h. prn.
+
+FOLLOW-UP PLANS:  Follow up with [**firstname **]. [**First Name4 (NamePattern1) 458**] [**Last Name (NamePattern1) 457**] in approximately four weeks and cardiologist, [**firstname **]. [**First Name8 (NamePattern2) 517**] [**Name (STitle) 224**] in 1-2 weeks.  Follow up [**firstname **]. [**Last Name (STitle) 1623**] in 1-2 weeks. Visiting nurses will also follow patient as an outpatient.
+
+[**First Name11 (Name Pattern1) 458**] [**Name7 (MD) 459**], [**State/Zipcode 460**]
+
+Dictated By:[**Dictator Info 1624**]
+MEDQUIST36
+D:  [**2013-07-15**] 11:16:09
+T:  [**2013-07-15**] 11:38:46
+Job#:  [**Job Number 1625**]
+Signed electronically by: [**firstname **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] on: MON [**2013-07-15**] 12:10 PM
+(End of Report)
+

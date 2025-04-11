@@ -1,0 +1,121 @@
+17453	||||	534	||||	4395	||||	DISCHARGE_SUMMARY	||||	2015-02-11 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2015-02-02**]     Discharge Date:  [**2015-02-11**]
+
+Date of Birth:   [**1947-11-02**]     Sex:  F
+
+Service:
+
+ADMISSION DIAGNOSIS:  Bicuspid aortic valve and aortic stenosis.
+
+DISCHARGE DIAGNOSES:
+1.  Bicuspid aortic valve and aortic stenosis.
+2.  Status post aortic valve replacement with [**Last Name (un) 64**]-[**Doctor Last Name 65**] valve.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 67-year-old woman with a known congenital bicuspid aortic valve who has now developed a critical stenosis.  She presents with a presyncopal episode.
+
+The patient had a transthoracic echocardiogram in [**2014-10-07**] which demonstrated an increased peak aortic gradient of 77 mmHg.  Following a second presyncopal episode, the patient underwent cardiac catheterization in [**2015-01-07**] which showed a calculated aortic valve area of 0.7 cm2 and a relatively preserved ejection fraction of 50%.
+
+The patient subjectively reports progressive fatigue and mild dyspnea on exertion times several months.  No shortness of breath, chest pain, paroxysmal nocturnal dyspnea, or orthopnea.
+
+PAST MEDICAL HISTORY:
+1.  Bicuspid aortic valve.
+2.  Asthma.
+3.  Factor XI deficiency.
+4.  Hypertension.
+5.  Hypercholesterolemia.
+6.  Polymyalgia rheumatica.
+7.  Osteoarthritis.
+8.  Status post appendectomy.
+9.  Status post left knee arthroscopy.
+10.  Status post left donor nephrectomy.
+11.  Status post tubal ligation.
+12.  Status post incisional hernia repair.
+13.  Left bundle-branch block.
+
+ALLERGIES:  PENICILLIN (gives swelling).  CONTRAST DYE (gives hives).
+
+MEDICATIONS ON ADMISSION:
+1.  Prednisone 6 mg p.o. q.d.
+2.  Fosamax 70 mg p.o. every Thursday.
+3.  Singulair 10 mg p.o. q.d.
+4.  Hydrochlorothiazide 12.5 mg p.o. q.d.
+5.  Combivent as needed.
+6.  Advair as needed.
+7.  Vitamin E.
+8.  Vitamin C.
+9.   Calcium.
+10.  Multivitamin supplement.
+
+PHYSICAL EXAMINATION ON PRESENTATION:  The patient was an elderly woman in no acute distress.  Head, eyes, ears, nose, and throat examination revealed normocephalic and atraumatic. Pupils were equal, round, and reactive to light.  Extraocular movements were intact.  Sclerae were anicteric.  The throat was clear.  The neck was supple without lymphadenopathy or masses.  The chest was clear to auscultation bilaterally.
+Cardiovascular examination revealed a regular rate and rhythm with a 3/6 systolic ejection murmur.  The abdomen was soft, nontender, and nondistended, without masses or organomegaly. Extremities were warm.  Not cyanotic and not edematous times four.  Neurologic examination was intact.
+
+PERTINENT LABORATORY VALUES ON PRESENTATION:   Admission laboratories revealed complete blood count with a white blood cell count of 9.1, hematocrit was 35.9, and platelets were
+311.  Chemistries revealed sodium was 140, potassium was 4, chloride was 103, bicarbonate was 28, blood urea nitrogen was 16, creatinine was 0.7, and blood glucose was 108.  ALT was 37, AST was 26, alkaline phosphatase was 56, total bilirubin was 0.2.  Prothrombin time was 12, INR was 1, and partial thromboplastin time was 37.3.  Urinalysis was negative.
+
+RADIOLOGY/IMAGING:  A chest x-ray showed no acute process.
+
+HOSPITAL COURSE:  The patient was admitted for semi-elective aortic stenosis repair.
+
+Preoperatively, the patient was evaluated for her factor XI deficiency and was cleared by the Hematology/Oncology Service in order for surgery.  They investigated the past records surrounding her past surgeries; including her donor nephrectomy as well as knee arthroscopy, and made the suggestion for a bioprosthetic valve to be preferential.
+They also remarked that postoperative bleeding may be a significant complication.  They did note, however, that she had tolerated her past surgeries very well.
+
+On [**2015-02-03**], the patient underwent aortic valve replacement (minimally invasive) with a 21-mm [**Last Name (un) 64**]-[**Doctor Last Name 65**] valve.
+
+The patient tolerated the procedure well and was transferred to the Postanesthesia Care Unit with Levophed and propofol drips.  There was some bleeding in the case, and the patient was transfused 9 units of fresh frozen plasma and 1 unit of packed red blood cells in the operating room.
+
+In the Unit, the patient was started on a nitroglycerin drip and propofol was increased.  The patient was extubated in the evening on postoperative day zero.
+
+On postoperative day one, the patient had her Nipride drip weaned off as well as beginning moving to the chair with assistance.  Here, it was noted that she had an approximately 20-beat run of ventricular tachycardia which was asymptomatic and spontaneously resolved.  The patient was sleeping while this occurred.
+
+On the following days on the floor, the patient continued to work with Physical Therapy in regaining her strength and mobility.
+
+On the evening on postoperative day three, the patient had another short 7-beat run of ventricular tachycardia.  Again, she was sleeping and symptomatic.  Cardiology was consulted for evaluation and had no changes in management to recommend. The patient stayed on the floor and worked again with
+Physical Therapy and was ambulating quite well.
+
+On the evening on postoperative day six, the patient again had two short runs of ventricular tachycardia of approximately 6 beats and 4 beats while she was sleeping.
+The patient was clinically asymptomatic.  The
+Electrophysiology Service was consulted and had no further recommendations.  They stressed only continuing beta blockade with metoprolol as we were doing.
+
+On the evening on postoperative day seven, the patient had a short run of supraventricular tachycardia.  Again, the patient was asymptomatic.
+
+DISCHARGE DISPOSITION:  On postoperative day eight, the patient was discharged to home tolerating a regular diet, adequate pain control on oral pain medications, and having no more presyncopal events.
+
+PHYSICAL EXAMINATION ON DISCHARGE:  Physical examination on discharge revealed the patient was in no acute distress.  The chest was clear to auscultation bilaterally.  No sternal click.  No drainage from the incision site.  A regular rate and rhythm without murmurs, rubs, or gallops.  There was 1+ pedal edema bilaterally.
+
+PERTINENT LABORATORY VALUES ON DISCHARGE:  Laboratories on discharge revealed complete blood count with white blood cell count of 11, hematocrit was 31.6, and platelets were 333.
+Chemistry panel revealed sodium was 141, potassium was 4.7, chloride was 100, bicarbonate was 30, blood urea nitrogen was 19, creatinine was 0.9, and blood glucose was 91.   Magnesium was 2.1.
+
+MEDICATIONS ON DISCHARGE:
+1.  Aspirin 325 mg p.o. q.d.
+2.  Percocet 5/325 p.o. as needed.
+3.  Colace 100 mg p.o. b.i.d.
+4.  Prednisone 6 mg p.o. q.d.
+5.  Singulair 10 mg p.o. q.h.s.
+6.  Lasix 20 mg p.o. b.i.d. (times seven days).
+7.  Potassium chloride 20 mEq p.o. b.i.d. (times seven days).
+8.  Lopressor 25 mg p.o. b.i.d.
+9.  Combivent 1 to 2 puffs inhaled q.4-6h. as needed.
+10.  Oxazepam 5 mg to 10 mg p.o. q.h.s. as needed.
+
+CONDITION AT DISCHARGE:  Condition on discharge was good.
+
+DISCHARGE STATUS:  Discharge status was to home with Visiting Nurse Association.
+
+DISCHARGE DIET:  Discharge diet is cardiac.
+
+DISCHARGE INSTRUCTIONS/FOLLOWUP:
+1.  The patient should follow up with Cardiology (Dr. [**First Name (STitle) **]) in one to two weeks.
+2.  The patient should follow up with Dr. [**Last Name (STitle) 72**] in four weeks; address the need for diuretics and cardiac medications.
+
+[**First Name11 (Name Pattern1) 58**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 73**]
+
+Dictated By:[**Dictator Info 1248**]
+
+MEDQUIST36
+
+D:  [**2015-02-11**]  16:22
+T:  [**2015-02-11**]  16:31
+JOB#:  [**Job Number 4729**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 58**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] on: TUE [**2015-04-21**] 4:10 PM
+(End of Report)
+

@@ -1,0 +1,32 @@
+204168	||||	16134	||||	8271	||||	RADIOLOGY_REPORT	||||	2016-11-10 16:39:00.0	||||	T9112 MR HEAD W & W/O CONTRAST	||||		||||	Clip # 327-5899  Actual report	||||	
+DATE: [**2016-11-10**] 4:39 PM
+MR [**Last Name (Titles) 146**] W & W/O CONTRAST                                        [**Clip Number (Radiology) 1033**] Reason: question bony erosions of sinuses secondary to long-term asp Admitting Diagnosis: ASPERGILLOSIS\BRONCHOSCOPY RIGID; FLEXIBLE Contrast: MAGNEVIST Amt: 10
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+37 year old woman with ?invasive Aspergillosis. Please eval. for sinus involvement.
+REASON FOR THIS EXAMINATION:
+question bony erosions of sinuses secondary to long-term aspergillosis infection. recommended by ID. 
+______________________________________________________________________________
+
+FINAL REPORT
+MRI HEAD W/O&W CONTRAST
+
+CLINICAL HISTORY: Aspergillosis.
+
+TECHNIQUE: Multiplanar thin section pre and post contrast T1 weighted images, and coronal STIR images were obtained.  Some of the images are limited by patient motion.
+
+FINDINGS:
+There is soft tissue thickening in the maxillary sinuses, worse on the left than the right, as seen on the preceding day's CT.  As noted on that CT, the right inferior and middle nasal turbinates are not seen and there is a defect in the nasal septum.
+
+On the MRI, there is mild soft tissue thickening in some of the anterior ethmoid air cells.  The sphenoid sinus is well aerated.  No edema is seen in the orbits or inferior to the skull base and the visualized portions of the brain parenchyma are normal.  As noted, previously, there is opacification of the right mastoid air cells, visible on the axial images.
+
+IMPRESSION:
+1) There are defects in the nasal turbinates and the nasal septum as described on the CT.
+
+2) There is nonspecific soft tissue thickening in the maxillary sinuses and to a much lesser extent in the anterior ethmoid air cells without evidence of bone destruction or soft tissue edema surrounding the sinuses.
+
+3) The sphenoid sinus and frontal sinuses are well aerated.
+
+4) There is opacification of the right mastoid air cells, visualized on two sets of axial T1 weighted images.  The tympanic cavity appears to be well aerated.
+

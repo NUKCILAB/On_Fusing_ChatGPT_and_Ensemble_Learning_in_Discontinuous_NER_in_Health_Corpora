@@ -1,0 +1,70 @@
+27033	||||	10773	||||	15558	||||	DISCHARGE_SUMMARY	||||	2018-06-14 00:00:00.0	||||		||||		||||		||||	
+Admission Date: [**2018-05-31**]        Discharge Date: [**2018-06-14**]
+
+Date of Birth:  [**1933-07-13**]        Sex:  F
+
+Service:  CSU
+
+HISTORY OF PRESENT ILLNESS:  Ms. [**lastname 3528**] is an 84-year-old woman who presented to the [**Hospital 1719**] Emergency
+Room on the day prior to admission to [**Hospital1 **] [**Hospital1 **] complaining of chest pain while gardening. The chest pain radiated to her neck and jaw. It was associated with shortness of breath and diaphoresis. A chest x-ray showed congestive heart failure. One sublingual nitroglycerin was given, and she became hypotensive. She ruled out for a MI by enzymes. However, a chest CT done at that time revealed an ascending aortic dissection originating at the level of the RCA, and she was emergently transferred to [**Hospital **] [**Hospital **] [**First Name (Titles) **] [**Last Name (Titles) **] for definitive treatment.
+
+PAST MEDICAL HISTORY:  Significant for a non-Q-wave MI, AFib, hypertension, status post cholecystectomy, status post hemorrhoidectomy, TIA about 10 years ago, and question of cardiomyopathy.
+
+ALLERGIES:  The patient states no known drug allergies.
+
+MEDICATIONS ON ADMISSION:  Include lisinopril (no dose available), atenolol 50 daily, Lipitor (no dose available), potassium chloride 20 mEq daily, aspirin 325 daily, vitamin E (no dose available), and hydrochlorothiazide (questionable).
+
+PHYSICAL EXAMINATION ON ADMISSION:  Neurologically, alert and oriented. Moves all extremities. Follows commands. A nonfocal exam. Pulmonary reveals clear to auscultation bilaterally.
+Cardiac reveals a regular rate and rhythm with a [**03-21**] holosystolic murmur. The abdomen is benign. The extremities are warm and well perfused with no edema and palpable dorsalis pedis pulses bilateral.
+
+HOSPITAL COURSE:  The patient was evaluated in the emergency room and brought emergently to the operating room for an aortic dissection repair. Please see the OR report for full details. In summary, the patient had an ascending aortic replacement with a #28 Gelweave graft and an aortic valve resuspension. Her bypass time was 137 minutes with a cross- clamp time of 90 minutes and a shock arrest of 27 minutes.
+She tolerated the operation well and was transferred from to the operating room to the cardiothoracic intensive care unit. At the time of transfer the patient was A paced at 88 beats per minute with a mean arterial pressure of 74. The patient did well in the immediate postoperative period. Following an initial period of recovery the patient's sedation was discontinued; following which she did open her eyes and move both arms and legs; however not to command. With this, the patient became extremely hypertensive and therefore was re- sedated. Following this, the patient's oxygen demand increased and therefore it was decided to keep the patient sedated for an additional day.
+
+On postoperative day 2, the patient removed hemodynamically stable; on and off of Neo-Synephrine and nitroglycerin drips to maintain a mean arterial pressure of 60 to 70.
+Additionally, the patient's diuresis was begun. It should be noted throughout this period that the patient had intermittent periods of atrial fibrillation, for which she was treated with amiodarone.
+
+On postoperative day 3, the patient continued to have periods of atrial fibrillation with a ventricular response rate up to 150; for which she was cardioverted on numerous occasions.
+She removed on an amiodarone drip and was also treated with small beta blockade.
+
+On postoperative day 4, the patient was more hemodynamically stable. Her sedation was again discontinued. Again, she was awake. However did not follow commands, but we were able to successfully wean her ventilation.
+
+By postoperative day 5, the patient was having less frequent periods of atrial fibrillation. She remained on amiodarone and beta blockade as well. She was fully anticoagulated. The patient was again on and off of Neo-Synephrine infusion to maintain an adequate blood pressure. Neurologically she was awake, moving all extremities, and intermittently following commands. She was weaned to CPAP on the ventilator; however did not have the strength to be successfully extubated.
+
+On postoperative days 6 and 7, the patient was awake but still without strength to be successfully extubated.
+Therefore, she remained intubated during that period. She was intermittently on Neo-Synephrine while she was having her episodes of rapid atrial fibrillation. During the opposing times she required Nipride and/or nitroglycerin to control her hypertensive episodes. On postoperative day 7, the patient had a flow-by trial and was successfully extubated.
+
+By postoperative day 8, the patient was successfully weaned from all vasoactive IV medications and converted on to oral medications. She remained in the ICU during that period because she continued to have some periods of atrial fibrillation. Additionally, she required vigorous pulmonary toilet. For 2 additional days the patient remained in the ICU for pulmonary toilet. She had no further episodes of atrial fibrillation. Additionally, on postoperative day 11, the patient had a left-sided thoracentesis for approximately 600 cc of serosanguineous fluid.
+
+Ultimately, the patient was transferred from the ICU to [**Wardname 3529**]Two on postoperative day 11. Once on the floor, the patient had a relatively uneventful postoperative course. Ultimately, on postoperative day 13, it was decided that the patient would be stable and ready for transfer to rehabilitation on the following day.
+
+At the time of this dictation the patient's physical exam is as follows: Temperature of 98, heart rate of 81 (sinus rhythm), blood pressure of 128/64, respiratory rate of 24, and O2 saturation of 93% on 2 liters. Weight at discharge was 79 kilograms; preoperatively was 78 kilograms. On physical exam, neurologically alert and oriented. Moves all extremities. Follows commands, although somewhat weak and lethargic. Pulmonary reveals breath sounds are diminished bilaterally. Clear to auscultation in the upper zones.
+Cardiac reveals a regular rate and rhythm. S1 and S2. The sternum is stable. Incision is clean and dry without erythema or drainage. The abdomen is soft, nontender, and nondistended with normal active bowel sounds. The extremities are warm and well perfused with trace edema.
+
+Lab data with a sodium of 138, potassium of 4.3, chloride of 105, CO2 of 23, BUN of 26, creatinine of 0.8, glucose of 131. White count of 12.3, hematocrit of 31.5, and platelets of
+298.
+
+DISCHARGE DISPOSITION:  The patient is to be discharged to rehabilitation.
+
+DISCHARGE DIAGNOSES:
+1. Status post aortic dissection repair with #28 Gelweave graft and an aortic valve resuspension.
+2. Atrial fibrillation.
+3. Hypertension.
+4. Cholecystectomy.
+5. Hemorrhoidectomy.
+6. Transient ischemic attacks.
+
+DISCHARGE FOLLOWUP:  The patient is to have followup with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3530**] in 2 to 3 weeks and to follow up with Dr. [**Last Name (STitle) **] in 4 weeks.
+
+MEDICATIONS ON DISCHARGE:  Include Lasix 20 mg daily, potassium chloride 20 mEq daily, Colace 100 mg b.i.d.,
+Tylenol 650 mg q.4.h. as needed, bisacodyl 10 mg daily as needed, Percocet 5/325 1 to 2 tablets q.4-6h. as needed, Milk of Magnesia 30 cc daily as needed, aspirin 81 mg daily, amiodarone 400 mg b.i.d. x 7 days and then 400 mg daily x 7 days and then 200 mg daily, Combivent 2 puffs q.6h. as needed, pantoprazole 40 mg daily, Flovent 2 puffs b.i.d., albuterol 2 puffs q.6h. as needed, Atrovent 2 puffs q.6h. as needed, miconazole powder 1 application q.i.d. as needed, labetalol 300 mg t.i.d., and lisinopril 2.5 mg daily.
+
+[**Doctor First Name **] [**Doctor Last Name **], M.D. 02AAO
+
+Dictated By:[**Dictator Info 1658**]
+MEDQUIST36
+D:  [**2018-06-13**] 16:04:18
+T:  [**2018-06-13**] 16:57:40
+Job#:  [**Job Number 3531**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] on: WED [**2018-07-04**] 10:53 AM
+(End of Report)
+

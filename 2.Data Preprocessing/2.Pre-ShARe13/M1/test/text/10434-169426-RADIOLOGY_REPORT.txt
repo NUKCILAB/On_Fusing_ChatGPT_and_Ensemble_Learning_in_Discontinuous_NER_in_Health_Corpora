@@ -1,0 +1,17 @@
+169426	||||	10434	||||	28605	||||	RADIOLOGY_REPORT	||||	2016-03-08 13:39:00.0	||||	D51 N-G TUBE PLACEMENT (W/ FLUORO)	||||		||||	Clip # 335-5425  Actual report	||||	
+DATE: [**2016-03-08**] 1:39 PM
+N-G TUBE PLACEMENT (W/ FLUORO)                                  [**Clip Number (Radiology) 1379**] Reason: PLEASE PLACE DISTAL TUBE POST-PYLORIC JUNCTION              Admitting Diagnosis: FAILURE TO THRIVE
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+60 year old woman with Hep C Cirrhosis s/p transplant with repeat bx with NG Tube that is curled in the stomach.
+REASON FOR THIS EXAMINATION:
+PLEASE PLACE DISTAL TUBE POST-PYLORIC JUNCTION                                  ______________________________________________________________________________
+
+FINAL REPORT
+HISTORY:  S/P liver transplant.
+
+POST-PYLORIC TUBE PLACEMENT:  [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 9**] wire was advanced through the existing feeding tube and the feeding tube is advanced toward the pylorus.  However, it is technically difficult for the feeding tube to pass through the pylorus. The patient tolerated the procedure without complication.
+
+IMPRESSION:  The tip of the feeding tube is at the pylorus, and a follow up chest x-ray would be helpful to assess the position of the feeding tube. Discussed with the surgical resident Dr. [**Last Name (STitle) 1380**].
+

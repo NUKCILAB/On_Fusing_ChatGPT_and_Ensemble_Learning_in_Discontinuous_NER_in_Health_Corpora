@@ -1,0 +1,92 @@
+18707	||||	21312	||||	4802	||||	DISCHARGE_SUMMARY	||||	2010-11-21 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2010-11-17**]       Discharge Date:  [**2010-11-21**]
+
+Date of Birth:   [**1936-06-25**]       Sex:  F
+
+Service:  MEDICINE
+
+HISTORY OF THE PRESENT ILLNESS:  This is a 74-year-old female with a past medical history of hypertension, diabetes mellitus, and St. [**Male First Name (un) 3191**] aortic valve replacement, who was transferred to the [**Hospital1 225**] Intensive Care Unit from the [**Hospital 2076**] after a large black stool in the setting of abdominal pain.  The patient was found to be hypotensive to 82/50 with an INR of 3.5.  The blood pressure initially improved with fluids in the Emergency Department.  A nasogastric lavage was performed which demonstrated coffee ground emesis.  The hematocrit decreased to 28.1 from 32 at baseline.  The patient received high-dose proton pump inhibitors, two packed red blood cell transfusions, and 4 units of fresh frozen plasma.
+
+The patient then had an endoscopy in the Intensive Care Unit which showed two esophageal ulcers without active bleeding.
+The patient was hemodynamically stable for over 24 hours and then was transferred to the medical floor for further observation.  The patient had no further episodes of bleeding while in the hospital.  The patient was noted to have a urinary tract infection while in the Intensive Care Unit and was started on Levaquin on [**2010-11-18**].
+
+On transfer to the floor, the patient was without complaints. She denied pain.  The patient reported that her breathing was comfortable.  The patient had no chest pain.  No pain with urination.  The patient complained of hunger and demonstrated good appetite when served her dinner.
+
+PAST MEDICAL HISTORY:
+1.  AVR, on Coumadin.
+2.  Depression.
+3.  Hypertension.
+4.  Diabetes mellitus.
+5.  Aphasia.
+6.  Hypercholesterolemia.
+7.  History of CVA in [**1951**].
+8.  Decubitus ulcer with right heel osteomyelitis.
+9.  Diastolic dysfunction.
+10. Dementia.
+11. Gallstones.
+12. Spinal stenosis.
+13. History of VRE urinary infection.
+14. History of C. difficile.
+15. History of pulmonary sarcoidosis.
+16. Peripheral vascular disease.
+17. History of coronary artery disease.
+
+PHYSICAL EXAMINATION ON ADMISSION:  Vital signs:  The patient was afebrile, heart rate tachycardiac, blood pressure hypotensive to 82/50, respiratory rate tachypneic.  The patient was saturating 90% on several liters of oxygen.
+General:  The patient was a pleasant overweight female.  The pupils were equal, round, and reactive to light and accommodation.  Her heart rate was tachycardiac with a prominent A2 from St. Jude's valve.  The patient demonstrated good air movement in her lungs bilaterally.  There were faint crackles at the bases bilaterally.  The abdomen was large with active bowel sounds, nontender, nondistended, no palpable masses, no hepatosplenomegaly noted.  Extremities: Thin.  Her right foot is in a brace.  The patient had a right leg ulcer on the posterior distal calf proximal to the ankle. It was open, discharge on dry gauze, somewhat bloody in appearance.
+
+LABORATORY/RADIOLOGIC DATA:  The patient's hematocrit was noted to be 28.1 down from baseline of 32, white blood cell count 14.3, platelet count 236,000.  INR 3.5 on admission which quickly reversed to 2.0 with vitamin K.  Sodium 140, potassium initially noted to be 5.9 which is hemolyzed and was 4.5 on redraw.  Chloride 107, bicarbonate 23, BUN 103, creatinine 1.5, blood glucose 212.
+
+Chest x-ray on admission showed heart and mediastinal contours which were unremarkable.  There was a slight elevation of the right hemidiaphragm.  There were no infiltrates and no evidence of congestive heart failure.  The patient was status post a median sternotomy.
+
+HOSPITAL COURSE:  1. UPPER GASTROINTESTINAL BLEED: The patient underwent an endoscopy in the Intensive Care Unit setting which documented 2 mm ulcers in the lower one-third of the esophagus, one with adherent clot.  There was no evidence of oozing.  There was some evidence of gastritis in the gastric fundus.  There was a normal duodenum.  The patient was started on pantoprazole 40 mg IV b.i.d. and was followed with serial hematocrits for further episodes of bleeding which were not noted during the hospital course.
+
+The patient received 2 units of blood to increase her hematocrit back into the mid 30s.  On transfer to the floor, the hematocrit was stable at 34.3.
+
+2.  URINARY TRACT INFECTION:  The patient was noted to have a urinary tract infection in the Intensive Care Unit.  Urine culture grew out greater than 100,000 Klebsiella which was sensitive to Levofloxacin.  The patient was started on
+Levofloxacin for a five day course.
+
+3.  HYPERTENSION:  The patient has a history of hypertension. Initially on presentation the patient was found to be somewhat hypotensive; however, she rapidly responded to fluid boluses in the Emergency Department. The patient's blood pressure medications were held until the patient was transferred to the medical floor on hospital day number three.  The patient was restarted on Atenolol 50 mg q.d. and Lisinopril 5 mg p.o. q.d. with holding parameters for blood pressure less than 110.  The patient's blood pressure remained stable throughout the remainder of her hospital course.
+
+4.  HISTORY OF GALLSTONES:  The patient was continued on her Ursodiol throughout the hospital stay.
+
+5.  DEPRESSION:  The patient had a history of depression for which she was kept on fluoxetine during the hospital course.
+
+6.  HISTORY OF DIABETES MELLITUS:  Her last hemoglobin A1C was 6.7 in [**2010-10-04**].  The patient was on an insulin sliding scale during the hospital stay as well as placed on a diabetic diet.
+
+7.  HISTORY OF RIGHT CHRONIC DECUBITUS FOOT ULCER:  The patient has a recent history of right heel osteomyelitis and is status post a six week course of antibiotics.  During the hospital stay, the right foot ulcer had b.i.d. wet-to-dry sterile dressing changes.  The patient's heel ulcer did demonstrate minimal discharge onto the gauze dressing.
+Podiatry consult was discussed while the patient was an inpatient; however, [**Hospital 3474**] has a podiatrist on staff and it was felt that this issue was not an acute issue and could be followed-up at [**Hospital 3474**] on discharge.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE STATUS:  To [**Hospital 3474**] Facility.
+
+DISCHARGE DIAGNOSIS:
+1.  Upper gastrointestinal bleed.
+2.  Esophageal ulcers.
+3.  Urinary tract infection.
+
+DISCHARGE MEDICATIONS:
+1.  Multivitamin one cap p.o. q.d.
+2.  Fluoxetine 20 mg p.o. q.d.
+3.  Risperidone 1 mg p.o. q.d.
+4.  Atorvostatin 40 mg p.o. q.d.
+5.  Ursodiol 600 mg p.o. b.i.d.
+6.  Insulin sliding scale.
+7.  Pantoprazole 40 mg p.o. b.i.d.
+8.  Levofloxacin 250 mg p.o. q.d. times two days, last dose to be [**2010-11-22**].
+9.  Atenolol 50 mg p.o. q.d.
+10. Lisinopril 5 mg p.o. q.d.
+
+FOLLOW-UP PLANS: The patient will be discharged to [**Hospital 2076**] for follow-up care at their TCU.  The patient will return for an appointment with Dr. [**Last Name (STitle) 7268**] for repeat endoscopy to evaluate healing of her esophageal ulcers.
+
+MEDNA [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 7269**]
+
+Dictated By:[**Dictator Info 7270**]
+MEDQUIST36
+
+D:  [**2010-11-20**]  08:45
+T:  [**2010-11-21**]  09:33
+JOB#:  [**Job Number 7271**]
+
+cc:[**CC Contact Info 7272**]
+

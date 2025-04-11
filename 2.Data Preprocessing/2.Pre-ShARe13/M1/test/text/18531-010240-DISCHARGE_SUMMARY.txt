@@ -1,0 +1,147 @@
+10240	||||	18531	||||	29482	||||	DISCHARGE_SUMMARY	||||	2014-06-17 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2014-06-08**]              Discharge Date:   [**2014-06-17**]
+
+Date of Birth:  [**1957-04-21**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 1665**] 
+Chief Complaint:
+found down, Vfib arrest
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization
+intubation
+
+History of Present Illness:
+57 y/o M unknown PMH, presented to OSH after cardiac arrest. Per report, he was sitting on bench at bus station when witnessed to become unresponsive after seizure like activity. Estimated time when EMS was contacted was 13:07. EMS arrived within 3 min, found him to be in VFib arrest. He was unresponsive pulseless, apneic, pupils fixed and dilated w/ GCS of 3.  
+
+He was intubated, shocked x2 (120J, 150J), received Epi 1 mg, Lido 100 mg + 50 mg IVP and started on Lido gtt. He broke out of Vfib at around 13:17 with a pulse of 90 and pressure of 140/palp, RR of 4. He also received 100 mcg of fentanyl, 1mg versed.  
+
+He reached LGH at around 13:30 when he continued to be unresponsive, in NSR w/ BP 98/74, HR 90, Sat 100% on Vent, GCS 7. EKG showed ST elevations in infero-lateral leads (I, II, III, aVF, V4-6); right sided EKG was showed ST elevations in V4. He was placed on spinal pracautions, given ASA, Plavix, heparin gtt, integrillin gtt, cont Lido gtt and transferred to [**Hospital1 16**] for emergent cath.  
+
+Cath at [**Hospital1 16**] showed:  
+Right dominant  
+LMCA: Normal  
+LAD: mid-segment 50% lesion  
+LCX: non-dominant with occlussion of OM2 at the bifurcation with the AVG  
+LCX: distal vessel is filled from I-I collaterals  
+RCA: dominant vessel with occlussion midsegment. bridging collaterals to the distal RCA and -lr collaterals from the proximal LAD  
+
+Attempts to cross the LCX occlussion failed despite aggressive wire manipulation. lesion left untreates given chronicity of the lesion  
+
+Wire was passed through the RCA occlussion but attempts to deliver balloon in the RCA failed. there was no return of distal flow. Despite the failure of crossing hese occlusions, he remained hemodynamically stable and ST segments were normal.  
+
+Hemodynamics:  
+CO - 4.69  
+CI - 2.4  
+Mean pressures: RA 14; PCW 22, PA 24  
+
+Post-cath in the CCU, he was continued on integrillin drip, his dopamine was weanted off from 10->5->0 mcg/kg/min, Lidocaine drip was stopped at 6PM. Hypothermia protocol for VFib arrest was initiated between 19:00 and 19:15. He was noted to have a episode of posturing where he had upward deviation of eyes with extension of both his upper extremities and lower extremities. This was associated with hypertension to ~200 and tachycardia. This spontaneously resolved; however he got Ativan, Lopressor and was started on Versed, Fentanly and Vecuronium gtt per 
+Hypothermia protocol.  
+
+Past Medical History:
+no known past medical history (per wife)  
+
+Cardiac Risk Factors: no known risk factors  
+
+Social History:
+Smoked around [**03-11**] pack a day for 40 yrs, quit almost 5 yrs back  
+
+Drinks around [**05-11**] glasses of beer per day  
+
+Family History:
+h/o SCD -> father died of SCD at the age of 69  
+Mother -> hyperlipidemia  
+Sister -> Diabetes  
+
+Physical Exam:
+PE: 97.5, 87, 157/95, 100%/50% FiO2  
+Vent: AC 0.5/600/14/5  
+Gen: intubated, unresponsive  
+HEENT: bruise on forhead, NG tube, Tracheal tube  
+NECK: Cervical collar in place  
+CV: RR, NL rate. NL S1, S2. No murmurs appreciable  
+LUNGS: CTA anteriorly, occassional exp wheezing  
+ABD: Soft, NT, ND. NL BS  
+EXT: No edema. Dopplerable DP pulses bilaterally  
+SKIN: No lesions  
+NEURO: unresponsive, pupils intially on presentation to [**Hospital1 16**] were around 4mm sluggishly reactive to light, later were pinpoint [**04-11**] fentanly. vestibulo-ocular reflex was negative. rest of neurologic exam was deferred as patient was sedated and paralyzed.  
+GCS score==3 (before paralysis)  
+
+Pertinent Results:
+LGH EKG showed -- NSR @ 90, nml axis, borderline prolonged QTc, Q in 2 3 aVF; >1mm ST elevations in 2,3,aVF, V4-6 w/ ST dep in aVR, V1-2. R sided EKG showed ST elevations in V4.  
+
+[**Hospital1 16**] postcath EKG showed: resolved ST elevations w/ LVH like pattern  
+
+Cardiac Cath:
+FINAL DIAGNOSIS:     
+1. 3 vessel coronary artery disease. 
+2. Elevated left and right sided filling pressures. 
+3. Mildly depressed cardiac index. 
+4. Unsuccessful attempts to cross and open the CX and RCA occlusions 
+
+ECHO: EF 40-45%
+Left ventricular wall thicknesses and cavity size are normal.  Overall left ventricular systolic function is mildly depressed with akinesis  of the basal to mid infero-lateral wall and basal inferior wall. The aortic  root is mildly dilated at the sinus level.  
+
+Brief Hospital Course:
+57 M w/ VFib arrest, STEMI s/p cath showing 3VD, none intervened, w/ likely anoxic brain injury. Active issues during this hospitalization include:  
+
+CARDIAC PROBLEMS:
+# Rhythm/VFib arrest: Patient found in Vifib arrest in the setting of STEMI; was shocked x2, was on lido gtt, and by time arrived at [**Hospital1 16**] was in sinus rhythm.  Cooling/hypothermia protocol started within 6 hrs of cardiac arrest and continued for 24 hrs. After rewarming, he had no further arrhythmias.
+
+# STEMI: He was noted to have ST segment elevations in inferolateral leads, elevated CE's; STE resolved during PCI. He was noted to have evidence of chronic 3VD but none intervened. It was unclear whether his MI was acute or subacute given the state of his coronary arteries seen in cath. Integrillin was stopped around 90 min after cath [**04-11**] UGI bleed.  He was maintained on ASA (dose reduced), statin, BB, ACEI, IV lopressor PRN for SBP>160, HR>80, and plavix.  ECHO revealed EF 40-45%, overall left ventricular systolic function is mildly depressed with akinesis of the basal to mid infero-lateral wall and basal inferior wall.  
+
+# Pump: He mildly depressed CI, elevated PCWP; however maintaining BP well off the dopamine gtt, oxygenating well on 40% FiO2  
+
+# Neuro/Anoxic Brain injury/Seizure: On first day of admission, patient was noted to have myoclonic jerking and posturing from cerebral ischemia and seizure activity confirmed on EEG. CT head/spine revealed no bleed/stroke and C-spine cleared. He was started on dilantin and keppra for presumed status epilepticus. At family meeting with neuro, family decided to try propofol sedation to suppress seizure. While on high dose propofol, dopamine and neosynephrine were used to maintain BP. After withdrawal of propofol, pt continued to have seizure activity.
+
+# Respiratory Failure: Pt intubated on field for airway prtection. On second day of admission, patient developed either CHF/flash pulm edema or ARDS/[**Last Name (un) **]. PaO2/FiO2 was 266, CVP 10-14. Ultimately, patient responded well to diuresis with improved oxygenation.  
+
+# Hypotension: Intermittently require dopamine +/- levophed while on sedation.
+
+# Fever: LLL infiltrate, likelihood of aspiration pneumonia in addition to other respiratory issues. He started Levo/Flagyl.  All Cx NGTD.
+
+# Loose tooth: awaiting extraction from OMS  
+
+# Transaminitis: mildly elevated lactate, Transaminases; likely from shock liver.
+
+# UGIB: Initially had OP bleeding and coffee ground NG tube output in the setting of getting ASA, Plavix, Heparin, 
+Integrillin. He remained hemodynamically stable, BID PPI, bleeding decreased over hospital course, and he required no transfusions
+
+# Leukocytosis: likely from MI; now trending down.  
+
+# FEN: NPO, NG tube lavage  
+
+# PPx: PPI IV BID, heparin sq, HOB elevation  
+
+# Access: 2 piv, R SCL  
+
+# COMM: HCP is wife ([**First Name4 (NamePattern1) 1838**] [**lastname 1372**] - [**Telephone/Fax (2) 1839**]); however she does not speak English, therefor all the communication will be through her niece [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1840**] ([**Telephone/Fax (2) 1841**]). If [**Doctor First Name **] cannot be reached, then her other [**Last Name (LF) 1842**], [**First Name4 (NamePattern1) 1843**] [**Last Name (NamePattern1) 1844**] should be contacted ([**Telephone/Fax (2) 1845**])  
+
+# DISPO: Family meeting on [**06-12**], [**06-14**]. Pts wife does not wish to make any decisions regarding goals of care stating that "God will decide." Family aware of very dire prognosis.
+
+Medications on Admission:
+none
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+expired
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+n/a
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) 1666**] MD [**MD Number 1667**]
+
+Completed by: [**First Name8 (NamePattern2) 1760**] [**Last Name (NamePattern1) 1761**] MD [**MD Number 1762**] [**2015-02-13**] @ 1439
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on: TUE [**2015-02-17**] 9:34 AM
+(End of Report)
+

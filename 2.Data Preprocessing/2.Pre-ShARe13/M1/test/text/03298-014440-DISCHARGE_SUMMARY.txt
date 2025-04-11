@@ -1,0 +1,39 @@
+14440	||||	3298	||||	4795	||||	DISCHARGE_SUMMARY	||||	2013-08-09 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2013-07-23**]       Discharge Date:  [**2013-08-09**]
+
+Date of Birth:   [**1935-05-14**]       Sex:  M
+
+Service:
+
+HISTORY OF THE PRESENT ILLNESS:  Mr. [**lastname **] originally presented to an outside hospital on [**07-15**] with bright red blood per rectum, where he underwent a colonoscopy.  This did not show any evidence of bleeding.  He was sent home, but he was readmitted on the [**07-17**] with an increase in volume of stools, and he underwent a repeat colonoscopy at the outside hospital.  He was again negative by colonoscopy and he was discharged home and he was hemodynamically stable.  On the [**07-23**], he passed bowel movement and clots in large amounts to a total output of 1700 cubic centimeters.  He became hemodynamically stable and he was transferred to the [**Hospital 1026**], where he had a bleeding
+scan, EGD, upper GI series and a small bowel follow through. All of these studies were negative.  He then underwent a bleeding scan at [**Hospital 1026**], which was negative for acute bleeding, but which showed pooling blood.  He then underwent an angiography in an attempt to identify the bleeding vessels.  Angiography was also undertaken to identify the bleeding vessel to guide surgical intervention and to attempt occlusion of the bleeding vessel. At intervention radiology/angiography, the bleeding vessel was identified, however, attempted occlusion of this bleeding blood vessel was unsuccessful.  After being transferred to the Medical Intensive Care Unit, where Mr. [**lastname **] received numerous transfusion of packed red blood cells and crystalloid, Mr. [**lastname **] was prepared for surgery and underwent a subtotal colectomy on [**2013-07-27**].  Intraoperatively, Mr. [**lastname **] received 7.2 liters crystalloid, had an estimated blood loss of 500 cc and urine output of 350 cc.  Incidental finding at the time of surgery was that Mr. [**lastname **] was asplenic, presumably because his spleen had been removed at the time of his prior surgery for bleeding diverticula-a right hemicolectomy.  The procedure was without complication. The patient was transferred to the Post Anesthesia Care Unit in stable condition.
+
+Mr. [**Name13 (STitle) 6879**] past medical history was significant for diverticulosis with recurrent lower GI bleeding for which he was treated with a right hemicolectomy in [**2009**] at an outside hospital.  Past medical history also was significant for hypertension, glaucoma, rheumatic heart disease and hemorrhoids.
+
+HOME MEDICATIONS:
+1.  Hydrochlorothiazide.
+2.  Zestril.
+3.  Timolol for his glaucoma.
+4.  Proton pump inhibitor, Protonix.
+
+ALLERGIES:  Mr. [**lastname **] had no known drug allergies.
+
+Mr. [**Name13 (STitle) 6879**] postoperative course was largely uneventful and characterized by a slow, but steady recovery from his surgery.  He followed a conservative postoperative regimen, which included post-surgical bowel rest, routine labs, and chemistries.
+
+On postoperative day #4, a series of Lasix doses were started in an attempt to gently diurese the fluid that Mr. [**lastname **] had received during his surgery.  This was intended to augment the normal diuresis of third space fluid following his surgery.  As Mr. [**Name13 (STitle) 6879**] abdomen remained distended, through postoperative day #7, he was started on total parenteral nutrition on that day and this continued until he was taking adequate nutrition PO.  On postoperative day #9, Mr. [**lastname **] was started on a diet of clear liquids, which he tolerated fairly well.  But, he continued to have mild to moderate abdominal distention with minimal tenderness.  He was continued on a regimen of IV and then PO Lasix to continue his diuresis of fluids and the abdominal examination was followed serially until it was felt that he was tolerating the clear diet well and solid foods could be reintroduced.
+On postoperative day #11, as Mr. [**lastname **] was being screened for discharge from the [**Hospital 1026**], it was noted that he continued to have an oxygen requirement, which he did not have prior to his admission to the hospital. Portable chest x-ray taken at that time showed no pneumonia, but some suggestion of pulmonary edema.  More vigorous diuresis using Lasix (Furosemide) was started and by postoperative day #12, Mr. [**Name13 (STitle) 6879**] room air oxygen saturation was 98%.  He was discharged on postoperative day #12.
+
+At the time of discharge, Mr. [**Name13 (STitle) 6879**] condition was good.
+
+DISCHARGE DIAGNOSES:  Lower GI bleed/bleeding diverticula.
+
+[**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) 6880**], M.D.  [**MD Number 6881**]
+
+Dictated By:[**Dictator Info 6882**]
+MEDQUIST36
+
+D:  [**2013-08-09**]  13:03
+T:  [**2013-08-09**]  13:11
+JOB#:  [**Job Number 6883**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **] on: WED [**2014-04-23**] 11:11 AM Signed by DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **] in the absence of DR. [**First Name (STitle) **] STEER) (End of Report)
+

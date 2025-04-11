@@ -1,0 +1,127 @@
+27862	||||	12618	||||	28777	||||	DISCHARGE_SUMMARY	||||	2014-04-11 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2014-04-08**]              Discharge Date:   [**2014-04-11**]
+
+Date of Birth:  [**1991-06-19**]               Sex:   M
+
+Service: MEDICINE
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 19**] 
+Chief Complaint:
+somnolence
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+22 yo male, h/o primitive neuroectodermal tumor with mets to brain and spine, transferred from [**Hospital1 **], initially in [**Hospital Unit Name 25**] and then transferred to the floor.  He was initially diagnosed with a thoracic gangliogliom /resected in [**2012**].  He had back pain in 2/04, seen at [**Company 1119**], and was found to have mets to brain and spine.  Biopsy at that time confirmed diagnosis of NET.  At this time, he had radiation to his spine (3600 cGy) with carboplatin as sensitizer.  He then had 6 cycles of cytoxan/vincristine as maintenance, followed by high dose chemo and stem cell tx 3 months ago.  MRI 3 months after this ([**2014-03-04**]) showed some enhancement along spine at C2, mid thoracic, and sacral lesion, consistent with metastatic disease.  MRI brain was neg for disease, and cytology on LP was negative.  He started temozolomide/oral etoposided [**2014-03-24**].  Most recent MRI showed new left frontal lobe lesion among other mets.
+
+Most recently, he has been on multiple meds for pain, including Dilaudid, methadone, and he had recently had an increase in his decadron.  Thalidomide had also recently been started.  The weekend prior to admission, he had intermittent episodes of somnolence interrupted by completely lucid/alert moments.  On morning of admission, he was slurring speech, making grammatical errors.  He had a CT at [**Hospital **] (thought to have stable appearance).  His mental status partially improved after administration of Narcan.  He was transferred to [**Hospital1 79**] [**Hospital Unit Name 25**] for an ICU bed.  
+
+In the [**Hospital Unit Name 25**], his mental status continued to improve.  He was followed by neurology/neurosurgery.  Antibiotics were initially administered for ?meningitis (LP not performed), and it was felt that no emergent treatment was needed at this time.  Upon transfer to the floor, his mental status was improved but still not at baseline; he was still somnolent, drowsy, but with no new weakness, tingling, neurologic deficits.  He denies fevers/chills/stiff neck/photophobia/new urinary or bowel symptoms.  Plan is for transfer to [**Hospital1 **] if ICU bed is available vs. discharge home.
+
+Past Medical History:
+1.  Thoracic Spine Ganglioma resected 2003
+2.  Primitive Neuroectodermal tumor with mets to brain and spine, dx [**03-07**], s/p radiation, chemo; currently was on thalidomide; most recently on temozolomide/oral etoposide.
+
+Social History:
+Lives with parents
+Denies smoking, etoh, drugs
+
+Family History:
+NC
+
+Physical Exam:
+VS: afeb,   98/56  70  18
+Gen: thin male, ill-appearing, lying in bed, very pleasant
+HEENT: Pupils reactive, right larger than left, OP clear, no rashes/sores
+Neck: no LAD, no bruits appreciated, no JVD
+CV: 2/6 SEM LLSB, no r/g; with port in left SC; no erythema/tenderness
+Lungs: CTA bilaterally, no w/r/r
+Abd: soft, nt/nd, nabs, no masses appreciated
+Extr: no c/c/e, PT 1+ bilaterally
+Neuro: slight abduction of right [**Hospital Unit Name 82**], with some facial asymmetry with droop on right; UE strenght [**06-05**] bilaterally and symmetrically, LE 3/5 strength, decreased sensation to light touch in LE bilaterally; no pronator drift
+
+Pertinent Results:
+Labs: 
+BLOOD WBC-1.4* RBC-2.33*# Hgb-7.7* Hct-21.2* MCV-91 Plt Ct-35*
+
+ANC=850*
+
+Glucose-248* UreaN-8 Creat-0.6 Na-135 K-3.4 Cl-97 HCO3-34* 
+AnGap-7*
+
+Calcium-8.7 Phos-2.9 Mg-1.8
+
+MRI brain:
+Largest lesion in Left frontal lobe abutting frontal [**Doctor Last Name 85**], small amount intraventricular blood in horns of lateral ventricls, small lesions in right frontal and left cerebellar
+
+Brief Hospital Course:
+1.  Delta MS: was likely in setting of oversedation from medications. He was on dilaudid, methadone, and had recently been started on thalidomide (which can cause somnolence).  His mental status improved after Narcan, was started empirically on broad spectrum antibiotics for ?meningitis; these were stopped, however, as he has no obvious signs of meningitis.  LP was deferred given thrombocytopenia. His mental status remained stable (although not at baseline according to family).  All sedating meds continued to be held, and he was discharged just on dilaudid for pain control.  He will follow up with his primary oncologist at [**Hospital 5753**] who will arrange for further pain management and treatment. 
+
+2.  Neuroectodermal tumor: seen by neuro, neuroonc in-house; no treatment at this time.  As per his primary oncologist, will either be transferred back to [**Hospital1 **] or home tomorrow.  No worsening on MRI, no herniation or midline shift.  He had visual field cuts that were possibly new, but his neurologic exam remained stable while in-house.  Decadron was continued for possible cerebral edema.  His oncologist at [**Hospital1 **] (Dr. [**First Name (STitle) **]) will follow up with him after discharge for further management.  He will have also have ophthalmology follow up for formal visual field testing and management.
+
+3.  Pancytopenia: likely related to chemotherapy, received 1  U PRBC in [**Hospital Unit Name 25**], no signs of active bleeding.  His ANC was 540 at time of discharge, and platelets/hematocrit were stably low.  He was kept on neutropenic precautions while in-house.
+
+4.  Pain: dilaudid as needed for pain, and he was discharged on this medication.  He will follow up in the pain clinic at [**Hospital 267**] so that a better pain regimen can be determined (and oversedation can be avoided).
+
+5.  Constipation: His aggressive outpatient bowel regimen was continued.
+
+6.  Bladder function: Detrol was continued in-house.
+
+7.  Dispo: He was discharged to home, to continue on Dilaudid for pain control.  He will follow up in 2 days at [**Hospital1 **] for further management.
+
+Medications on Admission:
+Methadone 10 mg daily
+Dilaudid 4 mg prn
+Xanaflex 4 mg
+Decadron 2 mg TID
+Amitryptilline 25-50 mg qhs
+Protonix 40 mg daily
+Detrol 1 mg BID
+Senna
+Zofran
+Thalidomide 50 mg qhs
+Fiber laxative
+
+ALL: NKDA
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).  
+2. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.  3. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours). 
+
+4. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed.  
+5. Dexamethasone 2 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours). Disp:*60 Tablet(s)* Refills:*0*
+6. Hydromorphone HCl 2 mg Tablet Sig: 1-2 Tablets PO every [**05-07**] hours as needed for 4 days: Please do not take if somnolent or oversedated. Disp:*32 Tablet(s)* Refills:*0*
+7. Polyethylene Glycol 3350 17 g (100%) Packet Sig: One (1) Packet PO qhs () as needed for constipation.  
+8. Tolterodine Tartrate 1 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).  
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnoses:
+1.  Primitive Neuroectodermal Tumor
+2.  Somnolence/oversedation
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+1.  Please take all your medications exactly as described in this discharge paperwork.  
+
+2.  Please follow up with your neuro-oncologist, Dr. [**First Name (STitle) **], as described below.
+
+3.  Please call your doctor if you are experiencing fever, chills, chest pain, shortness of breath, increased weakness, or with any other concerns.
+
+Followup Instructions:
+1.  Please follow up on Monday with Dr. [**First Name (STitle) **] at [**Hospital **].  She will arrange for you to follow up in the Pain Clinic at [**Hospital 267**].  She will also arrange for you to follow up in the ophthalmology clinic for evaluation and formal visual field testing.
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) 39**] MD, PHD 12-944
+
+Completed by: [**First Name11 (Name Pattern1) 1044**] [**Name7 (MD) 1045**] MD [**MD Number 1046**] [**2014-04-14**] @ 0903
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 43**] YANG on: MON [**2014-07-07**] 8:28 PM
+(End of Report)
+

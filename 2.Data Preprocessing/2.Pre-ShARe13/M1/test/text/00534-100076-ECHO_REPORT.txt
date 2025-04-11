@@ -1,0 +1,43 @@
+100076	||||	534	||||	4395	||||	ECHO_REPORT	||||	2015-02-13 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: syncope; s/p recent bovine pericardial AVR.
+Height: (in) 66
+Weight (lb): 165
+BSA (m2): 1.84 m2
+BP (mm Hg): 105/57
+HR (bpm): 80
+Status: Inpatient
+Date/Time: [**2015-02-13**] at 17:03
+Test: Portable TTE(Complete)
+Doppler: Complete pulse and color flow
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: The left atrium is normal in size. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: The right atrium is normal in size. 
+
+LEFT VENTRICLE: Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is normal (LVEF>55%). 
+
+RIGHT VENTRICLE: Right ventricular chamber size and free wall motion are normal. 
+
+AORTA: The aortic root is normal in diameter. 
+
+AORTIC VALVE: A bioprosthetic aortic valve prosthesis is present. The transaortic gradient is normal for this prosthesis. Trace aortic regurgitation is seen. 
+
+MITRAL VALVE: The mitral valve leaflets are mildly thickened. There is mild mitral annular calcification. 
+
+TRICUSPID VALVE: Mild tricuspid [1+] regurgitation is seen. The estimated pulmonary artery systolic pressure is normal. 
+
+PERICARDIUM: There is no pericardial effusion. 
+
+Conclusions: 
+The left atrium is normal in size. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is normal (LVEF>55%). Right ventricular chamber size and free wall motion are normal. A bioprosthetic aortic valve prosthesis is present. The transaortic gradient is normal for this prosthesis. Trace aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. The estimated pulmonary artery systolic pressure is normal. There is no pericardial effusion. 
+
+Compared with the prior report (tape unavailable) of [**2014-07-30**], a biorosthetic aortic valve is present. 
+

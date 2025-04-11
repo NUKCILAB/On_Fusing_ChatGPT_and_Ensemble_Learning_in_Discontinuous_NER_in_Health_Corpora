@@ -1,0 +1,66 @@
+25729	||||	19138	||||	3406	||||	DISCHARGE_SUMMARY	||||	2013-02-21 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2013-02-02**]     Discharge Date:  [**2013-02-21**]
+
+Date of Birth:   [**1950-12-15**]     Sex:  F
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 62-year-old female with a history of chronic obstructive pulmonary disease, coronary artery disease, mitral valve replacement and was found to have a right upper lobe mass on chest x-ray in [**2012-04-03**].  The patient had a follow-up chest CT scan which confirmed the presence of a mass in the right upper lobe and collapse of that lobe in [**2012-10-03**].
+Approximately four weeks prior to admission the patient is noted to have increased dyspnea on exertion and two weeks prior to admission the patient presented to the emergency department with dyspnea on exertion and lower extremity edema.  However, at that time she left against medical advise because she did not want to have a bronchoscopy or a thoracentesis done.
+
+The patient returned two weeks later on [**02-02**] with the same symptoms of shortness of breath, dyspnea, exertion and lower extremity edema.  She also states she had a chronic cough and a 20 pound weight loss in the past year with one episode of hemoptysis.  During the initial part of the hospitalization the patient's Coumadin was discontinued.  She had lower extremity ultrasounds which were negative for deep vein thrombosis and chest x-ray showed right pleural effusion and cardiomegaly.  When the patient's INR decreased she was taken for a bronchoscopy which showed a pulsatile mass in the right middle lobe.  A biopsy and washings were performed.
+After the procedure the patient did well until approximately 90 minutes later when she went into acute respiratory distress and respiratory failure.  She was intubated and brought to the [**Hospital Unit Name 32**] for further care.  On arrival to the [**Hospital Unit Name 32**] the patient was awake and appeared comfortable not in any distress.
+
+PAST MEDICAL HISTORY:
+1.  Right upper lobe mass; see History of Present Illness.
+2.  Atrial fibrillation.
+3.  Chronic obstructive pulmonary disease.
+4.  Rheumatic heart disease with mitral valve replacement in [**1995**].
+5.  Coronary artery disease status post coronary artery bypass graft.
+6.  Pulmonary artery hypertension.
+7.  Biatrial enlargement.
+8.  Hyperlipidemia.
+9.  Hypothyroidism.
+10. History of hepatitis.
+
+SOCIAL HISTORY:  The patient is a 35-pack-year tobacco smoker who quit 12 years ago.  No alcohol or drug use.
+
+PHYSICAL EXAMINATION:  On admission the patient was intubated but following commands.  Vital signs; temperature 98.9 F, pulse 78 to 81, blood pressure 89 to 97 over 36 to 69.  The patient was having an oxygen saturation of 95 to 100% on controlled ventilation.  Chest exam significant for decreased breath sounds on the right with coarse breath sounds and scattered rales anteriorly bilaterally.  Heart exam significant for mechanical heart sounds.  Abdomen is benign. Extremities show 1+ pitting edema bilaterally with no calf tenderness.
+
+LABORATORY ON ADMISSION TO [**Hospital Unit Name 32**]:  Complete blood count; white blood cell count 9.8, hematocrit 20.6, platelet count 343,000.  Coags significant for an INR of 1.4.  Chemistry significant for bicarbonate of 38, chloride of 91.  Calcium was elevated at 11.6.  Chest x-ray showed complete opacification of the right hemothorax and a large right atrium.  Electrocardiogram showed atrial fibrillation at 80 to 85 beats per minute with right axis deviation and T-wave inversions in leads 2, 3 and aVF with nonspecific ST changes.
+
+HOSPITAL COURSE:
+1.  Right upper lobe mass.  Due to the size and nature of the mass seen by x-ray and CT as well as bronchoscopy it most likely represented a malignancy.  However, the biopsy obtained during the bronchoscopy was not definitive. Numerous sputum cytologies were sent which showed highly atypical keratinized squamous cells highly suspicious for non-small cell lung cancer.  The patient was offered more definitive diagnostic modality such as a transthoracic CT guided needle biopsy; however, she did decline due to the likelihood that this was malignancy.  PTH related peptide was also sent as the patient was hypercalcemic and this showed that there was an elevated level of PTHrP which again made lung cancer the most likely and very likely diagnosis.
+
+Both oncology, radiation oncology and CT surgery were consulted for recommendations on treatment options.
+Radiation oncology felt that the mass was too large to receive radiation for treatment, however the patient could receive radiation for palliative reasons, perhaps to improve compression on large airways which may improve her respiratory function.  Therefore, the patient was taken for two doses of radiation, however, this did not resolve the insignificant improvement in any of her symptoms including her respiratory function.  Neither the oncology service nor the cardiac thoracic surgery service felt that there was any definitive treatment that could be done to significantly improve the patient's mortality.
+
+2.  Respiratory failure.  The patient's respiratory failure was thought to be secondary to the large right lung mass as well as the copious amount of secretions that she was producing possibly secondary to the lung mass and combination of her underlying lung disease of chronic obstructive pulmonary disease.  She was continued on mechanical ventilation for her entire Intensive Care Unit stay until the last day.  She was also given inhalers for bronchodilation for her chronic obstructive pulmonary disease.  Numerous attempts were made to wean the patient from the ventilator.
+Finally, it was decided since the patient had a terminal illness that the patient and the family both wanted to try extubation and spontaneous breathing.  The patient was therefore extubated per her wishes.  Initially she did well but after approximately two hours the patient went into respiratory arrest and passed away.  Prior to her extubation it was decided that were the patient go into respiratory arrest she would not be reintubated or resuscitated.
+
+3.  Cardiovascular.  The patient had a rate that appeared to be junctional while she was in the Intensive Care Unit.  She was initiated on digoxin; however, was taken off of this and her rate was well controlled.  She did not require any other nodal agents for rate control.  The patient was maintained on anticoagulation for an artifical valve.
+
+Shortly after extubation the patient was found to be asystolic on Telemetry monitor.  She passed away at 1:44 p.m. on [**2013-02-21**].
+
+DISCHARGE DIAGNOSIS:
+1.  Lung cancer.
+2.  Intermittent atrial fibrillation.
+3.  Chronic obstructive pulmonary disease.
+4.  Hypercalcemia malignancy.
+5.  Coronary artery disease.
+
+Postmortem examination was declined by the family.
+
+[**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **], M.D.  [**MD Number 6499**]
+
+Dictated By:[**Dictator Info 5458**]
+
+MEDQUIST36
+
+D:  [**2013-04-04**]  15:17
+T:  [**2013-04-05**]  09:57
+JOB#:  [**Job Number 7760**]
+
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] on: MON [**2013-04-08**] 11:44 AM
+(End of Report)
+

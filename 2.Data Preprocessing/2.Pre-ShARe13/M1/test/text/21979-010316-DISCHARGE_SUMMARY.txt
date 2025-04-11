@@ -1,0 +1,98 @@
+10316	||||	21979	||||	18539	||||	DISCHARGE_SUMMARY	||||	2019-06-02 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2019-05-30**]              Discharge Date:   [**2019-06-02**]
+
+Date of Birth:  [**1971-04-19**]               Sex:   M
+
+Service: MEDICINE
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 1871**] 
+Chief Complaint:
+admit via [**Doctor First Name **] for PNA 
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+48 year old man with MMP including Downs syndrome was referred  today from his rehab facility with increasing resp distress. By report via the [**Doctor First Name **], he had an event this AM where he desatureated to 80%.  
+
+He was recently admitted to [**Hospital1 16**] on [**05-21**] - [**05-28**] for PNA as well. 
+He had a similar presentation, with an O2 sat in the 80's. He was treated for a LLL PNA with Zosyn for 7 days with improvement in his O2 sats. He was noted to have difficulty managing his secretions. Dr. [**Last Name (STitle) **] called in to the [**Doctor First Name **] saying that the patient cannot swallow and tha the guardian would want a G-tube placed if needed. He was newly made NPO a [**05-30**] 3PM at NH for unknown reasons.  
+
+In the [**Doctor First Name **], his vitals were 102.8, HR 130, BP 146/77, RR 28, 100% O2 sat on NRB. He recieved 4L NS (Lactate only down 1.5). He recieved haldol 10, levofloxacin, vancomycin, flagyl, and tylenol in the [**Doctor First Name **].  
+
+On exam in the FICU, he is a middle aged gentleman yelling. He is non verbal. He is not able to answer questions.  
+
+Past Medical History:
+- Downs syndrome  
+- Alzheimer's dementia  
+- Hepatitis B  
+- Urinary retention  
+- UTI with citrobacter (sensitive to fluoroquinolones) in 
+February  
+- Tonsilar hypertrophy, requires nectar liquids and pureed solid diet   - T9-T12 compression fractures and bilateral hip fractures dx'd in February and subacute appearing on xrays at that time  
+
+Social History:
+Had previously lived in group home because of Down's syndrome; has been Rosecommon ([**Hospital1 **]) resident since February because of need for PT/OT following diagnosis of subacute hip fractures
+
+Family History:
+Noncontributory 
+
+Physical Exam:
+99.5 125/62 118 33 98% 50% FM  
+Gen: nonverbal, moans when touched. moderate resp distress with loud upper airway secretion sounds.  
+HEENT: OP clear, mm dry  
+CV: heart sounds obscurred by breath sounds  
+Pulm: transmitted upper airway sounds, pt unwilling to cooperate with exam  
+Abd: scaphoid, soft, NABS  
+Ext: LE contractures, decreased bulk, min edema. sitting with legs crossed.  
+Skin: no rashes  
+
+Pertinent Results:
+[**2019-05-30**] 09:40PM   PLT SMR-VERY HIGH PLT COUNT-651*
+[**2019-05-30**] 09:40PM   NEUTS-94.3* BANDS-0 LYMPHS-4.2* MONOS-1.3*  EOS-0.1 BASOS-0.1
+[**2019-05-30**] 09:40PM   WBC-15.9*# RBC-3.67* HGB-11.0* HCT-33.8*  MCV-92 MCH-30.0 MCHC-32.6 RDW-15.0
+[**2019-05-30**] 09:40PM   CALCIUM-8.6 PHOSPHATE-4.3 MAGNESIUM-2.1
+[**2019-05-30**] 09:40PM   estGFR-Using this
+[**2019-05-30**] 09:40PM   GLUCOSE-157* UREA N-15 CREAT-1.1 SODIUM-147*  POTASSIUM-3.9 CHLORIDE-111* TOTAL CO2-20* ANION GAP-20
+[**2019-05-30**] 09:55PM   LACTATE-5.5* K+-3.5
+[**2019-05-30**] 09:55PM   TYPE-[**Last Name (un) 17**] COMMENTS-NOT SPECIF
+[**2019-05-30**] 11:37PM   LACTATE-4.0*
+[**2019-05-30**] 11:37PM   COMMENTS-GREEN TOP
+
+Brief Hospital Course:
+Mr. [**lastname 2290**] was initially kept strictly NPO due to his suspected aspiration pneumonia.  He was treated with vancomycin and Zosyn for empiric coverage.  He was given supplemental oxygen via a face tent with standing nebulizer treatments.  In spite of his NPO status, he was having frequent episodes of intermittent hypoxia requiring suctioning of thick, tenacious secretions.  This, in addition to serial CXRs revealed that he was clearly aspirating his secretions on a continuous basis in spite of his NPO status.  Due to this as well as his baseline dementia, it was thought that putting in a PEG tube for nutrition would not solve the problem of aspiration since he was clearly unable to manage his own secretions.  Furthermore, it was clear that he would need constant restraints to avoid traumatic removal of a PEG, which was thought to be an unacceptable impairment in his quality of life.  In the setting of all of these issues and his severe, acute, worsening aspiration pneumonia, he was made comfort-measures-only by his family and legal guardian; he was put on a morphine drip to help with his obvious discomfort, and he expired shortly thereafter.
+
+Medications on Admission:
+Famotidine 20 mg PO BID  
+Hexavitamin Tablet PO DAILY (Daily).  
+Calcium Carbonate 500 mg Tablet,(2) Tablet, Chewable PO DAILY  Cholecalciferol (Vitamin D3) 400 unit Tablet Daily).  
+Haldol 1 BID  
+Acetaminophen 325 mg (2) Tablet PO every six (6) hours as needed for pain.  
+celexa 10  
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Aspiration pneumonia
+Down's syndrome
+Alzheimer's dementia
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+n/a
+
+Followup Instructions:
+n/a
+
+[**First Name11 (Name Pattern1) 1744**] [**Name7 (MD) 1876**] MD [**MD Number 1877**]
+
+Completed by: [**First Name8 (NamePattern2) 189**] [**Last Name (NamePattern1) 1990**] [**Name8 (MD) 1991**] MD [**MD Number 1992**] [**2019-06-25**] @ 1632
+Signed electronically by: DR. [**First Name4 (NamePattern1) 1744**] [**Last Name (NamePattern1) **] on: WED [**2019-07-17**] 1:46 PM
+(End of Report)
+

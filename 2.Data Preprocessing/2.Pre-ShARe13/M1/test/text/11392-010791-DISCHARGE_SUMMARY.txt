@@ -1,0 +1,165 @@
+10791	||||	11392	||||	27321	||||	DISCHARGE_SUMMARY	||||	2016-06-01 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2016-05-26**]              Discharge Date:   [**2016-06-01**]
+
+Date of Birth:  [**1964-01-25**]             Sex:   M
+
+Service: SURGERY
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 2661**] 
+Chief Complaint:
+s/p Assault
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+52 yo male s/p assault; he was taken to an area hospital where he was found to have an orbital fracture. He was then transferred to [**Hospital1 16**] for further care.
+
+Past Medical History:
+AIDS
+HCV
+GERD
+Depression
+PTSD
+Substance abuse
+
+Social History:
+Resides in a group home on [**Location (un) 2338**]
+
+Family History:
+Noncontributory
+
+Pertinent Results:
+[**2016-05-26**] 10:14PM   GLUCOSE-98 LACTATE-2.9* NA+-142 K+-3.9  CL--108
+[**2016-05-26**] 09:50PM   UREA N-13 CREAT-1.0
+[**2016-05-26**] 09:50PM   AMYLASE-169*
+[**2016-05-26**] 09:50PM   ALT(SGPT)-301* AST(SGOT)-188* ALK PHOS-139*  TOT BILI-2.6*
+[**2016-05-26**] 09:50PM   cTropnT-<0.01
+[**2016-05-26**] 09:50PM   ASA-NEG ETHANOL-175* ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2016-05-26**] 09:50PM   WBC-5.9 RBC-4.29* HGB-14.9 HCT-42.0 MCV-98  MCH-34.8* MCHC-35.6* RDW-13.4
+[**2016-05-26**] 09:50PM   PT-12.4 PTT-27.9 INR(PT)-1.1
+[**2016-05-26**] 09:50PM   PLT COUNT-145*
+
+CT HEAD W/O CONTRAST
+
+Reason: S/P ASSAULT. ? BLEED.
+
+UNDERLYING MEDICAL CONDITION:
+52 year old man s/p assault GCS 7 
+REASON FOR THIS EXAMINATION:
+r/o bleed 
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: 52-year-old man status post assault, left intracranial hemorrhage.
+
+COMPARISON: None.
+
+TECHNIQUE: Non-contrast head CT.
+
+CT HEAD WITHOUT IV CONTRAST: No intracranial hemorrhage or mass effect is identified. The ventricles are symmetric, and there is no shift of normally midline structures. The gray-white matter differentiation is preserved.
+
+There is extensive soft tissue swelling overlying the left orbit in the area of known trauma. Additionally, there are fractures involving the lateral aspect of the left orbit and left maxillary sinus, and fluid can be seen within the left maxillary sinus. There is also opacification of several anterior ethmoid air cells along the medial wall of the orbit. This area is better evaluated on the dedicated CT scan of the sinuses performed the day. A small amount of fluid is seen within the sphenoid sinus. The middle ear cavities and mastoid air cells are well aerated.
+
+IMPRESSION:
+
+1. No intracranial hemorrhage or mass effect.
+
+2. Soft tissue swelling overlying the left orbit, along with fracture involving the left lateral orbital wall are better evaluated on the dedicated CT scan of the facial bones performed at the same time.
+
+CT C-SPINE W/O CONTRAST
+
+Reason: S/P ASSAULT. ? FX
+
+UNDERLYING MEDICAL CONDITION:
+52 year old man s/p assault GCS 7 
+REASON FOR THIS EXAMINATION:
+r/o fx 
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: 52-year-old man status post assault with a GCS of 7, evaluate for fracture.
+
+COMPARISON: None.
+
+TECHNIQUE: Contiguous axial images of the cervical spinal canal. Coronal and sagittal reformatted images.
+
+CT C-SPINE: Patient is intubated and has an NG tube in place. There is no malalignment. No definite fractures are identified. There are degenerative changes at C3-4 with osteophytes narrowing the spinal canal and potential mildly indenting the spinal cord. At C4-5 a large osteophyte narrows the canal and the left neural foramen. It likely compresses the left side of the spinal cord. At C5-6 a large osteophyte narrows the spinal canal and likely compresses the cord. There is bilateral neural foraminal narrowing. An uncovertebral osteophyte narrows the left foramen at C6-7.
+
+There is no significant prevertebral soft tissue swelling. CT is limited evaluation of intrathecal contents.
+
+IMPRESSION: No fracture or malalignment. Degenerative changes are seen which result in narrowing of the spinal canal and neural foramina at multiple levels.
+
+CT SINUS/MANDIBLE/MAXILLOFACIA
+
+Reason: S/P ASSAULT. ? FX
+
+UNDERLYING MEDICAL CONDITION:
+52 year old man s/p assault from the field. 
+REASON FOR THIS EXAMINATION:
+r/o fracture 
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: 52-year-old man with history of assault.
+
+TECHNIQUE: Axial non-contrast images of paranasal sinuses were obtained.
+Coronal reformatted images were prepared on a separate workstation.
+
+SINUS CT: There are fractures of the medial, inferior, and lateral walls of the left orbit. There is fluid accumulation within the left maxillary sinus , frontal, sphenoid and ethmoid sinuses, with no other evidence of fracture within the bony walls of the sinus. The right maxillary sinus, right ethmoid sinus, and right frontal sinus have normal appearance. The cribriform plates are not equal in height. The anterior clinoid processes are not pneumatized. The nasal septum is in midline.
+
+IMPRESSION:
+
+1. Fracture of the medial, inferior, and lateral walls of left orbit.
+
+2. Fluid accumulation within the sphenoid sinus, left maxillary sinus, left ethmoid sinus, and left frontal sinus with no other evidence of fractures within the bony plates of these sinuses.
+
+Brief Hospital Course:
+He was admitted to the [**Hospital Unit Name 4002**] Service. Plastic Surgery was consulted given his orbital fracture; this injury was nonoperative. He will follow up in 2 weeks with Plastics Clinic for further treatment of this injury. Ophthalmology was also consulted to rule out any [**Hospital Unit Name 107**] injuries; no acute injuries were identified. it is being recommended that he follow up as outpatient for a full [**Hospital Unit Name 107**] examination.
+
+Psychiatry was also consulted for concerns over possible suicidality and also given his history of depression and substance/EtOH use. He was placed on 1:1 sitters. It was initially thought that he may require an inpatient psychiatric stay. The Psychiatrist following him here was able to obtain the name of his mental health providers outpatient and these individuals were contacted. It is being recommended that he transfer to an inpatient Psychiatric facility upon discharge once medically stable.
+
+On [**2016-05-30**] he was medically cleared by the Surgery Attending of record for discharge to inpatient Psychiatric facility. His home medications were restarted. Psychiatric nurse case manager was notified to initiate transfer to inpatient facility.
+
+Physical therapy was also consulted because of balance issues. He was cleared on [**2016-05-30**]. 
+
+Medications on Admission:
+Antiretroviral medications
+Seroquel
+
+Discharge Medications:
+1. Emtricitabine-Tenofovir 200-300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. Atazanavir 150 mg Capsule Sig: Two (2) Capsule PO DAILY (Daily).  
+3. Ritonavir 100 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).  
+4. Quetiapine 25 mg Tablet Sig: One (1) Tablet PO HS (at bedtime): May repeat x1 if not asleep within 1 hour.  
+5. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO every 4-6 hours as needed for pain.  
+6. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as needed for constipation.  
+7. Milk of Magnesia 800 mg/5 mL Suspension Sig: [**11-07**] ML's PO at bedtime as needed for constipation.  
+8. Nicotine 7 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr Transdermal DAILY (Daily).  
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+s/p Assault
+Left orbital fracture
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+Return to the Emergency room if you develop any fevers, headache, visual disturbances, dizziness, chest pain, increased shortness of breath, abdominal pain and/or any other symptoms that are concerning to you.
+
+Followup Instructions:
+Follow up with your primary psychotherapists after discharge; you will need to calll for an appointment.
+
+Follow up in Plastics Clinic in 1-2 weeks, call [**Telephone/Fax (2) 4003**] for an appointment.
+
+Follow up in [**Hospital 4004**] Clinic in 2-3 weeks, call [**Telephone/Fax (2) 2236**] for a appointment to have a follow up [**Hospital Unit Name 107**] examination.
+
+[**First Name11 (Name Pattern1) 451**] [**Name7 (MD) 2663**] MD [**MD Number 2664**]
+
+Completed by: [**First Name11 (Name Pattern1) 488**] [**Name7 (MD) 489**] NP 80-BYL [**2016-05-31**] @ 1449
+Signed electronically by: DR. [**First Name (STitle) 451**] SCHNEIDER on: WED [**2016-06-01**] 1:11 PM
+(End of Report)
+

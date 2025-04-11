@@ -1,0 +1,54 @@
+1.DataSets：
+	1.CADEC資料夾中擁有原始資料"CADEC.v2.zip"，其中使用壓縮檔內的"original"與"text"資料夾。
+	2.ShARe13資料夾中擁有原始資料"shareclef-ehealth-2013.zip"，其中使用壓縮檔內的"Task1TestSetCorpus100.zip"與"Task1TrainSetCorpus199.zip"與"Task1TrainSetGOLD199knowtatorehost.zip"壓縮檔。
+
+	3.ShARe14資料夾中擁有原始資料"shareclef-ehealth-evaluation-lab-2014"其中使用壓縮檔內的"2014ShAReCLEFeHealthTasks2_training_10Jan2014.zip"與"ShAReCLEFeHealth2014_test_data_gold.zip"與"ShAReCLEFeHealth2014Task2_test_default_values.zip"壓縮檔。
+
+	###詳情可查看資料夾內的圖片說明。
+
+
+================================================================================
+2.Data Preprocessing:  
+五個模型都是基於第一個模型的預處理將資料轉化成json的格式，之後再轉換成符合自身模型的資料訓練格式。因此第一個模型的預處理最重要。
+	1.三個Pre資料集中都有五個資料夾(M1,M2..,M4-5)，分別代表了五個模型在此資料集中的預處理(M4-5代表模型4與5)。
+	2.資料夾(Pre-CADEC→M1)中，請把CADEC原始資料的"original"與"text"資料夾，放入"\data\Corpora\CADEC\cadec"。
+	3.之後在python上依序執行"extract_annotations.py"→"tokenization.py"→"convert_ann_using_token_idx.py"→"convert_text_inline.py"→"split_train_test.py"。即可在Output資料夾獲得預處理後的資料集。或直接使用Git Bash執行腳本.sh。
+	 ###詳情可查看資料夾內的圖片說明。
+	4.資料夾(Pre-CADEC→M2)中，使用CoreNLP模型做預處理(stanford-corenlp-full-2018-10-05資料夾)，請將第3.所執行後獲得的資料集，放入"Input"資料夾中，然後執行"preprocess_2.py"，之後會在"Output"資料夾中獲得預處理後的資料集。
+	 ###詳情可查看資料夾內的圖片說明。
+	5.資料夾(Pre-CADEC→M3)中，請將第3.所執行後獲得的資料集，放入"Input"資料夾中，然後執行"preprocess_3.py"，之後會在"Output"資料夾中獲得預處理後的資料集。
+	6.資料夾(Pre-CADEC→M4-5)中，請將第5.所執行後獲得的資料集，放入"Input"資料夾中，然後執行"preprocess_4-5.py"，之後會在"Output"資料夾中獲得預處理後的資料集。
+
+	7.資料夾(Pre-ShARe13→M1)中，請把ShARe13原始資料"Task1TrainSetCorpus199.zip"解壓縮，將全部.txt檔案放入"\train\text"資料夾中。
+				     請把原始檔"Task1TrainSetGOLD199knowtatorehost.zip"解壓縮，將全部.xml放入"\train\ann"資料夾中。
+				     請把原始檔"Task1TestSetCorpus100.zip"解壓縮，放入資料夾"\test"資料夾中。
+	8.之後在python上執行"script.sh"腳本。或按照腳本中的python檔，依序執行。執行結束會在"Output"資料夾中獲得預處理後的結果。
+	9.M2~M4-5，步驟與CADEC一樣。
+
+	10.資料夾(Pre-ShARe14→M1)中，請把ShARe14原始資料"ShAReCLEFeHealth2014_test_data_gold.zip"解壓縮，將全部.txt檔案放入"\test\ann"資料夾中。
+				      請把原始檔"ShAReCLEFeHealth2014Task2_test_default_values.zip"解壓縮，將"ShAReCLEFeHealth2104Task2_test_data_corpus"資料夾內，將全部.txt放入"\test\text"資料夾中。
+				      請把原始檔"2014ShAReCLEFeHealthTasks2_training_10Jan2014.zip"解壓縮，將"2014ShAReCLEFeHealthTask2_training_pipedelimited"資料夾內，檔案放入"\train\text"資料夾中，並且將"2014ShAReCLEFeHealthTask2_training_pipedelimited"資料夾內，檔案放入"\train\ann"資料夾中。
+	11.之後在python上執行"script.sh"腳本。或按照腳本中的python檔，依序執行。執行結束會在"Output"資料夾中獲得預處理後的結果。
+	12.M2~M4-5，步驟與CADEC一樣。
+
+
+================================================================================
+3.Models:
+	模型訓練的部分，都依照原始論文模型參數做訓練，並沒有更動到任何模型訓練的部分。因此只需要將Data Preprocessing後的結果，放入模型指定位置即可訓練獲得結果。
+但在"評估"的地方，原本是直接計算精確/召回/F1分數，但為了集成學習，必須統一格式，並且輸出出來。因此我在評估的地方有做更動。他會直接存每個答案到.csv檔中。
+
+================================================================================
+4.Ensemble
+	將五個模型輸出的.csv檔，丟入"Input"資料夾中，然後執行"voting.py"獲得結果。
+	將五個模型輸出的.csv檔，透過提示工程，給ChatGPT回答。
+
+
+
+
+
+
+
+
+
+
+

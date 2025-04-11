@@ -1,0 +1,118 @@
+03/07/2024 14:20:58 - INFO - __main__ -  4028,4047,4047,4059 in 22506-009989-DISCHARGE_SUMMARY.pipe.txt is not a real discontinuous entity, as the mention (Pulmonary arterial hypertension) has no gap.
+03/07/2024 14:21:23 - INFO - __main__ -  2453,2460,2466,2474 in 02652-006395-DISCHARGE_SUMMARY.pipe.txt is not a real discontinuous entity, as the mention (ABSCESS RT FLANK) has no gap.
+03/07/2024 14:21:23 - INFO - __main__ -  2453,2460,2466,2474 in 02652-006395-DISCHARGE_SUMMARY.pipe.txt is not a real discontinuous entity, as the mention (ABSCESS RT FLANK) has no gap.
+03/07/2024 14:21:23 - INFO - __main__ -  1211,1216,1217,1221 in 04303-005081-DISCHARGE_SUMMARY.pipe.txt is not a real discontinuous entity, as the mention (chest pain) has no gap.
+03/07/2024 14:21:23 - INFO - __main__ -  554,577,580,588 in 07797-005646-DISCHARGE_SUMMARY.pipe.txt is not a real discontinuous entity, as the mention (high grade large B-cell lymphoma) has no gap.
+03/07/2024 14:21:23 - INFO - __main__ -  1469,1472,1473,1475 in 22821-026994-DISCHARGE_SUMMARY.pipe.txt is not a real discontinuous entity, as the mention (ABD NT) has no gap.
+03/07/2024 14:23:08 - INFO - __main__ -  15850 sentences and 243389 tokens in ./test/text
+03/07/2024 14:24:50 - INFO - __main__ -  18768 sentences and 278966 tokens in ./train/text
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 00098-016139-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 01234-029456-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 02410-026171-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 04303-005081-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  Find token whose original end offset is 5869 by adjusting its offset 1.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 07429-001857-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  Find token whose original end offset is 2475 by adjusting its offset 1.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 07797-005646-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 08990-002227-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 08990-002227-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 09339-028983-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 09339-028983-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  Find token whose original end offset is 605 by adjusting its offset 1.
+03/07/2024 14:25:28 - INFO - __main__ -  Find token whose original start offset is 886 by adjusting its offset 1.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 19778-001791-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 19778-001791-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 21833-003461-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  Find token whose original end offset is 178 by adjusting its offset -1.
+03/07/2024 14:25:28 - INFO - __main__ -  Find token whose original end offset is 2062 by adjusting its offset -1.
+03/07/2024 14:25:28 - INFO - __main__ -  Find token whose original start offset is 2064 by adjusting its offset 1.
+03/07/2024 14:25:28 - INFO - __main__ -  Convert 11151 out of 11164 annotations.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 01485-024182-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 01485-024182-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 01485-024182-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 05155-005519-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 05155-005519-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 05494-003406-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 05494-003406-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 05781-022221-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 05781-022221-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 05781-022221-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 06632-004185-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 06828-026269-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 06828-026269-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 07391-004189-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 07718-028571-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 07718-028571-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 07756-020334-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 08116-029163-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 08116-029163-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 08116-029163-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 08116-029163-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 08602-011333-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 09871-004328-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  Find token whose original end offset is 2056 by adjusting its offset -1.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 11043-025031-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  Find token whose original end offset is 806 by adjusting its offset -1.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 12866-002052-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 12866-002052-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 12866-002052-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 13302-006479-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 13302-006479-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 13302-006479-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 13302-006479-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  Find token whose original start offset is 5560 by adjusting its offset 1.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 15209-019180-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 15209-019180-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 16992-012417-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 16992-012417-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 16992-012417-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 17367-001001-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 17367-001001-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 17367-001001-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 17367-001001-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 17367-001001-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 17367-001001-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 17367-001001-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 17367-001001-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 17367-001001-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 18631-003397-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 18825-002577-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 18825-002577-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 18825-002577-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 18825-002577-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 18825-002577-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 20410-010399-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 20410-010399-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 20410-010399-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 20410-010399-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 21497-023090-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 21497-023090-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  Find token whose original end offset is 4261 by adjusting its offset 3.
+03/07/2024 14:25:28 - INFO - __main__ -  Find token whose original start offset is 8876 by adjusting its offset 1.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 22715-015348-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 23706-002797-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 23706-002797-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 23706-002797-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 23706-002797-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 24388-001131-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 24958-008900-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 24958-008900-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 24958-008900-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 26161-007393-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 26161-007393-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 26205-012182-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 26205-012182-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  This annotation from document 26263-007301-DISCHARGE_SUMMARY.txt is abandoned because it crossing multiple sentences.
+03/07/2024 14:25:28 - INFO - __main__ -  Convert 7922 out of 7993 annotations.
+03/07/2024 14:28:43 - INFO - root -  Initializing native server...
+03/07/2024 14:28:43 - INFO - root -  java -Xmx8g -cp "stanford-corenlp-full-2018-10-05\*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000
+03/07/2024 14:28:43 - INFO - root -  Server shell PID: 6908
+03/07/2024 14:28:44 - INFO - root -  The server is available.
+03/07/2024 14:30:23 - INFO - root -  Cleanup...
+03/07/2024 14:30:23 - INFO - root -  Killing pid: 4008, cmdline: ['\\??\\C:\\Windows\\system32\\conhost.exe', '0x4']
+03/07/2024 14:30:23 - INFO - root -  Killing pid: 3624, cmdline: ['java', '-Xmx8g', '-cp', 'stanford-corenlp-full-2018-10-05\\*', 'edu.stanford.nlp.pipeline.StanfordCoreNLPServer', '-port', '9000']
+03/07/2024 14:30:23 - INFO - root -  Killing pid: 12088, cmdline: ['C:\\\\Program Files\\\\Java\\\\jdk-21\\\\bin\\\\java.exe', '-Xmx8g', '-cp', 'stanford-corenlp-full-2018-10-05\\\\*', 'edu.stanford.nlp.pipeline.StanfordCoreNLPServer', '-port', '9000']
+03/07/2024 14:30:23 - INFO - root -  Killing shell pid: 6908, cmdline: ['C:\\Windows\\system32\\cmd.exe', '/c', 'java -Xmx8g -cp stanford-corenlp-full-2018-10-05\\* edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000']
+03/07/2024 14:35:23 - INFO - __main__ -  07797-005646-DISCHARGE_SUMMARY.txt||Disease_Disorder||C0456867||554||577||580||588 is not a real discontinuous entity, as the mention (high grade large B-cell lymphoma) has no gap.
+03/07/2024 14:35:56 - INFO - __main__ -  9009 sentences and 136783 tokens in ./test/text
+03/07/2024 14:36:19 - INFO - __main__ -  9758 sentences and 142159 tokens in ./train/text
